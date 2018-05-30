@@ -1,0 +1,6 @@
+#Track txt/md files
+!*.txt
+!*.md
+
+#Ignore all other types of files
+*.*
