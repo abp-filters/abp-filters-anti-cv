@@ -16,7 +16,7 @@ The ABP anti-circumvention filter list is a supplementary list; it's not related
 * [**sashachu**](https://github.com/sashachu)
 * [**mile-ne**](https://github.com/mile-ne)
 * [**wizmak**](https://github.com/wizmak)
-* [**jayce-wiz**](https://github.com/meaniechee)
+* [**jayce-wiz**](https://github.com/jayce-wiz)
 
 See also the full list of [contributors](https://github.com/abp-filters/abp-filters-anti-cv/graphs/contributors).
 
