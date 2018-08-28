@@ -1,0 +1,38 @@
+! #7509
+||celebsnow.co.uk$csp=script-src 'self' * 'unsafe-eval'
+@@||celebsnow.co.uk/videos/$csp
+@@||celebsnow.co.uk/celebrity-pictures/$csp
+||countrylife.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||mby.com^$csp=script-src 'self' * 'unsafe-eval'
+||ybw.com^$csp=script-src 'self' * 'unsafe-eval'
+@@||golf-monthly.co.uk/videos/$csp
+||golf-monthly.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+@@||forums.golf-monthly.co.uk^$csp
+||lifedeathprizes.com^$csp=script-src 'self' * 'unsafe-eval'
+@@||lifedeathprizes.com/videos/$csp
+||mbr.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+@@||mbr.co.uk/videos/$csp
+||shootinguk.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||superyachtworld.com^$csp=script-src 'self' * 'unsafe-eval'
+||thefield.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||uncut.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||womanmagazine.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||womansown.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+@@||womansown.co.uk/videos/$csp
+||womansweekly.com^$csp=script-src 'self' * 'unsafe-eval'
+||yachtingmonthly.com^$csp=script-src 'self' * 'unsafe-eval'
+@@||yachtingmonthly.com/videos/$csp
+||yachtingworld.com^$csp=script-src 'self' * 'unsafe-eval'
+||horseandhound.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+@@||horseandhound.co.uk/videos/$csp
+||amateurgardening.com^$csp=script-src 'self' * 'unsafe-eval'
+||amateurphotographer.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||anglersmail.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+||whatsontv.co.uk^$csp=script-src 'self' * 'unsafe-eval'
+@@||whatsontv.co.uk/videos/$csp
+||ibinews.com^$csp=script-src 'self' * 'unsafe-eval'
+||rugbyworld.com^$csp=script-src 'self' * 'unsafe-eval'
+||cyclingweekly.com^$csp=script-src 'self' * 'unsafe-eval'
+@@||cyclingweekly.com/videos/$csp
+||worldsoccer.com^$csp=script-src 'self' * 'unsafe-eval'
+||decanter.com^$csp=script-src 'self' * 'unsafe-eval'
