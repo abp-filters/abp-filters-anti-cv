@@ -99,3 +99,6 @@ metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumb
 metacritic.com##.side_recommend
 metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbnails"]
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
+
+! #9274
+tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
