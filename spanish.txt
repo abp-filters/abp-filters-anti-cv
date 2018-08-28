@@ -1,2 +1,11 @@
 ! #8479
 comunio.es,notebookcheck.org,radio.es#$#uabinject-defuser
+
+! #9272
+hoylosangeles.com##[data-adloader-size="970x250"]
+hoylosangeles.com##[data-adloader-size="300x600"]
+hoylosangeles.com##[data-role*="adloader_ad"]
+hoylosangeles.com##[data-placement-name="below-article-thumbs"]
+mamaslatinas.com##iframe[width="728"]
+mamaslatinas.com##iframe[width="300"]
+mamaslatinas.com##.top-bar-content
