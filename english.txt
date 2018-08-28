@@ -39,3 +39,6 @@
 
 ! #8479
 pons.com,notebookcheck.net,radio.net,reuters.com#$#uabinject-defuser
+
+! #9276
+yandex.com#$#hide-if-contains resultsad li.serp-item

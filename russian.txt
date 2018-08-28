@@ -1,2 +1,7 @@
 ! #8479
 notebookcheck-ru.com#$#uabinject-defuser
+
+! #9276
+yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az#$#hide-if-contains реклама li.serp-item;hide-if-contains resultsad li.serp-item
+yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains реклама li.serp-item;hide-if-shadow-contains Яндекс.Директ div
+yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##.story__tails_layout_tabs
