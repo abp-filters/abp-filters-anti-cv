@@ -36,3 +36,6 @@
 @@||cyclingweekly.com/videos/$csp
 ||worldsoccer.com^$csp=script-src 'self' * 'unsafe-eval'
 ||decanter.com^$csp=script-src 'self' * 'unsafe-eval'
+
+! #8479
+pons.com,notebookcheck.net,radio.net,reuters.com#$#uabinject-defuser
