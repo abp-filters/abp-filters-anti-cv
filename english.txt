@@ -39,6 +39,9 @@
 
 ! #8479
 pons.com,notebookcheck.net,radio.net,reuters.com#$#uabinject-defuser
+radio.net#@#.wingadblock
+reuters.com##img[src*="reutersmedia.net/resources_v"]
+@@/ad_pics/$image,domain=pons.com
 
 ! #9276
 yandex.com#$#hide-if-contains resultsad li.serp-item
