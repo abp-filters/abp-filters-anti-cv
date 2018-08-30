@@ -2,4 +2,4 @@
 notebookcheck-tr.com#$#uabinject-defuser
 
 ! #9276
-yandex.com.tr#$#hide-if-contains reklam li.serp-item
+yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'

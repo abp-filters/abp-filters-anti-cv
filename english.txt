@@ -44,7 +44,7 @@ reuters.com##img[src*="reutersmedia.net/resources_v"]
 @@/ad_pics/$image,domain=pons.com
 
 ! #9276
-yandex.com#$#hide-if-contains resultsad li.serp-item
+yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
 101x.com,1070thefan.com,americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,emedicinehealth.com,everydayhealth.com,fieldandstream.com,floridatravellife.com,flyingmag.com,gamespot.com,hearthhead.com,hotbikeweb.com,islands.com,kgsr.com,klbjfm.com,lolking.net,marlinmag.com,medicinenet.com,motorcyclecruiser.com,motorcyclistonline.com,mustangandfords.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportingnews.com,sportrider.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,webmd.com,workingmother.com,www.seattlepi.com,yachtingmagazine.com##[data-google-query-id]
