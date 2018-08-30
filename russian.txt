@@ -11,4 +11,4 @@ yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##.story__tails_layout_tabs
 azov-sea.info##[valign="middle"]
 azov-sea.info##td[width="330"]
 boxnews.com.ua##[class="bn-banner"]
-boxnews.com.ua##[style=""padding-bottom: 20px;"]
+boxnews.com.ua##[style="padding-bottom: 20px;"]
