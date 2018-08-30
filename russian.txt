@@ -6,7 +6,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains результатыреклама li.serp-item;hide-if-shadow-contains Яндекс.Директ div
 yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##.story__tails_layout_tabs
 
-! #9274
+! #9708
 24tv.ua##[class="b_reklama"]
 azov-sea.info##[valign="middle"]
 azov-sea.info##td[width="330"]
