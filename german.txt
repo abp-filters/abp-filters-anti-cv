@@ -21,15 +21,7 @@ boerse-online.de,hftg.co,hftg.me,heftig.tv,heftig.de,einfachschoen.me,4players.d
 ||comunio.de/php/addefendInitialize.php$script
 ||chefkoch-cdn.de/ck.de/faded-end.min.js
 finanzen.ch#@#.widgetads
-
-||tracdelight.io^$domain=woman.at
-||a.ligatus.com^$domain=woman.at
-||adition.com^$domain=woman.at
-||pagead2.googlesyndication.com^$~object-subrequest,domain=woman.at
-||et.twyn.com^$domain=woman.at
-||ligatus.com/render/ligrend.js^$domain=woman.at
-||adition.com^$domain=woman.at
-@@||woman.at^$genericblock
+woman.at,radio.de#@#.withAds
 
 ! #9272
 spox.com##[ws-zone]
