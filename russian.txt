@@ -2,8 +2,8 @@
 notebookcheck-ru.com#$#uabinject-defuser
 
 ! #9276
-yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az#$#hide-if-contains рекламa li.serp-item 'li.serp-item div.label';hide-if-contains ad li.serp-item 'li.serp-item div.label'
-yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains рекламa li.serp-item 'li.serp-item div.label'
+yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az#$#hide-if-contains реклама li.serp-item 'li.serp-item div.label';hide-if-contains ad li.serp-item 'li.serp-item div.label'
+yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains реклама li.serp-item 'li.serp-item div.label'
 yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##.story__tails_layout_tabs
 
 ! #9708
