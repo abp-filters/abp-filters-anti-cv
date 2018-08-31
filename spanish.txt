@@ -1,6 +1,7 @@
 ! #8479
 comunio.es,notebookcheck.org,radio.es#$#uabinject-defuser
 radio.es#@#.wingadblock
+@@/ad_ops/$image,domain=comunio.es
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]
