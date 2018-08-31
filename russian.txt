@@ -5,6 +5,7 @@ notebookcheck-ru.com#$#uabinject-defuser
 yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az#$#hide-if-contains /рекл[aа]м[aа]/ li.serp-item 'li.serp-item div.label';hide-if-contains ad li.serp-item 'li.serp-item div.label'
 yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains /рекл[aа]м[aа]/ li.serp-item 'li.serp-item div.label'
 yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##.story__tails_layout_tabs
+yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##.story__tails
 yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by##div[aria-label="Дзен"]
 yandex.uz,yandex.ua,yandex.fr,yandex.ru,yandex.by#$#hide-if-shadow-contains /Яндекс.Дир[еe]кт/ div
 
