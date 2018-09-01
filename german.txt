@@ -25,6 +25,7 @@ boerse-online.de,hftg.co,hftg.me,heftig.tv,heftig.de,einfachschoen.me,4players.d
 ||chefkoch-cdn.de/ck.de/faded-end.min.js
 finanzen.ch#@#.widgetads
 radio.at,woman.at,radio.de#@#.withAds
+de.reuters.com#?#div :-abp-properties(content: "Gesponsert";)
 
 ! #9272
 spox.com##[ws-zone]

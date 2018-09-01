@@ -42,6 +42,7 @@ pons.com,notebookcheck.net,radio.net,reuters.com#$#uabinject-defuser
 radio.net#@#.wingadblock
 @@/ad_pics/$image,domain=pons.com
 @@/ad_oas/$image,domain=pons.com
+www.reuters.com,uk.reuters.com#?#div :-abp-properties(content: "Sponsored";)
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
