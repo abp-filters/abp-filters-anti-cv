@@ -1,3 +1,5 @@
 ! #8479
 radio.se,notebookcheck.se#$#uabinject-defuser
 radio.se#@#.wingadblock
+notebookcheck.se#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck.se#?#div :-abp-properties(content: "Anzeige";)

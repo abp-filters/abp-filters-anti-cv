@@ -1,5 +1,7 @@
 ! #8479
 notebookcheck-ru.com#$#uabinject-defuser
+notebookcheck-ru.com#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck-ru.com#?#div :-abp-properties(content: "Anzeige";)
 
 ! #9276
 yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az#$#hide-if-contains /[рp][eе]кл[aа]м[aа]/ li.serp-item 'li.serp-item div.label';hide-if-contains ad li.serp-item 'li.serp-item div.label'

@@ -2,6 +2,8 @@
 comunio.es,notebookcheck.org,radio.es#$#uabinject-defuser
 radio.es#@#.wingadblock
 @@/ad_ops/$image,domain=comunio.es
+notebookcheck.org#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck.org#?#div :-abp-properties(content: "Anzeige";)
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]

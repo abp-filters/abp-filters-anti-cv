@@ -43,6 +43,8 @@ radio.net#@#.wingadblock
 @@/ad_pics/$image,domain=pons.com
 @@/ad_oas/$image,domain=pons.com
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(content: "Sponsored";)
+notebookcheck.net#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck.net#?#div :-abp-properties(content: "Anzeige";)
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'

@@ -1,5 +1,7 @@
 ! #8479
 notebookcheck-tr.com#$#uabinject-defuser
+notebookcheck-tr.com#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck-tr.com#?#div :-abp-properties(content: "Anzeige";)
 
 ! #9276
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'

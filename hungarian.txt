@@ -1,2 +1,4 @@
 ! #8479
 notebookcheck-hu.com#$#uabinject-defuser
+notebookcheck-hu.com#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck-hu.com#?#div :-abp-properties(content: "Anzeige";)

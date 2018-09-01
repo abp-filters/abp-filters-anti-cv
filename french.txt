@@ -1,3 +1,5 @@
 ! #8479
 notebookcheck.biz,radio.fr#$#uabinject-defuser
 radio.fr#@#.wingadblock
+notebookcheck.biz#?#div :-abp-properties(content: "Anz" "eige";)
+notebookcheck.biz#?#div :-abp-properties(content: "Anzeige";)
