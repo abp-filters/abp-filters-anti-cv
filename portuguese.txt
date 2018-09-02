@@ -3,3 +3,4 @@ radio.pt,notebookcheck.info#$#uabinject-defuser
 radio.pt#@#.wingadblock
 notebookcheck.info#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.info#?#div :-abp-properties(content: "Anzeige";)
+radio.pt#@#.WidgetAdvertiser

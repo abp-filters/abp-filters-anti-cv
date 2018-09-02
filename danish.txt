@@ -1,3 +1,4 @@
 ! #8479
 radio.dk#$#uabinject-defuser
 radio.dk#@#.wingadblock
+radio.dk#@#.WidgetAdvertiser
