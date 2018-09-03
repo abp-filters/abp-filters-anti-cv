@@ -45,7 +45,8 @@ radio.net#@#.wingadblock
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(content: "Sponsored";)
 notebookcheck.net#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.net#?#div :-abp-properties(content: "Anzeige";)
-radio.net#@#.WidgetAdvertiser
+notebookcheck.net#?#div :-abp-properties(content: "Anze" "ige";)
+radio.net,pons.com#@#.WidgetAdvertiser
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
