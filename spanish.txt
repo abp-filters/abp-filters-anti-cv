@@ -4,8 +4,10 @@ radio.es#@#.wingadblock
 radio.es#@#.WidgetAdvertiser
 @@/ad_ops/$image,domain=comunio.es
 @@/ad_rotator/$image,domain=comunio.es
+@@/ad_system/$image,domain=comunio.es
 notebookcheck.org#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.org#?#div :-abp-properties(content: "Anzeige";)
+notebookcheck.org#?#div :-abp-properties(content: "Anze" "ige";)
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]

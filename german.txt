@@ -36,6 +36,7 @@ cinema.de,radio.at,woman.at,radio.de#@#.WidgetAdvertiser
 de.reuters.com#?#div :-abp-properties(content: "Gesponsert";)
 notebookcheck.com#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.com#?#div :-abp-properties(content: "Anzeige";)
+notebookcheck.com#?#div :-abp-properties(content: "Anze" "ige";)
 
 ! #9272
 spox.com##[ws-zone]
