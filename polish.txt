@@ -2,3 +2,4 @@
 radio.pl#$#uabinject-defuser
 radio.pl#@#.wingadblock
 radio.pl#@#.WidgetAdvertiser
+@@/camfuzeads/$image,domain=pcworld.pl
