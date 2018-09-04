@@ -48,6 +48,7 @@ cinema.de,radio.at,woman.at,radio.de#@#.WideAdContainer
 cinema.de,radio.at,woman.at,radio.de#@#.zoneAds
 cinema.de,radio.at,woman.at,radio.de#@#.AD-POST
 de.reuters.com#?#div :-abp-properties(/content: ".*[G]?[e]?[s]?[p]?[o]?[n]?[s]?[e]?[r]?[t].*";/)
+de.reuters.com#?#div + div :-abp-properties(/content: ".*[G]?[e]?[s]?[p]?[o]?[n]?[s]?[e]?[r]?[t].*";/) + div
 notebookcheck.com#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.com#?#div :-abp-properties(content: "Anzeige";)
 notebookcheck.com#?#div :-abp-properties(content: "Anze" "ige";)
