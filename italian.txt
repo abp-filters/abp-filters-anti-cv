@@ -5,3 +5,4 @@ notebookcheck.it#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.it#?#div :-abp-properties(content: "Anzeige";)
 radio.it#@#.WidgetAdvertiser
 radio.it#@#.WideAdContainer
+radio.it#@#.AD-POST
