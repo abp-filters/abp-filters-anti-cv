@@ -2,3 +2,4 @@
 radio.dk#$#uabinject-defuser
 radio.dk#@#.wingadblock
 radio.dk#@#.WidgetAdvertiser
+radio.dk#@#.WideAdContainer

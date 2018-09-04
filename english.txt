@@ -40,6 +40,8 @@
 ! #8479
 pons.com,notebookcheck.net,radio.net,reuters.com#$#uabinject-defuser
 radio.net#@#.wingadblock
+radio.net#@#.wingadblock
+radio.net#@#.WideAdContainer
 @@/ad_pics/$image,domain=pons.com
 @@/ad_oas/$image,domain=pons.com
 @@/ad_top/$image,domain=pons.com

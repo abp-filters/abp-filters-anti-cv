@@ -34,6 +34,7 @@ boerse-online.de,hftg.co,hftg.me,heftig.tv,heftig.de,einfachschoen.me,4players.d
 finanzen.ch#@#.widgetads
 radio.at,woman.at,radio.de#@#.withAds
 cinema.de,radio.at,woman.at,radio.de#@#.WidgetAdvertiser
+cinema.de,radio.at,woman.at,radio.de#@#.WideAdContainer
 de.reuters.com#?#div :-abp-properties(content: "Gesponsert";)
 notebookcheck.com#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.com#?#div :-abp-properties(content: "Anzeige";)
