@@ -52,6 +52,7 @@ cinema.de,radio.at,woman.at,radio.de#@#.WidgetAdvertiser
 cinema.de,radio.at,woman.at,radio.de#@#.WideAdContainer
 cinema.de,radio.at,woman.at,radio.de#@#.zoneAds
 cinema.de,radio.at,woman.at,radio.de#@#.AD-POST
+cinema.de,radio.at,woman.at,radio.de#@#.AD-RC-300x250
 de.reuters.com#?#div :-abp-properties(/content: ".*[G]?[e]?[s]?[p]?[o]?[n]?[s]?[e]?[r]?[t].*";/)
 de.reuters.com#?#div :-abp-properties(/content: ".*[G]?[e]?[s]?[p]?[o]?[n]?[s]?[e]?[r]?[t].*";/) + div
 de.reuters.com##div[style="display: inherit !important;"]
@@ -65,6 +66,10 @@ notebookcheck.com#?#div :-abp-properties(content: "Anze" "ige";)
 ||mopo.de^$popup,domain=mopo.de
 ||woman.at^$popup,domain=woman.at
 ||akamaihd.net^$popup,domain=vip.de|vox.de
+||baby-vornamen.de^$popup,domain=baby-vornamen.de
+||hamburg.de^$popup,domain=hamburg.de
+||gusto.at^$popup,domain=gusto.at
+||paradisi.de^^$popup,domain=paradisi.de
 
 ! #9272
 spox.com##[ws-zone]
