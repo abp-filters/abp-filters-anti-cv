@@ -48,6 +48,7 @@ radio.net#@#.WideAdContainer
 @@/468x60/$image,domain=pons.com
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[s]?[p]?[o]?[n]?[s]?[o]?[r]?[e]?[d].*";/)
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[s]?[p]?[o]?[n]?[s]?[o]?[r]?[e]?[d].*";/) + div
+www.reuters.com,uk.reuters.com##div[style="display: inherit !important;"]
 notebookcheck.net#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.net#?#div :-abp-properties(content: "Anzeige";)
 notebookcheck.net#?#div :-abp-properties(content: "Anze" "ige";)
