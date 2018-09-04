@@ -45,11 +45,13 @@ radio.net#@#.WideAdContainer
 @@/ad_pics/$image,domain=pons.com
 @@/ad_oas/$image,domain=pons.com
 @@/ad_top/$image,domain=pons.com
+@@/468x60/$image,domain=pons.com
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(content: "Sponsored";)
 notebookcheck.net#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.net#?#div :-abp-properties(content: "Anzeige";)
 notebookcheck.net#?#div :-abp-properties(content: "Anze" "ige";)
 radio.net,pons.com#@#.WidgetAdvertiser
+radio.net#@#.zoneAds
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
