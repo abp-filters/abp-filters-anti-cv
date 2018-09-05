@@ -7,3 +7,4 @@ ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#
 ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#.AD300
 @@/ad_system/$image,domain=ajaxshowtime.com|computerworld.nl|f1maximaal.nl|notebookcheck.nl|webwereld.nl
 notebookcheck.nl#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
+||webwereld.nl^$popup,domain=webwereld.nl
