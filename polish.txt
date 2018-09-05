@@ -4,4 +4,5 @@ radio.pl#@#.wingadblock
 radio.pl#@#.WidgetAdvertiser
 radio.pl#@#.WideAdContainer
 radio.pl#@#.AD-POST
+radio.pl#@#.AD-Rotate
 @@/camfuzeads/$image,domain=pcworld.pl

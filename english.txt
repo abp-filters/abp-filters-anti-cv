@@ -55,6 +55,7 @@ notebookcheck.net#?#div :-abp-properties(content: "Anze" "ige";)
 radio.net,pons.com#@#.WidgetAdvertiser
 radio.net#@#.zoneAds
 radio.net,pons.com#@#.AD-POST
+radio.net,pons.com#@#.AD-Rotate
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
