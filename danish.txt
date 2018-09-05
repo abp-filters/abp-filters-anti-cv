@@ -5,3 +5,4 @@ radio.dk#@#.WidgetAdvertiser
 radio.dk#@#.WideAdContainer
 radio.dk#@#.AD-POST
 radio.dk#@#.AD-Rotate
+radio.dk#@#.AD300

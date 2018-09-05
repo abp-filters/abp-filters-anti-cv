@@ -7,3 +7,4 @@ radio.it#@#.WidgetAdvertiser
 radio.it#@#.WideAdContainer
 radio.it#@#.AD-POST
 radio.it#@#.AD-Rotate
+radio.it#@#.AD300

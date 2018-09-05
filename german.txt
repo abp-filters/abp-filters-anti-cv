@@ -58,6 +58,7 @@ cinema.de,radio.at,woman.at,radio.de#@#.AD-POST
 cinema.de,radio.at,woman.at,radio.de#@#.AD-RC-300x250
 cinema.de,radio.at,woman.at,radio.de#@#.AD-Rotate
 cinema.de,radio.at,woman.at,radio.de#@#.AD-label300x250
+cinema.de,radio.at,woman.at,radio.de#@#.AD300
 de.reuters.com#?#div :-abp-properties(/content: ".*[G]?[e]?[s]?[p]?[o]?[n]?[s]?[e]?[r]?[t].*";/)
 de.reuters.com#?#div :-abp-properties(/content: ".*[G]?[e]?[s]?[p]?[o]?[n]?[s]?[e]?[r]?[t].*";/) + div
 de.reuters.com##div[style="display: inherit !important;"]
