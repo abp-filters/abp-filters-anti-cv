@@ -49,9 +49,7 @@ radio.net#@#.WideAdContainer
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[s]?[p]?[o]?[n]?[s]?[o]?[r]?[e]?[d].*";/)
 www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[s]?[p]?[o]?[n]?[s]?[o]?[r]?[e]?[d].*";/) + div
 www.reuters.com,uk.reuters.com##div[style="display: inherit !important;"]
-notebookcheck.net#?#div :-abp-properties(content: "Anz" "eige";)
-notebookcheck.net#?#div :-abp-properties(content: "Anzeige";)
-notebookcheck.net#?#div :-abp-properties(content: "Anze" "ige";)
+notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.net,pons.com#@#.WidgetAdvertiser
 radio.net#@#.zoneAds
 radio.net,pons.com#@#.AD-POST

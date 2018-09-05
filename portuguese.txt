@@ -1,8 +1,7 @@
 ! #8479
 radio.pt,notebookcheck.info#$#uabinject-defuser
 radio.pt#@#.wingadblock
-notebookcheck.info#?#div :-abp-properties(content: "Anz" "eige";)
-notebookcheck.info#?#div :-abp-properties(content: "Anzeige";)
+notebookcheck.info#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.pt#@#.AD300Block
 radio.pt#@#.WidgetAdvertiser
 radio.pt#@#.WideAdContainer

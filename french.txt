@@ -1,8 +1,7 @@
 ! #8479
 notebookcheck.biz,radio.fr#$#uabinject-defuser
 radio.fr#@#.wingadblock
-notebookcheck.biz#?#div :-abp-properties(content: "Anz" "eige";)
-notebookcheck.biz#?#div :-abp-properties(content: "Anzeige";)
+notebookcheck.biz#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.fr#@#.WidgetAdvertiser
 radio.fr#@#.WideAdContainer
 radio.fr#@#.AD-POST
