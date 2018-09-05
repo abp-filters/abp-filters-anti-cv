@@ -56,6 +56,7 @@ radio.net,pons.com#@#.WidgetAdvertiser
 radio.net#@#.zoneAds
 radio.net,pons.com#@#.AD-POST
 radio.net,pons.com#@#.AD-Rotate
+radio.net,pons.com#@#.AD-label300x250
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
