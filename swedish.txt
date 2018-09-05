@@ -6,3 +6,5 @@ notebookcheck.se#?#div :-abp-properties(content: "Anzeige";)
 radio.se#@#.WidgetAdvertiser
 radio.se#@#.WideAdContainer
 radio.se#@#.AD-POST
+radio.se#@#.AD300Block
+||radio.de^$popup,domain=radio.se

@@ -8,3 +8,4 @@ radio.it#@#.WideAdContainer
 radio.it#@#.AD-POST
 radio.it#@#.AD-Rotate
 radio.it#@#.AD300
+||radio.de^$popup,domain=radio.it

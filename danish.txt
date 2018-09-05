@@ -6,3 +6,5 @@ radio.dk#@#.WideAdContainer
 radio.dk#@#.AD-POST
 radio.dk#@#.AD-Rotate
 radio.dk#@#.AD300
+radio.dk#@#.AD300Block
+||radio.de^$popup,domain=radio.dk

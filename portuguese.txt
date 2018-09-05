@@ -3,8 +3,10 @@ radio.pt,notebookcheck.info#$#uabinject-defuser
 radio.pt#@#.wingadblock
 notebookcheck.info#?#div :-abp-properties(content: "Anz" "eige";)
 notebookcheck.info#?#div :-abp-properties(content: "Anzeige";)
+radio.pt#@#.AD300Block
 radio.pt#@#.WidgetAdvertiser
 radio.pt#@#.WideAdContainer
 radio.pt#@#.AD-POST
 radio.pt#@#.AD-Rotate
 radio.pt#@#.AD300
+||radio.de^$popup,domain=radio.pt
