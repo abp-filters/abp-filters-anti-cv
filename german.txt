@@ -75,6 +75,7 @@ boerse-online.de,hftg.co,hftg.me,heftig.tv,heftig.de,einfachschoen.me,4players.d
 @@-ad-banner-$image,domain=lustaufsleben.at|gusto.at|profil.at|trend.at|tv-media.at|yachtrevue.at
 @@_ad_sponsor/$image,domain=hamburg.de
 @@/images/ad-$image,domain=gamestar.de
+@@/ad-injection/$image,domain=news38.de
 ||comunio.de/php/addefendInitialize.php$script
 ||chefkoch-cdn.de/ck.de/faded-end.min.js
 heise.de#?#div :-abp-properties(/content: ".*[a]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
