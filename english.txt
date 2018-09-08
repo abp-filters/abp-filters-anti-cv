@@ -46,10 +46,8 @@ radio.net#@#.WideAdContainer
 @@/ad_oas/$image,domain=pons.com
 @@/ad_top/$image,domain=pons.com
 @@/468x60/$image,domain=pons.com
-www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[s]?[p]?[o]?[n]?[s]?[o]?[r]?[e]?[d].*";/)
-www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[s]?[p]?[o]?[n]?[s]?[o]?[r]?[e]?[d].*";/) + div
+www.reuters.com,uk.reuters.com#?#div :-abp-properties(/content: ".*[Ss]?[Pp]?[Oo]?[Nn]?[Ss]?[Oo]?[Rr]?[Ee]?[Dd]?.*";/) + div + div + div + div
 www.reuters.com,uk.reuters.com##div[style="display: inherit !important;"]
-www.reuters.com,uk.reuters.com#?#div :-abp-properties(content: "*ponsore*";) + div + div + div
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.net,pons.com#@#.WidgetAdvertiser
 radio.net#@#.zoneAds
