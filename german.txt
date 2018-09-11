@@ -143,10 +143,11 @@ cinema.de,radio.at,woman.at,radio.de#@#.AD-RC-300x250
 cinema.de,radio.at,woman.at,radio.de#@#.AD-Rotate
 cinema.de,radio.at,woman.at,radio.de#@#.AD-label300x250
 cinema.de,radio.at,woman.at,radio.de#@#.AD300
-de.reuters.com#?#div :-abp-properties(/content: ".*[Gg]?[Ee]?[Ss]?[Pp]?[Oo]?[Nn]?[Ss]?[Ee]?[Rr]?[Tt]?.*";/) + div + div + div + div
-de.reuters.com#?#div :-abp-properties(/content: ".*[Gg]?[Ee]?[Ss]?[Pp]?[Oo]?[Nn]?[Ss]?[Ee]?[Rr]?[Tt]?.*";/) + div + div + div + div + div
-de.reuters.com#?#div :-abp-properties(/content: ".*[Gg]?[Ee]?[Ss]?[Pp]?[Oo]?[Nn]?[Ss]?[Ee]?[Rr]?[Tt]?.*";/) + div + div + div + div + div + div
-de.reuters.com##div[style="display: inherit !important;"]
+de.reuters.com##div.TwoColumnLayout_column.TwoColumnLayout_left + div
+de.reuters.com##.CanvasAd_container + div
+de.reuters.com##.StandardArticleBody_body + div
+de.reuters.com###overlayForSearch + div
+de.reuters.com##.mod-sticky
 notebookcheck.com#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 
 ! #9272
