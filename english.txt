@@ -51,6 +51,9 @@ www.reuters.com,uk.reuters.com##.CanvasAd_container + div
 www.reuters.com,uk.reuters.com##.StandardArticleBody_body + div
 www.reuters.com,uk.reuters.com###overlayForSearch + div
 www.reuters.com,uk.reuters.com##.module > span + div + div + div + div
+www.reuters.com,uk.reuters.com##.CanvasAd_container + div + div
+www.reuters.com,uk.reuters.com##div.TwoColumnLayout_column.TwoColumnLayout_left + div + div
+www.reuters.com,uk.reuters.com##.StandardArticleBody_body + div + div + div
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.net,pons.com#@#.WidgetAdvertiser
 radio.net#@#.zoneAds

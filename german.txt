@@ -154,6 +154,9 @@ de.reuters.com##.CanvasAd_container + div
 de.reuters.com##.StandardArticleBody_body + div
 de.reuters.com###overlayForSearch + div
 de.reuters.com##.mod-sticky
+de.reuters.com##.CanvasAd_container + div + div
+de.reuters.com##div.TwoColumnLayout_column.TwoColumnLayout_left + div + div
+de.reuters.com###overlayForSearch + div + div
 notebookcheck.com#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 
 ! #9272
