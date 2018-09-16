@@ -55,8 +55,7 @@ radio.net,pons.com#@#.AD-Rotate
 radio.net,pons.com#@#.AD-label300x250
 radio.net,pons.com#@#.AD300
 radio.net,pons.com#@#.AD300Block
-||radio.de^$popup,domain=radio.net
-||pons.com^$popup,domain=pons.com
+radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'

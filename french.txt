@@ -8,4 +8,4 @@ radio.fr#@#.AD-POST
 radio.fr#@#.AD-Rotate
 radio.fr#@#.AD300
 radio.fr#@#.AD300Block
-||radio.de^$popup,domain=radio.fr
+radio.fr#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)

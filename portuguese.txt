@@ -8,4 +8,4 @@ radio.pt#@#.WideAdContainer
 radio.pt#@#.AD-POST
 radio.pt#@#.AD-Rotate
 radio.pt#@#.AD300
-||radio.de^$popup,domain=radio.pt
+radio.pt#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)

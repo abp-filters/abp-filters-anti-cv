@@ -11,6 +11,7 @@ radio.es#@#.AD300Block
 @@/ad_top/$image,domain=comunio.es
 ||radio.de^$popup,domain=radio.es
 notebookcheck.org#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
+radio.es#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]
