@@ -57,6 +57,7 @@ radio.net,pons.com#@#.AD300
 radio.net,pons.com#@#.AD300Block
 radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.net#?#div :-abp-properties(content: "Ad";)
+||reutersmedia.net//resources_v*/r/?a=*&m=*&d=*&t=*&i=*&w=*&r=*$image,domain=www.reuters.com|uk.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
