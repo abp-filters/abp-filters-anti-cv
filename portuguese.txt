@@ -9,3 +9,4 @@ radio.pt#@#.AD-POST
 radio.pt#@#.AD-Rotate
 radio.pt#@#.AD300
 radio.pt#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
+radio.pt#?#div :-abp-properties(content: "Ad";)

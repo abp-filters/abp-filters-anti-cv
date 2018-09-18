@@ -8,3 +8,4 @@ radio.dk#@#.AD-Rotate
 radio.dk#@#.AD300
 radio.dk#@#.AD300Block
 radio.dk#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
+radio.dk#?#div :-abp-properties(content: "Ad";)

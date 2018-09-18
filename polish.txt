@@ -7,4 +7,4 @@ radio.pl#@#.AD-POST
 radio.pl#@#.AD-Rotate
 radio.pl#@#.AD300
 @@/camfuzeads/$image,domain=pcworld.pl
-||radio.de^$popup,domain=radio.pl
+radio.pl#?#div :-abp-properties(content: "Ad";)
