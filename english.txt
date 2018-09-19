@@ -127,3 +127,6 @@ facebook.com#$#hide-if-contains-and-matches-style /.?/ [id^="hyperfeed_story_id_
 
 ! #10385
 4chan.org#?#div :-abp-has(div > div > div:-abp-contains(Paid Content:) + div)
+
+! #15116
+@@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
