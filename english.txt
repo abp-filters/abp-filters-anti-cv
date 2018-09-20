@@ -118,6 +118,66 @@ metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumb
 metacritic.com##.side_recommend
 metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbnails"]
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
+101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
+101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
+camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com,ffxi.allakhazam.com###header-bg
+camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com###square-bg
+camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com,ffxi.allakhazam.com##[class="mbIFrame horizontalBTF"]
+ffxi.allakhazam.com##[class="mbIFrame vertical"]
+lolking.net##[class="horizontal-footer"]
+scubadivingintro.com,saveur.com,cycleworld.com,outdoorlife.com,workingmother.com,fieldandstream.com,islands.com,boatingmag.com,motorcyclistonline.com,dirtrider.com,baggersmag.com,flyingmag.com,superstreetbike.com,range365.com,scubadiving.com,popphoto.com,hotbikeweb.com,sportfishingmag.com,cruisingworld.com,atvrider.com,sportdiver.com,saltwatersportsman.com,marlinmag.com,yachtingmagazine.com,waterskimag.com,diversitybestpractices.com,floridatravellife.com,americanphotomag.com,destinationweddingmag.com##[class="-mor-aobousf-or -mudh-org"]
+medicinenet.com##[id="-mfwuvhOr_frf"]
+medicinenet.com##[id="-mpobbsfOr_tah"]
+medicinenet.com##[class="stickyColRight"]
+medicinenet.com##[class="stickyColLeft"]
+cnet.com##.sticky-leader
+webmd.com###ContentPane10
+webmd.com##[class="main-container main-container-3"]
+pcmag.com###-mudh-pwzzpcofr
+pcmag.com###-mudh-adi5
+pcmag.com##[class="-morywh rendered"]
+tv.com###headerleader
+tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
+tv.com###leader_bottom
+tv.com###-mhopcczo-awr-aowb-qcziab-hviapbowzg
+americanphotomag.com###-mpobbsf
+growthspotter.com,southflorida.com,citypaper.com,hoylosangeles.com,mcall.com,sun-sentinel.com,courant.com##[data-adloader-position="leaderboardcombo"]
+growthspotter.com,lajollalight.com,courant.com##[data-adloader-position="footerleaderboardcombo"]
+lajollalight.com,courant.com##[data-adloader-position="flexleaderboardcombo"]
+ctnow.com##-muccuzs_qsbhsf_rwj
+wakeboardingmag.com##.ntv-entry
+sportdiver.com,marlinmag.com,yachtingmagazine.com,sportfishingmag.com,hotbikeweb.com,popphoto.com,saveur.com,islands.com,flyingmag.com##[class="st-block -morg   "]
+yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
+yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
+marlinmag.com,sportdiver.com##.st-block.markdown.ntv-disclaimer
+hearthhead.com##[class="center-block"]
+hearthhead.com###-mvcfwncbhoz-or-ibwh
+scubadiving.com##[class="linkTargets-processed external"]
+mustangandfords.com##[class="grid -mqhf-or"]
+mustangandfords.com##[class="-mrofh_or"]
+mamaslatinas.com##.top-bar
+sun-sentinel.com##.-mhfp_udhOr
+chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
+everydayhealth.com##[title="Advertisement"]
+everydayhealth.com##[class="-morg"]
+metacritic.com,sportingnews.com##[class="-mor_ibwh"]
+sportingnews.com##.-mor-hcd.module
+thoughtcatalog.com##[class="is-initialized"]
+thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
+emedicinehealth.com###-mfwuvhOr_frf
+emedicinehealth.com###-mzsthOr_frf
+emedicinehealth.com###-mOR_Hcd_frf
+chowhound.com##[id="leader_plus_top"]
+chowhound.com##[class="clrm-cw-outer"]
+saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
+baltimoresun.com###-muccuzs_qsbhsf_rwj
+fieldandstream.com,sportrider.com##[class="custom-section section-2 cell- double paired"]
+sportrider.com##[class="panel-pane pane-block -mdobs-or-aobousf-hcd"]
+baggersmag.com##[class="custom-section section-3 divider cell- double paired"]
+baggersmag.com##[class="right-cell cell -mor-qszz"]
+flyingmag.com##[class="right-cell cell -mor-qszz "]
+flyingmag.com##[class="panel-pane pane-block -mdobs-or-aobousf-l34"]
+sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com###-muccuzs_waous_rwj
 
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
