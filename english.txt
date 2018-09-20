@@ -46,6 +46,8 @@ radio.net#@#.WideAdContainer
 @@/ad_top/$image,domain=pons.com
 @@/468x60/$image,domain=pons.com
 ||googletagservices.com/tag/js/gpt.js$domain=reuters.com
+||reutersmedia.net/resources_v*/*$image,domain=www.reuters.com|uk.reuters.com
+@@||reutersmedia.net/resources_v2/*$image,domain=www.reuters.com|uk.reuters.com
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.net,pons.com#@#.WidgetAdvertiser
 radio.net#@#.zoneAds
