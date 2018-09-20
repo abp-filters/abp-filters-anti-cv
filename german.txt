@@ -495,7 +495,6 @@ woman.at##span[style="display: inherit !important;"]
 tv-media.at,woman.at,news.at,lustaufsleben.at,sn.at##div[style="display: inherit !important;"]
 trend.at,profil.at,gusto.at##[style="display: inherit !important;"]
 cinema.de##.forag-element
-||reutersmedia.net/resources_v*/$image,domain=de.reuters.com
 
 ! #9272
 spox.com##[ws-zone]

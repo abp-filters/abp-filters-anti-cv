@@ -38,7 +38,6 @@
 ||decanter.com^$csp=script-src 'self' * 'unsafe-eval'
 
 ! #8479
-pons.com,notebookcheck.net,radio.net,reuters.com#$#uabinject-defuser
 radio.net#@#.wingadblock
 radio.net#@#.wingadblock
 radio.net#@#.WideAdContainer
@@ -57,7 +56,6 @@ radio.net,pons.com#@#.AD300
 radio.net,pons.com#@#.AD300Block
 radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.net#?#div :-abp-properties(content: "Ad";)
-||reutersmedia.net/resources_v*/$image,domain=www.reuters.com|uk.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
