@@ -1,0 +1,2 @@
+! #9056
+search.seznam.cz#?#.Result:-abp-has(a.SklikBox)
