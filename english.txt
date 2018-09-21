@@ -135,7 +135,7 @@ webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 pcmag.com###-mudh-pwzzpcofr
 pcmag.com###-mudh-adi5
-pcmag.com##.-morywh rendered
+pcmag.com##[class="-morywh rendered"]
 tv.com###headerleader
 tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
 tv.com###leader_bottom
