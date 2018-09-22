@@ -1,15 +1,9 @@
 ! #8479
-comunio.es,notebookcheck.org,radio.es#$#uabinject-defuser
 radio.es#@#.wingadblock
 radio.es#@#.WidgetAdvertiser
 radio.es#@#.WideAdContainer
 radio.es#@#.AD-POST
 radio.es#@#.AD300Block
-@@/ad_ops/$image,domain=comunio.es
-@@/ad_rotator/$image,domain=comunio.es
-@@/ad_system/$image,domain=comunio.es
-@@/ad_top/$image,domain=comunio.es
-||radio.de^$popup,domain=radio.es
 notebookcheck.org#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.es#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.es#?#div :-abp-properties(content: "Ad";)

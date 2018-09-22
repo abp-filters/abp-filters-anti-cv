@@ -1,5 +1,4 @@
 ! #8479
-radio.se,notebookcheck.se#$#uabinject-defuser
 radio.se#@#.wingadblock
 notebookcheck.se#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.se#@#.WidgetAdvertiser

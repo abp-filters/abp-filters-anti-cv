@@ -1,5 +1,4 @@
 ! #8479
-notebookcheck-tr.com#$#uabinject-defuser
 notebookcheck-tr.com#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 
 ! #9276

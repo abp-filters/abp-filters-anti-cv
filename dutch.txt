@@ -1,10 +1,8 @@
 ! #8479
-ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#$#uabinject-defuser
 ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#.widgetads
 ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#.WideAdContainer
 ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#.zone-advertisement
 ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#.AD-Rotate
 ajaxshowtime.com,computerworld.nl,f1maximaal.nl,notebookcheck.nl,webwereld.nl#@#.AD300
-@@/ad_system/$image,domain=ajaxshowtime.com|computerworld.nl|f1maximaal.nl|notebookcheck.nl|webwereld.nl
 notebookcheck.nl#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 ||webwereld.nl^$popup,domain=webwereld.nl
