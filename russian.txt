@@ -12,8 +12,16 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua#$#hide-if-contains-and-matches-style /.?/ li.serp-item 'li.serp-item span.label-direct' /./ '/background-image: url\\("data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAeCAMAAADO3hoUAAA(A[M-Za-z0-9+/]|[BC][A-Za-z0-9+/]|DA)/'
 
 ! #9708
-24tv.ua##[class="b_reklama"]
+24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
 azov-sea.info##td[width="330"]
-boxnews.com.ua##[class="bn-banner"]
+boxnews.com.ua##.bn-banner
 boxnews.com.ua##[style="padding-bottom: 20px;"]
+inforesist.org##aside[id="text-3"]
+inforesist.org##aside[id="text-44"]
+inforesist.org##aside[id="text-39"]
+inforesist.org##aside[id="execphp-30"]
+inforesist.org##aside[id="execphp-24"]
+etextlib.ru##.partners
+etextlib.ru##.head_bann
+kinohome.net##a[data-i]
