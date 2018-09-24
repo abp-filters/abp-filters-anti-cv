@@ -38,13 +38,14 @@
 ||decanter.com^$csp=script-src 'self' * 'unsafe-eval'
 
 ! #8479
-radio.net#@#.wingadblock
+radio.net#@#.AdsBottom
 radio.net#@#.wingadblock
 radio.net#@#.WideAdContainer
-@@/ad_pics/$image,domain=pons.com
-@@/ad_oas/$image,domain=pons.com
-@@/ad_top/$image,domain=pons.com
-@@/468x60/$image,domain=pons.com
+@@/ad_pics/*$image,domain=pons.com
+@@/ad_oas/*$image,domain=pons.com
+@@/ad_top/*$image,domain=pons.com
+@@/468x60/*$image,domain=pons.com
+@@/adriver/*$image,domain=pons.com
 ||googletagservices.com/tag/js/gpt.js$domain=reuters.com
 ||reutersmedia.net/resources_v*/*$image,domain=www.reuters.com|uk.reuters.com
 @@||reutersmedia.net/resources_v2/*$image,domain=www.reuters.com|uk.reuters.com
