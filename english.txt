@@ -110,7 +110,7 @@ southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 courant.com##[data-adloader-adtype="flexleaderboardcombo"]
 courant.com##[data-adloader-size="1280x220"]
-mustangandfords.com,hearthhead.com,baltimoresun.com###-bvddvat_xbpvt_sxk
+mustangandfords.com,hearthhead.com,baltimoresun.com###-dbjjbgz_dhvbz_ydq
 gamespot.com##.tynt_close_button_circle
 gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
@@ -137,9 +137,14 @@ medicinenet.com###-mfwuvhOr_frf
 medicinenet.com###-mpobbsfOr_tah
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
+medicinenet.com###-bqpcctgPs_ubi
+medicinenet.com###-bgxvwiPs_ubi
 cnet.com##.sticky-leader
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
+pcmag.com###-dbko-wdggwjvmy
+pcmag.com###-dbjjbgz_dhvbz_ydq
+pcmag.com###-dvyfdo_ajjozm
 pcmag.com###-mudh-pwzzpcofr
 pcmag.com###-mudh-adi5
 pcmag.com##[class="-morywh rendered"]
@@ -188,7 +193,11 @@ baggersmag.com##[class="custom-section section-3 divider cell- double paired"]
 baggersmag.com##[class="right-cell cell -mor-qszz"]
 flyingmag.com##[class="right-cell cell -mor-qszz "]
 flyingmag.com##[class="panel-pane pane-block -mdobs-or-aobousf-l34"]
-sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net###-muccuzs_waous_rwj
+sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net###-muccuzs_waous_rwj
+cycleworld.com,fieldandstream.com,islands.com,boatingmag.com,motorcyclistonline.com,streetchopperweb.com,scubadivingintro.com,destinationweddingmag.com,americanphotomag.com,diversitybestpractices.com,waterskimag.com,wakeboardingmag.com,utvdriver.com,sportdiver.com,saltwatersportsman.com,cruisingworld.com,hotbikeweb.com,popphoto.com,scubadiving.com,flyingmag.com,superstreetbike.com,streetchopperweb.com,sportrider.com###-bvddvat_xbpvt_sxk
+americanphotomag.com,motorcyclecruiser.com,waterskimag.com,utvdriver.com,marlinmag.com,saltwatersportsman.com,atvrider.com,sportfishingmag.com,hotbikeweb.com,range365.com,baggersmag.com,outdoorlife.com,saveur.com##.-bps-bpcpvtg-ps.-bvei-psh
+marlinmag.com##[class="-bhi-qadrz -bpsh   "]
+cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
