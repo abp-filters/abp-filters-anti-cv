@@ -671,3 +671,10 @@ cinema.de##.forag-element
 ! #9272
 spox.com##[ws-zone]
 spox.com##.trc_elastic
+
+! #15654
+||spieletipps.de^$csp=img-src 'self' * data: http: https:
+||giga.de^$csp=img-src 'self' * data: http: https:
+||desired.de^$csp=img-src 'self' * data: http: https:
+||kino.de^$csp=img-src 'self' * data: http: https:
+||t-online.de^$csp=img-src 'self' * data: http: https:
