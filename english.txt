@@ -114,7 +114,7 @@ mustangandfords.com,hearthhead.com,baltimoresun.com###-bvddvat_xbpvt_sxk
 gamespot.com##.tynt_close_button_circle
 gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
-gamespot.com##.leader_plus_top-wrap
+gamespot.com###leader_plus_top-wrap
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
