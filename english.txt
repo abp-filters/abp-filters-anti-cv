@@ -124,6 +124,7 @@ metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbn
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
+1070thefan.com##.-fgweeak-sv
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-horizontal"]
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-vertical"]
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-horizontalBTF"]
@@ -152,6 +153,7 @@ pcmag.com###-mudh-adi5
 pcmag.com##[class="-morywh rendered"]
 pcmag.com###-bvei-qxaaqdpgs
 pcmag.com###-bvei-udditg
+pcmag.com###-fqweewbu_ycqwu_tyl
 tv.com###headerleader
 tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
 tv.com###leader_bottom
@@ -173,6 +175,7 @@ hearthhead.com###-mvcfwncbhoz-or-ibwh
 scubadiving.com##[class="linkTargets-processed external"]
 mustangandfords.com##[class="grid -mqhf-or"]
 mustangandfords.com##.-mrofh_or
+mustangandfords.com##.-fhhevx_eh
 mamaslatinas.com##.top-bar
 sun-sentinel.com##.-mhfp_udhOr
 chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
@@ -196,6 +199,7 @@ saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
 baltimoresun.com###-muccuzs_qsbhsf_rwj
 fieldandstream.com,sportrider.com##[class="custom-section section-2 cell- double paired"]
 sportrider.com##[class="panel-pane pane-block -mdobs-or-aobousf-hcd"]
+sportrider.com##.-fysv-esfsywj-sv.-fyyhl-svk
 baggersmag.com##[class="custom-section section-3 divider cell- double paired"]
 baggersmag.com##[class="right-cell cell -mor-qszz"]
 flyingmag.com##[class="right-cell cell -mor-qszz "]
@@ -243,6 +247,13 @@ superstreetbike.com##.-faux-guhuayl-ux.-faajn-uxm
 utvdriver.com##.-fbil-uiviomz-il.-fboxb-ila
 waterskimag.com##.-fdvy-hvivbzm-vy.-fdbko-vyn
 workingmother.com##.-feux-guhuayl-ux.-feajn-uxm
+sportfishingmag.com##.-fxwz-iwjwcan-wz.-fxclp-wzo
+sportdiver.com##.-fwtw-ftgtzxk-tw.-fwzim-twl
+range365.com##.-frkn-wkxkqob-kn.-frqzd-knc
+popphoto.com##.-fqhk-thuhnly-hk.-fqnwa-hkz
+motorcyclistonline.com##.-folo-xlylrpc-lo.-forae-lod
+motorcyclecruiser.com##.-fnps-bpcpvtg-ps.-fnvei-psh
+marlinmag.com##.-fmgj-sgtgmkx-gj.-fmmvz-gjy
 
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
