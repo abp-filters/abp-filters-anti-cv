@@ -80,7 +80,9 @@ baltimoresun.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,co
 chicagotribune.com,citypaper.com,lajollalight.com,southflorida.com##[data-adloader-size="970x250"]
 boston.com,metacritic.com,thoughtcatalog.com,dayzdb.com,lotro.allakhazam.com##iframe[width="728"]
 thoughtcatalog.com##iframe[width="330"]
+sun-sentinel.com###-fnyggydw_uwflwj_van
 citypaper.com##[data-role="adloader adloader_ad"]
+boston.com###-mvddvat_xbpvt_sxk
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]
 seattlepi.com##.ntvClickOut
@@ -88,6 +90,9 @@ workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
 mcall.com,sandiegouniontribune.com##[data-adloader-size="970x90"]
+mcall.com###-fliqqing_kocig_fkx
+mcall.com##.-flvtd_jgcfgt_cfDcppgt_eqodq
+sandiegouniontribune.com###-fmnvvnsl_pthnl_kpc
 sandiegouniontribune.com##div[draggable="false"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 southflorida.com##[data-role="adloader"]
@@ -105,6 +110,7 @@ cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 courant.com##[data-role^="adloader"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
 orlandosentinel.com##[data-adloader-adtype="leaderboardcombo"]
+mamaslatinas.com##.sidebar
 southflorida.com##[data-role^="adloader adloader_ad"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
@@ -116,6 +122,7 @@ gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_plus_top
+metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
@@ -196,6 +203,7 @@ chowhound.com##[id="leader_plus_top"]
 chowhound.com##.clrm-cw-outer
 chowhound.com##.-mqzfa-qk-cihsf
 saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
+baltimoresun.com###-fiwj-ferriv
 baltimoresun.com###-muccuzs_qsbhsf_rwj
 fieldandstream.com,sportrider.com##[class="custom-section section-2 cell- double paired"]
 sportrider.com##[class="panel-pane pane-block -mdobs-or-aobousf-hcd"]
@@ -206,6 +214,8 @@ flyingmag.com##[class="right-cell cell -mor-qszz "]
 flyingmag.com##[class="panel-pane pane-block -mdobs-or-aobousf-l34"]
 sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com,klbjfm.com###-muccuzs_waous_rwj
 cycleworld.com,fieldandstream.com,islands.com,boatingmag.com,motorcyclistonline.com,streetchopperweb.com,scubadivingintro.com,destinationweddingmag.com,americanphotomag.com,diversitybestpractices.com,waterskimag.com,wakeboardingmag.com,utvdriver.com,sportdiver.com,saltwatersportsman.com,cruisingworld.com,hotbikeweb.com,popphoto.com,scubadiving.com,flyingmag.com,superstreetbike.com,streetchopperweb.com,sportrider.com###-bvddvat_xbpvt_sxk
+chicagotribune.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##.-domw_czvyzm_vyWviizm_xjhwj
+chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com###-dbjjbgz_dhvbz_ydq
 americanphotomag.com,motorcyclecruiser.com,waterskimag.com,utvdriver.com,marlinmag.com,saltwatersportsman.com,atvrider.com,sportfishingmag.com,hotbikeweb.com,range365.com,baggersmag.com,outdoorlife.com,saveur.com,yachtingmagazine.com##.-bps-bpcpvtg-ps.-bvei-psh
 marlinmag.com##[class="-bhi-qadrz -bpsh   "]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
