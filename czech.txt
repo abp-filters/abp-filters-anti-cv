@@ -5,7 +5,7 @@ novinky.cz##.commercial
 novinky.cz##.epes
 novinky.cz##.rectangle
 novinky.cz###pneumatiky
-novinky.cz##a#loginLink
+novinky.cz##a[target="_top"][id="loginLink"]
 novinky.cz##div[id*="_ad_div"]
 novinky.cz##div[id*="adform-domevents-"]
 novinky.cz##div[id^="banner"]
