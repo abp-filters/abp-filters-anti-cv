@@ -115,6 +115,7 @@ gamespot.com##.tynt_close_button_circle
 gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
 gamespot.com###leader_plus_top-wrap
+gamespot.com###leader_plus_top
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
@@ -139,6 +140,7 @@ medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com###-bqpcctgPs_ubi
 medicinenet.com###-bgxvwiPs_ubi
+medicinenet.com##.-fncf_rncegjqnfgt.-fncf
 cnet.com##.sticky-leader
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
@@ -183,6 +185,7 @@ thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
 thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
+emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
 emedicinehealth.com###-mOR_Hcd_frf
@@ -196,9 +199,9 @@ baggersmag.com##[class="custom-section section-3 divider cell- double paired"]
 baggersmag.com##[class="right-cell cell -mor-qszz"]
 flyingmag.com##[class="right-cell cell -mor-qszz "]
 flyingmag.com##[class="panel-pane pane-block -mdobs-or-aobousf-l34"]
-sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com###-muccuzs_waous_rwj
+sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com,klbjfm.com###-muccuzs_waous_rwj
 cycleworld.com,fieldandstream.com,islands.com,boatingmag.com,motorcyclistonline.com,streetchopperweb.com,scubadivingintro.com,destinationweddingmag.com,americanphotomag.com,diversitybestpractices.com,waterskimag.com,wakeboardingmag.com,utvdriver.com,sportdiver.com,saltwatersportsman.com,cruisingworld.com,hotbikeweb.com,popphoto.com,scubadiving.com,flyingmag.com,superstreetbike.com,streetchopperweb.com,sportrider.com###-bvddvat_xbpvt_sxk
-americanphotomag.com,motorcyclecruiser.com,waterskimag.com,utvdriver.com,marlinmag.com,saltwatersportsman.com,atvrider.com,sportfishingmag.com,hotbikeweb.com,range365.com,baggersmag.com,outdoorlife.com,saveur.com##.-bps-bpcpvtg-ps.-bvei-psh
+americanphotomag.com,motorcyclecruiser.com,waterskimag.com,utvdriver.com,marlinmag.com,saltwatersportsman.com,atvrider.com,sportfishingmag.com,hotbikeweb.com,range365.com,baggersmag.com,outdoorlife.com,saveur.com,yachtingmagazine.com##.-bps-bpcpvtg-ps.-bvei-psh
 marlinmag.com##[class="-bhi-qadrz -bpsh   "]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
@@ -212,6 +215,28 @@ cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,m
 sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Gallery Thumbnails"]
 floridatravellife.com##[data-parent-placement-name="Below Article Thumbnails"]
 floridatravellife.com##[data-feed-main-container-id="taboola-placement-2"]
+wakeboardingmag.com##.-fcgj-sgtgmkx-gj.-fcmvz-gjy
+scubadivingintro.com##.-fvlo-xlylrpc-lo.-fvrae-lod
+scubadiving.com##.-futw-ftgtzxk-tw.-fuzim-twl
+saveur.com##.-ftps-bpcpvtg-ps.-ftvei-psh
+saltwatersportsman.com##.-fsvy-hvivbzm-vy.-fsbko-vyn
+outdoorlife.com##.-fpjm-vjwjpna-jm-fppyc-jmb
+islands.com##.-flkn-wkxkqob-kn.-flqzd-knc
+hotbikeweb.com##.-fkdg-pdqdjhu-dg.-fkjsw-dgv
+hearthhead.com###-fofnnfkd_hlzfd_chu
+flyingmag.com##.-fjyb-kylyecp-yb.-fjenr-ybq
+floridatravellife.com##.-bps-bpcpvtg-ps.-bvei-psh
+fieldandstream.com##.-fisv-esfsywj-sv.-fiyhl-svk
+diversitybestpractices.com##.-fhor-aobousf-or.-fhudh-org
+dirtrider.com##.-bps-bpcpvtg-ps.-bvei-psh
+destinationweddingmag.com##.-fggj-sgtgmkx-gj.-fgmvz-gjy
+cycleworld.com##.-ffnq-znantre-nq.-fftcg-nqf
+cruisingworld.com###-fetbbtyr_vzntr_qvi
+boatingmag.com##.-fdzc-lzmzfdq-zc.-fdfos-zcr
+baggersmag.com##.-fcfi-rfsfljw-fi.-fcluy-fix
+atvrider.com##.-fbcf-ocpcigt-cf.-fbirv-cfu
+americanphotomag.com###-falttlqj_hjsyjw_ina
+americanphotomag.com##.-fafi-rfsfljw-fi.-faluy-fix
 
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
