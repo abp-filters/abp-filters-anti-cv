@@ -191,6 +191,7 @@ emedicinehealth.com###-mzsthOr_frf
 emedicinehealth.com###-mOR_Hcd_frf
 chowhound.com##[id="leader_plus_top"]
 chowhound.com##.clrm-cw-outer
+chowhound.com##.-mqzfa-qk-cihsf
 saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
 baltimoresun.com###-muccuzs_qsbhsf_rwj
 fieldandstream.com,sportrider.com##[class="custom-section section-2 cell- double paired"]
@@ -237,6 +238,11 @@ baggersmag.com##.-fcfi-rfsfljw-fi.-fcluy-fix
 atvrider.com##.-fbcf-ocpcigt-cf.-fbirv-cfu
 americanphotomag.com###-falttlqj_hjsyjw_ina
 americanphotomag.com##.-fafi-rfsfljw-fi.-faluy-fix
+streetchopperweb.com##.-fzvy-hvivbzm-vy.-fzbko-vyn
+superstreetbike.com##.-faux-guhuayl-ux.-faajn-uxm
+utvdriver.com##.-fbil-uiviomz-il.-fboxb-ila
+waterskimag.com##.-fdvy-hvivbzm-vy.-fdbko-vyn
+workingmother.com##.-feux-guhuayl-ux.-feajn-uxm
 
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
