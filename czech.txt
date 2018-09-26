@@ -1,2 +1,26 @@
 ! #9056
 search.seznam.cz#?#.Result:-abp-has(a.SklikBox)
+novinky.cz##.cerebroad-container
+novinky.cz##.commercial
+novinky.cz##.epes
+novinky.cz##.rectangle
+novinky.cz###pneumatiky
+novinky.cz##a#loginLink
+novinky.cz##div[id*="_ad_div"]
+novinky.cz##div[id*="adform-domevents-"]
+novinky.cz##div[id^="banner"]
+novinky.cz##div[id^="leaderboard"]
+novinky.cz##div[style="position:relative; width:300px; height:600px;"]
+novinky.cz##div[style="width: 970px; height: 210px;"]
+novinky.cz##img[alt="Advertisement"]
+novinky.cz##img[class*="gojkuln"]
+sport.cz,super.cz###container-banner
+sport.cz##.ad-no-display
+sport.cz###slides
+super.cz,sport.cz,novinky.cz###container-combi
+super.cz,sport.cz##img#respimg
+super.cz##.imgContainer
+super.cz##.plachta-middle.plachta-overall-img
+super.cz###adCommercialBackground
+super.cz###adPlachta
+super.cz##iframe[id^="im-"]
