@@ -26,3 +26,4 @@ super.cz###adPlachta
 super.cz##iframe[id^="im-"]
 kupi.cz##.kupi_top_holder
 obrazky.cz###sklik-pla-original
+novinky.cz##.sssp-posCont
