@@ -1,5 +1,5 @@
 ! #9056
-search.seznam.cz#?#.Result:-abp-has(a.SklikBox)
+search.seznam.cz,clanky.seznam.cz#?#.Result:-abp-has(a.SklikBox)
 novinky.cz##.cerebroad-container
 novinky.cz##.commercial
 novinky.cz##.epes
@@ -25,3 +25,4 @@ super.cz###adCommercialBackground
 super.cz###adPlachta
 super.cz##iframe[id^="im-"]
 kupi.cz##.kupi_top_holder
+obrazky.cz###sklik-pla-original
