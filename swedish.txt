@@ -1,9 +1,4 @@
 ! #8479
-radio.se#@#.wingadblock
 notebookcheck.se#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
-radio.se#@#.WidgetAdvertiser
-radio.se#@#.WideAdContainer
-radio.se#@#.AD-POST
-radio.se#@#.AD300Block
 radio.se#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.se#?#div :-abp-properties(content: "Ad";)

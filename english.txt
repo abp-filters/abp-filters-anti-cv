@@ -38,25 +38,9 @@
 ||decanter.com^$csp=script-src 'self' * 'unsafe-eval'
 
 ! #8479
-radio.net#@#.AdsBottom
-radio.net#@#.wingadblock
-radio.net#@#.WideAdContainer
-@@/ad_pics/*$image,domain=pons.com
-@@/ad_oas/*$image,domain=pons.com
-@@/ad_top/*$image,domain=pons.com
-@@/468x60/*$image,domain=pons.com
-@@/adriver/*$image,domain=pons.com
-||googletagservices.com/tag/js/gpt.js$domain=reuters.com
 ||reutersmedia.net/resources_v*/*$image,domain=www.reuters.com|uk.reuters.com
 @@||reutersmedia.net/resources_v2/*$image,domain=www.reuters.com|uk.reuters.com
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
-radio.net,pons.com#@#.WidgetAdvertiser
-radio.net#@#.zoneAds
-radio.net,pons.com#@#.AD-POST
-radio.net,pons.com#@#.AD-Rotate
-radio.net,pons.com#@#.AD-label300x250
-radio.net,pons.com#@#.AD300
-radio.net,pons.com#@#.AD300Block
 radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.net#?#div :-abp-properties(content: "Ad";)
 

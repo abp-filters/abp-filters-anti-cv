@@ -1,10 +1,4 @@
 ! #8479
-radio.it#@#.wingadblock
 notebookcheck.it#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
-radio.it#@#.WidgetAdvertiser
-radio.it#@#.WideAdContainer
-radio.it#@#.AD-POST
-radio.it#@#.AD-Rotate
-radio.it#@#.AD300
 radio.it#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.it#?#div :-abp-properties(content: "Ad";)
