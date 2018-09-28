@@ -14,16 +14,17 @@ novinky.cz##div[style="position:relative; width:300px; height:600px;"]
 novinky.cz##div[style="width: 970px; height: 210px;"]
 novinky.cz##img[alt="Advertisement"]
 novinky.cz##img[class*="gojkuln"]
+novinky.cz##.sssp-posCont
 sport.cz,super.cz,kupi.cz###container-banner
 sport.cz##.ad-no-display
 sport.cz###slides
+sport.cz##.timeline-ads
 super.cz,sport.cz,novinky.cz###container-combi
 super.cz,sport.cz##img#respimg
 super.cz##.imgContainer
 super.cz##.plachta-middle.plachta-overall-img
-super.cz###adCommercialBackground
+super.cz###superPrclanek
 super.cz###adPlachta
 super.cz##iframe[id^="im-"]
 kupi.cz##.kupi_top_holder
 obrazky.cz###sklik-pla-original
-novinky.cz##.sssp-posCont
