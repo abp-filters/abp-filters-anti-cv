@@ -1,2 +1,3 @@
 ! #8479
 notebookcheck.nl#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
+f1maximaal.nl#?#div:-abp-properties(/content: ".*[a]?[d]?[v]?[e]?[r]?[t]?[e]?[n]?[t]?[i]?[e].*";/)
