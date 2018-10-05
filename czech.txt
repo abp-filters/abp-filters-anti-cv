@@ -32,5 +32,10 @@ super.cz##iframe[id^="im-"]
 kupi.cz##.kupi_top_holder
 obrazky.cz###sklik-pla-original
 super.cz##iframe[id^="grfmedia-"]
-super.cz##.combi-ad
+sport.cz,super.cz##.combi-ad
 ||sdn.szn.cz^$image,domain=super.cz
+novinky.cz##.pue12rmuerha
+super.cz##div[id^="rectangle"]
+sport.cz,super.cz##iframe[id^="grfdia-"]
+sport.cz,super.cz##div[href*="/click?adurl="]
+sport.cz,novinky.cz,super.cz##div[class*="adform-domevents-"]
