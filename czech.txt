@@ -1,7 +1,5 @@
 ! #9056
-search.seznam.cz,clanky.seznam.cz#?#div[data-elm^="r"]:-abp-has(span:-abp-contains(Reklama))
-search.seznam.cz,clanky.seznam.cz#?#div[data-elm^="r"]:-abp-has(a:-abp-contains(Reklama))
-search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a:-abp-contains(Reklama))
+search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a[href^="http://s.imedia.cz/click?adurl="])
 novinky.cz##.cerebroad-container
 novinky.cz##.commercial
 novinky.cz##.epes
