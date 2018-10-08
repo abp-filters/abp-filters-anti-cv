@@ -4,7 +4,7 @@ novinky.cz##.cerebroad-container
 novinky.cz##.commercial
 novinky.cz##.epes
 novinky.cz##.rectangle
-novinky.cz###pneumatiky
+novinky.cz,super.cz###pneumatiky
 novinky.cz##a[target="_top"][id="loginLink"]
 novinky.cz##div[id*="_ad_div"]
 novinky.cz,super.cz##div[id*="adform-domevents-"]
@@ -33,8 +33,18 @@ super.cz##iframe[id^="grfmedia-"]
 sport.cz,super.cz##.combi-ad
 ||sdn.szn.cz^$image,domain=super.cz
 novinky.cz##.pue12rmuerha
+novinky.cz##.rmue13puerha
 super.cz##div[id^="rectangle"]
 sport.cz,super.cz##iframe[id^="grfdia-"]
 sport.cz,super.cz##div[href*="/click?adurl="]
 sport.cz,novinky.cz,super.cz##div[class*="adform-domevents-"]
 super.cz##img[class="ban"]
+super.cz##iframe[id^="amydiag"]
+super.cz##iframe[id^="gfmidya"]
+super.cz##iframe[id^="dyamigf"]
+super.cz##div[class^="plachta"]
+super.cz##[id^="cerebroad-rotator"]
+novinky.cz##img[class^="croamah"]
+novinky.cz##img[id*="adAdform"]
+novinky.cz,super.cz##img[class="jeban"]
+novinky.cz##div[class^="pue"]
