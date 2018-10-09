@@ -44,7 +44,13 @@ super.cz##iframe[id^="gfmidya"]
 super.cz##iframe[id^="dyamigf"]
 super.cz##div[class^="plachta"]
 super.cz##[id^="cerebroad-rotator"]
+super.cz##div[class*="plamiddle"]
+super.cz##.turban
+super.cz##.cerebroad-container
+super.cz##div[id*="_override"]
+novinky.cz##.pu13e13rmuerha
+novinky.cz##div[class*="puerha"]
+novinky.cz##div[class*="muarha"]
 novinky.cz##img[class^="croamah"]
 novinky.cz##img[id*="adAdform"]
 novinky.cz,super.cz##img[class="jeban"]
-novinky.cz##div[class^="pue"]
