@@ -3,7 +3,6 @@ search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a[href^="http://s.
 novinky.cz##.cerebroad-container
 novinky.cz##.commercial
 novinky.cz##.epes
-novinky.cz##.rectangle
 novinky.cz,super.cz###pneumatiky
 novinky.cz##a[target="_top"][id="loginLink"]
 novinky.cz##div[id*="_ad_div"]
@@ -54,3 +53,12 @@ novinky.cz##div[class*="muarha"]
 novinky.cz##img[class^="croamah"]
 novinky.cz##img[id*="adAdform"]
 novinky.cz,super.cz##img[class="jeban"]
+novinky.cz##div[class^="rectangle"]
+novinky.cz##.pu13e13rluerha
+novinky.cz##img[class*="cromaha"]
+super.cz##iframe[id^="kostrpa"]
+super.cz,novinky.cz##img[class="tukan"]
+super.cz##iframe[id^="pastrko"]
+super.cz###pneumatik
+super.cz###zacatekMobileSquare
+super.cz###zacatekMobileSquareSmall
