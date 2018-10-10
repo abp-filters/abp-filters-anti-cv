@@ -62,3 +62,10 @@ super.cz##iframe[id^="pastrko"]
 super.cz###pneumatik
 super.cz###zacatekMobileSquare
 super.cz###zacatekMobileSquareSmall
+super.cz##div[id*="_ad_div"]
+super.cz##iframe[id^="okapoua"]
+super.cz##.combi-image
+novinky.cz###lottie
+novinky.cz##div[class*="rluarha"]
+novinky.cz##div[class*="prdlafka"]
+novinky.cz##.rmu13e15pluerha
