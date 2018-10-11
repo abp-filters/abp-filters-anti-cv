@@ -85,3 +85,6 @@ novinky.cz,super.cz,sport.cz##img[alt="Rajpradla.cz"]
 novinky.cz,super.cz,sport.cz##img[alt="Koralkybranelli.cz"]
 novinky.cz,super.cz,sport.cz##img[alt="Velux.cz"]
 novinky.cz,super.cz,sport.cz##img[alt="Alt popisek"]
+novinky.cz,super.cz,sport.cz##img[alt="Alza.cz"]
+novinky.cz#?#:-abp-has(h1.ads + div)
+super.cz#?#:-abp-has(div + h1.ads)
