@@ -69,3 +69,13 @@ novinky.cz###lottie
 novinky.cz##div[class*="rluarha"]
 novinky.cz##div[class*="prdlafka"]
 novinky.cz##.rmu13e15pluerha
+super.cz##.nenenemiddle
+super.cz,novinky.cz##img[alt="an ad"]
+novinky.cz,super.cz##img[alt="Pneumatiky.cz"]
+novinky.cz,super.cz##img[alt="Dormeo.cz"]
+novinky.cz##iframe[id^="fezopiqukora"]
+novinky.cz,super.cz##img[alt="Avon.cz"]
+super.cz##iframe[id^="sklik-rtb-imedia-cz-"]
+novinky.cz,super.cz##img[alt="Dachsteinresort.at"]
+novinky.cz,super.cz##img[alt="Postovnezdarma.cz"]
+novinky.cz###skyStopper + div
