@@ -29,7 +29,7 @@ super.cz##iframe[id^="im-"]
 kupi.cz##.kupi_top_holder
 obrazky.cz###sklik-pla-original
 super.cz##iframe[id^="grfmedia-"]
-sport.cz,super.cz##.combi-ad
+novinky.cz,sport.cz,super.cz##.combi-ad
 ||sdn.szn.cz^$image,domain=super.cz|sport.cz
 novinky.cz##.pue12rmuerha
 novinky.cz##.rmue13puerha
@@ -88,3 +88,7 @@ novinky.cz,super.cz,sport.cz##img[alt="Alt popisek"]
 novinky.cz,super.cz,sport.cz##img[alt="Alza.cz"]
 novinky.cz#?#:-abp-has(h1.ads + div)
 super.cz#?#:-abp-has(div + h1.ads)
+novinky.cz,super.cz,sport.cz##a[href*="adurl="] > img
+novinky.cz,super.cz,sport.cz##.adMobileNative
+novinky.cz,super.cz,sport.cz##.desktopWrapper
+super.cz###background-link + div
