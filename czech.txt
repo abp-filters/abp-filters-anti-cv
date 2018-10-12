@@ -94,3 +94,5 @@ novinky.cz,super.cz,sport.cz##.desktopWrapper
 super.cz###background-link + div
 novinky.cz,super.cz,sport.cz##div[id^="sklik"]
 novinky.cz##.makaruna
+novinky.cz##iframe[id^="sf"]
+super.cz###oznaceniReklamaMobileSquare + div
