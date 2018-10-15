@@ -96,3 +96,13 @@ novinky.cz,super.cz,sport.cz##div[id^="sklik"]
 novinky.cz##.makaruna
 novinky.cz##iframe[id^="sf"]
 super.cz###oznaceniReklamaMobileSquare + div
+sport.cz##.ad
+novinky.cz#?#:-abp-properties(width: 972px;)
+novinky.cz##.viteworyhiny
+novinky.cz##.pilyfyqepe
+super.cz#?#:-abp-properties(width: 972px; height: 312px;)
+super.cz##ins[data-dcm-click-tracker^="https://www.super.cz/"]
+super.cz##iframe[width="480"][height="300"]
+super.cz##iframe[width="300"][height="250"]
+super.cz##iframe[width="970"][height="310"]
+super.cz##iframe[width="302"][height="602"]
