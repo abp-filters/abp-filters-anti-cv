@@ -373,7 +373,7 @@ gipfelbuch.ch###leaderboard
 gipfelbuch.ch###skyscraper
 ||reutersmedia.net/resources_v*/*$image,domain=de.reuters.com
 @@||reutersmedia.net/resources_v2/*$image,domain=de.reuters.com
-||static.radio.de/images/broadcast/*$image,domain=radio.de|radio.dk|radio.net|radio.fr|radio.at|radio.it|radio.pl|radio.pt|radio.es|radio.se
+||static.radio.de/images/broadcasts/*$image,domain=radio.dk|radio.net|radio.fr|radio.at|radio.it|radio.pl|radio.pt|radio.es|radio.se
 finanzen.net###breadcrumb-container
 
 ! #9272
