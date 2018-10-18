@@ -196,12 +196,12 @@ news.de#?#:-abp-properties(left: 195.*px;) > img
 news.de#?#:-abp-properties(left: 196*px;) > img
 news.de##div[style="position: absolute; top: 0px; left: 622px;"] > div > img
 play3.de##.ad.ad--header
-||unicum.de/imags/*$image,domain=unicum.de
-||st.wetteronline.de/image/default/*$image,domain=wetteronline.de
-||quoka.de/image/publiy/*$image,domain=quoka.de
-||b0.t.kicker.de/imagv/*$image,domain=kicker.de
+||unicum.de/imagy/*$image,domain=unicum.de
+||st.wetteronline.de/image/content/*$image,domain=wetteronline.de
+||quoka.de/image/publz/*$image,domain=quoka.de
+||b0.t.kicker.de/imagey/*$image,domain=kicker.de
 ||finya.de/imgxs/*$image,domain=finya.de
-||inside-handy.de/imagefolder/statc/*$image,domain=inside-handy.de
+||inside-handy.de/imagefolder/statx/*$image,domain=inside-handy.de
 ||static-immobilienscout24.de/fro/image/*$image,domain=immobilienscout24.de
 
 ! #8479
