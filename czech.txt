@@ -117,3 +117,5 @@ sport.cz##img[width="970"][height="310"]
 sport.cz##iframe[width="302"][height="602"]
 novinky.cz,sport.cz##[id^="adAdform"]
 sport.cz##img[id*="Adform"]
+novinky.cz##.cugaqahi
+sport.cz##iframe[class^="keativop"]
