@@ -61,7 +61,6 @@ southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 courant.com##[data-adloader-adtype="flexleaderboardcombo"]
 courant.com##[data-adloader-size="1280x220"]
-mustangandfords.com,hearthhead.com,baltimoresun.com###-dbjjbgz_dhvbz_ydq
 gamespot.com##.tynt_close_button_circle
 gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
@@ -122,9 +121,6 @@ sportdiver.com,marlinmag.com,yachtingmagazine.com,sportfishingmag.com,hotbikeweb
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
 marlinmag.com,sportdiver.com##.st-block.markdown.ntv-disclaimer
 scubadiving.com##[class="linkTargets-processed external"]
-mustangandfords.com##[class="grid -mqhf-or"]
-mustangandfords.com##.-mrofh_or
-mustangandfords.com##.-fhhevx_eh
 mamaslatinas.com##.top-bar
 sun-sentinel.com##.-mhfp_udhOr
 chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
@@ -180,7 +176,6 @@ saltwatersportsman.com##.-fsvy-hvivbzm-vy.-fsbko-vyn
 outdoorlife.com##.-fpjm-vjwjpna-jm-fppyc-jmb
 islands.com##.-flkn-wkxkqob-kn.-flqzd-knc
 hotbikeweb.com##.-fkdg-pdqdjhu-dg.-fkjsw-dgv
-hearthhead.com###-fofnnfkd_hlzfd_chu
 flyingmag.com##.-fjyb-kylyecp-yb.-fjenr-ybq
 floridatravellife.com##.-bps-bpcpvtg-ps.-bvei-psh
 fieldandstream.com##.-fisv-esfsywj-sv.-fiyhl-svk
