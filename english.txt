@@ -43,6 +43,7 @@ streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 southflorida.com##[data-role="adloader"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
+sportingnews.com##.-bqt-kdyj-cetkbu
 wow.allakhazam.com###row-top
 wow.allakhazam.com###horizontal-bg
 pcmag.com##iframe[width=" 728"]
@@ -55,6 +56,7 @@ cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 courant.com##[data-role^="adloader"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
 orlandosentinel.com##[data-adloader-adtype="leaderboardcombo"]
+mustangandfords.com##.-eifwy_fi
 mamaslatinas.com##.sidebar
 southflorida.com##[data-role^="adloader adloader_ad"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
@@ -76,6 +78,8 @@ metacritic.com##[data-placement-name="desktop product_overview Below Content Thu
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 1070thefan.com##.-fgweeak-sv
+101x.com##.-fflttpz-hk
+1070thefan.com##.-eweeak-sv
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-horizontal"]
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-vertical"]
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-horizontalBTF"]
@@ -104,6 +108,7 @@ pcmag.com##[class="-morywh rendered"]
 pcmag.com###-bvei-qxaaqdpgs
 pcmag.com###-bvei-udditg
 pcmag.com###-fqweewbu_ycqwu_tyl
+pcmag.com##.-eerefSreevi
 tv.com###headerleader
 tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
 tv.com###leader_bottom
@@ -140,6 +145,7 @@ emedicinehealth.com###-mOR_Hcd_frf
 chowhound.com##[id="leader_plus_top"]
 chowhound.com##.clrm-cw-outer
 chowhound.com##.-mqzfa-qk-cihsf
+chowhound.com###-exffxcv_ruj
 saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
 baltimoresun.com###-fiwj-ferriv
 baltimoresun.com###-muccuzs_qsbhsf_rwj
