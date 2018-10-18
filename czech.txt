@@ -119,3 +119,9 @@ novinky.cz,sport.cz##[id^="adAdform"]
 sport.cz##img[id*="Adform"]
 novinky.cz##.cugaqahi
 sport.cz##iframe[class^="keativop"]
+sport.cz###adTimlineRectangleSmall
+novinky.cz##.combi-screen
+novinky.cz##img[class^="qutivop"]
+novinky.cz##.xehujope
+sport.cz##iframe[class^="chrmn"]
+super.cz##img[class^="kreativoq"]
