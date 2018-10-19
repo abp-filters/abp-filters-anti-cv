@@ -77,9 +77,6 @@ metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbn
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
-1070thefan.com##.-fgweeak-sv
-101x.com##.-fflttpz-hk
-1070thefan.com##.-eweeak-sv
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-horizontal"]
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-vertical"]
 camelot.allakhazam.com,everquest.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com##[name="MB-iframe-horizontalBTF"]
