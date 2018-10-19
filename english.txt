@@ -94,6 +94,7 @@ medicinenet.com##.stickyColLeft
 medicinenet.com###-bqpcctgPs_ubi
 medicinenet.com###-bgxvwiPs_ubi
 medicinenet.com##.-fncf_rncegjqnfgt.-fncf
+cnet.com##.-mor-adi-dzig-hcd
 cnet.com##.sticky-leader
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
