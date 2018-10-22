@@ -75,6 +75,7 @@ metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumb
 metacritic.com##.side_recommend
 metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbnails"]
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
+metacritic.com##.-ewz_qjep
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com,1070thefan.com,mustangandfords.com,pcmag.com###-cuccuzs_waous_rwj
@@ -126,6 +127,7 @@ yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
 marlinmag.com,sportdiver.com##.st-block.markdown.ntv-disclaimer
 scubadiving.com##[class="linkTargets-processed external"]
 mamaslatinas.com##.top-bar
+mamaslatinas.com##.-mhcd-pof
 sun-sentinel.com##.-mhfp_udhOr
 chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
 everydayhealth.com##[title="Advertisement"]
@@ -155,13 +157,14 @@ baggersmag.com##[class="custom-section section-3 divider cell- double paired"]
 baggersmag.com##[class="right-cell cell -mor-qszz"]
 flyingmag.com##[class="right-cell cell -mor-qszz "]
 flyingmag.com##[class="panel-pane pane-block -mdobs-or-aobousf-l34"]
-sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com,klbjfm.com###-muccuzs_waous_rwj
+sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com,klbjfm.com,seattlepi.com###-muccuzs_waous_rwj
 cycleworld.com,fieldandstream.com,islands.com,boatingmag.com,motorcyclistonline.com,streetchopperweb.com,scubadivingintro.com,destinationweddingmag.com,americanphotomag.com,diversitybestpractices.com,waterskimag.com,wakeboardingmag.com,utvdriver.com,sportdiver.com,saltwatersportsman.com,cruisingworld.com,hotbikeweb.com,popphoto.com,scubadiving.com,flyingmag.com,superstreetbike.com,streetchopperweb.com,sportrider.com###-bvddvat_xbpvt_sxk
 chicagotribune.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##.-domw_czvyzm_vyWviizm_xjhwj
 chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com###-dbjjbgz_dhvbz_ydq
 americanphotomag.com,motorcyclecruiser.com,waterskimag.com,utvdriver.com,marlinmag.com,saltwatersportsman.com,atvrider.com,sportfishingmag.com,hotbikeweb.com,range365.com,baggersmag.com,outdoorlife.com,saveur.com,yachtingmagazine.com##.-bps-bpcpvtg-ps.-bvei-psh
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##.-eru-drerxvi-ru.-exgk-ruj
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##.-cor-aobousf-or.-cudh-org
+chicagotribune.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,hoylosangeles.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com###-eckkcha_eiwca_zer
 marlinmag.com##[class="-bhi-qadrz -bpsh   "]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
