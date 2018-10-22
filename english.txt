@@ -27,7 +27,7 @@ boston.com,metacritic.com,thoughtcatalog.com,dayzdb.com,lotro.allakhazam.com##if
 thoughtcatalog.com##iframe[width="330"]
 sun-sentinel.com###-fnyggydw_uwflwj_van
 citypaper.com##[data-role="adloader adloader_ad"]
-boston.com###-mvddvat_xbpvt_sxk
+boston.com,camelot.allakhazam.com,everquest.allakhazam.com,ffxi.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com###-mvddvat_xbpvt_sxk
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]
 seattlepi.com##.ntvClickOut
