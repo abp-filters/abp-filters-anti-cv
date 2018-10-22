@@ -76,6 +76,9 @@ metacritic.com##.side_recommend
 metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbnails"]
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
 metacritic.com##.-ewz_qjep
+1070thefan.com###-kyggydw_aesyw_van
+101x.com###-nvddvat_xbpvt_sxk
+klbjfm.com##.-morjsfhwgsasbh-dzoqsvczrsf
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com,1070thefan.com,mustangandfords.com,pcmag.com###-cuccuzs_waous_rwj
