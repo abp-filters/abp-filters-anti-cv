@@ -102,6 +102,7 @@ cnet.com##.-mor-adi-dzig-hcd
 cnet.com##.sticky-leader
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
+webmd.com###-mQcbhsbhDobs54
 pcmag.com###-dbko-wdggwjvmy
 pcmag.com###-dbjjbgz_dhvbz_ydq
 pcmag.com###-dvyfdo_ajjozm
@@ -160,7 +161,7 @@ baggersmag.com##[class="custom-section section-3 divider cell- double paired"]
 baggersmag.com##[class="right-cell cell -mor-qszz"]
 flyingmag.com##[class="right-cell cell -mor-qszz "]
 flyingmag.com##[class="panel-pane pane-block -mdobs-or-aobousf-l34"]
-sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com,klbjfm.com,seattlepi.com###-muccuzs_waous_rwj
+sandiegouniontribune.com,courant.com,workingmother.com,mcall.com,streetchopperweb.com,dailypress.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,sun-sentinel.com,americanphotomag.com,islands.com,boatingmag.com,sportrider.com,superstreetbike.com,sportdiver.com,hotbikeweb.com,popphoto.com,sportfishingmag.com,atvrider.com,scubadiving.com,lolking.net,1070thefan.com,101x.com,lolking.net,thoughtcatalog.com,klbjfm.com,seattlepi.com,webmd.com###-muccuzs_waous_rwj
 cycleworld.com,fieldandstream.com,islands.com,boatingmag.com,motorcyclistonline.com,streetchopperweb.com,scubadivingintro.com,destinationweddingmag.com,americanphotomag.com,diversitybestpractices.com,waterskimag.com,wakeboardingmag.com,utvdriver.com,sportdiver.com,saltwatersportsman.com,cruisingworld.com,hotbikeweb.com,popphoto.com,scubadiving.com,flyingmag.com,superstreetbike.com,streetchopperweb.com,sportrider.com###-bvddvat_xbpvt_sxk
 chicagotribune.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##.-domw_czvyzm_vyWviizm_xjhwj
 chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com###-dbjjbgz_dhvbz_ydq
