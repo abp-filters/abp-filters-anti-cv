@@ -139,3 +139,8 @@ kupi.cz##div[style^="background-image:"]
 super.cz,novinky.cz,sport.cz##a[href*="utm_source%3Dseznam"]
 super.cz,novinky.cz,sport.cz##a[href*="utm_source%3Dsklik"]
 super.cz,novinky.cz,sport.cz##a[href*="utm_source%3Dcz_sklik"]
+novinky.cz##div[style="width: 968px; height: 310px; position: absolute;"]
+sport.cz##div[style="width: 301px; height: 600px; left: 0px; top: 0px;"]
+kupi.cz##.middle_it_bricks.middle_leaflet.pos_middle_leaflet
+kupi.cz##div[style="margin-bottom: -30px;"]
+kupi.cz##div[id*="kupi_topsponzor_"]
