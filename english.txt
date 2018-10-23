@@ -56,7 +56,6 @@ cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 courant.com##[data-role^="adloader"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
 orlandosentinel.com##[data-adloader-adtype="leaderboardcombo"]
-mustangandfords.com##.-eifwy_fi
 mamaslatinas.com##.sidebar
 southflorida.com##[data-role^="adloader adloader_ad"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
