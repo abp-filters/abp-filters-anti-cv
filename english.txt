@@ -113,6 +113,7 @@ webmd.com###-mor_ibwh
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com###-mQcbhsbhDobs54
+webmd.com##.module.-mor.-mor-571
 pcmag.com###-dbko-wdggwjvmy
 pcmag.com###-dbjjbgz_dhvbz_ydq
 pcmag.com###-dvyfdo_ajjozm
