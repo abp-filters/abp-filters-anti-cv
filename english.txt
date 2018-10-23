@@ -44,6 +44,8 @@ southflorida.com##[data-role="adloader"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##.-bqt-kdyj-cetkbu
+sportingnews.com###-cmp_gzuf
+sportingnews.com##[data-placement="Top_Banner"]
 wow.allakhazam.com###row-top
 wow.allakhazam.com###horizontal-bg
 pcmag.com##iframe[width=" 728"]
@@ -67,6 +69,8 @@ gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_plus_top
+lol.gamepedia.com,overwatch.gamepedia.com###-mor_ibwh
+lol.gamepedia.com,overwatch.gamepedia.com###-mphtzp
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
