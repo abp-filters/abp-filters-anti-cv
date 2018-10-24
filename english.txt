@@ -71,6 +71,8 @@ gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_plus_top
 gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
+gamepedia.com###-ntlxdt
+gamepedia.com##div[id^="cdm-zone"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
