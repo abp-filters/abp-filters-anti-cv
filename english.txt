@@ -30,6 +30,7 @@ citypaper.com##[data-role="adloader adloader_ad"]
 boston.com,camelot.allakhazam.com,everquest.allakhazam.com,ffxi.allakhazam.com,lotro.allakhazam.com,wow.allakhazam.com###-mvddvat_xbpvt_sxk
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]
+boston.com##.-mps-rdcipxctg__ps-hadi
 seattlepi.com##.ntvClickOut
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
