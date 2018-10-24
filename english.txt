@@ -116,6 +116,8 @@ webmd.com###-mQcbhsbhDobs54
 webmd.com##.module.-mor.-mor-571
 webmd.com##.container.global-container-1
 webmd.com###-fXjiozioKviz49
+webmd.com###-fXjiozioKviz51
+webmd.com###-fXjiozioKviz52
 webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
