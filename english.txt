@@ -236,6 +236,7 @@ marlinmag.com##.-fmgj-sgtgmkx-gj.-fmmvz-gjy
 
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
+||readlightnovel.org^$csp=script-src 'self' *
 
 ! #15096
 facebook.com#$#hide-if-contains-and-matches-style /.?/ [id^="hyperfeed_story_id_"] 'div[id^="feed_subtitle_"] > span a[class*="_"][href="#"]' /./ 'display: inline;'
