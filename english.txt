@@ -203,6 +203,7 @@ cnet.com###glade-aslot-1
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
+spox.com###sdg_rectangle_anz
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
