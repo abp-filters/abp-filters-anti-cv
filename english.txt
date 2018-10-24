@@ -69,8 +69,8 @@ gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_plus_top
-lol.gamepedia.com,overwatch.gamepedia.com###-mor_ibwh
-lol.gamepedia.com,overwatch.gamepedia.com###-mphtzp
+gamepedia.com###-mor_ibwh
+gamepedia.com###-mphtzp
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
