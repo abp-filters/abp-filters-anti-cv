@@ -30,7 +30,6 @@ kupi.cz##.kupi_top_holder
 obrazky.cz###sklik-pla-original
 super.cz##iframe[id^="grfmedia-"]
 novinky.cz,sport.cz,super.cz##.combi-ad
-||sdn.szn.cz^$image,domain=super.cz|sport.cz|kupi.cz
 novinky.cz##.pue12rmuerha
 novinky.cz##.rmue13puerha
 super.cz##div[id^="rectangle"]
