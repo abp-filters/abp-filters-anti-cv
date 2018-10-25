@@ -47,6 +47,9 @@ sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##.-bqt-kdyj-cetkbu
 sportingnews.com###-cmp_gzuf
 sportingnews.com##[data-placement="Top_Banner"]
+sportingnews.com##.-jgj-atoz-sujark.-jgj-zuv.module
+sportingnews.com##.-jgj-atoz-sujark.-jgj-xomnz.-jotpkizkj-gj
+sportingnews.com##[data-ad-type="Section_Fronts"]
 allakhazam.com###row-top
 allakhazam.com###horizontal-bg
 allakhazam.com###ZAM_Vertical_ATF
