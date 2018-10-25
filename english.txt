@@ -49,6 +49,8 @@ sportingnews.com###-cmp_gzuf
 sportingnews.com##[data-placement="Top_Banner"]
 allakhazam.com###row-top
 allakhazam.com###horizontal-bg
+allakhazam.com###ZAM_Vertical_ATF
+allakhazam.com###ZAM_Horizontal_ATF
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 everydayhealth.com##.gmc-recommendation
