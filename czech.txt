@@ -85,8 +85,6 @@ novinky.cz,super.cz,sport.cz##img[alt="Koralkybranelli.cz"]
 novinky.cz,super.cz,sport.cz##img[alt="Velux.cz"]
 novinky.cz,super.cz,sport.cz##img[alt="Alt popisek"]
 novinky.cz,super.cz,sport.cz##img[alt="Alza.cz"]
-novinky.cz#?#:-abp-has(h1.ads + div)
-super.cz#?#:-abp-has(div + h1.ads)
 novinky.cz,super.cz,sport.cz##a[href*="adurl="] > img
 novinky.cz,super.cz,sport.cz##.adMobileNative
 novinky.cz,super.cz,sport.cz##.desktopWrapper
@@ -96,10 +94,8 @@ novinky.cz##.makaruna
 novinky.cz##iframe[id^="sf"]
 super.cz###oznaceniReklamaMobileSquare + div
 sport.cz##.ad
-novinky.cz#?#:-abp-properties(width: 972px;)
 novinky.cz##.viteworyhiny
 novinky.cz##.pilyfyqepe
-super.cz#?#:-abp-properties(width: 972px; height: 312px;)
 super.cz##ins[data-dcm-click-tracker^="https://www.super.cz/"]
 super.cz##iframe[width="480"][height="300"]
 super.cz##iframe[width="300"][height="250"]
@@ -135,9 +131,6 @@ sport.cz,super.cz,novinky.cz##img[class*="patuitvop"]
 /*970x310_$image,domain=sport.cz|super.cz|novinky.cz
 super.cz,novinky.cz,sport.cz##a[href*="Seznam"]
 kupi.cz##div[style^="background-image:"]
-super.cz,novinky.cz,sport.cz##a[href*="utm_source%3Dseznam"]
-super.cz,novinky.cz,sport.cz##a[href*="utm_source%3Dsklik"]
-super.cz,novinky.cz,sport.cz##a[href*="utm_source%3Dcz_sklik"]
 novinky.cz##div[style="width: 968px; height: 310px; position: absolute;"]
 sport.cz##div[style="width: 301px; height: 600px; left: 0px; top: 0px;"]
 kupi.cz##.middle_it_bricks.middle_leaflet.pos_middle_leaflet
@@ -160,3 +153,14 @@ super.cz,novinky.cz##img[class*="-click-"]
 super.cz##a[href*="uxm-blik"]
 super.cz##div[style="position: absolute; top: 0px; z-index: 301; right: 0px;"]
 sport.cz##a[href*="czech_english_seznam"]
+novinky.cz##div[style="height: 337px; width: 968.02px; max-width: 100%;"]
+novinky.cz##iframe[width="100.019%"][height="100.019%"]
+sport.cz###baxner
+sport.cz##img[src*="/banner/"]
+sport.cz##iframe[width="300"][height="600"]
+novinky.cz,sport.cz,super.cz##a[href*="rabbit_source"]
+super.cz##a[href*="/trackclk/"]
+super.cz##img[src*="/trackclk/"]
+super.cz##a[href*="-click-"]
+super.cz##img[src*="-click-"]
+super.cz##div[style="position: fixed; top: 5px; z-index: 301; left: 729px;"]
