@@ -252,6 +252,17 @@ marlinmag.com##.-fmgj-sgtgmkx-gj.-fmmvz-gjy
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
 ||readlightnovel.org^$csp=script-src 'self' *
+||thecelticblog.com^$csp=script-src 'self' * 'unsafe-inline'
+||vidmax.com^$csp=script-src 'self' * 'unsafe-inline'
+||videocelts.com^$csp=script-src 'self' * 'unsafe-inline'
+||asheepnomore.net^$csp=script-src 'self' * 'unsafe-inline'
+||debka.com^$csp=script-src 'self' * 'unsafe-inline'
+||downsub.com^$csp=script-src 'self' *
+||hiphopearly.com^$csp=script-src 'self' * 'unsafe-inline'
+||machinenoveltranslation.com^$csp=script-src 'self' * 'unsafe-inline'
+||readarsenal.com^$csp=script-src 'self' * 'unsafe-inline'
+||readliverpoolfc.com^$csp=script-src 'self' * 'unsafe-inline'
+||toptenz.net^$csp=script-src 'self' * 'unsafe-inline'
 
 ! #15096
 facebook.com#$#hide-if-contains-and-matches-style /.?/ [id^="hyperfeed_story_id_"] 'div[id^="feed_subtitle_"] > span a[class*="_"][href="#"]' /./ 'display: inline;'

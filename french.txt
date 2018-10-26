@@ -2,3 +2,7 @@
 notebookcheck.biz#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.fr#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.fr#?#div :-abp-properties(content: "Ad";)
+
+! #9274
+||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
+||sobusygirls.fr^$csp=script-src 'self' * 'unsafe-eval'
