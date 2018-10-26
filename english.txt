@@ -175,7 +175,7 @@ emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
 emedicinehealth.com###-mOR_Hcd_frf
 chowhound.com##[id="leader_plus_top"]
-chowhound.com,metacritic.com##.clrm-cw-outer
+chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##.-mqzfa-qk-cihsf
 chowhound.com###-exffxcv_ruj
 chowhound.com##.-cqzfa-qk-cihsf
