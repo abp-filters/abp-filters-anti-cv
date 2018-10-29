@@ -1,4 +1,5 @@
 ! #8471
+@@_displaytopads.$image,domain=auszeit.bio|autoscout24.de|bafoeg-aktuell.de|berliner-kurier.de|berliner-zeitung.de|bikerszene.de|boersennews.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|express.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gamersglobal.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gut-erklaert.de|hausgarten.net|iban-rechner.de|immobilienscout24.de|inside-handy.de|kicker.de|kindergeld.org|ksta.de|liga3-online.de|lz.de|meinestadt.de|modhoster.de|moviejones.de|mt.de|mz-web.de|naumburger-tageblatt.de|news.de|nw.de|play3.de|prad.de|psychic.de|quoka.de|rimondo.com|rundschau-online.de|smart-wohnen.net|spielen.de|tichyseinblick.de|truckscout24.de|tvinfo.de|unicum.de|virtualnights.com|weser-kurier.de|wetteronline.at|wetteronline.ch|wetteronline.de|t-online.de|quotenmeter.de|autorevue.at|haus-garten-test.de|messen.de|newsbreak24.de|rheinische-anzeigenblaetter.de|torgranate.de|wallstreet-online.de|weltfussball.at|aachener-nachrichten.de|aachener-zeitung.de|wize.life
 @@/partner_ads/*$image,domain=auszeit.bio|autoscout24.de|bafoeg-aktuell.de|berliner-kurier.de|berliner-zeitung.de|bikerszene.de|boersennews.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|express.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gamersglobal.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gut-erklaert.de|hausgarten.net|iban-rechner.de|immobilienscout24.de|inside-handy.de|kicker.de|kindergeld.org|ksta.de|liga3-online.de|lz.de|meinestadt.de|modhoster.de|moviejones.de|mt.de|mz-web.de|naumburger-tageblatt.de|news.de|nw.de|play3.de|prad.de|psychic.de|quoka.de|rimondo.com|rundschau-online.de|smart-wohnen.net|spielen.de|tichyseinblick.de|truckscout24.de|tvinfo.de|unicum.de|virtualnights.com|weser-kurier.de|wetteronline.at|wetteronline.ch|wetteronline.de|t-online.de|quotenmeter.de|autorevue.at|haus-garten-test.de|messen.de|newsbreak24.de|rheinische-anzeigenblaetter.de|torgranate.de|wallstreet-online.de|weltfussball.at|aachener-nachrichten.de|aachener-zeitung.de|wize.life
 @@/ext/prebid$image,domain=auszeit.bio|autoscout24.de|bafoeg-aktuell.de|berliner-kurier.de|berliner-zeitung.de|bikerszene.de|boersennews.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|express.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gamersglobal.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gut-erklaert.de|hausgarten.net|iban-rechner.de|immobilienscout24.de|inside-handy.de|kicker.de|kindergeld.org|ksta.de|liga3-online.de|lz.de|meinestadt.de|modhoster.de|moviejones.de|mt.de|mz-web.de|naumburger-tageblatt.de|news.de|nw.de|play3.de|prad.de|psychic.de|quoka.de|rimondo.com|rundschau-online.de|smart-wohnen.net|spielen.de|tichyseinblick.de|truckscout24.de|tvinfo.de|unicum.de|virtualnights.com|weser-kurier.de|wetteronline.at|wetteronline.ch|wetteronline.de|t-online.de|quotenmeter.de|autorevue.at|haus-garten-test.de|messen.de|newsbreak24.de|rheinische-anzeigenblaetter.de|torgranate.de|wallstreet-online.de|weltfussball.at|aachener-nachrichten.de|aachener-zeitung.de|wize.life
 @@/defaultad.$image,domain=auszeit.bio|autoscout24.de|bafoeg-aktuell.de|berliner-kurier.de|berliner-zeitung.de|bikerszene.de|boersennews.de|clever-tanken.de|deine-tierwelt.de|dhd24.com|digitalfernsehen.de|donnerwetter.de|e-hausaufgaben.de|express.de|fanfiktion.de|finya.de|formel1.de|frag-mutti.de|fremdwort.de|frustfrei-lernen.de|fussballdaten.de|gamersglobal.de|gameswelt.de|gartendialog.de|gartenlexikon.de|gut-erklaert.de|hausgarten.net|iban-rechner.de|immobilienscout24.de|inside-handy.de|kicker.de|kindergeld.org|ksta.de|liga3-online.de|lz.de|meinestadt.de|modhoster.de|moviejones.de|mt.de|mz-web.de|naumburger-tageblatt.de|news.de|nw.de|play3.de|prad.de|psychic.de|quoka.de|rimondo.com|rundschau-online.de|smart-wohnen.net|spielen.de|tichyseinblick.de|truckscout24.de|tvinfo.de|unicum.de|virtualnights.com|weser-kurier.de|wetteronline.at|wetteronline.ch|wetteronline.de|t-online.de|quotenmeter.de|autorevue.at|haus-garten-test.de|messen.de|newsbreak24.de|rheinische-anzeigenblaetter.de|torgranate.de|wallstreet-online.de|weltfussball.at|aachener-nachrichten.de|aachener-zeitung.de|wize.life
@@ -281,7 +282,6 @@ play3.de##.ad.ad--header
 ||unicum.de/imagez/*$image,domain=unicum.de
 ||donnerwetter.de/img/*$image,domain=donnerwetter.de
 ||st.wetteronline.de/image/default/*$image,domain=wetteronline.de
-||kxcdn.com/cdn/image/*$image,domain=iban-rechner.de
 ||quoka.de/image/puby/*$image,domain=quoka.de
 ||b0.t.kicker.de/imagu/*$image,domain=kicker.de
 ||finya.de/imgzs/*$image,domain=finya.de
@@ -312,10 +312,11 @@ play3.de##.ad.ad--header
 ||inside-handy.de/imagefolders/*$image,domain=inside-handy.de
 ||static-immobilienscout24.de/fro/imagv/*$image,domain=immobilienscout24.de
 ||quoka.de/images/publix/*$image,domain=quoka.de
-||b0.t.kicker.de/imagx/*$image,domain=kicker.de
+||b0.t.kicker.de/imagw/*$image,domain=kicker.de
 ||quoka.de/image/pubx/*$image,domain=quoka.de
 ||static-immobilienscout24.de/fro/imagw/*$image,domain=immobilienscout24.de
-||unicum.de/imagex/*$image,domain=unicum.de
+||static-immobilienscout24.de/fro/imagcx/*$image,domain=immobilienscout24.de
+||unicum.de/imags/*$image,domain=unicum.de
 ||unicum.de/imagey/*$image,domain=unicum.de
 ||static-immobilienscout24.de/fro/image/*$image,domain=immobilienscout24.de
 ||quoka.de/image/publy/*$image,domain=quoka.de
@@ -324,7 +325,8 @@ play3.de##.ad.ad--header
 ||b0.t.kicker.de/imagew/*$image,domain=kicker.de
 ||inside-handy.de/imagefoldrz/*$image,domain=inside-handy.de
 ||inside-handy.de/imagefolderz/*$image,domain=inside-handy.de
-||finya.de/imgxs/*$image,domain=finya.de
+||inside-handy.de/imagefolderv/*$image,domain=inside-handy.de
+||finya.de/imgyxs/*$image,domain=finya.de
 ||static-immobilienscout24.de/fro/imagu/*$image,domain=immobilienscout24.de
 ||static-immobilienscout24.de/fro/imagex/*$image,domain=immobilienscout24.de
 ||inside-handy.de/imagedirz/staty/*$image,domain=inside-handy.de
