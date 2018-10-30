@@ -282,17 +282,17 @@ news.de#?#:-abp-properties(left: 195.*px;) > img
 news.de#?#:-abp-properties(left: 196*px;) > img
 news.de##div[style="position: absolute; top: 0px; left: 622px;"] > div > img
 play3.de##.ad.ad--header
-||quoka.de/image/publz/*$image,domain=quoka.de
-||inside-handy.de/imagefolderx/*$image,domain=inside-handy.de
+||quoka.de/imagez/publx/*$image,domain=quoka.de
+||inside-handy.de/imagefolderw/*$image,domain=inside-handy.de
 ||frag-mutti.de/img/*$image,domain=frag-mutti.de
-||unicum.de/imagez/*$image,domain=unicum.de
-||donnerwetter.de/img/*$image,domain=donnerwetter.de
+||unicum.de/imagx/*$image,domain=unicum.de
+||donnerwetter.de/images/U/*$image,domain=donnerwetter.de
 ||st.wetteronline.de/image/default/*$image,domain=wetteronline.de
 ||quoka.de/image/puby/*$image,domain=quoka.de
 ||b0.t.kicker.de/imagu/*$image,domain=kicker.de
 ||finya.de/imgzs/*$image,domain=finya.de
 ||inside-handy.de/imagedirz/*$image,domain=inside-handy.de
-||static-immobilienscout24.de/fro/imgyxs/*$image,domain=immobilienscout24.de
+||static-immobilienscout24.de/fro/imagcv/*$image,domain=immobilienscout24.de
 ||static-immobilienscout24.de/fro/imagew/*$image,domain=immobilienscout24.de
 ||quoka.de/image/publ/*$image,domain=quoka.de
 ||b0.t.kicker.de/imgez/*$image,domain=kicker.de
