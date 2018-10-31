@@ -307,39 +307,6 @@ cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,m
 sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Gallery Thumbnails"]
 floridatravellife.com##[data-parent-placement-name="Below Article Thumbnails"]
 floridatravellife.com##[data-feed-main-container-id="taboola-placement-2"]
-wakeboardingmag.com##.-fcgj-sgtgmkx-gj.-fcmvz-gjy
-scubadivingintro.com##.-fvlo-xlylrpc-lo.-fvrae-lod
-scubadiving.com##.-futw-ftgtzxk-tw.-fuzim-twl
-saveur.com##.-ftps-bpcpvtg-ps.-ftvei-psh
-saltwatersportsman.com##.-fsvy-hvivbzm-vy.-fsbko-vyn
-outdoorlife.com##.-fpjm-vjwjpna-jm-fppyc-jmb
-islands.com##.-flkn-wkxkqob-kn.-flqzd-knc
-hotbikeweb.com##.-fkdg-pdqdjhu-dg.-fkjsw-dgv
-flyingmag.com##.-fjyb-kylyecp-yb.-fjenr-ybq
-floridatravellife.com##.-bps-bpcpvtg-ps.-bvei-psh
-fieldandstream.com##.-fisv-esfsywj-sv.-fiyhl-svk
-diversitybestpractices.com##.-fhor-aobousf-or.-fhudh-org
-dirtrider.com##.-bps-bpcpvtg-ps.-bvei-psh
-destinationweddingmag.com##.-fggj-sgtgmkx-gj.-fgmvz-gjy
-cycleworld.com##.-ffnq-znantre-nq.-fftcg-nqf
-cruisingworld.com###-fetbbtyr_vzntr_qvi
-boatingmag.com##.-fdzc-lzmzfdq-zc.-fdfos-zcr
-baggersmag.com##.-fcfi-rfsfljw-fi.-fcluy-fix
-atvrider.com##.-fbcf-ocpcigt-cf.-fbirv-cfu
-americanphotomag.com###-falttlqj_hjsyjw_ina
-americanphotomag.com##.-fafi-rfsfljw-fi.-faluy-fix
-streetchopperweb.com##.-fzvy-hvivbzm-vy.-fzbko-vyn
-superstreetbike.com##.-faux-guhuayl-ux.-faajn-uxm
-utvdriver.com##.-fbil-uiviomz-il.-fboxb-ila
-waterskimag.com##.-fdvy-hvivbzm-vy.-fdbko-vyn
-workingmother.com##.-feux-guhuayl-ux.-feajn-uxm
-sportfishingmag.com##.-fxwz-iwjwcan-wz.-fxclp-wzo
-sportdiver.com##.-fwtw-ftgtzxk-tw.-fwzim-twl
-range365.com##.-frkn-wkxkqob-kn.-frqzd-knc
-popphoto.com##.-fqhk-thuhnly-hk.-fqnwa-hkz
-motorcyclistonline.com##.-folo-xlylrpc-lo.-forae-lod
-motorcyclecruiser.com##.-fnps-bpcpvtg-ps.-fnvei-psh
-marlinmag.com##.-fmgj-sgtgmkx-gj.-fmmvz-gjy
 
 ! #9274
 tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
