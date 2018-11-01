@@ -183,6 +183,7 @@ wetteronline.de#?#:-abp-properties(width: 1000.*px;)
 ||reutersmedia.net/resources_v*/*$image,domain=de.reuters.com
 @@||reutersmedia.net/resources_v2/*$image,domain=de.reuters.com
 gipfelbuch.ch###header_top
+playboy.de##div[data-ad-comment^="ForwardAdGroup"]
 
 ! #9272
 spox.com##[ws-zone]
