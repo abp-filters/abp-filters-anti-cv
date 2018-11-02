@@ -237,6 +237,7 @@ tv.com###-mhopcczo-awr-aowb-qcziab-hviapbowzg
 tv.com##[class="-bps leader"]
 tv.com###-batpstg_qdiidb
 tv.com###-dgzvyzm_wjoojh
+slickdeals.net##.sideGridBox.abc
 americanphotomag.com###-mpobbsf
 growthspotter.com,southflorida.com,citypaper.com,hoylosangeles.com,mcall.com,sun-sentinel.com,courant.com##[data-adloader-position="leaderboardcombo"]
 growthspotter.com,lajollalight.com,courant.com##[data-adloader-position="footerleaderboardcombo"]
