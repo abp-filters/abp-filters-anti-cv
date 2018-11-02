@@ -262,6 +262,7 @@ thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
 thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
+thoughtcatalog.com##[data-dcm-placement]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
