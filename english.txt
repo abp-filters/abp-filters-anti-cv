@@ -28,6 +28,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.101x.com/g00/3_c-6bbb.656c.htr_/*
 ||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.1070thefan.com/g00/3_c-6bbb.6525ymjkfs.htr_/*
 ||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.americanphotomag.com/g00/*/^
+||c-6rtwjumjzx7877x24sdr6-ngx2efiscx78x2ehtr.g00.americanphotomag.com/g00/*/^
 ||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.atvrider.com/g00/*/^
 ||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.baggersmag.com/g00/*/^
 ||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.boatingmag.com/g00/*/^
