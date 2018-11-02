@@ -272,6 +272,7 @@ chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##.-mqzfa-qk-cihsf
 chowhound.com###-exffxcv_ruj
 chowhound.com##.-cqzfa-qk-cihsf
+chowhound.com###leader_bottom
 saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
 baltimoresun.com###-fiwj-ferriv
 baltimoresun.com###-muccuzs_qsbhsf_rwj
