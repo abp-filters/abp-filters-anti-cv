@@ -121,6 +121,7 @@ boston.com,allakhazam.com###-mvddvat_xbpvt_sxk
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]
 boston.com##.-mps-rdcipxctg__ps-hadi
+boston.com##[data--sjm-dwrc]
 seattlepi.com##.ntvClickOut
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
