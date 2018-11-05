@@ -197,3 +197,7 @@ sport.cz##div[style="position:relative;width:100%;height:100%;overflow:hidden"]
 sport.cz##iframe[class*="abreqivok"]
 novinky.cz##iframe[width="100.0158%"][height="100.0158%"]
 novinky.cz##.tehowopetuna
+novinky.cz##div[style="height: 210px; width: 969.066px; max-width: 100%;"]
+novinky.cz##iframe[width="100.066%"][height="100.066%"]
+novinky.cz##iframe[width="100.067%"][height="100.067%"]
+novinky.cz##img[style^="display: block; position: relative; top: -1px;"]
