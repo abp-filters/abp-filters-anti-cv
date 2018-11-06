@@ -309,6 +309,7 @@ marlinmag.com##[class="-bhi-qadrz -bpsh   "]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
+cnet.com##[data-ad-cid]
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
