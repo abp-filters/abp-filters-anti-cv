@@ -204,11 +204,9 @@ super.cz##iframe[class^="abreivok"]
 super.cz##img[width="970"][height="310"]
 super.cz##img[onerror="this.src=screenPlaceholder"]
 super.cz##.combi-title
-novinky.cz##img[src*="novinky.cz/WM"]
 novinky.cz##.produkt
-sport.cz##img[src*="sport.cz/WM"]
-super.cz##img[src*="super.cz/WM"]
 novinky.cz##div[style="width: 968px; height: 208px; border: 1px solid #ccc; overflow: hidden; position: relative;"]
-novinky.cz##img[src^="//www.novinky.cz/YQ"]
 sport.cz##img[src^="//www.sport.cz/YQ"]
 super.cz##img[src^="//www.super.cz/YQ"]
+super.cz##a[href^="//www.super.cz/YQ"]
+sport.cz##a[href^="//www.sport.cz/YQ"]
