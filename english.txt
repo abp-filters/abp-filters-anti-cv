@@ -156,6 +156,7 @@ courant.com##[data-role^="adloader"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
 orlandosentinel.com##[data-adloader-adtype="leaderboardcombo"]
 mamaslatinas.com##.sidebar
+mamaslatinas.com##div[id^="-czhhzex_twl_byktfx_/2940"]
 southflorida.com##[data-role^="adloader adloader_ad"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
