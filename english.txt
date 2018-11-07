@@ -223,6 +223,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
+webmd.com##div[id^="-maowwotm_ila_qnzium_/2190212"]
 pcmag.com###-dbko-wdggwjvmy
 pcmag.com###-dbjjbgz_dhvbz_ydq
 pcmag.com###-dvyfdo_ajjozm
