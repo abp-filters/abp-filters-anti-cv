@@ -106,8 +106,6 @@ dayzdb.com,allakhazam.com###ds_default_anchor
 dayzdb.com,allakhazam.com##[x-enc="id"]
 allakhazam.com##.ds_cpp
 boston.com,capitalgazette.com,carrollcountytimes.com,courant.com,ctnow.com,growthspotter.com,lajollalight.com,metacritic.com,ranchosantafereview.com,sandiegouniontribune.com,southflorida.com,thoughtcatalog.com,dayzdb.com,allakhazam.com##iframe[width="300"]
-lajollalight.com,mcall.com,orlandosentinel.com,ranchosantafereview.com,sandiegouniontribune.com##[data-role*="adloader_ad"]
-baltimoresun.com,capitalgazette.com,chicagotribune.com,citypaper.com,dailypress.com,sun-sentinel.com##[data-role="adloader_ad"]
 chicagotribune.com,citypaper.com,courant.com,ctnow.com,dailypress.com##.trb_ar_rail
 chicagotribune.com,ctnow.com,ranchosantafereview.com,sandiegouniontribune.com##[data-placement-name="below-article-thumbs"]
 baltimoresun.com,carrollcountytimes.com,chicagotribune.com,courant.com,ctnow.com,dailypress.com,growthspotter.com,mcall.com,orlandosentinel.com##[data-adloader-size="300x600"]
