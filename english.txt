@@ -182,6 +182,7 @@ metacritic.com##[data-placement-name="desktop product_overview Below Content Thu
 metacritic.com##.-ewz_qjep
 mustangandfords.com###-jvddvat_xbpvt_sxk
 mustangandfords.com##.-pvsjl_sv
+mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 1070thefan.com###-kyggydw_aesyw_van
 101x.com###-nvddvat_xbpvt_sxk
 klbjfm.com##.-morjsfhwgsasbh-dzoqsvczrsf
