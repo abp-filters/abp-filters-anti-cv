@@ -266,6 +266,7 @@ everydayhealth.com##[title="Advertisement"]
 everydayhealth.com##.-morg
 metacritic.com,sportingnews.com##.-mor_ibwh
 sportingnews.com##.-mor-hcd.module
+sportingnews.com##div[id^="-aowwotm_ila_qnzium_/45758069"]
 thoughtcatalog.com##.is-initialized
 thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
 thoughtcatalog.com###aswift_0
