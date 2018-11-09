@@ -55,6 +55,7 @@ allakhazam.com###ZAM_Vertical_ATF
 allakhazam.com###ZAM_Horizontal_ATF
 allakhazam.com##.-mcga_ux
 allakhazam.com,101x.com,1070thefan.com##[amp4ads]
+allakhazam.com##div[id^="-kfnnfkd_zcr_heqzld_/21681729"]
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 everydayhealth.com##.gmc-recommendation
