@@ -74,6 +74,7 @@ dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-t
 orlandosentinel.com##[data-adloader-adtype="leaderboardcombo"]
 mamaslatinas.com##.sidebar
 mamaslatinas.com##div[id^="-czhhzex_twl_byktfx_/2940"]
+mamaslatinas.com##div[id^="-fweewbu_qti_yvhqcu_/9617"]
 southflorida.com##[data-role^="adloader adloader_ad"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
