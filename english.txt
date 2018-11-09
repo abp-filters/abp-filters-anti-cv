@@ -235,6 +235,7 @@ cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##div[id^="-ajrrjoh_dgv_liudph_/1597"]
+cnet.com##div[id^="-brzzrwp_lod_tqclxp_/9375"]
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
