@@ -126,6 +126,7 @@ medicinenet.com##.stickyColLeft
 medicinenet.com###-bqpcctgPs_ubi
 medicinenet.com###-bgxvwiPs_ubi
 medicinenet.com##.-fncf_rncegjqnfgt.-fncf
+medicinenet.com##div[id^="-hweewbu_qti_yvhqcu_/0978090"]
 cnet.com##.-mor-adi-dzig-hcd
 cnet.com##.sticky-leader
 webmd.com###-moribwh
