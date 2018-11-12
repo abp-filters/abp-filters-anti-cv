@@ -57,6 +57,7 @@ sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##.-jgj-atoz-sujark.-jgj-zuv.module
 sportingnews.com##.-jgj-atoz-sujark.-jgj-xomnz.-jotpkizkj-gj
 sportingnews.com##[data-ad-type="Section_Fronts"]
+sportingnews.com##div[id^="-csaasxq_mpe_urdmyq_/89192403"]
 allakhazam.com###row-top
 allakhazam.com###horizontal-bg
 allakhazam.com###ZAM_Vertical_ATF
@@ -264,6 +265,7 @@ gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com###sdg_rectangle_anz
 spox.com###-yqcyMlyypcLo
+spox.com##div[id^="-vpxxpun_jmb_roajvn_3333"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
