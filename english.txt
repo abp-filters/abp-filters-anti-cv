@@ -24,9 +24,6 @@ allakhazam.com##.ds_cpp
 boston.com,capitalgazette.com,carrollcountytimes.com,courant.com,ctnow.com,growthspotter.com,lajollalight.com,metacritic.com,ranchosantafereview.com,sandiegouniontribune.com,southflorida.com,thoughtcatalog.com,dayzdb.com,allakhazam.com##iframe[width="300"]
 chicagotribune.com,citypaper.com,courant.com,ctnow.com,dailypress.com##.trb_ar_rail
 chicagotribune.com,ctnow.com,ranchosantafereview.com,sandiegouniontribune.com##[data-placement-name="below-article-thumbs"]
-baltimoresun.com,carrollcountytimes.com,chicagotribune.com,courant.com,ctnow.com,dailypress.com,growthspotter.com,mcall.com,orlandosentinel.com##[data-adloader-size="300x600"]
-baltimoresun.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,courant.com,ctnow.com,dailypress.com,growthspotter.com,lajollalight.com,mcall.com,orlandosentinel.com,ranchosantafereview.com,sun-sentinel.com##[data-adloader-size="728x90"]
-chicagotribune.com,citypaper.com,lajollalight.com,southflorida.com##[data-adloader-size="970x250"]
 boston.com,metacritic.com,thoughtcatalog.com,dayzdb.com,allakhazam.com##iframe[width="728"]
 thoughtcatalog.com##iframe[width="330"]
 sun-sentinel.com###-fnyggydw_uwflwj_van
@@ -46,7 +43,6 @@ seattlepi.com##div[id^="-ruccuzs_org_wtfoas_/70551046"]
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
-mcall.com,sandiegouniontribune.com##[data-adloader-size="970x90"]
 mcall.com###-fliqqing_kocig_fkx
 mcall.com##.-flvtd_jgcfgt_cfDcppgt_eqodq
 sandiegouniontribune.com###-fmnvvnsl_pthnl_kpc
@@ -76,18 +72,13 @@ chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-courant.com##[data-role^="adloader"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
-orlandosentinel.com##[data-adloader-adtype="leaderboardcombo"]
 mamaslatinas.com##.sidebar
 mamaslatinas.com##div[id^="-czhhzex_twl_byktfx_/2940"]
 mamaslatinas.com##div[id^="-fweewbu_qti_yvhqcu_/9617"]
 mamaslatinas.com##div[id^="-npxxpun_jmb_roajvn_/2940"]
-southflorida.com##[data-role^="adloader adloader_ad"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-courant.com##[data-adloader-adtype="flexleaderboardcombo"]
-courant.com##[data-adloader-size="1280x220"]
 gamespot.com##.tynt_close_button_circle
 gamespot.com##.tynt-sidebar-content
 gamespot.com##.tynt-interstitial-overlay
@@ -186,9 +177,6 @@ tv.com###-dgzvyzm_wjoojh
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-muccuzs_org_wtfoas_/5440485"]
 americanphotomag.com###-mpobbsf
-growthspotter.com,southflorida.com,citypaper.com,hoylosangeles.com,mcall.com,sun-sentinel.com,courant.com##[data-adloader-position="leaderboardcombo"]
-growthspotter.com,lajollalight.com,courant.com##[data-adloader-position="footerleaderboardcombo"]
-lajollalight.com,courant.com##[data-adloader-position="flexleaderboardcombo"]
 ctnow.com##-muccuzs_qsbhsf_rwj
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
 sportdiver.com,marlinmag.com,yachtingmagazine.com,sportfishingmag.com,hotbikeweb.com,popphoto.com,saveur.com,islands.com,flyingmag.com##[class="st-block -morg   "]
