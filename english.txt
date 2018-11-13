@@ -67,6 +67,7 @@ allakhazam.com##.-mcga_ux
 allakhazam.com,101x.com,1070thefan.com##[amp4ads]
 allakhazam.com##div[id^="-kfnnfkd_zcr_heqzld_/21681729"]
 allakhazam.com##div[id^="-hzhhzex_twl_byktfx_/65025163"]
+allakhazam.com##div[id^="-ktbbtyr_nqf_vsenzr_/09469507"]
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 everydayhealth.com##.gmc-recommendation
