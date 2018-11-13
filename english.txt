@@ -80,6 +80,7 @@ mamaslatinas.com##.sidebar
 mamaslatinas.com##div[id^="-czhhzex_twl_byktfx_/2940"]
 mamaslatinas.com##div[id^="-fweewbu_qti_yvhqcu_/9617"]
 mamaslatinas.com##div[id^="-npxxpun_jmb_roajvn_/2940"]
+mamaslatinas.com##div[id^="-rtbbtyr_nqf_vsenzr_/6384"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 gamespot.com##.tynt_close_button_circle
