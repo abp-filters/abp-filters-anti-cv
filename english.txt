@@ -93,6 +93,7 @@ gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-bzhhzex_twl_byktfx_/47298866"]
 gamepedia.com##div[id^="-xckkcha_wzo_ebnwia_/70521199"]
 gamepedia.com##div[id^="-jjrrjoh_dgv_liudph_/81632200"]
+gamepedia.com##div[id^="-mtbbtyr_nqf_vsenzr_/81632200"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
