@@ -222,6 +222,7 @@ thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##div[id^="-urzzrwp_lod_tqclxp_/3433057"]
+thoughtcatalog.com##div[id^="-ytbbtyr_nqf_vsenzr_/5655279"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
@@ -234,6 +235,7 @@ chowhound.com##.-cqzfa-qk-cihsf
 chowhound.com###leader_bottom
 chowhound.com###glade-aslot-1
 chowhound.com##div[id^="-csxffxcv_ruj_zwirdv_5931"]
+chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_1597"]
 saveur.com##.panel-pane pane-block -mdobs-or-aobousf-l34
 baltimoresun.com###-fiwj-ferriv
 baltimoresun.com###-muccuzs_qsbhsf_rwj
