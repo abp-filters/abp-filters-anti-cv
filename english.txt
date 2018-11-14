@@ -170,6 +170,7 @@ webmd.com##div[id^="-wckkcha_wzo_ebnwia_/6534656"]
 webmd.com##div[id^="-zsaasxq_mpe_urdmyq_/6534656"]
 webmd.com##div[id^="-cpxxpun_jmb_roajvn_/3201323"]
 webmd.com##div[id^="-ftbbtyr_nqf_vsenzr_/7645767"]
+webmd.com##div[id^="-kksskpi_ehw_mjveqi_/8756878"]
 pcmag.com###-dbko-wdggwjvmy
 pcmag.com###-dbjjbgz_dhvbz_ydq
 pcmag.com###-dvyfdo_ajjozm
