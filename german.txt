@@ -478,7 +478,6 @@ spox.com##.trc_elastic
 ||giga.de^$csp=img-src 'self' * data: http: https:
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
-||t-online.de^$csp=img-src 'self' * http: https:
 t-online.de##canvas[width="800"][height="250"]
 t-online.de##canvas[width="728"][height="90"]
 t-online.de##canvas[width="970"][height="251"]
