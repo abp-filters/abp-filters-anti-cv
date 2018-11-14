@@ -214,6 +214,7 @@ everydayhealth.com##.-morg
 metacritic.com,sportingnews.com##.-mor_ibwh
 sportingnews.com##.-mor-hcd.module
 sportingnews.com##div[id^="-aowwotm_ila_qnzium_/45758069"]
+sportingnews.com##div[id^="-gvddvat_psh_xugpbt_/12425736"]
 thoughtcatalog.com##.is-initialized
 thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
 thoughtcatalog.com###aswift_0
@@ -281,6 +282,7 @@ spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com###sdg_rectangle_anz
 spox.com###-yqcyMlyypcLo
 spox.com##div[id^="-vpxxpun_jmb_roajvn_3333"]
+spox.com##div[id^="-ztbbtyr_nqf_vsenzr_90203514"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
