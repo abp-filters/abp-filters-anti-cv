@@ -144,6 +144,7 @@ medicinenet.com##.-fncf_rncegjqnfgt.-fncf
 medicinenet.com##div[id^="-hweewbu_qti_yvhqcu_/0978090"]
 medicinenet.com##div[id^="-rmuumrk_gjy_olxgsk_/0978090"]
 medicinenet.com##div[id^="-utbbtyr_nqf_vsenzr_/7645767"]
+medicinenet.com##div[id^="-hlttlqj_fix_nkwfrj_/9867989"]
 cnet.com##.-mor-adi-dzig-hcd
 cnet.com##.sticky-leader
 webmd.com###-moribwh
