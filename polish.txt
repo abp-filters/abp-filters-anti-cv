@@ -1,4 +1,4 @@
 ! #8479
-pcworld.pl,radio.pl#$#abort-on-property-read uabpdc4
+pcworld.pl,radio.pl#$#abort-on-property-read uabpdc3
 radio.pl#?#div :-abp-properties(content: "Ad";)
 pcworld.pl#?#div :-abp-properties(content: "Reklama";)

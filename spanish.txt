@@ -1,5 +1,5 @@
 ! #8479
-comunio.es,notebookcheck.org,radio.es#$#abort-on-property-read uabpdc4
+comunio.es,notebookcheck.org,radio.es#$#abort-on-property-read uabpdc3
 notebookcheck.org#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.es#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.es#?#div :-abp-properties(content: "Ad";)
