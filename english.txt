@@ -159,6 +159,7 @@ webmd.com##div[id^="-kksskpi_ehw_mjveqi_/8756878"]
 pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-jxffxcv_ruj_zwirdv_/1252"]
 pcmag.com##div[id^="-hjrrjoh_dgv_liudph_/7818"]
+pcmag.com##div[id^="-jtbbtyr_nqf_vsenzr_/7818"]
 tv.com###headerleader
 tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
 tv.com###leader_bottom
