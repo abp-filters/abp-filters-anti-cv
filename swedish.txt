@@ -1,5 +1,6 @@
 ! #8479
 notebookcheck.se,radio.se#$#abort-on-property-read uabpd3
+notebookcheck.se,radio.se#$#abort-on-property-read uabpd4
 notebookcheck.se#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.se#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.se#?#div :-abp-properties(content: "Ad";)
