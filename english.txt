@@ -188,6 +188,7 @@ metacritic.com,sportingnews.com##.-mor_ibwh
 sportingnews.com##.-mor-hcd.module
 sportingnews.com##div[id^="-aowwotm_ila_qnzium_/45758069"]
 sportingnews.com##div[id^="-gvddvat_psh_xugpbt_/12425736"]
+sportingnews.com##div[id^="-luccuzs_org_wtfoas_/01314625"]
 thoughtcatalog.com##.is-initialized
 thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
 thoughtcatalog.com###aswift_0
@@ -196,6 +197,7 @@ thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##div[id^="-urzzrwp_lod_tqclxp_/3433057"]
 thoughtcatalog.com##div[id^="-ytbbtyr_nqf_vsenzr_/5655279"]
+thoughtcatalog.com##div[id^="-mrzzrwp_lod_tqclxp_/3433057"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
@@ -206,6 +208,7 @@ chowhound.com###leader_bottom
 chowhound.com###glade-aslot-1
 chowhound.com##div[id^="-csxffxcv_ruj_zwirdv_5931"]
 chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_1597"]
+chowhound.com##div[id^="-daiiafy_uxm_czlugy_8264"]
 chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com###-dbjjbgz_dhvbz_ydq
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
