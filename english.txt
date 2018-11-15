@@ -46,6 +46,8 @@ seattlepi.com##div[id^="-gyggydw_svk_axjsew_/14995480"]
 seattlepi.com##div[id^="-ruccuzs_org_wtfoas_/70551046"]
 seattlepi.com##div[id^="-uzhhzex_twl_byktfx_/25006591/"]
 seattlepi.com##div[id^="-upktiixk"]
+seattlepi.com##div[id^="-kidmbbq"]
+seattlepi.com##div[id^="-ksaasxq_mpe_urdmyq_/58339824"]
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
@@ -80,6 +82,7 @@ dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-t
 mamaslatinas.com##.sidebar
 mamaslatinas.com##div[id^="-rtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##div[id^="-gemmejc_ybq_gdpykc_/7495"]
+mamaslatinas.com##div[id^="-hweewbu_qti_yvhqcu_/9617"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 gamespot.com##.tynt_close_button_circle
