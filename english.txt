@@ -178,6 +178,7 @@ tv.com###-batpstg_qdiidb
 tv.com###-dgzvyzm_wjoojh
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-muccuzs_org_wtfoas_/5440485"]
+slickdeals.net##div[id^="-evddvat_psh_xugpbt_/6551596"]
 americanphotomag.com###-mpobbsf
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
