@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck-tr.com#$#abort-on-property-read uabpRnd
+notebookcheck-tr.com#$#abort-on-property-read uabpnewinject
 notebookcheck-tr.com#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 
 ! #9276

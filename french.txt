@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.biz,radio.fr,sport365.fr#$#abort-on-property-read uabpRnd
+notebookcheck.biz,radio.fr,sport365.fr#$#abort-on-property-read uabpnewinject
 notebookcheck.biz#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.fr#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.fr#?#div :-abp-properties(content: "Ad";)
