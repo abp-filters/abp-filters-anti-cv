@@ -135,6 +135,7 @@ medicinenet.com###-bgxvwiPs_ubi
 medicinenet.com##div[id^="-utbbtyr_nqf_vsenzr_/7645767"]
 medicinenet.com##div[id^="-hlttlqj_fix_nkwfrj_/9867989"]
 medicinenet.com##div[id^="-ivddvat_psh_xugpbt_/9867989"]
+medicinenet.com##div[id^="-flttlqj_fix_nkwfrj_/9867989"]
 cnet.com##.sticky-leader
 webmd.com###-moribwh
 webmd.com###-morg6-dcg-565-or-fwuvh
