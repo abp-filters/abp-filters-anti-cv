@@ -135,6 +135,7 @@ medicinenet.com###-bgxvwiPs_ubi
 medicinenet.com##div[id^="-utbbtyr_nqf_vsenzr_/7645767"]
 medicinenet.com##div[id^="-hlttlqj_fix_nkwfrj_/9867989"]
 medicinenet.com##div[id^="-ivddvat_psh_xugpbt_/9867989"]
+medicinenet.com##div[id^="-flttlqj_fix_nkwfrj_/9867989"]
 cnet.com##.sticky-leader
 webmd.com###-moribwh
 webmd.com###-morg6-dcg-565-or-fwuvh
@@ -158,6 +159,7 @@ webmd.com##[data-block-codes]
 webmd.com##div[id^="-ftbbtyr_nqf_vsenzr_/7645767"]
 webmd.com##div[id^="-kksskpi_ehw_mjveqi_/8756878"]
 webmd.com##div[id^="-nqyyqvo_knc_spbkwo_/4312434"]
+webmd.com##div[id^="-srzzrwp_lod_tqclxp_/5423545"]
 pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-jxffxcv_ruj_zwirdv_/1252"]
 pcmag.com##div[id^="-hjrrjoh_dgv_liudph_/7818"]
