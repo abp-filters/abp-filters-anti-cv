@@ -1,4 +1,4 @@
 ! #8479
-radio.dk#$#abort-on-property-read uabpdc3
+radio.dk#$#abort-on-property-read uabpRnd
 radio.dk#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.dk#?#div :-abp-properties(content: "Ad";)
