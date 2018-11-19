@@ -61,6 +61,7 @@ sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
 sportingnews.com##div[id^="-csaasxq_mpe_urdmyq_/89192403"]
 sportingnews.com##div[id^="-demmejc_ybq_gdpykc_/01314625"]
+sportingnews.com##div[id^="-nuccuzs_org_wtfoas_/01314625"]
 allakhazam.com###row-top
 allakhazam.com###horizontal-bg
 allakhazam.com###ZAM_Vertical_ATF
@@ -218,6 +219,7 @@ thoughtcatalog.com##div[id^="-urzzrwp_lod_tqclxp_/3433057"]
 thoughtcatalog.com##div[id^="-ytbbtyr_nqf_vsenzr_/5655279"]
 thoughtcatalog.com##div[id^="-mrzzrwp_lod_tqclxp_/3433057"]
 thoughtcatalog.com##div[id^="-qzhhzex_twl_byktfx_/121183"]
+thoughtcatalog.com##div[id^="-onvvnsl_hkz_pmyhtl_/9099613"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
