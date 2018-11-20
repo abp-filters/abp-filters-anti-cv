@@ -45,10 +45,10 @@ seattlepi.com##div[id^="-uzhhzex_twl_byktfx_/25006591/"]
 seattlepi.com##div[id^="-upktiixk"]
 seattlepi.com##div[id^="-kidmbbq"]
 seattlepi.com##div[id^="-uytcrrgtNkp"]
-seattlepi.com##div[id^="-lsnwl"]
+seattlepi.com##div[id^="-cidmbb"]
 seattlepi.com##div[id^="-ksaasxq_mpe_urdmyq_/58339824"]
 seattlepi.com##div[id^="-uiqqing_cfu_khtcog_/58339824"]
-seattlepi.com##div[id^="-lckkcha_wzo_ebnwia_/58339824"]
+seattlepi.com##div[id^="-csaasxq_mpe_urdmyq_/58339824"]
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
@@ -79,7 +79,7 @@ cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
 mamaslatinas.com##.sidebar
-mamaslatinas.com##div[id^="-jaiiafy_uxm_czlugy_/3051"]
+mamaslatinas.com##div[id^="-aqyyqvo_knc_spbkwo_/3051"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 gamespot.com##.tynt_close_button_circle
@@ -91,7 +91,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-hyggydw_svk_axjsew_/36187755"]
+gamepedia.com##div[id^="-yowwotm_ila_qnzium_/36187755"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
@@ -150,7 +150,7 @@ tv.com##[class="-bps leader"]
 tv.com###-batpstg_qdiidb
 tv.com###-dgzvyzm_wjoojh
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-evddvat_psh_xugpbt_/6551596"]
+slickdeals.net##div[id^="-mdlldib_xap_fcoxjb_/4339374"]
 americanphotomag.com###-mpobbsf
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
