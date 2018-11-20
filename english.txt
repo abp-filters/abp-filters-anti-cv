@@ -128,6 +128,7 @@ klbjfm.com##div[id^="-edlldib_xap_fcoxjb_/9065"]
 klbjfm.com##div[id^="-gxffxcv_ruj_zwirdv_/3409"]
 klbjfm.com##div[id^="-knvvnsl_hkz_pmyhtl_/3409"]
 klbjfm.com##div[id^="-izhhzex_twl_byktfx_/5621"]
+klbjfm.com##div[id^="-zpxxpun_jmb_roajvn_/5621"]
 101x.com##div[id^="-ssaasxq_mpe_urdmyq_/8954"]
 101x.com##div[id^="-llttlqj_fix_nkwfrj_/1287"]
 101x.com##div[id^="-rtbbtyr_nqf_vsenzr_/9065"]
@@ -135,6 +136,7 @@ klbjfm.com##div[id^="-izhhzex_twl_byktfx_/5621"]
 101x.com##div[id^="-bdlldib_xap_fcoxjb_/9065"]
 101x.com##div[id^="-rbjjbgz_vyn_damvhz_/7843"]
 101x.com##div[id^="-evddvat_psh_xugpbt_/1287"]
+101x.com##div[id^="-vksskpi_ehw_mjveqi_/0176"]
 1070thefan.com##.-luxpylncmygyhn-jfuwybifxyl
 1070thefan.com##div[id^="-wweewbu_qti_yvhqcu_/2398"]
 1070thefan.com##div[id^="-ztbbtyr_nqf_vsenzr_/9065"]
@@ -142,6 +144,7 @@ klbjfm.com##div[id^="-izhhzex_twl_byktfx_/5621"]
 1070thefan.com##div[id^="-ackkcha_wzo_ebnwia_/8954"]
 1070thefan.com##div[id^="-qaiiafy_uxm_czlugy_/6732"]
 1070thefan.com##div[id^="-fweewbu_qti_yvhqcu_/2398"]
+1070thefan.com##div[id^="-wlttlqj_fix_nkwfrj_/1287"]
 saltwatersportsman.com##[alt="Advertisement"]
 medicinenet.com##iframe[height="200"]
 medicinenet.com###-mfwuvhOr_frf
@@ -214,6 +217,7 @@ sportingnews.com##.-mor-hcd.module
 sportingnews.com##div[id^="-aowwotm_ila_qnzium_/45758069"]
 sportingnews.com##div[id^="-gvddvat_psh_xugpbt_/12425736"]
 sportingnews.com##div[id^="-luccuzs_org_wtfoas_/01314625"]
+sportingnews.com##div[id^="-ubjjbgz_vyn_damvhz_/78081392"]
 thoughtcatalog.com##.is-initialized
 thoughtcatalog.com##[data-ad-unit="MRec_Article_Above_Fold"]
 thoughtcatalog.com###aswift_0
@@ -225,6 +229,7 @@ thoughtcatalog.com##div[id^="-ytbbtyr_nqf_vsenzr_/5655279"]
 thoughtcatalog.com##div[id^="-mrzzrwp_lod_tqclxp_/3433057"]
 thoughtcatalog.com##div[id^="-qzhhzex_twl_byktfx_/121183"]
 thoughtcatalog.com##div[id^="-onvvnsl_hkz_pmyhtl_/9099613"]
+thoughtcatalog.com##div[id^="-gzhhzex_twl_byktfx_/1211835"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
@@ -238,6 +243,7 @@ chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_1597"]
 chowhound.com##div[id^="-daiiafy_uxm_czlugy_8264"]
 chowhound.com##div[id^="-pyggydw_svk_axjsew_6042"]
 chowhound.com##div[id^="-gxffxcv_ruj_zwirdv_5931"]
+chowhound.com##div[id^="-xmuumrk_gjy_olxgsk_4820"]
 chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com###-dbjjbgz_dhvbz_ydq
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
