@@ -92,7 +92,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-ptbbtyr_nqf_vsenzr_/81632200"]
+gamepedia.com##div[id^="-pweewbu_qti_yvhqcu_/14965533"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
