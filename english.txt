@@ -140,7 +140,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bqyyqvo_knc_spbkwo_/4312434"]
+webmd.com##div[id^="-bvddvat_psh_xugpbt_/9867989"]
 pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gqyyqvo_knc_spbkwo_/4585"]
 tv.com###headerleader
