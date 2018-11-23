@@ -1,7 +1,5 @@
 ! #8479
-notebookcheck.net,pons.com,radio.net,reuters.com#$#abort-on-property-read uabpPl
-||reutersmedia.net/resources_v*/*$image,domain=www.reuters.com|uk.reuters.com
-@@||reutersmedia.net/resources_v2/*$image,domain=www.reuters.com|uk.reuters.com
+||reuters.com/resources/r/?m=*&d=*&t=*&i=*&w=00*&r=*$image,domain=reuters.com
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.net#?#div :-abp-properties(content: "Ad";)
