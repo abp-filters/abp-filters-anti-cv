@@ -144,12 +144,7 @@ webmd.com##div[id^="-bweewbu_qti_yvhqcu_/0978090"]
 pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-guccuzs_org_wtfoas_/8929"]
 tv.com###headerleader
-tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
 tv.com###leader_bottom
-tv.com###-mhopcczo-awr-aowb-qcziab-hviapbowzg
-tv.com##[class="-bps leader"]
-tv.com###-batpstg_qdiidb
-tv.com###-dgzvyzm_wjoojh
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-dtbbtyr_nqf_vsenzr_/4339374"]
 americanphotomag.com###-mpobbsf
