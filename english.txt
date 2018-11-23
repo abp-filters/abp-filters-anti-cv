@@ -49,7 +49,7 @@ seattlepi.com##div[id^="-uytcrrgtNkp"]
 seattlepi.com##div[id^="-cidmbb"]
 seattlepi.com##div[id^="-ksaasxq_mpe_urdmyq_/58339824"]
 seattlepi.com##div[id^="-uiqqing_cfu_khtcog_/58339824"]
-seattlepi.com##div[id^="-csaasxq_mpe_urdmyq_/58339824"]
+seattlepi.com##div[id^="-pbjjbgz_vyn_damvhz_/47228713"]
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
@@ -62,7 +62,7 @@ sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
-sportingnews.com##div[id^="-gweewbu_qti_yvhqcu_/23536847"]
+sportingnews.com##div[id^="-gxffxcv_ruj_zwirdv_/34647958"]
 allakhazam.com###row-top
 allakhazam.com###horizontal-bg
 allakhazam.com###ZAM_Vertical_ATF
@@ -80,7 +80,7 @@ cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 dailypress.com,orlandosentinel.com##[data-parent-placement-name="below-article-thumbs"]
 mamaslatinas.com##.sidebar
-mamaslatinas.com##div[id^="-aqyyqvo_knc_spbkwo_/3051"]
+mamaslatinas.com##div[id^="-msaasxq_mpe_urdmyq_/5273"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 gamespot.com##.tynt_close_button_circle
@@ -145,8 +145,10 @@ pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-guccuzs_org_wtfoas_/8929"]
 tv.com###headerleader
 tv.com###leader_bottom
+tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
+tvguide.com##div[id^="-muccuzs_org_wtfoas_/2608"]
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-dtbbtyr_nqf_vsenzr_/4339374"]
+slickdeals.net##div[id^="-dweewbu_qti_yvhqcu_/7662607"]
 americanphotomag.com###-mpobbsf
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
@@ -169,16 +171,17 @@ thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
-thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
+thoughtcatalog.com##div[id^="-htbbtyr_nqf_vsenzr_/5655279"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
 emedicinehealth.com###-mOR_Hcd_frf
+edmunds.com##div[id^="-muccuzs_org_wtfoas_19982205"]
 chowhound.com##[id="leader_plus_top"]
 chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
 chowhound.com###glade-aslot-1
-chowhound.com##div[id^="-fmuumrk_gjy_olxgsk_4820"]
+chowhound.com##div[id^="-fnvvnsl_hkz_pmyhtl_5931"]
 chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com###-dbjjbgz_dhvbz_ydq
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
