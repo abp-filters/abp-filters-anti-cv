@@ -92,7 +92,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-pweewbu_qti_yvhqcu_/14965533"]
+gamepedia.com##div[id^="-pxffxcv_ruj_zwirdv_/25076644"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
@@ -108,7 +108,7 @@ klbjfm.com###taw0
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com,1070thefan.com,mustangandfords.com,pcmag.com,sportfishingmag.com###-cuccuzs_waous_rwj
-klbjfm.com##div[id^="-byggydw_svk_axjsew_/4510"]
+klbjfm.com##div[id^="-bzhhzex_twl_byktfx_/5621"]
 101x.com##div[id^="-crzzrwp_lod_tqclxp_/7843"]
 1070thefan.com##div[id^="-klttlqj_fix_nkwfrj_/1287"]
 saltwatersportsman.com##[alt="Advertisement"]
@@ -140,9 +140,9 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bvddvat_psh_xugpbt_/9867989"]
+webmd.com##div[id^="-bweewbu_qti_yvhqcu_/0978090"]
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gtbbtyr_nqf_vsenzr_/7818"]
+pcmag.com##div[id^="-guccuzs_org_wtfoas_/8929"]
 tv.com###headerleader
 tv.com###-mhopcczo-fwuvh-fowz-hviapbowzg
 tv.com###leader_bottom
