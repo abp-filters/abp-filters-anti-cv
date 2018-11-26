@@ -47,7 +47,7 @@ seattlepi.com##div[id^="-uytcrrgtNkp"]
 seattlepi.com##div[id^="-psnwll"]
 seattlepi.com##div[id^="-ksaasxq_mpe_urdmyq_/58339824"]
 seattlepi.com##div[id^="-uiqqing_cfu_khtcog_/58339824"]
-seattlepi.com##div[id^="-pbjjbgz_vyn_damvhz_/47228713"]
+seattlepi.com##div[id^="-pckkcha_wzo_ebnwia_/58339824"]
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
