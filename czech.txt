@@ -193,3 +193,6 @@ novinky.cz##img[src*="//www.novinky.cz/eh"]
 sport.cz##img[src*="//www.sport.cz/eh"]
 super.cz##img[src*="//www.super.cz/eh"]
 super.cz##iframe[id^="cutuwepime"]
+novinky.cz#$#abort-on-property-read sssp
+sport.cz#$#abort-on-property-read adverts
+super.cz#$#abort-on-property-read adPositions
