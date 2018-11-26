@@ -147,7 +147,8 @@ tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
 tvguide.com##div[id^="-muccuzs_org_wtfoas_/2608"]
 cbssports.com,metrolyrics.com##div[id^="-muccuzs_org_wtfoas_/2608"]
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-dweewbu_qti_yvhqcu_/7662607"]
+slickdeals.net##div[id^="-dxffxcv_ruj_zwirdv_/8773718"]
+slickdeals.net###giveawayItem
 americanphotomag.com###-mpobbsf
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
