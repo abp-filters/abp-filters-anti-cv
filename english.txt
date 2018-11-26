@@ -145,8 +145,8 @@ pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gvddvat_psh_xugpbt_/9030"]
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
-tvguide.com##div[id^="-muccuzs_org_wtfoas_/2608"]
+tv.com##div[id^="-dckkcha_wzo_ebnwia_/0486"]
+tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
 cbssports.com,metrolyrics.com##div[id^="-muccuzs_org_wtfoas_/2608"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-dxffxcv_ruj_zwirdv_/8773718"]
