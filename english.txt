@@ -145,6 +145,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
 tvguide.com##div[id^="-muccuzs_org_wtfoas_/2608"]
+cbssports.com##div[id^="-muccuzs_org_wtfoas_/2608"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-dweewbu_qti_yvhqcu_/7662607"]
 americanphotomag.com###-mpobbsf
