@@ -60,7 +60,7 @@ sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
-sportingnews.com##div[id^="-gxffxcv_ruj_zwirdv_/34647958"]
+sportingnews.com##div[id^="-gyggydw_svk_axjsew_/45758069"]
 allakhazam.com###row-top
 allakhazam.com###horizontal-bg
 allakhazam.com###ZAM_Vertical_ATF
