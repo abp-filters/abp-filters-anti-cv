@@ -138,9 +138,9 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bweewbu_qti_yvhqcu_/0978090"]
+webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-guccuzs_org_wtfoas_/8929"]
+pcmag.com##div[id^="-gvddvat_psh_xugpbt_/9030"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
