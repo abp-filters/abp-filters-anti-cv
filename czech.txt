@@ -3,3 +3,12 @@ search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a[href^="http://s.
 novinky.cz#$#abort-on-property-read sssp
 sport.cz#$#abort-on-property-read adverts
 super.cz#$#abort-on-property-read adPositions
+kupi.cz##div[style="margin-bottom: -30px;"]
+kupi.cz##div[style*="background-image :"]
+kupi.cz##.static_bottom
+kupi.cz##.sklik-middle
+kupi.cz##.kupi_midle_holder
+kupi.cz##.kupi_top_holder
+kupi.cz##iframe[src^="//www.kupi.cz/sH"]
+kupi.cz###pageCutBanner_creative
+obrazky.cz###sklik-pla-original
