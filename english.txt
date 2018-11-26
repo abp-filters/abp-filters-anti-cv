@@ -177,7 +177,9 @@ emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
 emedicinehealth.com###-mzsthOr_frf
 emedicinehealth.com###-mOR_Hcd_frf
-edmunds.com##div[id^="-muccuzs_org_wtfoas_19982205"]
+edmunds.com##div[id^="-mckkcha_wzo_ebnwia_97760083"]
+edmunds.com##div[class^="-mwz-ywnkqoah"]
+edmunds.com##div[class^="-mbawpqnaz"]
 chowhound.com##[id="leader_plus_top"]
 chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
