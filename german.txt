@@ -237,7 +237,4 @@ t-online.de##canvas[width="861"][height="250"]
 t-online.de##canvas[width="801"][height="205"]
 
 ! #17364
-wetteronline.de###topcontainer
-wetteronline.de###rightcontainer
-wetteronline.de##[amp4ads]
-wetteronline.de##[data-google-query-id]
+wetteronline.de#$#abort-on-property-read $getWin
