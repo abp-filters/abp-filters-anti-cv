@@ -71,7 +71,7 @@ allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 everydayhealth.com##.gmc-recommendation
-everydayhealth.com##div[id^="-ebjjbgz_vyn_damvhz_/5324"]
+everydayhealth.com##div[id^="-eckkcha_wzo_ebnwia_/6435"]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
@@ -174,7 +174,7 @@ thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
-thoughtcatalog.com##div[id^="-huccuzs_org_wtfoas_/6766380"]
+thoughtcatalog.com##div[id^="-hxffxcv_ruj_zwirdv_/9099613"]
 thoughtcatalog.com##ins[id^="-hogkwth"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 emedicinehealth.com###-mfwuvhOr_frf
