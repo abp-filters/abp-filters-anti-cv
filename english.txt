@@ -91,6 +91,7 @@ gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pbjjbgz_vyn_damvhz_/69410088"]
+metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
