@@ -1,8 +1,8 @@
 ! #9056
 search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a[href^="http://s.imedia.cz/click?adurl="])
-novinky.cz#$#abort-on-property-read sssp
+novinky.cz#$#abort-on-property-read cccp
 sport.cz#$#abort-on-property-read adverts
-super.cz#$#abort-on-property-read adPositions
+super.cz#$#abort-on-property-read pozice
 kupi.cz##div[style="margin-bottom: -30px;"]
 kupi.cz##div[style*="background-image :"]
 kupi.cz##.static_bottom
