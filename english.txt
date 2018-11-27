@@ -145,7 +145,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dfnnfkd_zcr_heqzld_/3719"]
 tvguide.com##div[id^="-nfnnfkd_zcr_heqzld_/3719"]
-cbssports.com,metrolyrics.com##div[id^="-muccuzs_org_wtfoas_/2608"]
+cbssports.com##div[id^="-nxffxcv_ruj_zwirdv_/5931"]
 metrolyrics.com##div[id^="-naiiafy_uxm_czlugy_/8264"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-dxffxcv_ruj_zwirdv_/8773718"]
