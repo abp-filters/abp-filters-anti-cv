@@ -12,3 +12,4 @@ kupi.cz##.kupi_top_holder
 kupi.cz##iframe[src^="//www.kupi.cz/sH"]
 kupi.cz###pageCutBanner_creative
 obrazky.cz###sklik-pla-original
+kupi.cz##.adts_block
