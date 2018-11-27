@@ -90,7 +90,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-pyggydw_svk_axjsew_/36187755"]
+gamepedia.com##div[id^="-pbjjbgz_vyn_damvhz_/69410088"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
@@ -106,9 +106,9 @@ klbjfm.com###taw0
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com,1070thefan.com,mustangandfords.com,pcmag.com,sportfishingmag.com###-cuccuzs_waous_rwj
-klbjfm.com##div[id^="-baiiafy_uxm_czlugy_/6732"]
-101x.com##div[id^="-csaasxq_mpe_urdmyq_/8954"]
-1070thefan.com##div[id^="-kmuumrk_gjy_olxgsk_/2398"]
+klbjfm.com##div[id^="-bdlldib_xap_fcoxjb_/9065"]
+101x.com##div[id^="-cvddvat_psh_xugpbt_/9030"]
+1070thefan.com##div[id^="-kpxxpun_jmb_roajvn_/5621"]
 saltwatersportsman.com##[alt="Advertisement"]
 medicinenet.com##iframe[height="200"]
 medicinenet.com###-mfwuvhOr_frf
