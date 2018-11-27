@@ -1,5 +1,5 @@
 ! #8479
-||reuters.com/resources/r/?*&w=*&r=*$image,domain=reuters.com
+||reuters.com/resources/r/?$image
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
 radio.net#?#div :-abp-properties(content: "Ad";)
