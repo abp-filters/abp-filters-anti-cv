@@ -1,8 +1,6 @@
 ! #8479
-||reuters.com/resources/r/?$image
+||reuters.com/resources/r/?$image,domain=reuters.com
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
-radio.net#?#div :-abp-properties(/content: ".*[w]?[e]?[r]?[b]?[u]?[n]?[g].*";/)
-radio.net#?#div :-abp-properties(content: "Ad";)
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
