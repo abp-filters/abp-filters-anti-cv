@@ -91,7 +91,7 @@ gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-plttlqj_fix_nkwfrj_/03854422"]
-metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
+metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
 metacritic.com##.leader
@@ -144,10 +144,10 @@ pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-dfnnfkd_zcr_heqzld_/3719"]
-tvguide.com##div[id^="-nfnnfkd_zcr_heqzld_/3719"]
+tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
+tvguide.com##div[id^="-nowwotm_ila_qnzium_/6042"]
 cbssports.com##div[id^="-nemmejc_ybq_gdpykc_/2608"]
-metrolyrics.com##div[id^="-naiiafy_uxm_czlugy_/8264"]
+metrolyrics.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
 slickdeals.net###giveawayItem
