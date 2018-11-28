@@ -71,7 +71,7 @@ allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 everydayhealth.com##.gmc-recommendation
-everydayhealth.com##div[id^="-eckkcha_wzo_ebnwia_/6435"]
+everydayhealth.com##div[id^="-ejrrjoh_dgv_liudph_/7546"]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
@@ -90,7 +90,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-pbjjbgz_vyn_damvhz_/69410088"]
+gamepedia.com##div[id^="-plttlqj_fix_nkwfrj_/03854422"]
 metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
 metacritic.com##.-dvy_pido
 metacritic.com###-batpstg_qdiidb
@@ -141,12 +141,12 @@ webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gyggydw_svk_axjsew_/2363"]
+pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dfnnfkd_zcr_heqzld_/3719"]
 tvguide.com##div[id^="-nfnnfkd_zcr_heqzld_/3719"]
-cbssports.com##div[id^="-nxffxcv_ruj_zwirdv_/5931"]
+cbssports.com##div[id^="-nemmejc_ybq_gdpykc_/2608"]
 metrolyrics.com##div[id^="-naiiafy_uxm_czlugy_/8264"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
