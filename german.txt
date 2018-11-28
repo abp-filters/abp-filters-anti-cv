@@ -236,7 +236,8 @@ serienjunkies.de#?#:-abp-properties(margin-bottom: 5px; position: relative; righ
 wetteronline.de#?#:-abp-properties(max-height: 260px; max-width: 300px;) > img
 wetteronline.de#?#:-abp-properties(width: 1000.*px;)
 ||static.radio.de/images/*$image,domain=radio.dk|radio.net|radio.fr|radio.at|radio.it|radio.pl|radio.pt|radio.es|radio.se
-||images.finanzen.net/mediacenter/*.png$image,domain=finanzen.net
+@@||images.finanzen.net/mediacenter/unsortiert^$image,domain=finanzen.net
+||images.finanzen.net/mediacenter/*.jpg|$image,domain=finanzen.net
 ||dywolfer.de^$image,domain=finanzen.net
 ||alysson.de^$image,domain=finanzen.net
 ||benelph.de^$image,domain=finanzen.net
