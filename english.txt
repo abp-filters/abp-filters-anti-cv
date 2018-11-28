@@ -140,6 +140,8 @@ webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
+webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
+g00.webmd.com##body > div
 pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
 tv.com###headerleader
