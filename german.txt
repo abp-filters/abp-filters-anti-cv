@@ -105,6 +105,7 @@ wetteronline.de#?#:-abp-properties(width: 1000.*px;)
 ||benelph.de^$image,domain=finanzen.net
 ||gearwom.de^$image,domain=finanzen.net
 ||bjakku.com^$image,domain=finanzen.net
+||bupatp.com^$image,domain=finanzen.net
 gipfelbuch.ch###header_top
 playboy.de##div[data-ad-comment^="ForwardAdGroup"]
 playboy.de###forag-skyscraper-wrapper
