@@ -130,3 +130,5 @@ t-online.de##canvas[width="801"][height="205"]
 
 ! #17364
 wetteronline.de#$#abort-on-property-read $getWin
+wetteronline.de###topcontainer
+wetteronline.de###rightcontainer
