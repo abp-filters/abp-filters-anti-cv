@@ -12,8 +12,7 @@ kupi.cz##iframe[src^="//www.kupi.cz/sH"]
 kupi.cz###pageCutBanner_creative
 obrazky.cz###sklik-pla-original
 kupi.cz##.adts_block
-super.cz##div[id*="_overrride"]
-novinky.cz##iframe[src^="//www.novinky.cz/BY"]
-sport.cz##iframe[src^="//www.sport.cz/BY"]
-sport.cz##img[src^="//www.sport.cz/BY"]
-super.cz##img[src*="//www.super.cz/BY"]
+novinky.cz##iframe[src^="//www.novinky.cz/Mt"]
+sport.cz##iframe[src^="//www.sport.cz/Mt"]
+sport.cz##img[src^="//www.sport.cz/Mt"]
+super.cz##img[src*="//www.super.cz/Mt"]
