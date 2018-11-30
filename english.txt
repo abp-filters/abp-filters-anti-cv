@@ -113,7 +113,7 @@ pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
-tvguide.com##div[id^="-nowwotm_ila_qnzium_/6042"]
+tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 cbssports.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
 metrolyrics.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
 slickdeals.net##.sideGridBox.abc
