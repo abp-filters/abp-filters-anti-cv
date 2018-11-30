@@ -75,7 +75,7 @@ gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-plttlqj_fix_nkwfrj_/03854422"]
-metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
+metacritic.com##div[id^="-ovddvat_psh_xugpbt_/3719"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
 metacritic.com##.side_recommend
@@ -109,7 +109,7 @@ webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 g00.webmd.com##body > div
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
+pcmag.com##div[id^="-gemmejc_ybq_gdpykc_/8929"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
@@ -163,7 +163,7 @@ cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
-cnet.com##div[id^="-ezhhzex_twl_byktfx_/7153"]
+cnet.com##div[id^="-eaiiafy_uxm_czlugy_/8264"]
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
