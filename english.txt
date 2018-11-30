@@ -138,9 +138,9 @@ thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/5655279"]
 thoughtcatalog.com##ins[id^="-hogkwth"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
-edmunds.com##div[id^="-nfnnfkd_zcr_heqzld_20093316"]
-edmunds.com##div[class^="-nedzstqdc-ronskhfgs"]
-edmunds.com##div[class^="-mbawpqnaz"]
+edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
+edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
+edmunds.com##div[id^="-nmuumrk_gjy_olxgsk_31104427"]
 chowhound.com##[id="leader_plus_top"]
 chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
