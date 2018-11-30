@@ -55,7 +55,7 @@ allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 everydayhealth.com##.gmc-recommendation
-everydayhealth.com##div[id^="-ejrrjoh_dgv_liudph_/7546"]
+everydayhealth.com##div[id^="-envvnsl_hkz_pmyhtl_/1980"]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
