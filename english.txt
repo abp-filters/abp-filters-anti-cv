@@ -1,5 +1,5 @@
 ! #8479
-||reuters.com/resources/d/*$image,domain=reuters.com
+||reuters.com/resources/e/*$image,domain=reuters.com
 notebookcheck.net#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 
 ! #9276
