@@ -115,7 +115,7 @@ tv.com###leader_bottom
 tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
 tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 cbssports.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
-metrolyrics.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
+metrolyrics.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
 slickdeals.net###giveawayItem
