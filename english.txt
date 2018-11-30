@@ -88,8 +88,8 @@ klbjfm.com###taw0
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com,1070thefan.com,mustangandfords.com,pcmag.com,sportfishingmag.com###-cuccuzs_waous_rwj
-klbjfm.com##div[id^="-bnvvnsl_hkz_pmyhtl_/3409"]
-101x.com##div[id^="-czhhzex_twl_byktfx_/5621"]
+klbjfm.com##div[id^="-brzzrwp_lod_tqclxp_/7843"]
+101x.com##div[id^="-cemmejc_ybq_gdpykc_/0176"]
 1070thefan.com##div[id^="-kvddvat_psh_xugpbt_/1287"]
 saltwatersportsman.com##[alt="Advertisement"]
 medicinenet.com##iframe[height="200"]
@@ -114,7 +114,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
 tvguide.com##div[id^="-nowwotm_ila_qnzium_/6042"]
-cbssports.com##div[id^="-nemmejc_ybq_gdpykc_/2608"]
+cbssports.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
 metrolyrics.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
