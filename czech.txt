@@ -1,7 +1,5 @@
 ! #9056
 search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a[href^="http://s.imedia.cz/click?adurl="])
-novinky.cz#$#abort-on-property-read cccp
-super.cz#$#abort-on-property-read pozice
 kupi.cz##div[style="margin-bottom: -30px;"]
 kupi.cz##div[style*="background-image :"]
 kupi.cz##.static_bottom
@@ -12,9 +10,9 @@ kupi.cz##iframe[src^="//www.kupi.cz/sH"]
 kupi.cz###pageCutBanner_creative
 obrazky.cz###sklik-pla-original
 kupi.cz##.adts_block
-sport.cz##iframe[src^="//www.sport.cz/dk"]
-novinky.cz##iframe[src^="//www.novinky.cz/Ox"]
-sport.cz##iframe[src^="//www.sport.cz/Ox"]
-super.cz##img[src*="//www.super.cz/Ox"]
-sport.cz##img[src^="//www.sport.cz/Ox"]
 sport.cz##.produkt
+novinky.cz##iframe[src^="//www.novinky.cz/tJ"]
+super.cz##img[src^="//www.super.cz/tJ"]
+super.cz##iframe[src*="context?url="]
+sport.cz##iframe[src^="//www.sport.cz/tJ"]
+sport.cz##img[src^="//www.sport.cz/tJ"]
