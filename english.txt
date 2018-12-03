@@ -109,7 +109,7 @@ webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 g00.webmd.com##body > div
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gemmejc_ybq_gdpykc_/8929"]
+pcmag.com##div[id^="-gjrrjoh_dgv_liudph_/7818"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
