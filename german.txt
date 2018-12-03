@@ -179,16 +179,6 @@ t-online.de##canvas[width="861"][height="250"]
 t-online.de##canvas[width="801"][height="205"]
 
 ! #17364
-wetteronline.de#$#abort-on-property-read $getWin
+||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de
 wetteronline.de###topcontainer
 wetteronline.de###rightcontainer
-wetteronline.de##div[style="width:300px; height:250px;"]
-wetteronline.de##div[style="width:300px; max-height:90px;"]
-wetteronline.de##div[style="height: auto; width:620px;"]
-wetteronline.de##div[style="width: 300px; height: 250px;"]
-wetteronline.de##div[style="width: 300px; max-height: 90px;"]
-wetteronline.de##div[style="height: auto; width: 620px;"]
-wetteronline.de##div[style="width:640px; height:auto;"]
-wetteronline.de##div[style="height:auto; width:620px;"]
-wetteronline.de##div[style="width:640px; height:60px;"]
-wetteronline.de##div[style="width: 640px; height: 60px;"]
