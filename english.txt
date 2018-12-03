@@ -112,7 +112,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
 tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
-cbssports.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
+cbssports.com##div[id^="-nowwotm_ila_qnzium_/6042"]
 metrolyrics.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
