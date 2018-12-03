@@ -73,7 +73,7 @@ gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-psaasxq_mpe_urdmyq_/70521199"]
-metacritic.com##div[id^="-ovddvat_psh_xugpbt_/3719"]
+metacritic.com##div[id^="-ozhhzex_twl_byktfx_/7153"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
 metacritic.com##.side_recommend
@@ -110,7 +110,7 @@ pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gjrrjoh_dgv_liudph_/7818"]
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-dmuumrk_gjy_olxgsk_/4820"]
+tv.com##div[id^="-dpxxpun_jmb_roajvn_/7153"]
 tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 cbssports.com##div[id^="-nowwotm_ila_qnzium_/6042"]
 metrolyrics.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
