@@ -28,7 +28,7 @@ seattlepi.com##[data-adid]
 seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-pezixx"]
 seattlepi.com##div[id^="-powwotm_ila_qnzium_/14995480"]
-sfgate.com##div[id^="-nbjjbgz_vyn_damvhz_/47228713"]
+sfgate.com##div[id^="-nemmejc_ybq_gdpykc_/70551046"]
 ranker.com##div[id^="-nrzzrwp_lod_tqclxp_/2171717"]
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
