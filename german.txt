@@ -144,6 +144,7 @@ serienjunkies.de#?#:-abp-properties(margin-bottom: 5px; position: relative; righ
 ||gearwom.de$image,domain=finanzen.net
 ||bjakku.com^$image,domain=finanzen.net
 ||bupatp.com^$image,domain=finanzen.net
+||images.finanzen.net/mediacenter/*/img/*$image,domain=finanzen.net
 gipfelbuch.ch###header_top
 playboy.de##div[data-ad-comment^="ForwardAdGroup"]
 playboy.de###forag-skyscraper-wrapper
