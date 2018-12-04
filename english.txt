@@ -108,7 +108,8 @@ webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
 g00.webmd.com##body > div
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gjrrjoh_dgv_liudph_/7818"]
+pcmag.com##div[id^="-gpxxpun_jmb_roajvn_/3474"]
+pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-dpxxpun_jmb_roajvn_/7153"]
