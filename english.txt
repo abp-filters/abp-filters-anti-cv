@@ -107,6 +107,7 @@ webmd.com##[data-block-codes]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
+webmd.com##[data-str-iframe-visited]
 g00.webmd.com##body > div
 pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gpxxpun_jmb_roajvn_/3474"]
