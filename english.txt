@@ -138,7 +138,7 @@ thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hhpphmf_bet_jgsbnf_/9099613"]
+thoughtcatalog.com##div[id^="-hlttlqj_fix_nkwfrj_/7877491"]
 thoughtcatalog.com##ins[id^="-hogkwth"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
