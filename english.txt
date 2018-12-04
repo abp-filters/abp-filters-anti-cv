@@ -74,7 +74,7 @@ gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-psaasxq_mpe_urdmyq_/70521199"]
-metacritic.com##div[id^="-ozhhzex_twl_byktfx_/7153"]
+metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
 metacritic.com##.side_recommend
