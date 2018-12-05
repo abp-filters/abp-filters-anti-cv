@@ -66,7 +66,7 @@ gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com###-mor_ibwh
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pvddvat_psh_xugpbt_/03854422"]
-geek.com##div[id^="-muccuzs_org_wtfoas_/8929"]
+geek.com##div[id^="-mpxxpun_jmb_roajvn_/3474"]
 metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
