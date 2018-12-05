@@ -206,6 +206,6 @@ facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="
 ! #18467
 ||seekingalpha.com^$csp=img-src 'self' *
 seekingalpha.com##[alt="Advertisement"]
-seekingalpha.com##[class*="ad_container_loaded"]
+seekingalpha.com##[class="ad_container_loaded"]
 ||pijamama.net^$popup,domain=seekingalpha.com
 ||pijamama.net^$domain=seekingalpha.com
