@@ -11,7 +11,11 @@ kupi.cz###pageCutBanner_creative
 obrazky.cz###sklik-pla-original
 kupi.cz##.adts_block
 sport.cz##.produkt
-_img_$image,domain=sport.cz|novinky.cz|super.cz
 novinky.cz##div[id^="skyscraper"]
 sport.cz,super.cz###container-combi
 super.cz##iframe[width="971"][height="309"]
+super.cz##img[src^="//www.super.cz/XO"]
+sport.cz##iframe[src^="//www.sport.cz/Q1"]
+sport.cz##img[src^="//www.sport.cz/XO"]
+sport.cz##iframe[src^="//www.sport.cz/XO"]
+super.cz##iframe[src^="//www.super.cz/Qm"]
