@@ -73,7 +73,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com###-mphtzp
 gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-psaasxq_mpe_urdmyq_/70521199"]
+gamepedia.com##div[id^="-pvddvat_psh_xugpbt_/03854422"]
 geek.com##div[id^="-muccuzs_org_wtfoas_/8929"]
 metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
 metacritic.com##.leader
