@@ -29,10 +29,10 @@ boston.com##[data--sps-jcxi]
 boston.com##div[id^="-dudh"]
 boston.com##[data--dor-ibwh^="sectfront"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]
-cbssports.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
+cbssports.com##div[id^="-nuccuzs_org_wtfoas_/2608"]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
+cnet.com##div[id^="-eksskpi_ehw_mjveqi_/2608"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
@@ -67,7 +67,7 @@ gamepedia.com###-mor_ibwh
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pvddvat_psh_xugpbt_/03854422"]
 geek.com##div[id^="-mpxxpun_jmb_roajvn_/3474"]
-metacritic.com##div[id^="-odlldib_xap_fcoxjb_/1597"]
+metacritic.com##div[id^="-ofnnfkd_zcr_heqzld_/3719"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
 metacritic.com##.side_recommend
