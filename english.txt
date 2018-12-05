@@ -81,7 +81,7 @@ medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
-metrolyrics.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
+metrolyrics.com##div[id^="-nzhhzex_twl_byktfx_/7153"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 pcmag.com##iframe[width=" 728"]
