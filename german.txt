@@ -115,5 +115,14 @@ t-online.de##canvas[width="801"][height="205"]
 
 ! #17364
 ||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de
+||1q1glhn.goaz.wetteronline.de^$image,script
+||141z694.goaz.wetteronline.de^$image,script
+||1646x6m.goaz.wetteronline.de^$image,script
+||1319m87.goaz.wetteronline.de^$image,script
 wetteronline.de###topcontainer
 wetteronline.de###rightcontainer
+wetteronline.de##amp-img[src^="https://1q1glhn.goaz.wetteronline.de/"]
+wetteronline.de##amp-img[src^="https://141z694.goaz.wetteronline.de/"]
+wetteronline.de##amp-img[src^="https://1646x6m.goaz.wetteronline.de/"]
+wetteronline.de##amp-img[src^="https://1319m87.goaz.wetteronline.de/"]
+wetteronline.de##iframe[name^="g00gle_ads_iframe_"]
