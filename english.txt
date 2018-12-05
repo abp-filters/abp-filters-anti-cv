@@ -12,7 +12,6 @@ allakhazam.com###row-top
 allakhazam.com###horizontal-bg
 allakhazam.com###ZAM_Vertical_ATF
 allakhazam.com###ZAM_Horizontal_ATF
-allakhazam.com##.-mcga_ux
 allakhazam.com,101x.com,1070thefan.com##[amp4ads]
 allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
@@ -65,8 +64,6 @@ gamespot.com###leader_plus_top
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com###-mor_ibwh
-gamepedia.com###-mphtzp
-gamepedia.com###-ntlxdt
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pvddvat_psh_xugpbt_/03854422"]
 geek.com##div[id^="-muccuzs_org_wtfoas_/8929"]
@@ -93,10 +90,8 @@ pcmag.com##[class="-morywh rendered"]
 pcmag.com##div[id^="-gpxxpun_jmb_roajvn_/3474"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-ntbbtyr_nqf_vsenzr_/4393939"]
-sandiegouniontribune.com###-fmnvvnsl_pthnl_kpc
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="-nemmejc_ybq_gdpykc_/70551046"]
-southflorida.com##[data-role="adloader"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
@@ -167,8 +162,6 @@ chicagotribune.com,carrollcountytimes.com,ctnow.com,citypaper.com,growthspotter.
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,gamespot.com,hotbikeweb.com,islands.com,lolking.net,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,mustangandfords.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,seattlepi.com,yachtingmagazine.com##.trc_elastic
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
-americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-gtzhhzex_twl_byktfx_/5636"]
-americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-vbjjbgz_vyn_damvhz_/7858"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-xrzzrwp_lod_tqclxp_/7858"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com##.ntv-plc
