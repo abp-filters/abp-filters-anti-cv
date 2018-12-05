@@ -201,3 +201,10 @@ filmxy.one##.promo-contents
 
 ! #15096
 facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="hyperfeed_story_id_"]' 'div[id*="feed_subtitle_"] > span, div[id*="feed_subtitle_"] > s' '' 'display: none'; hide-if-contains /.*/ .pagelet 'a[href^="/ad__campaign/landing.php?"]'
+
+! #18467
+||seekingalpha.com^$csp=img-src 'self' *
+seekingalpha.com##[alt="Advertisement"]
+seekingalpha.com##[class*="ad_container_loaded"]
+||pijamama.net^$popup,domain=seekingalpha.com
+||pijamama.net^$domain=seekingalpha.com
