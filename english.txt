@@ -87,7 +87,7 @@ mamaslatinas.com##.sidebar
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gpxxpun_jmb_roajvn_/3474"]
+pcmag.com##div[id^="-gsaasxq_mpe_urdmyq_/6707"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-ntbbtyr_nqf_vsenzr_/4393939"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
