@@ -109,20 +109,11 @@ spox.com##.trc_elastic
 ||giga.de^$csp=img-src 'self' * data: http: https:
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
-t-online.de##canvas[width="800"][height="250"]
-t-online.de##canvas[width="728"][height="90"]
-t-online.de##canvas[width="970"][height="251"]
-t-online.de##canvas[width="728"][height="91"]
-t-online.de##canvas[width="800"][height="251"]
-t-online.de##canvas[width="728"][height="92"]
-t-online.de##canvas[width="160"][height="602"]
-t-online.de##canvas[width="970"][height="252"]
-t-online.de##canvas[width="729"][height="90"]
-t-online.de##canvas[width="161"][height="600"]
-t-online.de##canvas[width="971"][height="250"]
-t-online.de##canvas[width="801"][height="250"]
-t-online.de##canvas[width="861"][height="250"]
-t-online.de##canvas[width="801"][height="205"]
+t-online.de#?#:-abp-properties(height: 250px; width: 970px;)
+t-online.de#?#:-abp-properties(height: 250px; width: 800px;)
+t-online.de#?#:-abp-properties(max-height: 300px; max-width: 970px;)
+t-online.de#?#:-abp-properties(height: 90px; width: 728px;)
+t-online.de#?#:-abp-properties(height: 600px; width: 160px;)
 
 ! #17364
 ||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de
