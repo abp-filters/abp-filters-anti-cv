@@ -18,7 +18,7 @@ allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com,1070thefan.com,mustangandfords.com,pcmag.com,sportfishingmag.com###-cuccuzs_waous_rwj
 101x.com##div[id^="-csaasxq_mpe_urdmyq_/8954"]
-1070thefan.com##div[id^="-kbjjbgz_vyn_damvhz_/7843"]
+1070thefan.com##div[id^="-kdlldib_xap_fcoxjb_/9065"]
 klbjfm.com##div[id^="-bzhhzex_twl_byktfx_/5621"]
 klbjfm.com##[data-position]
 klbjfm.com###taw0
@@ -65,7 +65,7 @@ gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com###-mor_ibwh
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-pvddvat_psh_xugpbt_/03854422"]
+gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
 geek.com##div[id^="-mpxxpun_jmb_roajvn_/3474"]
 metacritic.com##div[id^="-ofnnfkd_zcr_heqzld_/3719"]
 metacritic.com##.leader
@@ -122,7 +122,7 @@ thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hpxxpun_jmb_roajvn_/1211835"]
+thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
