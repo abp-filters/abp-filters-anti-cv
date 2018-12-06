@@ -39,6 +39,8 @@ berliner-kurier.de,berliner-zeitung.de,express.de,ksta.de,mz-web.de,naumburger-t
 berliner-kurier.de,berliner-zeitung.de,express.de,ksta.de,mz-web.de,naumburger-tageblatt.de,rundschau-online.de,truckscout24.de,rheinische-anzeigenblaetter.de##div[style="position: absolute; left: 518.1px;"] > div > img
 berliner-kurier.de,berliner-zeitung.de,express.de,ksta.de,mz-web.de,naumburger-tageblatt.de,rundschau-online.de,truckscout24.de,rheinische-anzeigenblaetter.de#?#.dm_container > * > :-abp-properties(/max-height: 4[0-9][0-9].*px; max-width: initial;/) > img
 berliner-kurier.de,berliner-zeitung.de,express.de,ksta.de,mz-web.de,naumburger-tageblatt.de,rundschau-online.de,truckscout24.de,rheinische-anzeigenblaetter.de##div[style="position: absolute; left: 519.1px;"] > div > img
+berliner-kurier.de,berliner-zeitung.de,express.de,ksta.de,mz-web.de,naumburger-tageblatt.de,rundschau-online.de,truckscout24.de,rheinische-anzeigenblaetter.de##div[style="position: absolute; left: 520px;"] > div > img
+berliner-kurier.de,berliner-zeitung.de,express.de,ksta.de,mz-web.de,naumburger-tageblatt.de,rundschau-online.de,truckscout24.de,rheinische-anzeigenblaetter.de#?#.dm_container > * > :-abp-properties(/max-height: 6[0-9][0-9].*px; max-width: initial;/) > img
 ||static-immobilienscout24.de/fro/*$image,domain=immobilienscout24.de
 ||inside-handy.de/imagefoldrz/*$image,domain=inside-handy.de
 ||unicum.de/imagy/*$image,domain=unicum.de
