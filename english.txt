@@ -189,7 +189,7 @@ tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
 ||readarsenal.com^$csp=script-src 'self' * 'unsafe-inline'
 ||readliverpoolfc.com^$csp=script-src 'self' * 'unsafe-inline'
 ||toptenz.net^$csp=script-src 'self' * 'unsafe-inline'
-gorillavid.in#$#abort-on-property-read TextDecoder
+eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,gorillavid.in,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com,walterfootball.com#$#abort-on-property-read TextDecoder
 
 ! #10385
 4chan.org#?#div :-abp-has(div > div > div:-abp-contains(Paid Content:) + div)
