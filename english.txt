@@ -102,7 +102,7 @@ seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
 seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-pezixx"]
-seattlepi.com##div[id^="-pweewbu_qti_yvhqcu_/92773268"]
+seattlepi.com##div[id^="-pyggydw_svk_axjsew_/14995480"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com###sdg_rectangle_anz
 spox.com###-yqcyMlyypcLo
