@@ -212,3 +212,6 @@ seekingalpha.com##img[src^="blob:https://seekingalpha.com/"]
 
 ! #18476
 swatchseries.to#$#abort-on-property-read zfgloadednative
+
+! #18552
+9to5google.com,9to5mac.com,9to5toys.com,electrek.co#$#abort-on-property-read canRunAds
