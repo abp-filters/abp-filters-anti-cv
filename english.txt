@@ -4,7 +4,6 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-||c-8oqtgrjgwu0x24ugewtgrwdcfux2eix2efqwdngenkemx2epgv.g00.saltwatersportsman.com/g00/*
 dayzdb.com,allakhazam.com###ds_default_anchor
 dayzdb.com,allakhazam.com##[x-enc="id"]
 allakhazam.com##.ds_cpp
