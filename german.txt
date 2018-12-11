@@ -118,11 +118,7 @@ spox.com##.trc_elastic
 ||giga.de^$csp=img-src 'self' * data: http: https:
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
-t-online.de#?#:-abp-properties(height: 250px; width: 970px;)
-t-online.de#?#:-abp-properties(height: 250px; width: 800px;)
-t-online.de#?#:-abp-properties(max-height: 300px; max-width: 970px;)
-t-online.de#?#:-abp-properties(height: 90px; width: 728px;)
-t-online.de#?#:-abp-properties(height: 600px; width: 160px;)
+||t-online.de^$csp=img-src 'self' * data: http: https:
 
 ! #17364
 ||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de
