@@ -124,16 +124,11 @@ spox.com##.trc_elastic
 ||t-online.de^$csp=img-src 'self' * data: http: https:
 
 ! #17364
-||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de
-||1q1glhn.goaz.wetteronline.de^$image,script
-||141z694.goaz.wetteronline.de^$image,script
-||1646x6m.goaz.wetteronline.de^$image,script
-||1319m87.goaz.wetteronline.de^$image,script
 wetteronline.de###topcontainer
 wetteronline.de###rightcontainer
 wetteronline.de##div[style*="728px; height: 90px;"]
 wetteronline.de##div[style*="width:160px;height:600px;"]
 wetteronline.de##div[style*="width:300px;height:250px;"]
 wetteronline.de##div[style="min-width:120px; min-height:600px;"]
-wetteronline.de##iframe[name*="_ads_iframe_"]
+wetteronline.de##iframe[name*="_ads_iframe"]
 wetteronline.de##div[style*="width: 620px; height: 400px;"]
