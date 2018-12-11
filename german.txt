@@ -132,3 +132,4 @@ wetteronline.de##div[style*="width:300px;height:250px;"]
 wetteronline.de##div[style="min-width:120px; min-height:600px;"]
 wetteronline.de##iframe[name*="_ads_iframe"]
 wetteronline.de##div[style*="width: 620px; height: 400px;"]
+||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de www.youtube.com
