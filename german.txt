@@ -128,10 +128,6 @@ spox.com##.trc_elastic
 ||1319m87.goaz.wetteronline.de^$image,script
 wetteronline.de###topcontainer
 wetteronline.de###rightcontainer
-wetteronline.de##amp-img[src^="https://1q1glhn.goaz.wetteronline.de/"]
-wetteronline.de##amp-img[src^="https://141z694.goaz.wetteronline.de/"]
-wetteronline.de##amp-img[src^="https://1646x6m.goaz.wetteronline.de/"]
-wetteronline.de##amp-img[src^="https://1319m87.goaz.wetteronline.de/"]
 wetteronline.de##div[style*="728px; height: 90px;"]
 wetteronline.de##div[style*="width:160px;height:600px;"]
 wetteronline.de##div[style*="width:300px;height:250px;"]
