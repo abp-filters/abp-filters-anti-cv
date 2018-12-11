@@ -217,4 +217,4 @@ swatchseries.to#$#abort-on-property-read zfgloadednative
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co#$#abort-on-property-read canRunAds
 
 ! #16818
-dailymail.co.uk#$#abort-on-property-read cxrgxs
+dailymail.co.uk#$#abort-on-property-read cxrgxs_
