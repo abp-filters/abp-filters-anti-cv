@@ -65,8 +65,8 @@ gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com###-mor_ibwh
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
-geek.com##div[id^="-msaasxq_mpe_urdmyq_/6707"]
-metacritic.com##div[id^="-ofnnfkd_zcr_heqzld_/3719"]
+geek.com##div[id^="-mvddvat_psh_xugpbt_/9030"]
+metacritic.com##div[id^="-ojrrjoh_dgv_liudph_/1597"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
 metacritic.com##.side_recommend
@@ -80,13 +80,13 @@ medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
-metrolyrics.com##div[id^="-nzhhzex_twl_byktfx_/7153"]
+metrolyrics.com##div[id^="-nckkcha_wzo_ebnwia_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 pcmag.com##iframe[width=" 728"]
 pcmag.com##.sidebar > [x-enc="id class"]
 pcmag.com##[class="-morywh rendered"]
-pcmag.com##div[id^="-gvddvat_psh_xugpbt_/9030"]
+pcmag.com##div[id^="-gxffxcv_ruj_zwirdv_/1252"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-nckkcha_wzo_ebnwia_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
@@ -100,7 +100,7 @@ seattlepi.com##.ntvClickOut
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
 seattlepi.com##div[id^="NTV"]
-seattlepi.com##div[id^="-pezixx"]
+seattlepi.com##div[id^="-pojshhwj"]
 seattlepi.com##div[id^="-pyggydw_svk_axjsew_/14995480"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com###sdg_rectangle_anz
