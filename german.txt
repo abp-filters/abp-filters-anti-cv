@@ -126,6 +126,7 @@ spox.com##.trc_elastic
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
 ||t-online.de^$csp=img-src 'self' * data: http: https:
+t-online.de#?#:-abp-properties(margin-top: 10px; position: relative; width: 970px;)
 
 ! #17364
 wetteronline.de###topcontainer
