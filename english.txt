@@ -223,3 +223,7 @@ dailymail.co.uk##.puff-ad
 dailymail.co.uk##.sliding_mpu
 dailymail.co.uk##.molads_sky_left_top
 dailymail.co.uk##.molads_sky_right_top
+dailymail.co.uk###billBoard
+dailymail.co.uk###js-sky-right
+dailymail.co.uk###js-sky-left
+dailymail.co.uk##.mpu_puff_wrapper
