@@ -29,3 +29,6 @@ inforesist.org##aside[id="execphp-24"]
 etextlib.ru##.partners
 etextlib.ru##.head_bann
 kinohome.net##a[data-i]
+
+! #18828
+drive2.ru#$#abort-on-property-read Ya
