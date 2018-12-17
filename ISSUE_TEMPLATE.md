@@ -6,9 +6,13 @@
 
 ### Define the problem 
 
-<!-- Describe the issue using as many details as possible.  -->
+<!-- Describe the issue using as many details as possible. -->
 
-### List all of your filter lists
+### Screenshot(s) 
+
+<!-- Screenshot(s) to describe visual issues. -->
+
+### List all of your filter lists 
 
 <!-- Go to **Options > Advanced** to see all of your filter lists. -->
 
