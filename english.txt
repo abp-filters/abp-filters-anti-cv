@@ -228,4 +228,4 @@ dailymail.co.uk###js-sky-left
 dailymail.co.uk##.mpu_puff_wrapper
 
 ! #18788
-mediafire.com#$#abort-on-property-readad UAParser
+mediafire.com#$#abort-on-property-read UAParser
