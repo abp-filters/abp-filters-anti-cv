@@ -230,3 +230,7 @@ dailymail.co.uk##.mpu_puff_wrapper
 
 ! #18788
 mediafire.com#$#abort-on-property-read UAParser
+
+! #18836
+quora.com##.question_page_ad
+quora.com##.feed_ad_story
