@@ -14,5 +14,9 @@ sport.cz##.produkt
 novinky.cz##div[id^="skyscraper"]
 sport.cz,super.cz###container-combi
 super.cz##iframe[width="971"][height="309"]
-super.cz##img[src^="//www.super.cz/Il"]
-sport.cz##img[src^="//www.sport.cz/Il"]
+sport.cz##iframe[width="100%"][height="299"]
+sport.cz##img[src*="www.sport.cz/XO"]
+super.cz##img[src*="www.super.cz/XO"]
+super.cz##iframe[width="100%"][height="186"]
+super.cz,sport.cz##iframe[width="100%"][height="254"]
+novinky.cz##iframe[scrolling="no"][id]
