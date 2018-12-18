@@ -1,5 +1,5 @@
 ! #9056
-search.seznam.cz,clanky.seznam.cz#?#.ResultContainer:-abp-has(a[href^="http://s.imedia.cz/click?adurl="])
+search.seznam.cz,clanky.seznam.cz##.ResultContainer.ResultContainer--noBorder
 kupi.cz##div[style="margin-bottom: -30px;"]
 kupi.cz##div[style*="background-image :"]
 kupi.cz##.static_bottom
