@@ -29,6 +29,7 @@ boston.com##div[id^="-dudh"]
 boston.com##[data--dor-ibwh^="sectfront"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]
 cbssports.com##div[id^="-nyggydw_svk_axjsew_/6042"]
+cbssports.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
 cnet.com##div[id^="-eksskpi_ehw_mjveqi_/2608"]
@@ -51,6 +52,8 @@ edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
 edmunds.com##div[id^="-nxffxcv_ruj_zwirdv_64437750"]
 edmunds.com##div[class^="-nwvrklivu-jgfkczxyk"]
+edmunds.com##div[id^="bling"]
+edmunds.com##div[style="width: 368px;"]
 everydayhealth.com##div[id^="-eweewbu_qti_yvhqcu_/0879"]
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##[data-adsize]
@@ -118,13 +121,15 @@ thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
+thoughtcatalog.com##div[id^="-hvddvat_psh_xugpbt_/7877491"]
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
 tv.com###leader_bottom
+tv.com##iframe[width="300"]
 tv.com##div[id^="-dsaasxq_mpe_urdmyq_/0486"]
 tvguide.com##div[id^="-nyggydw_svk_axjsew_/6042"]
+tvguide.com##div[data-placement]
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com##.container.global-container-1
