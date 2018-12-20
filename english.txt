@@ -232,6 +232,8 @@ mediafire.com#$#abort-on-property-read UAParser
 ! #18836
 quora.com##.question_page_ad
 quora.com##.feed_ad_story
+@@||quora.com^$popup,domain=quora.com
+http$popup,domain=quora.com
 
 ! #15511
 @@||namemc.com^$generichide
