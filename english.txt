@@ -86,7 +86,7 @@ medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
 metrolyrics.com##div[id^="-nckkcha_wzo_ebnwia_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-pcmag.com##div[class^="pmaz"]
+pcmag.com##div[id^="-gjgut"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-nckkcha_wzo_ebnwia_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
