@@ -251,3 +251,5 @@ indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(CrazyFreelancer))
 indiatimes.com##div > a[onclick*="utm_source"]
 bombaytimes.com#?#div:-abp-has(> h4 > span:-abp-contains(Ad: ))
 bombaytimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted Stories) + div)
+iamgujarat.com##.esi_ads_widget
+iamgujarat.com#?#div:-abp-has(> h2:-abp-contains(FROM WEB))
