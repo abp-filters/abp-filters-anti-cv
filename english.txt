@@ -244,8 +244,10 @@ http$popup,domain=quora.com
 @@||adageindia.in^$popup,domain=adageindia.in
 http$popup,domain=adageindia.in
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
-adageindia.in#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
+adageindia.in,bombaytimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
 indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad ))
 indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(KnowThisTuff.com))
 indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(CrazyFreelancer))
 indiatimes.com##div > a[onclick*="utm_source"]
+bombaytimes.com#?#div:-abp-has(> h4 > span:-abp-contains(Ad: ))
+bombaytimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted Stories) + div)
