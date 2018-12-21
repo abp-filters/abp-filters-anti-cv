@@ -243,3 +243,5 @@ http$popup,domain=quora.com
 ! #13895
 @@||adageindia.in^$popup,domain=adageindia.in
 http$popup,domain=adageindia.in
+adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
+adageindia.in#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
