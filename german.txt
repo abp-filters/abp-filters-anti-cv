@@ -98,8 +98,9 @@ kicker.de##div[style="position: fixed; max-width: 300.3px; margin-left: 1000px;"
 meinestadt.de##.-dfp
 meinestadt.de##[class^="a-ettElement -p"]
 ||tab.immobilienscout24.de^$image,domain=immobilienscout24.de
+||static-immobilienscout24.de/fro/*$image,domain=immobilienscout24.de
 ||st.wetteronline.de/image/page/*$image,domain=wetteronline.de|wetteronline.at|wetteronline.ch
-||quoka.de/images/publix/*$image,domain=quoka.de
+||quoka.de/images/publiz/*$image,domain=quoka.de
 kicker.de##.ovNoprint
 giga.de##div[data-trigger="sourcepoint-ad"]
 kino.de###hockeystick
