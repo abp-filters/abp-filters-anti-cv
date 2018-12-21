@@ -245,3 +245,7 @@ http$popup,domain=quora.com
 http$popup,domain=adageindia.in
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
 adageindia.in#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
+indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad ))
+indiatimes.com##a[onclick*="utm_source"]
+indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(KnowThisTuff.com))
+indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(CrazyFreelancer))
