@@ -239,3 +239,7 @@ http$popup,domain=quora.com
 @@||namemc.com^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=namemc.com
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=namemc.com
+
+! #13895
+@@||adageindia.in^$popup,domain=adageindia.in
+http$popup,domain=adageindia.in
