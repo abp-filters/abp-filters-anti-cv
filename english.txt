@@ -114,6 +114,7 @@ slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
 slickdeals.net###giveawayItem
 slickdeals.net##.giveawayImageWrapper
+slickdeals.net##[data-adlocation]
 sportingnews.com##.-mor-hcd.module
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 thoughtcatalog.com##.is-initialized
