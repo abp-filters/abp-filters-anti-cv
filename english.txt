@@ -137,7 +137,7 @@ tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com##.container.global-container-1
-webmd.com,thoughtcatalog.com###mys-wrapper
+webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
