@@ -53,7 +53,7 @@ emedicinehealth.com##.-bps_eaprtwdastg.-bps
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
 edmunds.com##div[id^="-nxffxcv_ruj_zwirdv_64437750"]
-edmunds.com##div[class^="-nwvrklivu-jgfkczxyk"]
+edmunds.com##div[class^="-nbawpqnaz-olkphecdp"]
 edmunds.com##div[id^="bling"]
 edmunds.com##div[style="width: 368px;"]
 everydayhealth.com##div[id^="-eweewbu_qti_yvhqcu_/0879"]
