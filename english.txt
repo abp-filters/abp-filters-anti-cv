@@ -58,7 +58,7 @@ edmunds.com##div[id^="-nxffxcv_ruj_zwirdv_64437750"]
 edmunds.com##div[class^="-nbawpqnaz-olkphecdp"]
 edmunds.com##div[id^="bling"]
 edmunds.com##div[style="width: 368px;"]
-everydayhealth.com##div[id^="-eweewbu_qti_yvhqcu_/0879"]
+everydayhealth.com##div[id^="-eaiiafy_uxm_czlugy_/4213"]
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##[data-adsize]
 everydayhealth.com##[title="Advertisement"]
