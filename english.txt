@@ -241,10 +241,10 @@ dailymail.co.uk##.mpu_puff_wrapper
 mediafire.com#$#abort-on-property-read UAParser
 
 ! #18836
-quora.com##.question_page_ad
-quora.com##.feed_ad_story
-@@||quora.com^$popup,domain=quora.com
-?utm_source=quora$popup,domain=quora.com
+quora.com#?#div:-abp-has(> div > div >  div > div > a > p > span + span + span:-abp-contains(ponsored))
+quora.com#?#div:-abp-has(> div > div > div + div > a > p > span + span + span:-abp-contains(ponsored))
+quora.com#?#div:-abp-has(> div > div > div > div > div > p >span+span+span:-abp-contains(d  by ))
+
 
 ! #15511
 @@||namemc.com^$generichide
