@@ -94,7 +94,7 @@ mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-muccuzs_org_wtfoas_/70551046"]
 narcity.com##div[id^="-mtbbtyr_nqf_vsenzr_/4353693"]
 narcity.com##.lbtop.willslide
-pcmag.com##div[id^="-gksskpi_ehw_mjveqi_/8929"]
+pcmag.com##div[id^="-guccuzs_org_wtfoas_/8929"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-nfnnfkd_zcr_heqzld_/6515151"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
