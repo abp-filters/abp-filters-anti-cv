@@ -262,4 +262,4 @@ bombaytimes.com#?#div:-abp-has(> h4 > span:-abp-contains(Ad: ))
 bombaytimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted Stories) + div)
 iamgujarat.com##.esi_ads_widget
 iamgujarat.com#?#div:-abp-has(> h2:-abp-contains(FROM WEB))
-samayam.com,indiatimes.com#?#div:-abp-has(> a[onclick*="linkCode"])
+samayam.com,indiatimes.com##a[onclick][rel="nofollow,noindex"]
