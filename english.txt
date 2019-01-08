@@ -96,7 +96,7 @@ narcity.com##div[id^="-mtbbtyr_nqf_vsenzr_/4353693"]
 narcity.com##.lbtop.willslide
 pcmag.com##div[id^="-gnvvnsl_hkz_pmyhtl_/1252"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
-ranker.com##div[id^="-nfnnfkd_zcr_heqzld_/6515151"]
+ranker.com##div[id^="-nsaasxq_mpe_urdmyq_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="-niqqing_cfu_khtcog_/58339824"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
