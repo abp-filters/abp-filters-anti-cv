@@ -31,7 +31,7 @@ boston.com##div[id^="-dudh"]
 boston.com##[data--dor-ibwh^="sectfront"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-nckkcha_wzo_ebnwia_/0486"]
+cbssports.com##div[id^="-nweewbu_qti_yvhqcu_/4820"]
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
@@ -88,7 +88,7 @@ medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
-metrolyrics.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
+metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-muccuzs_org_wtfoas_/70551046"]
