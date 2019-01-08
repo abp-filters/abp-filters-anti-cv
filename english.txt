@@ -252,8 +252,6 @@ quora.com#?#div:-abp-has(> div > div > div > div > div > p >span+span+span:-abp-
 @@||static.doubleclick.net/instream/ad_status.js$script,domain=namemc.com
 
 ! #13895
-@@||adageindia.in^$popup,domain=adageindia.in
-http$popup,domain=adageindia.in
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
 adageindia.in,bombaytimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
 indiatimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad ))
@@ -264,3 +262,4 @@ bombaytimes.com#?#div:-abp-has(> h4 > span:-abp-contains(Ad: ))
 bombaytimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted Stories) + div)
 iamgujarat.com##.esi_ads_widget
 iamgujarat.com#?#div:-abp-has(> h2:-abp-contains(FROM WEB))
+samayam.com,indiatimes.com#?#div:-abp-has(> a[onclick*="linkCode"])
