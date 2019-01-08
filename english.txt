@@ -43,7 +43,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-fckkcha_wzo_ebnwia_0486"]
+chowhound.com##div[id^="-fmuumrk_gjy_olxgsk_4820"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -72,7 +72,7 @@ gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com###-mor_ibwh
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
-geek.com##div[id^="-mckkcha_wzo_ebnwia_/6707"]
+geek.com##div[id^="-mmuumrk_gjy_olxgsk_/0141"]
 geek.com##div[class^="-mtylay"]
 metacritic.com##div[id^="-ovddvat_psh_xugpbt_/3719"]
 metacritic.com##.leader
@@ -96,7 +96,7 @@ narcity.com##div[id^="-mtbbtyr_nqf_vsenzr_/4353693"]
 narcity.com##.lbtop.willslide
 pcmag.com##div[id^="-gnvvnsl_hkz_pmyhtl_/1252"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
-ranker.com##div[id^="-nfnnfkd_zcr_heqzld_/6515151"]
+ranker.com##div[id^="-nsaasxq_mpe_urdmyq_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="-niqqing_cfu_khtcog_/58339824"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
@@ -137,7 +137,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-dyggydw_svk_axjsew_/6042"]
-tvguide.com##div[id^="-nuccuzs_org_wtfoas_/2608"]
+tvguide.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
