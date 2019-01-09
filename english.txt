@@ -220,6 +220,9 @@ gamer4k.com#?#.post-title-box > div:-abp-has(div:-abp-contains(Recommended:))
 hackspirit.com#?#.td-post-content + div:-abp-has(div:-abp-contains(Paid Content:))
 thealternativedaily.com#?#.td-ss-main-sidebar > div:-abp-has(div:-abp-contains(Paid Content:))
 thealternativedaily.com#?#.td-ss-main-content + div:-abp-has(div:-abp-contains(Paid Content:))
+100percentfedup.com#?#.wpdev-logo.row + div:-abp-has(div:-abp-contains(Paid Content:))
+100percentfedup.com#?#.widget.widget_text.enhanced-text-widget + div:-abp-has(div:-abp-contains(Paid Content:))
+100percentfedup.com#?#.entry-content + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
