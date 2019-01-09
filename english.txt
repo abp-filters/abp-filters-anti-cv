@@ -212,6 +212,8 @@ thelibertydaily.com,lifebuzz.com#?#div > div:-abp-has(div:-abp-contains(Paid Con
 freedomoutpost.com#?#.main-nav-bar.header-layout-left-logo + div:-abp-has(div:-abp-contains(Paid Content:))
 freedomoutpost.com#?#.sidebar-inner > div:-abp-has(div:-abp-contains(Paid Content:))
 freedomoutpost.com#?#.tpd-banner-ad-b + div:-abp-has(div:-abp-contains(Paid Content:))
+clashdaily.com#?#.essb_break_scroll + div:-abp-has(div:-abp-contains(Paid Content:))
+clashdaily.com#?#.clearfix + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
