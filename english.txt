@@ -223,6 +223,7 @@ thealternativedaily.com#?#.td-ss-main-content + div:-abp-has(div:-abp-contains(P
 100percentfedup.com#?#.wpdev-logo.row + div:-abp-has(div:-abp-contains(Paid Content:))
 100percentfedup.com#?#.widget.widget_text.enhanced-text-widget + div:-abp-has(div:-abp-contains(Paid Content:))
 100percentfedup.com#?#.entry-content + div:-abp-has(div:-abp-contains(Paid Content:))
+infowars.com#?#.related-articles +div + script + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
