@@ -227,7 +227,7 @@ infowars.com#?#.related-articles +div + script + div:-abp-has(div:-abp-contains(
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
-scripts/*Rek$image,domain=animenova.org|animeplus.tv|animewow.org|gogoanime.in|gogoanime.se|gogoanime.to|goodanime.co|kiss-anime.me|toonget.net|toonova.net|watchcartoononline.com|watchcartoononline.io
+scripts/*Rek$image,domain=animenova.org|animeplus.tv|animewow.org|gogoanime.in|gogoanimes.co|gogoanime.to|goodanime.co|kiss-anime.me|toonget.net|toonova.net|thewatchcartoononline.tv|watchcartoononline.io
 wp-includes/*Rek$image,domain=igg-games.com
 
 ! #9708
