@@ -32,3 +32,6 @@ inforesist.org##aside[id="execphp-24"]
 etextlib.ru##.partners
 etextlib.ru##.head_bann
 kinohome.net##a[data-i]
+
+! #19360
+torrent-soft.net#$#abort-on-property-read setInterval
