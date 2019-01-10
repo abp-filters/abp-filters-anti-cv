@@ -35,3 +35,6 @@ kinohome.net##a[data-i]
 
 ! #19360
 torrent-soft.net#$#abort-on-property-read setInterval
+
+! #19362
+baskino-z720.com#$#abort-on-property-read String
