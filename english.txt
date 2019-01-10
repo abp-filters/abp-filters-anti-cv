@@ -5,7 +5,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
 ||*x2eofu*.g00.webmd.com^$script,domain=webmd.com
-||*x78x2e*.g00.tv.com^$domain=tv.com
+||*x2efrp*.g00.tv.com^$domain=tv.com
 dayzdb.com,allakhazam.com###ds_default_anchor
 dayzdb.com,allakhazam.com##[x-enc="id"]
 allakhazam.com##.ds_cpp
