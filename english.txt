@@ -73,7 +73,7 @@ gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com###-mor_ibwh
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
-geek.com##div[id^="-msaasxq_mpe_urdmyq_/6707"]
+geek.com##div[id^="-muccuzs_org_wtfoas_/8929"]
 geek.com##.-mlqdsqzfufk
 metacritic.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 metacritic.com##.leader
