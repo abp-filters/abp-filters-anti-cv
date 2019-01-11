@@ -232,6 +232,9 @@ reviveusa.com#?#.sidebar-wrapper > div:-abp-has(div:-abp-contains(Paid Content:)
 reviveusa.com#?#.top-posts + div:-abp-has(div:-abp-contains(Paid Content:))
 reviveusa.com#?#.status-publish + div:-abp-has(div:-abp-contains(Paid Content:))
 sonsoflibertymedia.com###revere-report-widget
+theblacksphere.net#?#.td-ss-main-sidebar > div:-abp-has(div:-abp-contains(Paid Content:))
+theblacksphere.net#?#.td-header-menu-wrap-full + div:-abp-has(div:-abp-contains(Paid Content:))
+theblacksphere.net#?#p#comments > div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
