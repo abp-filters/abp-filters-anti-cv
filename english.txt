@@ -228,6 +228,9 @@ chicksonright.com#?#.td-main-sidebar > div:-abp-has(div:-abp-contains(Paid Conte
 chicksonright.com#?#.mashsb-container + div:-abp-has(div:-abp-contains(Paid Content:))
 techconsumer.com#?#.sidebar-primary.widget-area > div:-abp-has(div:-abp-contains(Paid Content:))
 techconsumer.com#?#.entry-footer > div:-abp-has(div:-abp-contains(Paid Content:))
+reviveusa.com#?#.sidebar-wrapper > div:-abp-has(div:-abp-contains(Paid Content:))
+reviveusa.com#?#.top-posts + div:-abp-has(div:-abp-contains(Paid Content:))
+reviveusa.com#?#.status-publish + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
