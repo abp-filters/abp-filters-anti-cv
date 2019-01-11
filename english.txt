@@ -226,6 +226,8 @@ thealternativedaily.com#?#.td-ss-main-content + div:-abp-has(div:-abp-contains(P
 infowars.com#?#.related-articles +div + script + div:-abp-has(div:-abp-contains(Paid Content:))
 chicksonright.com#?#.td-main-sidebar > div:-abp-has(div:-abp-contains(Paid Content:))
 chicksonright.com#?#.mashsb-container + div:-abp-has(div:-abp-contains(Paid Content:))
+techconsumer.com#?#.sidebar-primary.widget-area > div:-abp-has(div:-abp-contains(Paid Content:))
+techconsumer.com#?#.entry-footer > div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
