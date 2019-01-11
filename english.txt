@@ -208,7 +208,7 @@ eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,gorillavid.in,ks
 ! #10385
 4chan.org#?#div :-abp-has(div > div > div:-abp-contains(Paid Content:) + div)
 techtimes.com#?#.bk-side-sub > div:-abp-contains(Paid Content:)
-sonsoflibertymedia.com,rightwingtribune.com,newser.com,readysethealth.com,freedomoutpost.com,thelibertydaily.com,techtimes.com,lifebuzz.com,politicalcowboy.com#?#div > div:-abp-has(div:-abp-contains(Paid Content:) + div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)) + div
+libertyunyielding.com,sonsoflibertymedia.com,rightwingtribune.com,newser.com,readysethealth.com,freedomoutpost.com,thelibertydaily.com,techtimes.com,lifebuzz.com,politicalcowboy.com#?#div > div:-abp-has(div:-abp-contains(Paid Content:) + div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)) + div
 thelibertydaily.com,lifebuzz.com#?#div > div:-abp-has(div:-abp-contains(Paid Content:) + div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:)+ div:-abp-contains(Paid Content:))
 freedomoutpost.com#?#.main-nav-bar.header-layout-left-logo + div:-abp-has(div:-abp-contains(Paid Content:))
 freedomoutpost.com#?#.sidebar-inner > div:-abp-has(div:-abp-contains(Paid Content:))
@@ -236,6 +236,7 @@ sonsoflibertymedia.com###revere-report-widget
 theblacksphere.net#?#.td-ss-main-sidebar > div:-abp-has(div:-abp-contains(Paid Content:))
 theblacksphere.net#?#.td-header-menu-wrap-full + div:-abp-has(div:-abp-contains(Paid Content:))
 theblacksphere.net#?#p#comments > div:-abp-has(div:-abp-contains(Paid Content:))
+libertyunyielding.com#?#a[href="/web-crawler"] > div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
