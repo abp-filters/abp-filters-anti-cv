@@ -242,6 +242,9 @@ greatamericanrepublic.com#?#.tpd-banner-ad-b + div:-abp-has(div:-abp-contains(Pa
 greatamericanrepublic.com##.tpd-box-ad-a
 whatfinger.com#?#div#top-box + div:-abp-has(div:-abp-contains(Paid Content:))
 whatfinger.com#?#.wpb_wrapper > div:-abp-has(div:-abp-contains(Paid Content:))
+beforeitsnews.com##.ad_left
+beforeitsnews.com##.ad_sidebar
+beforeitsnews.com#?#div#body + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
