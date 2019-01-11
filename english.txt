@@ -237,6 +237,9 @@ theblacksphere.net#?#.td-ss-main-sidebar > div:-abp-has(div:-abp-contains(Paid C
 theblacksphere.net#?#.td-header-menu-wrap-full + div:-abp-has(div:-abp-contains(Paid Content:))
 theblacksphere.net#?#p#comments > div:-abp-has(div:-abp-contains(Paid Content:))
 libertyunyielding.com#?#a[href="/web-crawler"] > div:-abp-has(div:-abp-contains(Paid Content:))
+greatamericanrepublic.com#?#.td-post-content + div:-abp-has(div:-abp-contains(Paid Content:))
+greatamericanrepublic.com#?#.tpd-banner-ad-b + div:-abp-has(div:-abp-contains(Paid Content:))
+greatamericanrepublic.com##.tpd-box-ad-a
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
