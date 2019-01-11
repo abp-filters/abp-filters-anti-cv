@@ -34,7 +34,7 @@ etextlib.ru##.head_bann
 kinohome.net##a[data-i]
 
 ! #19360
-torrent-soft.net#$#abort-on-property-read setInterval
+torrent-soft.net#$#abort-on-property-read atob
 
 ! #19362
 baskino-z720.com#$#abort-on-property-read String
