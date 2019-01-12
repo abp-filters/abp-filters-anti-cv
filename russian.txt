@@ -19,6 +19,7 @@ auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,ya
 liveinternet.ru,echo.msk.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Ya
 
 ! #9708
+24tv.ua,bigmir.net,bookfi.net,cn.ru,cxem.net,dengi.ua,dt.ua,e1.ru,epravda.com.ua,etextlib.ru,football.ua,football24.ua,forumodua.com,gismeteo.ru,glavcom.ua,hvylya.net,isport.ua,kinoafisha.ua,korrespondent.net,kp.ua,mirknig.su,obozrevatel.com,pravda.com.ua,real-vin.com,strana.ua,telegraf.in.ua,vsetv.com,zaxid.net#$#abort-on-property-read WS
 24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
 azov-sea.info##td[width="330"]
