@@ -35,7 +35,7 @@ etextlib.ru##.head_bann
 kinohome.net##a[data-i]
 
 ! #19360
-torrent-soft.net#$#abort-on-property-read atob
+tfile.me,tfile2.cc,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
 
 ! #19362
 baskino-z720.com#$#abort-on-property-read atob
