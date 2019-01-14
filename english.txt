@@ -232,7 +232,7 @@ techconsumer.com#?#.entry-footer > div:-abp-has(div:-abp-contains(Paid Content:)
 reviveusa.com#?#.sidebar-wrapper > div:-abp-has(div:-abp-contains(Paid Content:))
 reviveusa.com#?#.top-posts + div:-abp-has(div:-abp-contains(Paid Content:))
 reviveusa.com#?#.status-publish + div:-abp-has(div:-abp-contains(Paid Content:))
-bigleaguepolitics.com,sonsoflibertymedia.com###revere-report-widget
+eaglerising.com,bigleaguepolitics.com,sonsoflibertymedia.com###revere-report-widget
 theblacksphere.net#?#.td-ss-main-sidebar > div:-abp-has(div:-abp-contains(Paid Content:))
 theblacksphere.net#?#.td-header-menu-wrap-full + div:-abp-has(div:-abp-contains(Paid Content:))
 theblacksphere.net#?#p#comments > div:-abp-has(div:-abp-contains(Paid Content:))
@@ -260,6 +260,9 @@ kpopstarz.com#?#.adunit_rectangle + div:-abp-has(div:-abp-contains(Paid Content:
 kpopstarz.com#?#.nwletter + span > div:-abp-has(div:-abp-contains(Paid Content:)) + div
 videogamesblogger.com#?#div#sideBarContent >  div:-abp-has(div:-abp-contains(Paid Content:))
 videogamesblogger.com#?#div#nav-below + div:-abp-has(div:-abp-contains(Paid Content:))
+eaglerising.com#?#.main-navigation + div:-abp-has(div:-abp-contains(Paid Content:))
+eaglerising.com#?#.entry-content + div:-abp-has(div:-abp-contains(Paid Content:))
+eaglerising.com#?#.tpd-box-ad-a + div + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
