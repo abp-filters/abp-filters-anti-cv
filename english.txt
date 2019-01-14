@@ -255,8 +255,10 @@ fitnessconnoisseur.com#?#.post-meta + div:-abp-has(div:-abp-contains(Paid Conten
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
-scripts/*Rek$image,domain=animenova.org|animeplus.tv|animewow.org|gogoanime.in|gogoanimes.co|gogoanime.to|goodanime.co|kiss-anime.me|toonget.net|toonova.net|thewatchcartoononline.tv|watchcartoononline.io|mangareader.net
 wp-includes/*Rek$image,domain=igg-games.com
+/combined/*Rek$image,domain=animenova.org|animeplus.tv|animewow.org|gogoanime.to|goodanime.co|mangareader.net|toonget.net|toonova.net|thewatchcartoononline.tv|watchcartoononline.io
+/scripts*Rek$image,domain=kiss-anime.me
+/scripts/*Rek$image,domain=gogoanime.in|gogoanimes.co
 
 ! #9708
 filmxy.one##.promo-contents
