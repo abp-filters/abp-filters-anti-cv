@@ -250,6 +250,8 @@ bigleaguepolitics.com#?#div#mvp-side-wrap > div:-abp-has(div:-abp-contains(Paid 
 bigleaguepolitics.com#?#div#mvp-content-main > div:-abp-has(div:-abp-contains(Paid Content:))
 shark-tank.com#?#.site-top.clearfix + div:-abp-has(div:-abp-contains(Paid Content:))
 shark-tank.com#?#div#hunted_customsearchwidget-2 + div:-abp-has(div:-abp-contains(Paid Content:))
+fitnessconnoisseur.com#?#.sidebar.widget-area > div:-abp-has(div:-abp-contains(Paid Content:))
+fitnessconnoisseur.com#?#.post-meta + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
