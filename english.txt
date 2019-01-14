@@ -182,7 +182,7 @@ chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,co
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com##div[draggable="false"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com##aside[class^="-gecm_mcvc_ye"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com##div[style="display: inline-block;"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com##div[id^="-gmuumrk_gjy_olxgsk_/0677"]
+chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com##div[id^="-giqqing_cfu_khtcog_/6233"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
 sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Gallery Thumbnails"]
 chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com##[observeid]
