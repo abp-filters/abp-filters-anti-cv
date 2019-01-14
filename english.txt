@@ -120,6 +120,7 @@ spox.com##div[id^="-ztbbtyr_nqf_vsenzr_90203514"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-diqqing_cfu_khtcog_/3228263"]
+slickdeals.net##div[class^="rightRailPlacement"]
 slickdeals.net###giveawayItem
 slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
