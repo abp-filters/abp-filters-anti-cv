@@ -23,6 +23,7 @@ allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 klbjfm.com##div[id^="-bzhhzex_twl_byktfx_/5621"]
 klbjfm.com##[data-position]
 klbjfm.com###taw0
+boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]
 boston.com##[data--sjm-dwrc]
