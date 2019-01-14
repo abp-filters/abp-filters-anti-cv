@@ -139,7 +139,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-dyggydw_svk_axjsew_/6042"]
-tvguide.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
+tvguide.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
