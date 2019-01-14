@@ -44,7 +44,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-fowwotm_ila_qnzium_6042"]
+chowhound.com##div[id^="-fiqqing_cfu_khtcog_0486"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -77,7 +77,7 @@ gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
 geek.com##div[id^="-miqqing_cfu_khtcog_/6707"]
 geek.com##.-mlqdsqzfufk
-metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
+metacritic.com##div[id^="-oaiiafy_uxm_czlugy_/8264"]
 metacritic.com##.leader
 metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumbnails"]
 metacritic.com##.side_recommend
