@@ -255,6 +255,8 @@ fitnessconnoisseur.com#?#.sidebar.widget-area > div:-abp-has(div:-abp-contains(P
 fitnessconnoisseur.com#?#.post-meta + div:-abp-has(div:-abp-contains(Paid Content:))
 bizpacreview.com##.col-md-4.sidebar
 bizpacreview.com#?#.code-block.code-block-51 > center > div:-abp-has(div:-abp-contains(Paid Content:))
+faithit.com#?#.tm-secondary > div:-abp-has(div:-abp-contains(Paid Content:))
+faithit.com#?#.dbwk + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
