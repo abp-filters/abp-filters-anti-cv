@@ -312,9 +312,9 @@ dailymail.co.uk##[name^="google_ads_iframe_"]
 mediafire.com#$#abort-on-property-read UAParser
 
 ! #18836
-quora.com#?#div:-abp-has(> div > div >  div > div > a > p > span + span + span:-abp-contains(ponsored))
-quora.com#?#div:-abp-has(> div > div > div + div > a > p > span + span + span:-abp-contains(ponsored))
-quora.com#?#div:-abp-has(> div > div > div > div > div > p >span+span+span:-abp-contains(d  by ))
+quora.com#?#.FeedStory.feed_item:-abp-has(span > div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
+quora.com#?#.pagedlist_item:-abp-has(> div > div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
+quora.com#?#.UnifiedAnswerPagedList:-abp-has(> div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
 
 
 ! #15511
