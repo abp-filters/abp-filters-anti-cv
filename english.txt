@@ -119,8 +119,9 @@ spox.com##div[id^="-vpxxpun_jmb_roajvn_3333"]
 spox.com##div[id^="-ztbbtyr_nqf_vsenzr_90203514"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-diqqing_cfu_khtcog_/3228263"]
+slickdeals.net##div[id^="-dlttlqj_fix_nkwfrj_/6551596"]
 slickdeals.net##div[class^="rightRailPlacement"]
+slickdeals.net##div[id^="-dlnajf"]
 slickdeals.net###giveawayItem
 slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
@@ -133,7 +134,7 @@ thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/5655279"]
+thoughtcatalog.com##div[id^="-hbjjbgz_vyn_damvhz_/3433057"]
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
