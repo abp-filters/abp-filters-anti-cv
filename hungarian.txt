@@ -1,3 +1,1 @@
 ! #8479
-notebookcheck-hu.com#$#abort-on-property-read uabpPl
-notebookcheck-hu.com#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)

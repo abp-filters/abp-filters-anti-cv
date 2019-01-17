@@ -1,6 +1,4 @@
 ! #8479
-comunio.es,notebookcheck.org,radio.es#$#abort-on-property-read uabpPl
-notebookcheck.org#?#div :-abp-properties(/content: ".*[A]?[n]?[z]?[e]?[i]?[g]?[e].*";/)
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]

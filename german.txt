@@ -87,11 +87,6 @@ motorsport-total.com#?#:-abp-properties(position: relative; right: -10px;) > img
 noz.de#?#:-abp-properties(max-width: 1140px; position: relative;) > * > img
 serienjunkies.de#?#:-abp-properties(margin-bottom: 5px; position: relative; right: -5px;) > img
 gipfelbuch.ch###header_top
-playboy.de##div[data-ad-comment^="ForwardAdGroup"]
-playboy.de###forag-skyscraper-wrapper
-playboy.de###forag-content1-wrapper
-cinema.de##.forag-wrapper
-playboy.de#?#:-abp-properties(margin-top: 30px;)
 
 ! #9272
 spox.com##[ws-zone]
