@@ -316,7 +316,7 @@ mediafire.com#$#abort-on-property-read UAParser
 quora.com#?#.FeedStory.feed_item:-abp-has(span > div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
 quora.com#?#.pagedlist_item:-abp-has(> div > div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
 quora.com#?#.UnifiedAnswerPagedList:-abp-has(> div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
-
+quora.com#?#.SimpleToggle.ToggleAnswerFooterWrapper.Toggle:-abp-has(> div > div > div > div > div > div > a.external_link.link_overlay[href^="http"][target="_blank"][rel="noopener nofollow"][id]:-abp-contains( at ))
 
 ! #15511
 @@||namemc.com^$generichide
