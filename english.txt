@@ -165,7 +165,6 @@ chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
 metacritic.com,sportingnews.com##.-mor_ibwh
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
-
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
 chicagotribune.com,citypaper.com,courant.com,ctnow.com,dailypress.com##.trb_ar_rail
 boston.com,metacritic.com,thoughtcatalog.com,dayzdb.com,allakhazam.com##iframe[width="728"]
