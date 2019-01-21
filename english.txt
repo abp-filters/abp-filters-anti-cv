@@ -286,8 +286,8 @@ comicallyincorrect.com#?#.widget_search > div:-abp-has(div:-abp-contains(Paid Co
 comicallyincorrect.com#?#.article__meta.article--single__meta + div:-abp-has(div:-abp-contains(Paid Content:))
 
 ! #15116
-@@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com|igg-games.com|readcomiconline.to
-/KlE$image,domain=igg-games.com|kiss-anime.me|animenova.org|animeplus.tv|animewow.org|gogoanime.to|goodanime.co|mangareader.net|toonget.net|toonova.net|thewatchcartoononline.tv|watchcartoononline.io|gogoanime.in|gogoanimes.co
+@@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
+/KlE$image,domain=igg-games.com|kiss-anime.me|animenova.org|animeplus.tv|animewow.org|gogoanime.to|goodanime.co|mangareader.net|toonget.net|toonova.net|thewatchcartoononline.tv|watchcartoononline.io|gogoanime.in|gogoanimes.co|readcomiconline.to
 
 ! #9708
 filmxy.one##.promo-contents
