@@ -56,8 +56,8 @@ dailypress.com##div[style*="width: 500px; height: 1230px;"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
-edmunds.com##div[id^="-njrrjoh_dgv_liudph_08871194"]
-edmunds.com##div[class^="-nihdwxuhg"]
+edmunds.com##div[id^="-nbjjbgz_vyn_damvhz_86659972"]
+edmunds.com##div[class^="-nazvopmzy"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
