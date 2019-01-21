@@ -144,7 +144,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-ddlldib_xap_fcoxjb_/1597"]
-tvguide.com##div[id^="-niqqing_cfu_khtcog_/0486"]
+tvguide.com##div[id^="-ntbbtyr_nqf_vsenzr_/1597"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
