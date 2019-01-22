@@ -18,7 +18,7 @@ allakhazam.com,101x.com,1070thefan.com##[amp4ads]
 allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
-101x.com##div[id^="-hqyyqvo_knc_spbkwo_/6732"]
+101x.com##div[id^="-hrzzrwp_lod_tqclxp_/7843"]
 1070thefan.com##div[id^="-rqyyqvo_knc_spbkwo_/6732"]
 1070thefan.com###sitewrap
 klbjfm.com##div[id^="-bzhhzex_twl_byktfx_/5621"]
@@ -61,7 +61,7 @@ edmunds.com##div[class^="-nazvopmzy"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
-everydayhealth.com##div[id^="-elttlqj_fix_nkwfrj_/9768"]
+everydayhealth.com##div[id^="-emuumrk_gjy_olxgsk_/0879"]
 everydayhealth.com##.-egr-xitb-lgpeetg
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##.rc-item
