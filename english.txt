@@ -56,8 +56,8 @@ dailypress.com##div[style*="width: 500px; height: 1230px;"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
-edmunds.com##div[id^="-nbjjbgz_vyn_damvhz_86659972"]
-edmunds.com##div[class^="-nazvopmzy"]
+edmunds.com##div[id^="-naiiafy_uxm_czlugy_75548861"]
+edmunds.com##div[class^="-nzyunolyx"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
@@ -122,7 +122,7 @@ spox.com##div[id^="-vpxxpun_jmb_roajvn_3333"]
 spox.com##div[id^="-ztbbtyr_nqf_vsenzr_90203514"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-dweewbu_qti_yvhqcu_/7662607"]
+slickdeals.net##div[id^="-duccuzs_org_wtfoas_/5440485"]
 slickdeals.net##div[class^="rightRailPlacement"]
 slickdeals.net##div[id^="-dwyluq"]
 slickdeals.net###giveawayItem
