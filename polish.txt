@@ -1,1 +1,2 @@
 ! #8479
+radio.pl#$#abort-current-inline-script Math.floor uabp
