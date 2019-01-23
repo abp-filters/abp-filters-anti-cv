@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck-tr.com#$#abort-current-inline-script Math.floor uaba
+notebookcheck-tr.com#$#abort-current-inline-script Math.floor /uab/
 
 ! #9276
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'

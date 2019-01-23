@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.biz,radio.fr#$#abort-current-inline-script Math.floor uaba
+notebookcheck.biz,radio.fr#$#abort-current-inline-script Math.floor /uab/
 
 ! #9274
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'

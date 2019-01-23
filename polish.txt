@@ -1,2 +1,2 @@
 ! #8479
-radio.pl#$#abort-current-inline-script Math.floor uaba
+radio.pl#$#abort-current-inline-script Math.floor /uab/
