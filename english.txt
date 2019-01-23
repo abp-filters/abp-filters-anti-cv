@@ -195,7 +195,6 @@ floridatravellife.com##[data-parent-placement-name="Below Article Thumbnails"]
 floridatravellife.com##[data-feed-main-container-id="taboola-placement-2"]
 
 ! #9274
-tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
 ||readlightnovel.org^$csp=script-src 'self' *
 ||thecelticblog.com^$csp=script-src 'self' * 'unsafe-inline'
 ||vidmax.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -209,6 +208,7 @@ tetrisfriends.com#?#div :-abp-properties(display: inline-table !important;)
 ||readliverpoolfc.com^$csp=script-src 'self' * 'unsafe-inline'
 ||toptenz.net^$csp=script-src 'self' * 'unsafe-inline'
 eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,gorillavid.in,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com,walterfootball.com#$#abort-on-property-read TextDecoder
+tetrisfriends.com,movpod.in,humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob TextDecoder
 
 ! #10385
 @@||orbitfour47.com^$image,domain=thefreethoughtproject.com|kdramastars.com|opednews.com|naturalblaze.com|dailyheadlines.net|godfatherpolitics.com|musictimes.com|foreverymom.com|natureworldnews.com|latinpost.com|barbwire.com|hngn.com|enstarz.com|redmaryland.com|girlsjustwannahaveguns.com|realtytoday.com|freedomforce.com|vcpost.com|lastresistance.com|deneenborelli.com|themattwalshblog.com|politicaloutcast.com|politichicks.com|bestfunnyjokes4u.com|tosavealife.com|visiontoamerica.com|jobsnhire.com|classicalite.com|youthhealthmag.com|quirlycues.com|dailysurge.com|practicallyviral.com|hispolitica.com|allthingsvegas.com|craigjames.com|bighealthreport.com|patriotoutdoornews.com|juicerhead.com|hautereport.com|shedthoselbs.com|cheapism.com|cheatsheet.com|funnyand.com|gamersheroes.com|grammarist.com|madworldnews.com|o4anews.com|rollingout.com|supercheats.com|survivalnation.com|telexplorer.com.ar|thehayride.com|thepolitistick.com|threepercenternation.com|universityherald.com|wakingtimes.com|realmomsrealreviews.com|viralnova.com|4chan.org|infowars.com|lifebuzz.com|techtimes.com|thelibertydaily.com|100percentfedup.com|freedomoutpost.com|faithit.com|clashdaily.com|kpopstarz.com|videogamesblogger.com|eaglerising.com|naturalsociety.com|comicallyincorrect.com|lidblog.com|theblacksphere.net|sonsoflibertymedia.com|libertyunyielding.com|parentherald.com|shark-tank.com|reviveusa.com|bulletsfirst.net|techconsumer.com|gamer4k.com|hackspirit.com|newser.com|politicalcowboy.com|readysethealth.com|thealternativedaily.com|chicksonright.com|rightwingtribune.com|americasfreedomfighters.com|beforeitsnews.com|bigleaguepolitics.com|greatamericanrepublic.com|whatfinger.com|fitnessconnoisseur.com|bizpacreview.com|canadafreepress.com

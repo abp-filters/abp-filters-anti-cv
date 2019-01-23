@@ -1,2 +1,5 @@
 ! #17095
 walla.co.il#$#abort-on-property-read jorLoad20a
+
+! #9274
+mako.co.il,yad2.co.il#$#abort-current-inline-script atob TextDecoder
