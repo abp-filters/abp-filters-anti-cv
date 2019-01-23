@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.info,radio.pt#$#abort-current-inline-script Math.floor uabp
+notebookcheck.info,radio.pt#$#abort-current-inline-script Math.floor uaba
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder

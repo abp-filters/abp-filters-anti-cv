@@ -1,2 +1,2 @@
 ! #8479
-notebookcheck-hu.com#$#abort-current-inline-script Math.floor uabp
+notebookcheck-hu.com#$#abort-current-inline-script Math.floor uaba
