@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script Math.floor /uab/
+notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script Math.max /UAB/
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'

@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.info,radio.pt#$#abort-current-inline-script Math.floor /uab/
+notebookcheck.info,radio.pt#$#abort-current-inline-script Math.max /UAB/
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
