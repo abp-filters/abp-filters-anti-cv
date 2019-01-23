@@ -10,6 +10,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
 @@||slickdeals.net$generichide,genericblock
+@@||101x.com$generichide,genericblock
 dayzdb.com,allakhazam.com###ds_default_anchor
 dayzdb.com,allakhazam.com##[x-enc="id"]
 allakhazam.com##.ds_cpp
@@ -64,7 +65,7 @@ edmunds.com##div[class^="-nzyunolyx"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
-everydayhealth.com##div[id^="-emuumrk_gjy_olxgsk_/0879"]
+everydayhealth.com##div[id^="-euccuzs_org_wtfoas_/8657"]
 everydayhealth.com##.-egr-xitb-lgpeetg
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##.rc-item
