@@ -65,7 +65,7 @@ edmunds.com##div[class^="-nzyunolyx"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
-everydayhealth.com##div[id^="-euccuzs_org_wtfoas_/8657"]
+everydayhealth.com##div[id^="-etbbtyr_nqf_vsenzr_/7546"]
 everydayhealth.com##.-egr-xitb-lgpeetg
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##.rc-item
