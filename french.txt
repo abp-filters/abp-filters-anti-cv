@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.biz,radio.fr#$#abort-current-inline-script Math.max /UAB/
+notebookcheck.biz,radio.fr#$#abort-current-inline-script Math.random /abc/
 
 ! #9274
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'

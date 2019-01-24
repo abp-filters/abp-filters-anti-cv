@@ -1,2 +1,2 @@
 ! #8479
-notebookcheck.it,radio.it#$#abort-current-inline-script Math.max /UAB/
+notebookcheck.it,radio.it#$#abort-current-inline-script Math.random /abc/
