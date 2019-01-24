@@ -1,2 +1,2 @@
 ! #8479
-notebookcheck.it,radio.it#$#abort-current-inline-script Math.random /abc/
+notebookcheck.it,radio.it#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/

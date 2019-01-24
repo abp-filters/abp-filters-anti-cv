@@ -1,5 +1,5 @@
 ! #8479
-radio.es,notebookcheck.org,comunio.es#$#abort-current-inline-script Math.random /abc/
+radio.es,notebookcheck.org,comunio.es#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]

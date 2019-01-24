@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.info,radio.pt#$#abort-current-inline-script Math.random /abc/
+notebookcheck.info,radio.pt#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder

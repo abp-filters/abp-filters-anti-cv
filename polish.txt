@@ -1,2 +1,2 @@
 ! #8479
-radio.pl#$#abort-current-inline-script Math.random /abc/
+radio.pl#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/

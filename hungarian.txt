@@ -1,2 +1,2 @@
 ! #8479
-notebookcheck-hu.com#$#abort-current-inline-script Math.random /abc/
+notebookcheck-hu.com#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/

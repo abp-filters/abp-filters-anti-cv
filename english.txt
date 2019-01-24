@@ -1,5 +1,5 @@
 ! #8479
-notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script Math.random /abc/
+notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
