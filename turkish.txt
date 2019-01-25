@@ -1,5 +1,4 @@
 ! #8479
-notebookcheck-tr.com#$#abort-current-inline-script Math.random /[a-zA-Z]{3,}/
 
 ! #9276
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
