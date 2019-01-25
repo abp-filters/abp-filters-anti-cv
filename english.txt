@@ -300,7 +300,7 @@ comicallyincorrect.com#?#.article__meta.article--single__meta + div:-abp-has(div
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
-/KlE$image,domain=igg-games.com|kiss-anime.me|animenova.org|animeplus.tv|animewow.org|gogoanime.to|goodanime.co|mangareader.net|toonget.net|toonova.net|thewatchcartoononline.tv|watchcartoononline.io|gogoanime.in|gogoanimes.co|readcomiconline.to
+animenova.org,animeplus.tv,gogoanime.in,gogoanime.to,gogoanimes.co,goodanime.co,igg-games.com,kiss-anime.me,readcomiconline.to,toonget.net,toonova.net##a[rel="noindex nofollow"]
 
 ! #9708
 filmxy.one##.promo-contents
