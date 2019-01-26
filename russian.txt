@@ -14,7 +14,8 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 
 ! #18828
 auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,yandex.ee,yandex.fr,yandex.kg,yandex.kz,yandex.lt,yandex.lv,yandex.md,yandex.ru,yandex.ua,yandex.uz#$#hide-if-shadow-contains *
-liveinternet.ru,echo.msk.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Ya
+liveinternet.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Ya
+echo.msk.ru#$#abort-on-property-read atob
 
 ! #9708
 compendium.su,dynamo.kiev.ua,ukrlit.net,zn.ua,ukrlib.com.ua,24tv.ua,bigmir.net,bookfi.net,cn.ru,cxem.net,dengi.ua,dt.ua,e1.ru,epravda.com.ua,etextlib.ru,football.ua,football24.ua,forumodua.com,gismeteo.ru,glavcom.ua,hvylya.net,isport.ua,kinoafisha.ua,korrespondent.net,kp.ua,mirknig.su,obozrevatel.com,pravda.com.ua,real-vin.com,strana.ua,telegraf.in.ua,vsetv.com,zaxid.net#$#abort-on-property-read WS
