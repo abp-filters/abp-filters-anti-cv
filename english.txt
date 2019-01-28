@@ -122,7 +122,7 @@ spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com###sdg_rectangle_anz
 spox.com###-yqcyMlyypcLo
 spox.com##div[id^="-vpxxpun_jmb_roajvn_3333"]
-spox.com##div[id^="-ztbbtyr_nqf_vsenzr_90203514"]
+spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-duccuzs_org_wtfoas_/5440485"]
