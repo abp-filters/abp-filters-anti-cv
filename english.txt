@@ -161,6 +161,7 @@ webmd.com##[data-block-codes]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
+webmd.com#@#[class="main-container main-container-3"]
 g00.webmd.com##body > div
 workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
