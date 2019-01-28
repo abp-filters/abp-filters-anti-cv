@@ -14,7 +14,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 
 ! #18828
 auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,yandex.ee,yandex.fr,yandex.kg,yandex.kz,yandex.lt,yandex.lv,yandex.md,yandex.ru,yandex.ua,yandex.uz#$#hide-if-shadow-contains *
-liveinternet.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Ya
+24smi.org,liveinternet.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Ya
 echo.msk.ru#$#abort-on-property-read atob
 
 ! #9708
