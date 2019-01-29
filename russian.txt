@@ -44,3 +44,4 @@ car.ru,aftershock.news,alau.kz,amurmedia.ru,argumenti.ru,eaomedia.ru,fastpic.ru,
 
 ! MISC
 rg-mechanics.org,xatab-repack.net#$#abort-on-property-read ads
+fishki.net#$#abort-current-inline-script fishki zmctrack
