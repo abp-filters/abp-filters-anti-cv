@@ -41,3 +41,6 @@ baskino-z720.com#$#abort-on-property-read atob
 
 ! #19890
 car.ru,aftershock.news,alau.kz,amurmedia.ru,argumenti.ru,eaomedia.ru,fastpic.ru,irkutskmedia.ru,it-tehnik.ru,krasnodarmedia.su,krasnoyarskmedia.ru,magadanmedia.ru,moikolodets.ru,newsland.com,popcornnews.ru,primamedia.ru,radikal.ru,sakhalinmedia.ru,sevastopolmedia.ru,sovsport.ru,sport-express.ru,svpressa.ru,theplace.ru,tsargrad.tv,ulanmedia.ru,ussurmedia.ru,yakutiamedia.ru#$#abort-on-property-read ccScriptSupport
+
+! MISC
+rg-mechanics.org,xatab-repack.net#$#abort-on-property-read ads
