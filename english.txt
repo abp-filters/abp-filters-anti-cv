@@ -300,7 +300,14 @@ comicallyincorrect.com#?#.article__meta.article--single__meta + div:-abp-has(div
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
-animenova.org,animeplus.tv,gogoanime.in,gogoanime.to,gogoanimes.co,goodanime.co,igg-games.com,kiss-anime.me,readcomiconline.to,toonget.net,toonova.net##a[rel="noindex nofollow"]
+@@||bebi.com/bebi_$domain=animenova.org|animeplus.tv|gogoanime.in|gogoanime.to|gogoanimes.co|kiss-anime.me|readcomiconline.to|toonget.net|toonova.net
+@@||bebi.com/w^$domain=animenova.org|animeplus.tv|gogoanime.in|gogoanime.to|gogoanimes.co|kiss-anime.me|readcomiconline.to|toonget.net|toonova.net
+@@||readcomiconline.to^$csp
+||toonova.net/ac/*$image
+igg-games.com##a[rel="noindex nofollow"]
+kiss-anime.me##.glx-teaser
+animenova.org,animeplus.tv,gogoanime.in,gogoanime.to,gogoanimes.co,kiss-anime.me,readcomiconline.to,toonget.net,toonova.net##iframe[src^="//gamesrevenu24.com/"]
+animenova.org,animeplus.tv,gogoanime.in,gogoanime.to,gogoanimes.co,kiss-anime.me,readcomiconline.to,toonget.net,toonova.net##iframe[src^="https://a.adtng.com/"]
 
 ! #9708
 filmxy.one##.promo-contents
