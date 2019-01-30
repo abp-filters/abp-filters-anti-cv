@@ -344,7 +344,7 @@ dailymail.co.uk##[name^="google_ads_iframe_"]
 mediafire.com#$#abort-on-property-read UAParser
 
 ! #18836
-quora.com#?#div:-abp-has(> a[class*="external_link link_overlay"][target="_blank"][rel="noopener nofollow"])
+quora.com#?#div:-abp-has(> a[class*="external_link"][target="_blank"][rel="noopener nofollow"])
 
 ! #15511
 @@||namemc.com^$generichide
