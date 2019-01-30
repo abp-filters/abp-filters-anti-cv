@@ -83,7 +83,6 @@ gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
 geek.com##div[id^="-muccuzs_org_wtfoas_/8929"]
 geek.com##div[id^="-mnsfubsh"]
-geek.com##.-mlqdsqzfufk
 metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
@@ -91,10 +90,7 @@ metacritic.com##[data-placement-name="desktop front_door Below Main Column Thumb
 metacritic.com##.side_recommend
 metacritic.com##[data-placement-name="desktop product_overview Right Rail Thumbnails"]
 metacritic.com##[data-placement-name="desktop product_overview Below Content Thumbnails"]
-metacritic.com##.-ewz_qjep
 mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
-mcall.com###-fliqqing_kocig_fkx
-mcall.com##.-flvtd_jgcfgt_cfDcppgt_eqodq
 medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
