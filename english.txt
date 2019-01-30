@@ -121,6 +121,7 @@ seattlepi.com##div[id^="-pojshhwj"]
 seattlepi.com##div[id^="-pvddvat_psh_xugpbt_/81662157"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com##div[id^="-zuccuzs_org_wtfoas_/9175"]
+spox.com##div[id^="-zgcahou"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
 slickdeals.net##div[id^="-duccuzs_org_wtfoas_/5440485"]
