@@ -1,2 +1,2 @@
 ! #8479
-radio.se,notebookcheck.se#$#abort-current-inline-script addEventListener addefend.init
+radio.se,notebookcheck.se#$#abort-current-inline-script navigator adfnd.init
