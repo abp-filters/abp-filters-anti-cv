@@ -139,7 +139,8 @@ thoughtcatalog.com###-moribwh
 thoughtcatalog.com##.-mhqt-or-ibwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
+thoughtcatalog.com##div[id^="-htbbtyr_nqf_vsenzr_/5655279"]
+thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
