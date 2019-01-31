@@ -103,7 +103,7 @@ mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-ovddvat_psh_xugpbt_/81662157"]
 narcity.com##div[id^="-mjrrjoh_dgv_liudph_/4353693"]
 narcity.com##div[class^="lbtop"]
-pcmag.com##div[id^="-gyggydw_svk_axjsew_/2363"]
+pcmag.com##div[id^="-gzhhzex_twl_byktfx_/3474"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-niqqing_cfu_khtcog_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
