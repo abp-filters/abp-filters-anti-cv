@@ -1,1 +1,2 @@
 ! #8479
+notebookcheck.it,radio.it#$#abort-current-inline-script addEventListener addefend.init

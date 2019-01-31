@@ -1,4 +1,5 @@
 ! #8479
+notebookcheck-tr.com#$#abort-current-inline-script addEventListener addefend.init
 
 ! #9276
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
