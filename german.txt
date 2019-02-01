@@ -37,7 +37,7 @@ spox.com##.trc_elastic
 ||giga.de^$csp=img-src 'self' * data: http: https:
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
-||t-online.de^$csp=img-src 'self' * data: http: https:
+||www.t-online.de^$csp=img-src 'self' * data: http: https:
 
 ! #17364
 wetteronline.de###topcontainer
