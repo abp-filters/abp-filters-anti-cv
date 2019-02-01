@@ -146,8 +146,8 @@ thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dsaasxq_mpe_urdmyq_/0486"]
-tvguide.com##div[id^="-nuccuzs_org_wtfoas_/2608"]
+tv.com##div[id^="-duccuzs_org_wtfoas_/2608"]
+tvguide.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
