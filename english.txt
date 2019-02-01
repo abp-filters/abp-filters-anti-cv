@@ -12,7 +12,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||boston.com$generichide,genericblock
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
-@@||slickdeals.net$generichide,genericblock
 @@||101x.com$generichide,genericblock
 dayzdb.com,allakhazam.com###ds_default_anchor
 dayzdb.com,allakhazam.com##[x-enc="id"]
