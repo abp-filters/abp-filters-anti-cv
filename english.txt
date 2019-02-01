@@ -320,7 +320,9 @@ dailymail.co.uk##[name^="google_ads_iframe_"]
 mediafire.com#$#abort-on-property-read UAParser
 
 ! #18836
-quora.com#?#div:-abp-has(> a[class*="external_link"][target="_blank"][rel="noopener nofollow"])
+quora.com#?#.UnifiedAnswerPagedList:not(.PagedListFoo):-abp-has(div.hidden.dismissed_msg_wrapper)
+quora.com#?#.FeedStory.feed_item:-abp-has(div.hidden.dismissed_msg_wrapper)
+quora.com#?#.pagedlist_item:-abp-has(div.hidden.dismissed_msg_wrapper)
 
 ! #15511
 @@||namemc.com^$generichide
