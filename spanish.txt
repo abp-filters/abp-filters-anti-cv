@@ -1,5 +1,5 @@
 ! #8479
-radio.es,notebookcheck.org,comunio.es#$#abort-current-inline-script navigator adfnd.init
+radio.es,notebookcheck.org,comunio.es#$#abort-current-inline-script addEventListener /UABP/
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]

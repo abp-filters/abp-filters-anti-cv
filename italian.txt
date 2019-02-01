@@ -1,2 +1,2 @@
 ! #8479
-notebookcheck.it,radio.it#$#abort-current-inline-script navigator adfnd.init
+notebookcheck.it,radio.it#$#abort-current-inline-script addEventListener /UABP/

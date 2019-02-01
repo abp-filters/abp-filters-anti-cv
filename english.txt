@@ -1,5 +1,6 @@
 ! #8479
-notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script navigator adfnd.init
+notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script addEventListener /UABP/
+||notebookcheck.com^$image,domain=notebookcheck.net|notebookcheck.org|notebookcheck.biz|notebookcheck.it|notebookcheck.nl|notebookcheck-hu.com|notebookcheck.info|notebookcheck-ru.com|notebookcheck.se|notebookcheck-tr.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'

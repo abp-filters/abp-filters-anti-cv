@@ -1,2 +1,2 @@
 ! #8479
-radio.dk#$#abort-current-inline-script navigator adfnd.init
+radio.dk#$#abort-current-inline-script addEventListener /UABP/

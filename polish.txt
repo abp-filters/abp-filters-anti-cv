@@ -1,2 +1,2 @@
 ! #8479
-radio.pl#$#abort-current-inline-script navigator adfnd.init
+radio.pl#$#abort-current-inline-script addEventListener /UABP/
