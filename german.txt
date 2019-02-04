@@ -37,6 +37,7 @@ finanzen.net,tagesspiegel.de,motor-talk.de,golem.de,derwesten.de,moviepilot.de,m
 @@||gearwom.de^$image,domain=finanzen.net
 @@||benelph.de^$image,domain=finanzen.net
 ||chefkoch-cdn.de/ck.de/*.min.js|$script,domain=chefkoch.de
+_03100x07680$image,domain=pcwelt.de
 
 ! #9272
 spox.com##[ws-zone]
