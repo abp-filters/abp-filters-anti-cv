@@ -170,7 +170,7 @@ marlinmag.com,sportdiver.com##.st-block.markdown.ntv-disclaimer
 scubadiving.com##[class="linkTargets-processed external"]
 chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
 metacritic.com,sportingnews.com##.-mor_ibwh
-dailypress.com,hoylosangeles.com##div[id^="-gyggydw_svk_axjsew_/2899"]
+dailypress.com,hoylosangeles.com,carrollcountytimes.com##div[id^="-gyggydw_svk_axjsew_/2899"]
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
 wakeboardingmag.com,saltwatersportsman.com,yachtingmagazine.com,marlinmag.com,scubadiving.com##.ntv-entry
