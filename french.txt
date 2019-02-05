@@ -1,5 +1,4 @@
 ! #8479
-notebookcheck.biz,radio.fr#$#abort-current-inline-script addEventListener /UABP/
 
 ! #9274
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'

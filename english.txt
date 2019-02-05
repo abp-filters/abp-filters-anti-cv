@@ -1,5 +1,4 @@
 ! #8479
-notebookcheck.net,pons.com,radio.net#$#abort-current-inline-script addEventListener /UABP/
 ||notebookcheck.com^$image,domain=notebookcheck.net|notebookcheck.org|notebookcheck.biz|notebookcheck.it|notebookcheck.nl|notebookcheck-hu.com|notebookcheck.info|notebookcheck-ru.com|notebookcheck.se|notebookcheck-tr.com
 
 ! #9276

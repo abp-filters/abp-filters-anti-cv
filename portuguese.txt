@@ -1,5 +1,4 @@
 ! #8479
-notebookcheck.info,radio.pt#$#abort-current-inline-script addEventListener /UABP/
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder

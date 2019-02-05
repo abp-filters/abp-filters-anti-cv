@@ -1,2 +1,1 @@
 ! #8479
-radio.se,notebookcheck.se#$#abort-current-inline-script addEventListener /UABP/
