@@ -51,7 +51,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-fnvvnsl_hkz_pmyhtl_5931"]
+chowhound.com##div[id^="-fowwotm_ila_qnzium_6042"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -68,7 +68,7 @@ edmunds.com##div[class^="-nzyunolyx"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
-everydayhealth.com##div[id^="-esaasxq_mpe_urdmyq_/6435"]
+everydayhealth.com##div[id^="-etbbtyr_nqf_vsenzr_/7546"]
 everydayhealth.com##.-egr-xitb-lgpeetg
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##.rc-item
@@ -103,7 +103,7 @@ mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-oweewbu_qti_yvhqcu_/92773268"]
 narcity.com##div[id^="-mjrrjoh_dgv_liudph_/4353693"]
 narcity.com##div[class^="lbtop"]
-pcmag.com##div[id^="-gaiiafy_uxm_czlugy_/4585"]
+pcmag.com##div[id^="-gbjjbgz_vyn_damvhz_/5696"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-niqqing_cfu_khtcog_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
@@ -120,7 +120,7 @@ seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-pojshhwj"]
 seattlepi.com##div[id^="-pvddvat_psh_xugpbt_/81662157"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
-spox.com##div[id^="-zuccuzs_org_wtfoas_/9175"]
+spox.com##div[id^="-zweewbu_qti_yvhqcu_/1397"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
@@ -138,15 +138,15 @@ thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-huccuzs_org_wtfoas_/6766380"]
+thoughtcatalog.com##div[id^="-hvddvat_psh_xugpbt_/7877491"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-drzzrwp_lod_tqclxp_/9375"]
-tvguide.com##div[id^="-npxxpun_jmb_roajvn_/7153"]
+tv.com##div[id^="-duccuzs_org_wtfoas_/2608"]
+tvguide.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
