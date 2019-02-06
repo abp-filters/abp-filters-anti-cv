@@ -60,8 +60,6 @@ wetteronline.de##div[style*="width:300px;height:250px;"]
 wetteronline.de##div[style="min-width:120px; min-height:600px;"]
 wetteronline.de##div[style*="width: 620px; height: 400px;"]
 ||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de www.youtube.com
-wetteronline.de###woRect
-wetteronline.de##.adplace
 @@||doubleclick.net/instream/ad_status.js$domain=wetteronline.de
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetteronline.de
 @@||wetteronline.de^$generichide
