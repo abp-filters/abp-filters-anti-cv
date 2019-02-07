@@ -120,7 +120,7 @@ seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-pojshhwj"]
 seattlepi.com##div[id^="-pvddvat_psh_xugpbt_/81662157"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
-spox.com##div[id^="-zweewbu_qti_yvhqcu_/1397"]
+spox.com##div[id^="-zxffxcv_ruj_zwirdv_/2408"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
