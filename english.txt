@@ -100,7 +100,7 @@ medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
 metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-mysanantonio.com##div[id^="-oweewbu_qti_yvhqcu_/92773268"]
+mysanantonio.com##div[id^="-oxffxcv_ruj_zwirdv_/03884379"]
 narcity.com##div[id^="-mjrrjoh_dgv_liudph_/4353693"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
@@ -138,7 +138,7 @@ thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hvddvat_psh_xugpbt_/7877491"]
+thoughtcatalog.com##div[id^="-hweewbu_qti_yvhqcu_/8988502"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
