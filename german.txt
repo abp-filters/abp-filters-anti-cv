@@ -56,8 +56,6 @@ spox.com##.trc_elastic
 ||stroeerdp.de/image/U/$image,domain=www.t-online.de
 
 ! #17364
-wetteronline.de###topcontainer
-wetteronline.de###rightcontainer
 wetteronline.de##div[style*="728px; height: 90px;"]
 wetteronline.de##div[style*="width:160px;height:600px;"]
 wetteronline.de##div[style*="width:300px;height:250px;"]
