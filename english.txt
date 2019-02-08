@@ -101,7 +101,7 @@ medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
 metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-mysanantonio.com##div[id^="-oxffxcv_ruj_zwirdv_/03884379"]
+mysanantonio.com##div[id^="-oyggydw_svk_axjsew_/14995480"]
 narcity.com##div[id^="-mjrrjoh_dgv_liudph_/4353693"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
