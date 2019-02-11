@@ -43,7 +43,7 @@ spox.com##.trc_elastic
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
 ||www.t-online.de^$csp=img-src 'self' * data: http: https:
-||stroeerdp.de/image/U/$image,domain=www.t-online.de
+||stroeerdp.de/image$image,domain=www.t-online.de
 
 ! #17364
 wetteronline.de##div[style*="728px; height: 90px;"]
