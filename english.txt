@@ -229,14 +229,12 @@ upornia.com,hotmovs.com,txxx.com,voyeurhit.com,hdzog.com#$#abort-on-property-wri
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
-@@||bebi.com/bebi_$domain=animenova.org|animeplus.tv|gogoanime.in|gogoanime.to|gogoanimes.co|kiss-anime.me|readcomiconline.to|toonget.net|toonova.net
-@@||bebi.com/w^$domain=animenova.org|animeplus.tv|gogoanime.in|gogoanime.to|gogoanimes.co|kiss-anime.me|readcomiconline.to|toonget.net|toonova.net
-@@||readcomiconline.to^$csp
+@@||bebi.com/bebi_$domain=toonget.net|toonova.net
+@@||bebi.com/w^$domain=toonget.net|toonova.net
 ||toonova.net/ac/*$image
-igg-games.com##a[rel="noindex nofollow"]
-kiss-anime.me##.glx-teaser
-animenova.org,animeplus.tv,gogoanime.in,gogoanime.to,gogoanimes.co,kiss-anime.me,readcomiconline.to,toonget.net,toonova.net##iframe[src^="//gamesrevenu24.com/"]
-animenova.org,animeplus.tv,gogoanime.in,gogoanime.to,gogoanimes.co,kiss-anime.me,readcomiconline.to,toonget.net,toonova.net##iframe[src^="https://a.adtng.com/"]
+toonget.net,toonova.net##iframe[src^="//gamesrevenu24.com/"]
+toonget.net,toonova.net##iframe[src^="https://a.adtng.com/"]
+/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to
 
 ! #9708
 filmxy.one##.promo-contents
