@@ -58,7 +58,7 @@ cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
 chowhound.com###glade-aslot-1
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
-chron.com##div[id^="-orzzrwp_lod_tqclxp_/47228713"]
+chron.com##div[id^="-osaasxq_mpe_urdmyq_/58339824"]
 chron.com##div[id^="wrapperLink"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
@@ -101,8 +101,8 @@ medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
 metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-mysanantonio.com##div[id^="-ozhhzex_twl_byktfx_/25006591"]
-narcity.com##div[id^="-mmuumrk_gjy_olxgsk_/7686926"]
+mysanantonio.com##div[id^="-oaiiafy_uxm_czlugy_/36117602"]
+narcity.com##div[id^="-mnvvnsl_hkz_pmyhtl_/8797037"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gjrrjoh_dgv_liudph_/7818"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
