@@ -30,7 +30,8 @@ spox.com##.trc_elastic
 ||desired.de^$csp=img-src 'self' * data: http: https:
 ||kino.de^$csp=img-src 'self' * data: http: https:
 ||www.t-online.de^$csp=img-src 'self' * data: http: https:
-||giephi.stroeerdp.de^$image,domain=www.t-online.de
+||giephi.stroeerdp.de^$image,domain=t-online.de
+||coopau.stroeerdp.de^$image,domain=t-online.de
 
 ! #17364
 wetteronline.de##div[style*="728px; height: 90px;"]
