@@ -241,7 +241,7 @@ toonget.net,toonova.net##iframe[src^="https://a.adtng.com/"]
 filmxy.one##.promo-contents
 
 ! #15096
-facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="hyperfeed_story_id_"]' 'div[id*="feed_subtitle_"] > span, div[id*="feed_subtitle_"] > s' '' 'display: none'; hide-if-contains /.*/ .pagelet 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .pagelet 'a[href^="/ad_campaign/landing.php?"]'
+facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="hyperfeed_story_id_"]' 'div[id*="feed_subtitle_"] > span, div[id*="feed_subtitle_"] > s' '' 'display: none'; hide-if-contains /.*/ .ego_section 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad_campaign/landing.php?"]'
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] div:-abp-contains(/^(Sp)*S?(on)*S?(so)*S(red)/))
 
 ! #18467
