@@ -45,7 +45,7 @@ cbssports.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-eckkcha_wzo_ebnwia_/0486"]
+cnet.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
@@ -126,7 +126,7 @@ spox.com##div[id^="-ztbbtyr_nqf_vsenzr_/90203514"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-duccuzs_org_wtfoas_/5440485"]
+slickdeals.net##div[id^="-daiiafy_uxm_czlugy_/1006041"]
 slickdeals.net##div[class^="rightRailPlacement"]
 slickdeals.net##div[id^="-dwyluq"]
 slickdeals.net###giveawayItem
