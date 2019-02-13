@@ -1,2 +1,2 @@
 ! #8479
-notebookcheck-hu.com#$#abort-current-inline-script addEventListener randomString
+notebookcheck-hu.com#$#abort-current-inline-script addEventListener adddfnd.init

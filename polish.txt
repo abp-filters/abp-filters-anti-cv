@@ -1,2 +1,2 @@
 ! #8479
-radio.pl#$#abort-current-inline-script addEventListener randomString
+radio.pl#$#abort-current-inline-script addEventListener adddfnd.init

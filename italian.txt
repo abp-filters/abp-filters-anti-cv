@@ -1,2 +1,2 @@
 ! #8479
-radio.it,notebookcheck.it#$#abort-current-inline-script addEventListener randomString
+radio.it,notebookcheck.it#$#abort-current-inline-script addEventListener adddfnd.init

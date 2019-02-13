@@ -1,6 +1,6 @@
 ! #8479
 ! ||notebookcheck.com^$image,domain=notebookcheck.net|notebookcheck.org|notebookcheck.biz|notebookcheck.it|notebookcheck.nl|notebookcheck-hu.com|notebookcheck.info|notebookcheck-ru.com|notebookcheck.se|notebookcheck-tr.com
-radio.net,notebookcheck.net,pons.com#$#abort-current-inline-script addEventListener randomString
+radio.net,notebookcheck.net,pons.com#$#abort-current-inline-script addEventListener adddfnd.init
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'

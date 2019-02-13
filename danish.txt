@@ -1,2 +1,2 @@
 ! #8479
-radio.dk#$#abort-current-inline-script addEventListener randomString
+radio.dk#$#abort-current-inline-script addEventListener adddfnd.init

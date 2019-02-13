@@ -1,5 +1,5 @@
 ! #8479
-radio.pt,notebookcheck.info#$#abort-current-inline-script addEventListener randomString
+radio.pt,notebookcheck.info#$#abort-current-inline-script addEventListener adddfnd.init
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
