@@ -53,7 +53,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-frzzrwp_lod_tqclxp_9375"]
+chowhound.com##div[id^="-fsaasxq_mpe_urdmyq_0486"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -122,7 +122,7 @@ seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-pojshhwj"]
 seattlepi.com##div[id^="-pvddvat_psh_xugpbt_/81662157"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
-spox.com##div[id^="-zxffxcv_ruj_zwirdv_/2408"]
+spox.com##div[id^="-ztbbtyr_nqf_vsenzr_/90203514"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
@@ -140,7 +140,7 @@ thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hzhhzex_twl_byktfx_/1211835"]
+thoughtcatalog.com##div[id^="-haiiafy_uxm_czlugy_/2322946"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
