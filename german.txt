@@ -33,6 +33,7 @@ spox.com##div[id^="-ztbbtyr_nqf_vsenzr_/90203514"]
 ||www.t-online.de^$csp=img-src 'self' * data: http: https:
 ||giephi.stroeerdp.de^$image,domain=t-online.de
 ||coopau.stroeerdp.de^$image,domain=t-online.de
+t-online.de##a.Tctiga[href="https://t-online.de"]
 
 ! #17364
 wetteronline.de##div[style*="728px; height: 90px;"]
