@@ -294,3 +294,6 @@ iamgujarat.com#?#div:-abp-has(> h2:-abp-contains(FROM WEB))
 samayam.com,indiatimes.com##a[onclick][rel="nofollow,noindex"]
 indiatimes.com#?#div:-abp-has(> h2:-abp-contains(FROM AROUND THE WEB))
 indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
+
+! #16030
+videocelts.com#$#abort-on-property-read TextDecoder
