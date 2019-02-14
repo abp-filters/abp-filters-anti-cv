@@ -294,4 +294,4 @@ indiatimes.com#?#div:-abp-has(> h2:-abp-contains(FROM AROUND THE WEB))
 indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
 
 ! #16030
-videocelts.com#$#abort-on-property-read TextDecoder
+audiofanzine.com,videocelts.com#$#abort-on-property-read TextDecoder
