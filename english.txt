@@ -298,3 +298,4 @@ indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
 ! #16030
 audiofanzine.com,videocelts.com#$#abort-on-property-read TextDecoder
 mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
+thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
