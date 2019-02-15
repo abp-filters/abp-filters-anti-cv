@@ -195,6 +195,7 @@ sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Ga
 boston.com,orlandosentinel.com,chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com##[observeid]
 floridatravellife.com##[data-parent-placement-name="Below Article Thumbnails"]
 floridatravellife.com##[data-feed-main-container-id="taboola-placement-2"]
+cbssports.com#$#abort-current-inline-script Math.random
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
