@@ -54,7 +54,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_1597"]
+chowhound.com##div[id^="-fuccuzs_org_wtfoas_2608"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -148,7 +148,7 @@ thoughtcatalog.com##iframe[width="330"]
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
+tv.com##div[id^="-dckkcha_wzo_ebnwia_/0486"]
 tvguide.com##div[id^="-nxffxcv_ruj_zwirdv_/5931"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
