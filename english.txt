@@ -127,9 +127,9 @@ spox.com##div[id^="-ztbbtyr_nqf_vsenzr_/90203514"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-dbjjbgz_vyn_damvhz_/2117152"]
+slickdeals.net##div[id^="-dckkcha_wzo_ebnwia_/3228263"]
 slickdeals.net##div[class^="rightRailPlacement"]
-slickdeals.net##div[id^="-dwyluq"]
+slickdeals.net##div[id^="-dceraw"]
 slickdeals.net###giveawayItem
 slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
