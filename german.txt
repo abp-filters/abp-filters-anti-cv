@@ -47,6 +47,7 @@ spox.com##div[id^="-zuccuzs_org_wtfoas_/01314625"]
 ||ohched.stroeerdp.de^$image,domain=t-online.de
 t-online.de#$#abort-current-inline-script T.RecAdInactive
 t-online.de##a.Tctiga[href="https://t-online.de"]
+t-online.de##a.Tctiga[href="https://t-online.de/"]
 
 ! #17364
 wetteronline.de##div[style*="728px; height: 90px;"]
