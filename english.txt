@@ -41,7 +41,8 @@ boston.com##div[id^="-dudh"]
 boston.com##[data--dor-ibwh^="sectfront"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-nlttlqj_fix_nkwfrj_/3719"]
+cbssports.com##div[id^="-nmuumrk_gjy_olxgsk_/4820"]
+cbssports.com##.cc-skybox
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
@@ -140,7 +141,7 @@ thoughtcatalog.com###aswift_0
 thoughtcatalog.com###-moribwh
 thoughtcatalog.com##[data-dcm-placement]
 thoughtcatalog.com##[data-ad-id]
-thoughtcatalog.com##div[id^="-hbjjbgz_vyn_damvhz_/3433057"]
+thoughtcatalog.com##div[id^="-hckkcha_wzo_ebnwia_/4544168"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com##ins[id^="-hogkwth"]
 thoughtcatalog.com##iframe[width="330"]
@@ -148,7 +149,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-dbjjbgz_vyn_damvhz_/9375"]
-tvguide.com##div[id^="-nweewbu_qti_yvhqcu_/4820"]
+tvguide.com##div[id^="-nxffxcv_ruj_zwirdv_/5931"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
