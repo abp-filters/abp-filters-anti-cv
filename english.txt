@@ -242,6 +242,7 @@ facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] div:-abp-contains(/^(Sp)*S?(on)*S?(so)*S(red)/))
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] span[id^="u_ps_"] span:-abp-contains(/^poS/))
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] span[id^="u_fetchstream_"] span:-abp-contains(/^poS/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] span[id^="u_jsonp_"] span:-abp-contains(/^poS/))
 
 ! #18467
 seekingalpha.com#$#abort-on-property-read atob
