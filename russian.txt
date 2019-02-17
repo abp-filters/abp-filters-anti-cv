@@ -44,3 +44,6 @@ baskino-z720.com#$#abort-on-property-read atob
 
 ! MISC
 rg-mechanics.org,xatab-repack.net#$#abort-on-property-read ads
+
+! #20468
+inforeactor.ru,nahnews.org,rueconomics.ru,politexpert.net#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
