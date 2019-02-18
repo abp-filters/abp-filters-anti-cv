@@ -1,2 +1,2 @@
 ! #8479
-radio.pl#$#abort-current-inline-script navigator adnddnd.innit
+radio.pl#$#abort-on-property-read atob

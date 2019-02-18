@@ -1,5 +1,5 @@
 ! #8479
-radio.pt,notebookcheck.info#$#abort-current-inline-script navigator adnddnd.innit
+radio.pt,notebookcheck.info#$#abort-on-property-read atob
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
