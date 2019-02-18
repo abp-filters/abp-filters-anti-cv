@@ -1,1 +1,2 @@
 ! #8479
+radio.dk#$#abort-current-inline-script navigator adndfnd.init

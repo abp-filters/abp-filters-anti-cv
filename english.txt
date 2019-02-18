@@ -1,4 +1,5 @@
 ! #8479
+radio.net,notebookcheck.net,pons.com#$#abort-current-inline-script navigator adndfnd.init
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
