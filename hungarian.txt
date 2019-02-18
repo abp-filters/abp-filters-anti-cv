@@ -1,2 +1,2 @@
 ! #8479
-radio.fr,notebookcheck.biz#$#abort-current-inline-script navigator adnddnd.init
+radio.fr,notebookcheck.biz#$#abort-current-inline-script navigator adnddnd.innit

@@ -1,5 +1,5 @@
 ! #8479
-radio.net,notebookcheck.net,pons.com#$#abort-current-inline-script navigator adnddnd.init
+radio.net,notebookcheck.net,pons.com#$#abort-current-inline-script navigator adnddnd.innit
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'

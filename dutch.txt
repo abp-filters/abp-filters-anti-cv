@@ -1,2 +1,2 @@
 ! #8479
-ajaxshowtime.com,f1maximaal.nl,notebookcheck.nl#$#abort-current-inline-script navigator adnddnd.init
+ajaxshowtime.com,f1maximaal.nl,notebookcheck.nl#$#abort-current-inline-script navigator adnddnd.innit
