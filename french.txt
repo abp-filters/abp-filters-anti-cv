@@ -1,5 +1,5 @@
 ! #8479
-radio.fr,notebookcheck.biz#$#abort-current-inline-script navigator adndndfnd.init
+radio.fr,notebookcheck.biz#$#abort-current-inline-script navigator adnddnd.init
 
 ! #9274
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
