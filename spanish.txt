@@ -1,5 +1,5 @@
 ! #8479
-radio.es,comunio.es,notebookcheck.org#$#abort-current-inline-script navigator adndfnd.init
+radio.es,comunio.es,notebookcheck.org#$#abort-current-inline-script navigator addndfnd.init
 
 ! #9272
 hoylosangeles.com##[data-adloader-size="970x250"]
