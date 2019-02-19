@@ -1,2 +1,2 @@
 ! #8479
-radio.pl#$#abort-on-property-read atob
+radio.pl#$#abort-current-inline-script addEventListener DOMContentLoaded

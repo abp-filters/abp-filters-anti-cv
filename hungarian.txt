@@ -1,2 +1,2 @@
 ! #8479
-radio.fr,notebookcheck.biz#$#abort-on-property-read atob
+radio.fr,notebookcheck.biz#$#abort-current-inline-script addEventListener DOMContentLoaded

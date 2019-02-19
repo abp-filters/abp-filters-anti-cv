@@ -1,5 +1,5 @@
 ! #8479
-radio.fr,notebookcheck.biz#$#abort-on-property-read atob
+radio.fr,notebookcheck.biz#$#abort-current-inline-script addEventListener DOMContentLoaded
 
 ! #9274
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
