@@ -124,6 +124,7 @@ aachener-nachrichten.de##aside[data-portal-id]
 @@||woman.at^$generichide
 @@||womenshealth.de^$generichide
 @@||yachtrevue.at^$generichide
+@@||finanzen.net^$generichide
 @@||golem.de^$genericblock
 @@||notebookcheck-hu.com^$genericblock
 @@||notebookcheck-ru.com^$genericblock
@@ -145,6 +146,7 @@ reuters.com###ad-container
 reuters.com##div[id^="google_ads_iframe_"]
 reuters.com##iframe[id^="google_ads_iframe"]
 reuters.com##.adchoices
+finanzen.net##.adsbygoogle
 
 ! #9272
 spox.com##[ws-zone]
