@@ -7,10 +7,11 @@ news.de#$#abort-on-property-write plistaWidget
 aachener-nachrichten.de##aside[data-portal-id]
 @@||meinestadt.de^$genericblock,generichide
 @@||finya.de^$genericblock,generichide
-meinestadt.de,finya.de##iframe[id^="google_ads_frame"]
-meinestadt.de,finya.de##div[id^="google_ads_iframe_"]
-meinestadt.de,finya.de##iframe[id^="google_ads_iframe"]
-meinestadt.de,finya.de###ad-container
+@@||giga.de^$genericblock,generichide
+giga.de,meinestadt.de,finya.de##iframe[id^="google_ads_frame"]
+giga.de,meinestadt.de,finya.de##div[id^="google_ads_iframe_"]
+giga.de,meinestadt.de,finya.de##iframe[id^="google_ads_iframe"]
+giga.de,meinestadt.de,finya.de###ad-container
 
 ! #8479
 @@||4players.de^$generichide
