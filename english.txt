@@ -149,7 +149,6 @@ tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-djrrjoh_dgv_liudph_/1597"]
 tv.com##iframe
-@@||tv.com$genericblock,generichide
 tvguide.com##div[id^="-nyggydw_svk_axjsew_/6042"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
