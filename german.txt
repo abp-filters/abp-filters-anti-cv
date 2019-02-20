@@ -138,8 +138,13 @@ aachener-nachrichten.de##aside[data-portal-id]
 @@||notebookcheck.se^$genericblock
 @@||reuters.com^$genericblock
 @@||sport.de^$genericblock
-reuters.com##iframe[src^="//www.dianomi.com/smartads.epl?"]
 ||servedby.flashtalking.com^$domain=www.sport.de
+reuters.com##iframe[src^="//www.dianomi.com/smartads.epl?"]
+reuters.com##iframe[id^="google_ads_frame"]
+reuters.com###ad-container
+reuters.com##div[id^="google_ads_iframe_"]
+reuters.com##iframe[id^="google_ads_iframe"]
+reuters.com##.adchoices
 
 ! #9272
 spox.com##[ws-zone]
