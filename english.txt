@@ -87,6 +87,7 @@ gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
 geek.com##div[id^="-mckkcha_wzo_ebnwia_/6707"]
 geek.com##div[id^="-mnsfubsh"]
+goal.com##[data-role="ad"]
 metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
