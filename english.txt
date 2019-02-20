@@ -8,6 +8,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
+||101x.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 @@||boston.com$generichide,genericblock
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
