@@ -142,14 +142,5 @@ t-online.de#$#abort-current-inline-script T.RecAdInactive
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
 
-! #17364
-wetteronline.de##div[style*="728px; height: 90px;"]
-wetteronline.de##div[style*="width:160px;height:600px;"]
-wetteronline.de##div[style*="width:300px;height:250px;"]
-wetteronline.de##div[style="min-width:120px; min-height:600px;"]
-wetteronline.de##div[style*="width: 620px; height: 400px;"]
-||wetteronline.de^$csp=frame-src 'self' www.wetteronline.de www.youtube.com
-@@||doubleclick.net/instream/ad_status.js$domain=wetteronline.de
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=wetteronline.de
-@@||wetteronline.de^$generichide
-@@||adservice.google.com/adsid/integrator.js|$domain=wetteronline.de
+! #16030
+wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
