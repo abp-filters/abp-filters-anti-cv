@@ -141,7 +141,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-dksskpi_ehw_mjveqi_/2608"]
-tvguide.com##div[id^="-nyggydw_svk_axjsew_/6042"]
+tvguide.com##div[id^="-nzhhzex_twl_byktfx_/7153"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
