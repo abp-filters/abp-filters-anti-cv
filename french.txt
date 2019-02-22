@@ -4,3 +4,6 @@
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
 ||sobusygirls.fr^$csp=script-src 'self' * 'unsafe-eval'
 pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
+
+! #16030
+autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLongTaskTiming
