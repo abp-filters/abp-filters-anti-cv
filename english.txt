@@ -245,6 +245,9 @@ facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] a[id^="u_ps_"] span:-abp-contains(/^Sp/))
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] a[id^="u_fetchstream_"] span:-abp-contains(/^Sp/))
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] a[id^="u_jsonp_"] s:-abp-contains(/^Sp/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] span[id^="u_ps_"] span:-abp-contains(/^SppppS/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] span[id^="u_fetchstream_"] span:-abp-contains(/^SppppS/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] span[id^="u_jsonp_"] span:-abp-contains(/^SppppS/))
 
 ! #18467
 seekingalpha.com#$#abort-on-property-read atob
