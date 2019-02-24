@@ -228,8 +228,8 @@ solarporn.net#$#abort-on-property-read ExoLoader
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
-/*gek|$image,domain=readcomiconline.to
-/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net
+/*gek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
+/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
 
 ! #9708
 filmxy.one##.promo-contents
