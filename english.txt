@@ -312,3 +312,7 @@ psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOA
 ! #10409
 uploadmp4.com#$#abort-on-property-write adcashMacros
 uploadmp4.com#$#abort-on-property-write Fingerprint2
+
+! MISC
+fflares.com#$#abort-on-property-write _pop
+fflares.com#$#abort-on-property-read popns
