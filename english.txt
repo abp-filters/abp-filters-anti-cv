@@ -307,3 +307,7 @@ indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
 audiofanzine.com,videocelts.com#$#abort-on-property-read TextDecoder
 mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
 psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
+
+! #10409
+uploadmp4.com#$#abort-on-property-write adcashMacros
+uploadmp4.com#$#abort-on-property-write Fingerprint2
