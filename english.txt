@@ -53,7 +53,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-fyggydw_svk_axjsew_6042"]
+chowhound.com##div[id^="-fzhhzex_twl_byktfx_7153"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -104,7 +104,7 @@ metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-olttlqj_fix_nkwfrj_/81662157"]
-narcity.com##div[id^="-mtbbtyr_nqf_vsenzr_/4353693"]
+narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gsaasxq_mpe_urdmyq_/6707"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
