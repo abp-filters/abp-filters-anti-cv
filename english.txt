@@ -225,8 +225,9 @@ infowars.com,lifebuzz.com,techtimes.com,thefreethoughtproject.com,thelibertydail
 ! #10386
 hotmovs.com##div[class^="vda-closeplay"]
 upornia.com,hotmovs.com,txxx.com,voyeurhit.com,hdzog.com#$#abort-on-property-write ads_priv
-solarporn.net,mangovideo.pw#$#abort-on-property-read ExoLoader
+zbporn.com,solarporn.net,mangovideo.pw#$#abort-on-property-read ExoLoader
 mangovideo.pw#$#abort-on-property-write puShown
+zbporn.com#$#abort-on-property-read popns
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
