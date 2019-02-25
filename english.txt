@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?k=*&m=*&d=*&t=*&i=*&w=*&r=*$image,domain=reuters.com
+reuters.com#$#abort-on-property-read advBidxc
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
