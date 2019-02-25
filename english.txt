@@ -153,7 +153,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bbjjbgz_vyn_damvhz_/5423545"]
+webmd.com##div[id^="-baiiafy_uxm_czlugy_/4312434"]
 webmd.com##.entry_fmt entry_fmt_st
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
