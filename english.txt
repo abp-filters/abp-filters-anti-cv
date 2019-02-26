@@ -40,7 +40,7 @@ boston.com##div[id^="-dudh"]
 boston.com##[data--dor-ibwh^="sectfront"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
+cbssports.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
@@ -86,7 +86,7 @@ gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
-geek.com##div[id^="-mfnnfkd_zcr_heqzld_/9030"]
+geek.com##div[id^="-mlttlqj_fix_nkwfrj_/9030"]
 geek.com##div[id^="-mnsfubsh"]
 goal.com##[data-role="ad"]
 metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
@@ -107,7 +107,7 @@ mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-olttlqj_fix_nkwfrj_/81662157"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
-pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
+pcmag.com##div[id^="-giqqing_cfu_khtcog_/6707"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-niqqing_cfu_khtcog_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
@@ -142,8 +142,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-djrrjoh_dgv_liudph_/1597"]
-tvguide.com##div[id^="-nbjjbgz_vyn_damvhz_/9375"]
+tv.com##div[id^="-dvddvat_psh_xugpbt_/3719"]
+tvguide.com##div[id^="-nemmejc_ybq_gdpykc_/2608"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
@@ -154,7 +154,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bvddvat_psh_xugpbt_/9867989"]
+webmd.com##div[id^="-brzzrwp_lod_tqclxp_/5423545"]
 webmd.com##.entry_fmt entry_fmt_st
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
@@ -184,7 +184,7 @@ chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,co
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,orlandosentinel.com##div[draggable="false"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-gljt_tjcj_fl"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,orlandosentinel.com##div[style="display: inline-block;"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[id^="-gyggydw_svk_axjsew_/2899"]
+chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[id^="-gsaasxq_mpe_urdmyq_/6233"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
 sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Gallery Thumbnails"]
 boston.com,orlandosentinel.com,chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com##[observeid]
