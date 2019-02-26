@@ -40,13 +40,13 @@ boston.com##div[id^="-dudh"]
 boston.com##[data--dor-ibwh^="sectfront"]
 boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-npxxpun_jmb_roajvn_/7153"]
+cbssports.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-elttlqj_fix_nkwfrj_/3719"]
+cnet.com##div[id^="-emuumrk_gjy_olxgsk_/4820"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
@@ -66,8 +66,8 @@ dailypress.com##div[style*="width: 500px; height: 1230px;"]
 emedicinehealth.com##.-bps_eaprtwdastg.-bps
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
-edmunds.com##div[id^="-nbjjbgz_vyn_damvhz_86659972"]
-edmunds.com##div[class^="-nazvopmzy"]
+edmunds.com##div[id^="-nnvvnsl_hkz_pmyhtl_42215538"]
+edmunds.com##div[class^="-nmlhabylk"]
 edmunds.com##img[class^="jellybeen"]
 edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
