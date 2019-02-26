@@ -192,6 +192,7 @@ floridatravellife.com##[data-parent-placement-name="Below Article Thumbnails"]
 floridatravellife.com##[data-feed-main-container-id="taboola-placement-2"]
 cbssports.com#$#abort-current-inline-script Math.random
 gamepedia.com#$#abort-on-property-read I11C
+narcity.com#$#abort-on-property-write Ha
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
