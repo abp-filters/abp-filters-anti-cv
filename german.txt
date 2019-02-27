@@ -130,6 +130,7 @@ spox.com##div[id^="-zuccuzs_org_wtfoas_/01314625"]
 t-online.de#?#:-abp-properties(left: 970px;)
 t-online.de#?#:-abp-properties(width: 970px;)
 t-online.de#?#:-abp-properties(max-height: 300px; max-width: 970)
+t-online.de#?#:-abp-has(> img[src^="//"][src*=".stroeerdp.de/"])
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
 
