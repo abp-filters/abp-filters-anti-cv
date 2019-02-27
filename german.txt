@@ -125,7 +125,10 @@ spox.com##div[id^="-zuccuzs_org_wtfoas_/01314625"]
 ||giephi.stroeerdp.de^$image,domain=t-online.de
 ||coopau.stroeerdp.de^$image,domain=t-online.de
 ||ohched.stroeerdp.de^$image,domain=t-online.de
-t-online.de#$#abort-current-inline-script T.RecAdInactive
+||ohchop.stroeerdp.de^$image,domain=t-online.de
+t-online.de#?#:-abp-properties(left: 970px;)
+t-online.de#?#:-abp-properties(width: 970px;)
+t-online.de#?#:-abp-properties(max-height: 300px; max-width: 970)
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
 
