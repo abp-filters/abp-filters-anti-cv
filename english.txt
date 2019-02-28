@@ -46,7 +46,7 @@ cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
+cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
@@ -105,7 +105,7 @@ medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
 metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-mysanantonio.com##div[id^="-onvvnsl_hkz_pmyhtl_/03884379"]
+mysanantonio.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gksskpi_ehw_mjveqi_/8929"]
