@@ -180,6 +180,7 @@ narcity.com#$#abort-on-property-write Ha
 ||thecelticblog.com^$csp=script-src 'self' * 'unsafe-inline'
 ||thisisfutbol.com^$csp=script-src 'self' * 'unsafe-inline'
 ||videocelts.com^$csp=script-src 'self' * 'unsafe-inline'
+||footballleagueworld.co.uk^$csp=script-src 'self' * 'unsafe-inline'
 ||vidmax.com^$csp=script-src 'self' * 'unsafe-inline'
 ||asheepnomore.net^$csp=script-src 'self' * 'unsafe-inline'
 ||debka.com^$csp=script-src 'self' * 'unsafe-inline'
