@@ -307,6 +307,7 @@ uploadmp4.com#$#abort-on-property-write adcashMacros
 uploadmp4.com#$#abort-on-property-write Fingerprint2
 
 ! #20679
+pch.com##div[id^="sqlo-"]
 pch.com#$#abort-current-inline-script setTimeout
 
 ! MISC
