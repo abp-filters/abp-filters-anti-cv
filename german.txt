@@ -41,8 +41,7 @@ spox.com##div[id^="-zxffxcv_ruj_zwirdv_/34647958"]
 ||iquoha.stroeerdp.de^$image,domain=t-online.de
 ||ieweed.stroeerdp.de^$image,domain=t-online.de
 ||eiphoo.stroeerdp.de^$image,domain=t-online.de
-||stroeerdp.de/image$image,domain=t-online.de
-||stroeerdp.de/imges/$image,domain=t-online.de
+||dohjee.stroeerdp.de^$image,domain=t-online.de
 t-online.de#?#:-abp-properties(left: 970px;)
 t-online.de#?#:-abp-properties(width: 970px;)
 t-online.de#?#:-abp-properties(max-height: 300px; max-width: 970)
