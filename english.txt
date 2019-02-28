@@ -315,7 +315,7 @@ indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
 
 ! #16030
 audiofanzine.com#$#abort-on-property-read TextDecoder
-videocelts.com,mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
+celticquicknews.co.uk,videocelts.com,mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
 psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
 thisisfutbol.com#$#abort-on-property-read PerformanceLongTaskTiming
 
