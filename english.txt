@@ -14,15 +14,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
 @@||everydayhealth.com$generichide,genericblock
-dayzdb.com,allakhazam.com###ds_default_anchor
-dayzdb.com,allakhazam.com##[x-enc="id"]
-allakhazam.com##.ds_cpp
-allakhazam.com###row-top
-allakhazam.com###horizontal-bg
-allakhazam.com###ZAM_Vertical_ATF
-allakhazam.com###ZAM_Horizontal_ATF
 allakhazam.com,101x.com,1070thefan.com##[amp4ads]
-allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
 101x.com##div[id^="-hrzzrwp_lod_tqclxp_/7843"]
@@ -30,15 +22,10 @@ allakhazam.com##div[id^="-cbjjbgz_vyn_damvhz_/87247385"]
 1070thefan.com###sitewrap
 klbjfm.com##div[id^="-bzhhzex_twl_byktfx_/5621"]
 klbjfm.com##[data-position]
-klbjfm.com###taw0
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]
-boston.com##[data--sjm-dwrc]
-boston.com##[data--sps-jcxi]
-boston.com##div[id^="-dudh"]
-boston.com##[data--dor-ibwh^="sectfront"]
-boston.com##[data--meaprtbtci-cpbt="Below Article Thumbnails"]	
+boston.com##div[id^="-dudh"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
 cbssports.com##div[id^="-nmuumrk_gjy_olxgsk_/4820"]
 cbssports.com##.cc-skybox
@@ -64,16 +51,12 @@ chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnai
 chron.com##div[id^="-ockkcha_wzo_ebnwia_/58339824"]
 chron.com##div[id^="wrapperLink"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-emedicinehealth.com##.-bps_eaprtwdastg.-bps
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 edmunds.com##div[class^="-nzyunolyx"]
-edmunds.com##img[class^="jellybeen"]
-edmunds.com##.pb-3.row
 edmunds.com##div[style="width: 368px;"]
 everydayhealth.com##div[id^="-euccuzs_org_wtfoas_/8657"]
-everydayhealth.com##.-egr-xitb-lgpeetg
 everydayhealth.com##.gmc-recommendation
 everydayhealth.com##.rc-item
 everydayhealth.com##[data-adsize]
@@ -135,7 +118,6 @@ slickdeals.net##div[id^="-dceraw"]
 slickdeals.net###giveawayItem
 slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
-sportingnews.com##.-mor-hcd.module
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
 thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
