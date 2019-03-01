@@ -45,6 +45,8 @@ spox.com##div[id^="-zxffxcv_ruj_zwirdv_/34647958"]
 ||akeked.stroeerdp.de^$image,domain=t-online.de
 ||ohzohm.stroeerdp.de^$image,domain=t-online.de
 ||ieghai.stroeerdp.de^$image,domain=t-online.de
+||voongo.stroeerdp.de^$image,domain=t-online.de
+||stroeerdp.de/i$image,domain=t-online.de
 t-online.de#?#:-abp-properties(width: 970)
 t-online.de#?#:-abp-properties(left: 970)
 /imgez/*$image,domain=t-online.de
