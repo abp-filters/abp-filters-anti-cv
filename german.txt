@@ -44,13 +44,11 @@ spox.com##div[id^="-zxffxcv_ruj_zwirdv_/34647958"]
 ||dohjee.stroeerdp.de^$image,domain=t-online.de
 ||akeked.stroeerdp.de^$image,domain=t-online.de
 ||ohzohm.stroeerdp.de^$image,domain=t-online.de
-t-online.de#?#:-abp-properties(left: 970px;)
-t-online.de#?#:-abp-properties(width: 970px;)
-t-online.de#?#:-abp-properties(max-height: 300px; max-width: 970)
-t-online.de#?#:-abp-has(> img[src^="//"][src*=".stroeerdp.de/"])
-t-online.de##a.Tctiga[href="https://t-online.de"]
-t-online.de##a.Tctiga[href="https://t-online.de/"]
-/imgey/*$image,domain=t-online.de
+||dohjee.stroeerdp.de^$image,domain=t-online.de
+||ieghai.stroeerdp.de^$image,domain=t-online.de
+t-online.de#?#:-abp-properties(width: 970)
+t-online.de#?#:-abp-properties(left: 970)
+/imgez/*$image,domain=t-online.de
 
 ! #16030
 wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
