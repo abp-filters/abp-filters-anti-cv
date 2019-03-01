@@ -146,7 +146,6 @@ workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
 marlinmag.com,sportdiver.com##.st-block.markdown.ntv-disclaimer
-scubadiving.com##[class="linkTargets-processed external"]
 chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
 metacritic.com,sportingnews.com##.-mor_ibwh
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
