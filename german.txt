@@ -44,10 +44,12 @@ spox.com##div[id^="-zrzzrwp_lod_tqclxp_/78081392"]
 ||ohzohm.stroeerdp.de^$image,domain=t-online.de
 ||ieghai.stroeerdp.de^$image,domain=t-online.de
 ||voongo.stroeerdp.de^$image,domain=t-online.de
+||teephu.stroeerdp.de^$image,domain=t-online.de
 ||stroeerdp.de/i$image,domain=t-online.de
 t-online.de#?#:-abp-properties(width: 970)
 t-online.de#?#:-abp-properties(left: 970)
-/imgez/*$image,domain=t-online.de
+t-online.de##div[style] + img[src*=".stroeerdp.de/"]
+/aimages/*$image,domain=t-online.de
 
 ! #16030
 wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
