@@ -28,6 +28,7 @@ cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
 cbssports.com##div[id^="-nweewbu_qti_yvhqcu_/4820"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
+cbssports.com##[data-load-complete="true"]
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
