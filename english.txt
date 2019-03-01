@@ -275,9 +275,7 @@ dailymail.co.uk##[name^="google_ads_iframe_"]
 mediafire.com#$#abort-on-property-read UAParser
 
 ! #18836
-quora.com#?#.UnifiedAnswerPagedList.PagedListFoo.unified:not([id*="_paged_list"]):-abp-has(> a:-abp-properties(/background-image: url/))
-quora.com#?#.multifeed_bundle_story:-abp-has(.u-inherit > .FeedStory.AnswerFeedStory:first-child)
-quora.com#?#.pagedlist_item:-abp-has(> a:only-child:-abp-properties(/background-image: url/))
+quora.com#?#.FeedStory.AnswerFeedStory.feed_item[id$="_item"]:-abp-has(a:-abp-properties(/background-image: url/))
 
 ! #15511
 @@||namemc.com^$generichide
