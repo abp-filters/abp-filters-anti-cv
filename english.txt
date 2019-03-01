@@ -282,7 +282,6 @@ mediafire.com#$#abort-on-property-read UAParser
 
 ! #18836
 quora.com#?#.FeedStory.AnswerFeedStory.feed_item[id$="_item"]:-abp-has(a:-abp-properties(/background-image: url/))
-quora.com#?#.UnifiedAnswerPagedList.PagedListFoo.unified[id$="_paged_list"]:-abp-has(> a:last-child:-abp-properties(/background-image: url/))
 
 ! #15511
 @@||namemc.com^$generichide
