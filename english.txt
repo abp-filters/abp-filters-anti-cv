@@ -120,7 +120,7 @@ slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
-thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
+thoughtcatalog.com##div[id^="-hrzzrwp_lod_tqclxp_/3433057"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 tv.com###headerleader
 tv.com###leader_bottom
