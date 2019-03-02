@@ -23,7 +23,8 @@ chefkoch.de,pcwelt.de,notebookcheck.net,finanzen.net,tagesspiegel.de,motor-talk.
 ! #9272
 spox.com##[ws-zone]
 spox.com##.trc_elastic
-spox.com##div[id^="-zrzzrwp_lod_tqclxp_/78081392"]
+spox.com##div[id^="-zyggydw_svk_axjsew_/45758069"]
+spox.com##div[data-load-complete="true"]
 
 ! #15654
 ||spieletipps.de^$csp=img-src 'self' * data: http: https:
