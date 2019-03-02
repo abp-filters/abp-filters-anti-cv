@@ -137,7 +137,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bpxxpun_jmb_roajvn_/3201323"]
+webmd.com##div[id^="-bowwotm_ila_qnzium_/2190212"]
 webmd.com##.entry_fmt entry_fmt_st
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
