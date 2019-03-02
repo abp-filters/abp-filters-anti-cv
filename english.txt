@@ -32,7 +32,7 @@ cbssports.com##[data-load-complete="true"]
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
+cnet.com##div[id^="-etbbtyr_nqf_vsenzr_/1597"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
@@ -41,7 +41,7 @@ cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 chowhound.com##[data-load-complete]
-chowhound.com##div[id^="-fmuumrk_gjy_olxgsk_4820"]
+chowhound.com##div[id^="-fbjjbgz_vyn_damvhz_9375"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
@@ -69,7 +69,7 @@ gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-pzhhzex_twl_byktfx_/47298866"]
-geek.com##div[id^="-mxffxcv_ruj_zwirdv_/1252"]
+geek.com##div[id^="-mpxxpun_jmb_roajvn_/3474"]
 geek.com##div[id^="-mnsfubsh"]
 goal.com##[data-role="ad"]
 metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
@@ -91,7 +91,7 @@ mysanantonio.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
 msn.com##div[id^="aaisreevi3_yfdvgrxv"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
-pcmag.com##div[id^="-guccuzs_org_wtfoas_/8929"]
+pcmag.com##div[id^="-gmuumrk_gjy_olxgsk_/0141"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
 ranker.com##div[id^="-niqqing_cfu_khtcog_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
@@ -125,8 +125,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dpxxpun_jmb_roajvn_/7153"]
-tvguide.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
+tv.com##div[id^="-dzhhzex_twl_byktfx_/7153"]
+tvguide.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
