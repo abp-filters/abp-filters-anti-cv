@@ -47,7 +47,7 @@ cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
 chowhound.com###glade-aslot-1
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
-chron.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
+chron.com##div[id^="-oaiiafy_uxm_czlugy_/36117602"]
 chron.com##div[id^="wrapperLink"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
@@ -87,7 +87,7 @@ medicinenet.com##div[id^="-kbjjbgz_vyn_damvhz_/5423545"]
 metrolyrics.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-mysanantonio.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
+mysanantonio.com##div[id^="-ovddvat_psh_xugpbt_/81662157"]
 msn.com##div[id^="aaisreevi3_yfdvgrxv"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
@@ -167,7 +167,7 @@ chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,co
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,orlandosentinel.com##div[draggable="false"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-gecm_mcvc_ye"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,orlandosentinel.com##div[style="display: inline-block;"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[id^="-grzzrwp_lod_tqclxp_/5122"]
+chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[id^="-gzhhzex_twl_byktfx_/3900"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
 sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Gallery Thumbnails"]
 boston.com,orlandosentinel.com,chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com##[observeid]
