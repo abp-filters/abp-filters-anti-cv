@@ -47,11 +47,12 @@ spox.com##div[data-load-complete="true"]
 ||voongo.stroeerdp.de^$image,domain=t-online.de
 ||teephu.stroeerdp.de^$image,domain=t-online.de
 ||aihoop.stroeerdp.de^$image,domain=t-online.de
+||eyeiph.stroeerdp.de^$image,domain=t-online.de
 ||stroeerdp.de/i$image,domain=t-online.de
 t-online.de#?#:-abp-properties(width: 970)
 t-online.de#?#:-abp-properties(left: 970)
 t-online.de##div[style] + img[src*=".stroeerdp.de/"]
-/aimagex/*$image,domain=t-online.de
+/aimagey/*$image,domain=t-online.de
 
 ! #16030
 wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
