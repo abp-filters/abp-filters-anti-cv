@@ -47,6 +47,7 @@ xatab-repack.net#$#abort-on-property-read adss
 kinopad.net#$#abort-on-property-read atob
 fastpic.ru#$#abort-current-inline-script document.createElement Math.random
 nnm-club.me,nnmclub.to#$#abort-on-property-read atob
+seasonvar.re#$#abort-current-inline-script String
 
 ! #20468
 inforeactor.ru,nahnews.org,rueconomics.ru,politexpert.net#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
