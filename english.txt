@@ -325,7 +325,7 @@ pch.com#$#abort-current-inline-script setTimeout
 fflares.com#$#abort-on-property-write _pop
 
 ! #10530
-cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
+flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
 
 ! #20940
 cloudvideo.tv#$#abort-on-property-write Fingerprint2
