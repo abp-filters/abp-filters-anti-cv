@@ -326,3 +326,6 @@ fflares.com#$#abort-on-property-write _pop
 
 ! #10530
 cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
+
+! #20940
+cloudvideo.tv#$#abort-on-property-write Fingerprint2
