@@ -329,3 +329,7 @@ flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
 
 ! #20940
 flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
+
+! #10644
+flashx.pw,flashx.tv#$#abort-on-property-read _pop
+flashx.pw,flashx.tv#$#abort-on-property-read affLink
