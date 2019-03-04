@@ -32,7 +32,7 @@ cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
+cnet.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data--hlo-fyte]
 cnet.com##[data-component="taboola"]
@@ -42,13 +42,13 @@ cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 chowhound.com##[data-load-complete]
-chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608"]
+chowhound.com##div[id^="-flttlqj_fix_nkwfrj_3719"]
 chowhound.com##[id="leader_plus_top"]
 cbssports.com,chowhound.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com###leader_bottom
 chowhound.com###glade-aslot-1
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
-chron.com##div[id^="-ozhhzex_twl_byktfx_/25006591"]
+chron.com##div[id^="-ozhhzex_twl_byktfx_/3474"]
 chron.com##div[id^="wrapperLink"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
@@ -121,13 +121,13 @@ slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
-thoughtcatalog.com##div[id^="-howwotm_ila_qnzium_/0100724"]
+thoughtcatalog.com##div[id^="-hqyyqvo_knc_spbkwo_/2322946"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dnvvnsl_hkz_pmyhtl_/5931"]
-tvguide.com##div[id^="-njrrjoh_dgv_liudph_/7818"]
+tv.com##div[id^="-dzhhzex_twl_byktfx_/7153"]
+tvguide.com##div[id^="-ntbbtyr_nqf_vsenzr_/1597"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
@@ -138,7 +138,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bqyyqvo_knc_spbkwo_/4312434"]
+webmd.com##div[id^="-btbbtyr_nqf_vsenzr_/7645767"]
 webmd.com##.entry_fmt entry_fmt_st
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
