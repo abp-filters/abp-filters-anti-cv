@@ -328,4 +328,4 @@ fflares.com#$#abort-on-property-write _pop
 flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
 
 ! #20940
-cloudvideo.tv#$#abort-on-property-write Fingerprint2
+flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
