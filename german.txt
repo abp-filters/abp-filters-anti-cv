@@ -52,6 +52,8 @@ spox.com##div[data-load-complete="true"]
 t-online.de#?#:-abp-properties(width: 970)
 t-online.de#?#:-abp-properties(left: 970)
 t-online.de##div[style] + img[src*=".stroeerdp.de/"]
+t-online.de##a.Tctiga[href="https://t-online.de"]
+t-online.de##a.Tctiga[href="https://t-online.de/"]
 /aimagey/*$image,domain=t-online.de
 
 ! #16030
