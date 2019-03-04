@@ -220,7 +220,7 @@ zbporn.com#$#abort-on-property-read popns
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
 /*gek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
-/^https?:\/\/([0-9a-z]+\.)?(animeland\.us|animenova\.org|animeplus\.tv|animewow\.org|gogoanime1\.com|gogoanime\.in|gogoanime\.to|gogoanime\.tv|gogoanimes\.co|goodanime\.co|igg-games\.com|kimcartoon\.to|kimcartoon\.tv|kiss-anime\.ws|mangareader\.net|readcomiconline\.to|thewatchcartoononline\.tv|toonget\.net|toonova\.net|watchcartoononline\.io)\/[a-z]+\/[0-9a-zA-Z\-]{20,50}$/$script
+/^https?:\/\/([0-9a-z]+\.)?(animeland\.us|animenova\.org|animeplus\.tv|animewow\.org|gogoanime1\.com|gogoanime\.in|gogoanime\.to|gogoanime\.tv|gogoanimes\.co|goodanime\.co|igg-games\.com|kimcartoon\.to|kimcartoon\.tv|kiss-anime\.ws|mangareader\.net|readcomiconline\.to|thewatchcartoononline\.tv|toonget\.net|toonova\.net|watchcartoononline\.io)\/[a-z]+\/[0-9a-zA-Z\-\_]{15,50}$/$script
 
 ! #9708
 filmxy.one##.promo-contents
