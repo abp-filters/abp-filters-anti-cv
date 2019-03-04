@@ -323,3 +323,6 @@ pch.com#$#abort-current-inline-script setTimeout
 
 ! MISC
 fflares.com#$#abort-on-property-write _pop
+
+! #10530
+gogoanime.cloud#$#abort-on-property-read atob
