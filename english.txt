@@ -323,6 +323,7 @@ pch.com#$#abort-current-inline-script setTimeout
 
 ! MISC
 fflares.com#$#abort-on-property-write _pop
+force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 
 ! #10530
 txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
