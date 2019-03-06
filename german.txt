@@ -69,4 +69,4 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 /aimgx/*$image,domain=t-online.de
 
 ! #16030
-wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
+wetteronline.ch,wetteronline.at,wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
