@@ -91,9 +91,9 @@ narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gmuumrk_gjy_olxgsk_/0141"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
-ranker.com##div[id^="-njrrjoh_dgv_liudph_/7818"]
+ranker.com##div[id^="-njrrjoh_dgv_liudph_/4393939"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
-sfgate.com##div[id^="-nrzzrwp_lod_tqclxp_/5696"]
+sfgate.com##div[id^="-nqyyqvo_knc_spbkwo_/36117602"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
@@ -104,7 +104,7 @@ seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
 seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-plgpeet"]
-seattlepi.com##div[id^="-pvddvat_psh_xugpbt_/81662157"]
+seattlepi.com##div[id^="-ptbbtyr_nqf_vsenzr_/69440935"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com##div[id^="-ztbbtyr_nqf_vsenzr_/90203514"]
 spox.com##div[id^="-zhdbipv"]
@@ -123,8 +123,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dzhhzex_twl_byktfx_/7153"]
-tvguide.com##div[id^="-ntbbtyr_nqf_vsenzr_/1597"]
+tv.com##div[id^="-daiiafy_uxm_czlugy_/8264"]
+tvguide.com##div[id^="-nbjjbgz_vyn_damvhz_/9375"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
