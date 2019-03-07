@@ -332,5 +332,5 @@ serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,y
 flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 
 ! #10644
-flashx.pw,flashx.tv#$#abort-on-property-read _pop
+flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
 flashx.pw,flashx.tv#$#abort-on-property-read affLink
