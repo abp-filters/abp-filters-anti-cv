@@ -324,6 +324,8 @@ pch.com#$#abort-current-inline-script setTimeout
 ! MISC
 fflares.com#$#abort-on-property-write _pop
 force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
+streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJsPop
+streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read isSandboxed
 
 ! #10530
 vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
