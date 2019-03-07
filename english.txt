@@ -311,7 +311,7 @@ pockettactics.com,thisisfutbol.com#$#abort-on-property-read PerformanceLongTaskT
 footballleagueworld.co.uk#$#abort-on-property-read atob
 
 ! #10409
-uploadmp4.com#$#abort-on-property-write adcashMacros
+biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
 uploadmp4.com#$#abort-on-property-write Fingerprint2
 
 ! #20679
