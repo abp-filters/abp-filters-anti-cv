@@ -44,7 +44,7 @@ cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
 chowhound.com##div[id^="-flttlqj_fix_nkwfrj_3719"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
-chron.com##div[id^="-ovddvat_psh_xugpbt_/81662157"]
+chron.com##div[id^="-osaasxq_mpe_urdmyq_/58339824"]
 chron.com##div[id^="wrapperLink"]
 dailymail.co.uk##div[id^="-mvddvat_psh_xugpbt_/0210"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
@@ -81,19 +81,19 @@ mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
-medicinenet.com##div[id^="-kdlldib_xap_fcoxjb_/7645767"]
+medicinenet.com##div[id^="-kksskpi_ehw_mjveqi_/8756878"]
 metrolyrics.com##div[id^="-nnvvnsl_hkz_pmyhtl_/5931"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
-mysanantonio.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
+mysanantonio.com##div[id^="-oqyyqvo_knc_spbkwo_/36117602"]
 msn.com##div[id^="aaisreevi3_yfdvgrxv"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gmuumrk_gjy_olxgsk_/0141"]
 pcmag.com##iframe[style="border: 0px; display: block; width: 1070px; height: 250px;"]
-ranker.com##div[id^="-njrrjoh_dgv_liudph_/4393939"]
+ranker.com##div[id^="-npxxpun_jmb_roajvn_/3474"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
-sfgate.com##div[id^="-nqyyqvo_knc_spbkwo_/36117602"]
+sfgate.com##div[id^="-nrzzrwp_lod_tqclxp_/47228713"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
@@ -123,8 +123,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-daiiafy_uxm_czlugy_/8264"]
-tvguide.com##div[id^="-nbjjbgz_vyn_damvhz_/9375"]
+tv.com##div[id^="-dweewbu_qti_yvhqcu_/4820"]
+tvguide.com##div[id^="-naiiafy_uxm_czlugy_/8264"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
