@@ -326,7 +326,7 @@ fflares.com#$#abort-on-property-write _pop
 force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 
 ! #10530
-bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
+movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
 
 ! #20940
 flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
