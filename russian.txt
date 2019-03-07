@@ -50,4 +50,7 @@ nnm-club.me,nnmclub.to#$#abort-on-property-read atob
 seasonvar.re#$#abort-current-inline-script String
 
 ! #20468
-inforeactor.ru,nahnews.org,rueconomics.ru,politexpert.net#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
+inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
+nahnews.org#$#abort-on-property-write setTimeout
+rueconomics.ru#$#abort-on-property-read isLentainform
+politexpert.net#$#abort-on-property-read start_down_aa
