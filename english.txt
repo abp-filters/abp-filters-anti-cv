@@ -106,7 +106,7 @@ seattlepi.com##div[id^="NTV"]
 seattlepi.com##div[id^="-plgpeet"]
 seattlepi.com##div[id^="-ptbbtyr_nqf_vsenzr_/69440935"]
 spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
-spox.com##div[id^="-ztbbtyr_nqf_vsenzr_/90203514"]
+spox.com##div[id^="-zxffxcv_ruj_zwirdv_/34647958"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 slickdeals.net##.sideGridBox.abc
