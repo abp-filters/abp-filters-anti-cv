@@ -68,13 +68,14 @@ spox.com##[data-load-complete="true"]
 ||lanugi.stroeerdp.de^$image,domain=t-online.de
 ||jooyah.stroeerdp.de^$image,domain=t-online.de
 ||zailuf.stroeerdp.de^$image,domain=t-online.de
+||thohdo.stroeerdp.de^$image,domain=t-online.de
 ||stroeerdp.de/i$image,domain=t-online.de
 www.t-online.de#?#:-abp-has(> div:-abp-properties(background-image: *.stroeerdp.de*; height: *px; width: *px;))
 www.t-online.de##img[src^="https://"][src*="stroeerdp.de/"][src$=".gif"]
 t-online.de##div[style] + img[src*=".stroeerdp.de/"]
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
-/aimgex/*$image,domain=t-online.de
+/aimgey/*$image,domain=t-online.de
 
 ! #16030
 wetteronline.ch,wetteronline.at,wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
