@@ -229,6 +229,7 @@ facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] [id^="u_ps_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr/))
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] [id^="u_fetchstream_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr/))
 facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] [id^="u_jsonp_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr/))
+facebook.com#?#.ego_section:-abp-has(a:-abp-contains(Sponsored))
 
 ! #18467
 seekingalpha.com#$#abort-on-property-read atob
