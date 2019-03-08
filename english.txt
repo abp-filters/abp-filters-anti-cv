@@ -328,6 +328,7 @@ streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJs
 streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read isSandboxed
 biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
+rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,rarbgmirror.com,rarbgmirror.org,rarbgmirror.xyz,rarbgmirrored.org,rarbgproxy.org,rarbgprx.org,rarbgto.org,rarbgunblock.com,rarbgweb.org#$#abort-on-property-read LieDetector
 
 ! #10530
 openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
