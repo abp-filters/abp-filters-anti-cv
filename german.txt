@@ -26,7 +26,7 @@ _03100x07677.$image,domain=pcwelt.de
 ! #9272
 spox.com##[ws-zone]
 spox.com##.trc_elastic
-spox.com##div[id^="-zxffxcv_ruj_zwirdv_/34647958"]
+spox.com##div[id^="-zckkcha_wzo_ebnwia_/89192403"]
 spox.com##[data-load-complete="true"]
 
 ! #15654
