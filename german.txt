@@ -24,10 +24,8 @@ _03100x07677.$image,domain=pcwelt.de
 ||chefkoch.de/ck.de/*$image,domain=chefkoch.de
 
 ! #9272
-spox.com##[ws-zone]
 spox.com##.trc_elastic
 spox.com##div[id^="-zckkcha_wzo_ebnwia_/89192403"]
-spox.com##[data-load-complete="true"]
 
 ! #15654
 ||spieletipps.de^$csp=img-src 'self' * data: http: https:
