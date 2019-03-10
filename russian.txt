@@ -46,7 +46,7 @@ rg-mechanics.org#$#abort-on-property-read adska
 xatab-repack.net#$#abort-on-property-read adss
 kinopad.net#$#abort-on-property-read atob
 fastpic.ru#$#abort-current-inline-script document.createElement Math.random
-nnm-club.me,nnmclub.to#$#abort-on-property-read atob
+nnm-club.me,nnmclub.to#$#abort-on-property-read atob; abort-on-property-read loaded_block_directadvert
 seasonvar.re#$#abort-current-inline-script String
 
 ! #20468
