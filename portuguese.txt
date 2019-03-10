@@ -5,3 +5,7 @@ diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
 
 ! #10644
 anitube.cz,anitubebr.com#$#abort-on-property-write _pop
+
+! MISC
+||torcidatricolor.tv/*.gif$image
+kastream.biz#$#abort-on-property-write open
