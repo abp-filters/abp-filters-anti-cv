@@ -2,3 +2,6 @@
 
 ! #9274
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
+
+! #10644
+anitube.cz,anitubebr.com#$#abort-on-property-write _pop
