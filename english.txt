@@ -264,6 +264,7 @@ quora.com#?#.pagedlist_item:-abp-has(a:-abp-properties(/background-image: url/))
 quora.com#?#.UnifiedAnswerPagedList.PagedListFoo.unified > div:not(.paged_list_wrapper) div:-abp-has(div > a:not([href*="quora"]):-abp-properties(/background-image: url/))
 
 ! #15511
+namemc.com#$#abort-on-property-read PerformanceLongTaskTiming
 
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
