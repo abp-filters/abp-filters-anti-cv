@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?w=79&m=79&d=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?y=*&m=*&d=$image,domain=reuters.com
 ||pons.com/p/files/*WB_*px.$image,domain=pons.com
 
 ! #9276
