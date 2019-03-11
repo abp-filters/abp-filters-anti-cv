@@ -48,6 +48,7 @@ kinopad.net#$#abort-on-property-read atob
 fastpic.ru#$#abort-current-inline-script document.createElement Math.random
 nnm-club.me,nnmclub.to#$#abort-on-property-read atob; abort-on-property-read loaded_block_directadvert
 seasonvar.re#$#abort-current-inline-script String
+amazinghis.ru#$#abort-on-property-read anOptions
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
