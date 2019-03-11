@@ -52,8 +52,8 @@ dailymail.co.uk##div[id^="-mvddvat_psh_xugpbt_/0210"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
-edmunds.com##div[id^="-nxffxcv_ruj_zwirdv_42215538"]
-edmunds.com##div[class^="-nwvrklivu"]
+edmunds.com##div[id^="-nyggydw_svk_axjsew_53326649"]
+edmunds.com##div[class^="-nxwslmjwv"]
 edmunds.com##div[style="width: 368px;"]
 everydayhealth.com##div[id^="-ejrrjoh_dgv_liudph_/7546"]
 everydayhealth.com##.gmc-recommendation
@@ -102,7 +102,7 @@ sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
-sportingnews.com##div[id^="-gaiiafy_uxm_czlugy_/67970281"]
+sportingnews.com##div[id^="-gbjjbgz_vyn_damvhz_/78081392"]
 seattlepi.com##.ntvClickOut
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
@@ -122,8 +122,9 @@ slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
-thoughtcatalog.com##div[id^="-hqyyqvo_knc_spbkwo_/2322946"]
+thoughtcatalog.com##div[id^="-hrzzrwp_lod_tqclxp_/5696"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
+thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
@@ -167,9 +168,9 @@ americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.co
 metrolyrics.com,chron.com,sfgate.com,mysanantonio.com,orlandosentinel.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,mcall.com,chicagotribune.com,citypaper.com,growthspotter.com,seattlepi.com,cbssports.com,tv.com,webmd.com,tvguide.com,thoughtcatalog.com,cnet.com,sfgate.com,chron.com,mysanantonio.com,americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[data-load-complete="true"]
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,orlandosentinel.com##.ntv-plc
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,orlandosentinel.com##div[draggable="false"]
-baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-gdbl_lbub_xd"]
+baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-gecm_mcvc_ye"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,orlandosentinel.com##div[style="display: inline-block;"]
-baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[id^="-gqyyqvo_knc_spbkwo_/4011"]
+baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[id^="-grzzrwp_lod_tqclxp_/5122"]
 cycleworld.com,superstreetbike.com,scubadiving.com,popphoto.com,sportdiver.com,marlinmag.com,yachtingmagazine.com,americanphotomag.com##[data-placement-name="Below Article Thumbnails"]
 sportfishingmag.com,saveur.com,cruisingworld.com##[data-placement-name="Below Gallery Thumbnails"]
 boston.com,orlandosentinel.com,chowhound.com,mysanantonio.com,spox.com,cnet.com,gamespot.com,metacritic.com,tv.com,tvguide.com,seattlepi.com,cbssports.com##[observeid]
