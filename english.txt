@@ -302,7 +302,7 @@ pch.com##[id^="google_ads_iframe_"]
 pch.com#$#abort-current-inline-script setTimeout
 
 ! MISC
-fflares.com#$#abort-on-property-write _pop
+fileflares.com,fflares.com#$#abort-on-property-write _pop
 rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJsPop
 streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read isSandboxed
