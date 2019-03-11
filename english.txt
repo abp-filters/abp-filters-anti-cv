@@ -228,9 +228,12 @@ filmxy.one##.promo-contents
 
 ! #15096
 facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="hyperfeed_story_id_"]' 'div[id*="feed_subtitle_"] > span, div[id*="feed_subtitle_"] > s' '' 'display: none'; hide-if-contains /.*/ .ego_section 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad_campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad___campaign/landing.php?"]'
-facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] [id^="u_ps_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS/))
-facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] [id^="u_fetchstream_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS/))
-facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] [id^="u_jsonp_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] a[id^="u_ps_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] a[id^="u_fetchstream_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] a[id^="u_jsonp_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] span[id^="u_ps_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] span[id^="u_fetchstream_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon/))
+facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[id^="feed_sub"] span[id^="u_jsonp_"] :-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon/))
 facebook.com#?#.ego_section:-abp-has(a:-abp-contains(Sponsored))
 
 ! #18467
