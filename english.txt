@@ -22,7 +22,6 @@ allakhazam.com,101x.com,1070thefan.com##[amp4ads]
 1070thefan.com##div[id^="-rnvvnsl_hkz_pmyhtl_/3409"]
 1070thefan.com###sitewrap
 klbjfm.com##div[id^="-bzhhzex_twl_byktfx_/5621"]
-klbjfm.com##[data-position]
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
@@ -35,7 +34,6 @@ chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
 cnet.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
-cnet.com##[data--hlo-fyte]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
@@ -49,15 +47,11 @@ chron.com##div[id^="-oxffxcv_ruj_zwirdv_/03884379"]
 chron.com##div[id^="wrapperLink"]
 dailymail.co.uk##div[id^="-mxffxcv_ruj_zwirdv_/2432"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
-edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_/3474"]
 edmunds.com##div[class^="-nyxtmnkxw"]
 edmunds.com##div[style="width: 368px;"]
 everydayhealth.com##div[id^="-ejrrjoh_dgv_liudph_/7546"]
-everydayhealth.com##.gmc-recommendation
 everydayhealth.com##.rc-item
-everydayhealth.com##[data-adsize]
 everydayhealth.com##[title="Advertisement"]
 gamespot.com##.tynt_close_button_circle
 gamespot.com##.tynt-sidebar-content
@@ -112,13 +106,6 @@ spox.com##[data-feed-main-container-id="taboola-below-article-thumbnails"]
 spox.com##div[id^="-zemmejc_ybq_gdpykc_/01314625"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
-slickdeals.net##.sideGridBox.abc
-slickdeals.net##div[id^="-dckkcha_wzo_ebnwia_/3228263"]
-slickdeals.net##div[class^="rightRailPlacement"]
-slickdeals.net##div[id^="-dceraw"]
-slickdeals.net###giveawayItem
-slickdeals.net##.giveawayImageWrapper
-slickdeals.net##[data-adlocation]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
 thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
@@ -149,7 +136,6 @@ workingmother.com##[data-parent-placement-name="Below Article Thumbnails"]
 workingmother.com##.ntv-box
 yachtingmagazine.com,saltwatersportsman.com##.ds_cpp_inner
 marlinmag.com,sportdiver.com##.st-block.markdown.ntv-disclaimer
-chicagotribune.com##[data--dorzcorsf-dcgwhwcb="leaderboardcombo"]
 metacritic.com,sportingnews.com##.-mor_ibwh
 workingmother.com,streetchopperweb.com##[data-placement-name="Below Gallery Thumbnails"]
 southflorida.com,courant.com##[data-placement-name^="below-article-thumbs"]
