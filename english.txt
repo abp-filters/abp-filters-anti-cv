@@ -27,7 +27,7 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-npxxpun_jmb_roajvn_/7153"]
+cbssports.com##div[id^="-nqyyqvo_knc_spbkwo_/8264"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
@@ -42,7 +42,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-fpxxpun_jmb_roajvn_7153"]
+chowhound.com##div[id^="-fqyyqvo_knc_spbkwo_8264"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 chron.com##div[id^="-oweewbu_qti_yvhqcu_/92773268"]
@@ -83,7 +83,7 @@ mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
-medicinenet.com##div[id^="-kowwotm_ila_qnzium_/2190212"]
+medicinenet.com##div[id^="-kpxxpun_jmb_roajvn_/3201323"]
 metrolyrics.com##div[id^="-nnvvnsl_hkz_pmyhtl_/5931"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
@@ -121,7 +121,7 @@ slickdeals.net##.giveawayImageWrapper
 slickdeals.net##[data-adlocation]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
-thoughtcatalog.com##div[id^="-hrzzrwp_lod_tqclxp_/5696"]
+thoughtcatalog.com##div[id^="-hsaasxq_mpe_urdmyq_/4544168"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
