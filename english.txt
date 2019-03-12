@@ -297,7 +297,7 @@ biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
 uploadmp4.com#$#abort-on-property-write Fingerprint2
 
 ! #20679
-pch.com##[id^="tqlo-"]
+pch.com##[id^="krlo-"]
 pch.com##[id^="div-gpt-ad"]
 pch.com##[id^="google_ads_iframe_"]
 @@||pch.com$generichide,genericblock
