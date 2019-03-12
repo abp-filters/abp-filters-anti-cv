@@ -25,7 +25,7 @@ _03203x07678.$image,domain=pcwelt.de
 
 ! #9272
 spox.com##.trc_elastic
-spox.com##div[id^="-zdlldib_xap_fcoxjb_/90203514"]
+spox.com##div[id^="-zemmejc_ybq_gdpykc_/01314625"]
 
 ! #15654
 ||spieletipps.de^$csp=img-src 'self' * data: http: https:
