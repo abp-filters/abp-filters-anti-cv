@@ -51,8 +51,8 @@ dailymail.co.uk##div[id^="-mxffxcv_ruj_zwirdv_/2432"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##[data-tracking-parent="edm-entry-home-vehicle-showcase"]
 edmunds.com##[data-tracking-parent="edm-featured-spotlight-ad"]
-edmunds.com##div[id^="-nyggydw_svk_axjsew_53326649"]
-edmunds.com##div[class^="-nxwslmjwv"]
+edmunds.com##div[id^="-nzhhzex_twl_byktfx_/3474"]
+edmunds.com##div[class^="-nyxtmnkxw"]
 edmunds.com##div[style="width: 368px;"]
 everydayhealth.com##div[id^="-ejrrjoh_dgv_liudph_/7546"]
 everydayhealth.com##.gmc-recommendation
@@ -84,7 +84,7 @@ medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kpxxpun_jmb_roajvn_/3201323"]
-metrolyrics.com##div[id^="-nnvvnsl_hkz_pmyhtl_/5931"]
+metrolyrics.com##div[id^="-nowwotm_ila_qnzium_/6042"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-otbbtyr_nqf_vsenzr_/69440935"]
@@ -127,8 +127,8 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-drzzrwp_lod_tqclxp_/9375"]
-tvguide.com##div[id^="-ndlldib_xap_fcoxjb_/1597"]
+tv.com##div[id^="-dsaasxq_mpe_urdmyq_/0486"]
+tvguide.com##div[id^="-nemmejc_ybq_gdpykc_/2608"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
