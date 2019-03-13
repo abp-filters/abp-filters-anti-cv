@@ -95,7 +95,7 @@ sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##.trc_elastic_videoCube_thumbBlock
 sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
-sportingnews.com##div[id^="-gbjjbgz_vyn_damvhz_/78081392"]
+sportingnews.com##div[id^="-gckkcha_wzo_ebnwia_/89192403"]
 seattlepi.com##.ntvClickOut
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
