@@ -268,6 +268,7 @@ samayam.com,indiatimes.com##a[onclick][rel="nofollow,noindex"]
 indiatimes.com#?#div:-abp-has(> h2:-abp-contains(FROM AROUND THE WEB))
 indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
+indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad")))
 
 ! #16030
 audiofanzine.com#$#abort-on-property-read TextDecoder
