@@ -51,6 +51,7 @@ nnm-club.me,nnmclub.to#$#abort-on-property-read atob; abort-on-property-read loa
 seasonvar.re#$#abort-current-inline-script String
 amazinghis.ru#$#abort-on-property-read anOptions
 kinogo-2016-net.ru#$#abort-current-inline-script String
+hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
