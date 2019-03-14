@@ -39,7 +39,7 @@ megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-rea
 baskino-z720.com#$#abort-on-property-read atob
 
 ! #19890
-7days.ru#$#abort-current-inline-script document.createElement
+7days.ru#$#abort-current-inline-script document.createElement div; abort-current-inline-script document.createElement Math_random
 
 ! MISC
 rg-mechanics.org#$#abort-on-property-read adska
