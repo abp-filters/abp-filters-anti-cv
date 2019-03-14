@@ -299,5 +299,5 @@ ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,
 gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 
 ! #10644
-biter.tv,byter.tv,flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
+thevid.net,thevid.tv,biter.tv,byter.tv,flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
 flashx.pw,flashx.tv#$#abort-on-property-read affLink
