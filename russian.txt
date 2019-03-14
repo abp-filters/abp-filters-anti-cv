@@ -18,7 +18,6 @@ gorodrabot.ru,dni.ru,baby.ru,liveinternet.ru,razlozhi.ru,drive2.ru#$#abort-on-pr
 echo.msk.ru#$#abort-on-property-read atob
 
 ! #9708
-compendium.su,dynamo.kiev.ua,ukrlit.net,zn.ua,ukrlib.com.ua,24tv.ua,bigmir.net,bookfi.net,cn.ru,cxem.net,dengi.ua,dt.ua,e1.ru,epravda.com.ua,etextlib.ru,football.ua,football24.ua,forumodua.com,gismeteo.ru,glavcom.ua,hvylya.net,isport.ua,kinoafisha.ua,korrespondent.net,kp.ua,mirknig.su,obozrevatel.com,pravda.com.ua,real-vin.com,strana.ua,telegraf.in.ua,vsetv.com,zaxid.net#$#abort-on-property-read WS
 24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
 azov-sea.info##td[width="330"]
