@@ -107,14 +107,14 @@ spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/89192403"]
 sun-sentinel.com##a[href^="https://adclick.g.doubleclick.net/pcs/click?"]
-thoughtcatalog.com##div[id^="-huccuzs_org_wtfoas_/6766380"]
+thoughtcatalog.com##div[id^="-hvddvat_psh_xugpbt_/7877491"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-duccuzs_org_wtfoas_/2608"]
-tvguide.com##div[id^="-nhpphmf_bet_jgsbnf_/9375"]
+tv.com##div[id^="-dvddvat_psh_xugpbt_/9030"]
+tvguide.com##div[id^="-niqqing_cfu_khtcog_/6707"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
@@ -125,7 +125,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bdlldib_xap_fcoxjb_/7645767"]
+webmd.com##div[id^="-bemmejc_ybq_gdpykc_/8929"]
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
 webmd.com#@#[class="main-container main-container-3"]
