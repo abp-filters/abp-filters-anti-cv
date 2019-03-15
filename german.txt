@@ -89,6 +89,3 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 wetteronline.ch,wetteronline.at,wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
 wetteronline.ch,wetteronline.at,wetteronline.de##.adplace.centeredBill
 wetteronline.ch,wetteronline.at,wetteronline.de###woFooterBillboard
-@@||wetteronline.ch^$genericblock,generichide
-@@||wetteronline.at^$genericblock,generichide
-@@||wetteronline.de^$genericblock,generichide
