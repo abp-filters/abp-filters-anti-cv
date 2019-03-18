@@ -84,6 +84,8 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 /bimages/*$image,domain=t-online.de
 
 ! #16030
-wetteronline.ch,wetteronline.at,wetteronline.de#$#abort-on-property-read PerformanceLongTaskTiming
 wetteronline.ch,wetteronline.at,wetteronline.de##.adplace.centeredBill
 wetteronline.ch,wetteronline.at,wetteronline.de###woFooterBillboard
+wetteronline.ch##div[id^="ZbXZ-"]
+wetteronline.de##div[id^="PQIL-"]
+wetteronline.at##div[id^="XaWY-"]
