@@ -61,7 +61,7 @@ gamespot.com###leader_plus_top
 gamespot.com##[data-placement-name="front_door Right Rail Thumbnails"]
 gamespot.com##[data-placement-name="front_door Below Main Column Thumbnails"]
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-pdlldib_xap_fcoxjb_/81632200"]
+gamepedia.com##div[id^="-pemmejc_ybq_gdpykc_/92743311"]
 geek.com##div[id^="-mzhhzex_twl_byktfx_/3474"]
 geek.com##div[id^="-mnsfubsh"]
 goal.com##div[id^="-msaasxq_mpe_urdmyq_/89192403"]
