@@ -295,7 +295,7 @@ rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,ra
 rapidvideo.com#$#abort-on-property-write executed
 oload.cc,oload.club,oload.download,oload.fun,oload.live,oload.space,oload.win,openload.pw,oload.info,oload.site,oload.stream,oload.tv,openload.co#$#abort-on-property-write _pop; abort-on-property-read popjs; abort-on-property-read toString; abort-on-property-read AaDetector; abort-on-property-read BetterJsPop; abort-on-property-write Fingerprint2; abort-current-inline-script document.getElementById isSandboxed
 txxx.com#$#abort-on-property-read BetterJsPop
-hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read smrtSB; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
+ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read smrtSB; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
 rapidvideo.com#$#abort-on-property-read AaDetector
 
 ! #10530
