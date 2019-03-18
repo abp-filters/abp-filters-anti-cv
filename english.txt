@@ -307,4 +307,4 @@ hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.on
 ! #10644
 thevid.net,thevid.tv,biter.tv,byter.tv,flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
 flashx.pw,flashx.tv#$#abort-on-property-read affLink
-rapidvideo.com,fastplay.to#$#abort-on-property-write _pop
+invictus.ws,rapidvideo.com,fastplay.to#$#abort-on-property-write _pop
