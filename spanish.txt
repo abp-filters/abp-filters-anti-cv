@@ -14,3 +14,6 @@ telexplorer.com.ar#$#abort-current-inline-script MutationObserver compareDocumen
 
 ! #21283
 planetatvonlinehd.com#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
+
+! MISC
+planetatvonlinehd.com#$#abort-on-property-read atob
