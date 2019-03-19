@@ -26,13 +26,13 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-nuccuzs_org_wtfoas_/2608"]
+cbssports.com##div[id^="-nvddvat_psh_xugpbt_/3719"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-envvnsl_hkz_pmyhtl_/5931"]
+cnet.com##div[id^="-eowwotm_ila_qnzium_/6042"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com##[data-component="taboola"]
 cnet.com###glade-aslot-1
@@ -40,7 +40,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_1597"]
+chowhound.com##div[id^="-fuccuzs_org_wtfoas_2608"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 chron.com##div[id^="-objjbgz_vyn_damvhz_/47228713"]
@@ -116,8 +116,8 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dweewbu_qti_yvhqcu_/4820"]
-tvguide.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
+tv.com##div[id^="-dxffxcv_ruj_zwirdv_/5931"]
+tvguide.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 tvguide.com##div[data-placement]
 tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
