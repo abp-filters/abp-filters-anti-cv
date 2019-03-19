@@ -1,3 +1,4 @@
 ! #9272
 vg.no##[data-invcode]
+vg.no##div[id^="-mux-zlihn"]
 @@||vg.no.com$generichide,genericblock
