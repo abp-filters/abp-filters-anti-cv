@@ -13,4 +13,4 @@ netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
 
 ! #21137
-supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
+lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
