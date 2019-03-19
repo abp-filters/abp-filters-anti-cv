@@ -283,6 +283,7 @@ pch.com##[id^="div-gpt-ad"]
 pch.com##[id^="google_ads_iframe_"]
 @@||pch.com$generichide,genericblock
 pch.com#$#abort-current-inline-script setTimeout
+pch.com#$#abort-current-inline-script JSON.parse Math.random
 
 ! MISC
 fileflares.com,fflares.com#$#abort-on-property-write _pop
