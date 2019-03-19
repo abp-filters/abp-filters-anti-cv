@@ -118,8 +118,6 @@ tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-dxffxcv_ruj_zwirdv_/5931"]
 tvguide.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
-tvguide.com##div[data-placement]
-tvguide.com###leader_middle_flex
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com##.container.global-container-1
