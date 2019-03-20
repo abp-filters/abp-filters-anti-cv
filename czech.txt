@@ -30,3 +30,4 @@ super.cz##iframe[src*="SEZNAM"]
 sport.cz##iframe[class][scrolling="no"][src^="//www.sport.cz/"]
 search.seznam.cz#?#div[class^="r"]:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
 search.seznam.cz#?#.ResultContainer:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
+search.seznam.cz#?#.Fixer-layout:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
