@@ -46,7 +46,7 @@ cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 chron.com##div[id^="-ockkcha_wzo_ebnwia_/58339824"]
 chron.com##div[id^="wrapperLink"]
-dailymail.co.uk##div[id^="-mxffxcv_ruj_zwirdv_/2432"]
+dailymail.co.uk##div[id^="-myggydw_svk_axjsew_/3543"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##div[id^="-nbjjbgz_vyn_damvhz_/72492760"]
 edmunds.com##div[class^="-nazvopmzy"]
