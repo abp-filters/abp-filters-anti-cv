@@ -58,3 +58,7 @@ hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-wr
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
 rueconomics.ru#$#abort-on-property-read isLentainform; abort-on-property-read loaded_block_nnn
 politexpert.net,nahnews.org#$#abort-on-property-read encodeURIComponent
+
+! #21363
+mail.ru,sportmail.ru#$#abort-on-property-read __debugComponentSlotMimic
+news.mail.ru,sportmail.ru#$#abort-current-inline-script Element.prototype.webkitMatchesSelector
