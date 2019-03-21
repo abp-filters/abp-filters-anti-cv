@@ -1,8 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?k=*&m=*&d=$image,domain=reuters.com
-radio.fr,radio.es,radio.se,radio.at,radio.de,radio.dk,radio.it,radio.net,radio.pl,radio.pt##img:not([alt])
-reuters.com#?#:not([alt]):-abp-properties(cursor: pointer;)
-reuters.com#?#div > img:not([alt])
+||reutersmedia.net/resources/r/?q=*&m=*&d=$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
