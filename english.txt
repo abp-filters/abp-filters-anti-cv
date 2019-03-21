@@ -126,7 +126,7 @@ webmd.com##iframe[width="160"][height="600"]
 webmd.com##div[style="width: 300px; height: 250px;"]
 webmd.com##div[style="width: 300px; height: 600px;"]
 webmd.com##[data-block-codes]
-webmd.com##div[id^="-bjrrjoh_dgv_liudph_/7645767"]
+webmd.com##div[id^="-bksskpi_ehw_mjveqi_/8756878"]
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
 webmd.com##[data-str-native-key]
 webmd.com#@#[class="main-container main-container-3"]
