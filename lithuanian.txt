@@ -1,2 +1,2 @@
 ! #20543
-delfi.lt#$#abort-on-property-read __dabd; abort-on-property-write __dabdf; abort-on-property-read ___dabd
+delfi.lt#$#abort-on-property-read __dabd; abort-on-property-write __dabdf; abort-on-property-read ___dabd; abort-on-property-write ___dabdf
