@@ -1,3 +1,5 @@
 ! #9272
 vg.no##div[id^="-mxa-colkq"]
+||adform.net^$third-party,domain=vg.no
+||adnxs.com^$third-party,domain=vg.no
 @@||vg.no.com$generichide,genericblock
