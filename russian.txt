@@ -17,7 +17,7 @@ auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,ya
 sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru,liveinternet.ru,drive2.ru#$#abort-on-property-read Ya
 echo.msk.ru#$#abort-on-property-read atob
 kakprosto.ru#$#abort-current-inline-script document.createElement renderTo
-razlozhi.ru#$#abort-on-property-read yaCounterId
+razlozhi.ru#$#abort-on-property-read advertSlice
 
 ! #9708
 24tv.ua##.b_reklama
