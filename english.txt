@@ -77,9 +77,9 @@ mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
-medicinenet.com##div[id^="-kxffxcv_ruj_zwirdv_/1089101"]
-emedicinehealth.com##div[id^="-bzhhzex_twl_byktfx_/3201323"]
-metrolyrics.com##div[id^="-nweewbu_qti_yvhqcu_/4820"]
+medicinenet.com##div[id^="-kyggydw_svk_axjsew_/2190212"]
+emedicinehealth.com##div[id^="-baiiafy_uxm_czlugy_/4312434"]
+metrolyrics.com##div[id^="-nxffxcv_ruj_zwirdv_/5931"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-ozhhzex_twl_byktfx_/25006591"]
