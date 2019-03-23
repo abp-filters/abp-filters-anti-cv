@@ -2,4 +2,4 @@
 vg.no##div[id^="-myb-dpmlr"]
 ||adform.net^$third-party,domain=vg.no
 ||adnxs.com^$third-party,domain=vg.no
-@@||vg.no.com$generichide,genericblock
+@@||vg.no$generichide,genericblock

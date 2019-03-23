@@ -40,7 +40,7 @@ cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 cnet.com##[data-placement-name="article desktop Below Article Thumbnails Article Redesign"]
 cnet.com##[data-placement-name="section_door desktop Right Rail Thumbnails"]
-chowhound.com##div[id^="-fvddvat_psh_xugpbt_3719"]
+chowhound.com##div[id^="-fweewbu_qti_yvhqcu_4820"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chowhound.com##[data-placement-name="Desktop debates Right Rail Gallery Thumbnails"]
 chron.com##div[id^="-ofnnfkd_zcr_heqzld_/81662157"]
