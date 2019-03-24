@@ -79,6 +79,7 @@ www.t-online.de##img[src^="https://"][src*="stroeerdp.de/"][src$=".gif"]
 t-online.de##div[style] + img[src*=".stroeerdp.de/"]
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
+t-online.de##a.Tctiga[href="https://t-online.de/#"]
 /bimages/*$image,domain=t-online.de
 
 ! #16030
