@@ -55,6 +55,7 @@ kinogo-2016-net.ru#$#abort-current-inline-script String
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 3dnews.ru#$#abort-on-property-read Ya
 artfile.me,artfile.ru,astrakhan.ru,gorodche.ru,informpskov.ru,tambovnet.org#$#abort-on-property-read kav_cn
+newfilms.online#$#abort-current-inline-script String
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
