@@ -87,3 +87,6 @@ wetteronline.de,wetteronline.at,wetteronline.ch#$#abort-on-property-read proxyLo
 wetteronline.de##div[id^="OQIL-"]
 wetteronline.at##div[id^="WUcZ-"]
 wetteronline.ch##div[id^="YVda-"]
+
+! #11076
+||damoh.$media,rewrite=abp-resource:blank-mp3,domain=golem.de|4players.de
