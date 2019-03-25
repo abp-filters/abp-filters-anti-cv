@@ -9,3 +9,4 @@ anitube.cz,anitubebr.com#$#abort-on-property-write _pop
 ! MISC
 ||torcidatricolor.tv/*.gif$image
 kastream.biz#$#abort-on-property-write open
+filmesonlinegratis.com#$#abort-on-property-read atob
