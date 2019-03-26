@@ -41,7 +41,7 @@ chowhound.com##div[id^="-fweewbu_qti_yvhqcu_4820"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chron.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
 chron.com##div[id^="wrapperLink"]
-dailymail.co.uk##div[id^="-myggydw_svk_axjsew_/3543"]
+dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##div[id^="-nemmejc_ybq_gdpykc_19982205"]
 edmunds.com##div[class^="-ndcyrspcb"]
