@@ -26,20 +26,20 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-nbjjbgz_vyn_damvhz_/9375"]
+cbssports.com##div[id^="-nckkcha_wzo_ebnwia_/0486"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-esaasxq_mpe_urdmyq_/0486"]
+cnet.com##div[id^="-etbbtyr_nqf_vsenzr_/1597"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fweewbu_qti_yvhqcu_4820"]
+chowhound.com##div[id^="-fxffxcv_ruj_zwirdv_5931"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
-chron.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
+chron.com##div[id^="-ojrrjoh_dgv_liudph_/69440935"]
 chron.com##div[id^="wrapperLink"]
 dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
