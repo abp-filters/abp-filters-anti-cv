@@ -7,6 +7,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ! #9272
 ||*x2eofu*.g00.webmd.com^$script,domain=webmd.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
+||*x2eofu.g00.sportingnews.com^$script,domain=sportingnews.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -87,11 +88,11 @@ sportingnews.com##div[id^="-gmuumrk_gjy_olxgsk_/23536847"]
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
 seattlepi.com##div[id^="-pgbkzzobV]
-seattlepi.com##div[id^="-pxffxcv_ruj_zwirdv_/1252"]
+seattlepi.com##div[id^="-pyggydw_svk_axjsew_/14995480"]
 spox.com##div[id^="-zfnnfkd_zcr_heqzld_/0286"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
-thoughtcatalog.com##div[id^="-hbjjbgz_vyn_damvhz_/3433057"]
+thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/5655279"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
