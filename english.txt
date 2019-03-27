@@ -252,7 +252,7 @@ pch.com#$#abort-current-inline-script JSON.parse Math.random
 
 ! MISC
 fileflares.com,fflares.com#$#abort-on-property-write _pop
-europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
+novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed
 biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
@@ -264,6 +264,7 @@ ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.i
 vidplayer.cz,rapidvideo.com#$#abort-on-property-read AaDetector
 mstream.net,mysembed.net,mystream.to#$#abort-on-property-read eval
 europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
+novom.ru#$#abort-on-property-read zoneNativeSett
 
 ! #10530
 ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud#$#abort-on-property-read atob
