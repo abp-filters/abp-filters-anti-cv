@@ -43,7 +43,7 @@ chron.com##div[id^="-ojrrjoh_dgv_liudph_/69440935"]
 chron.com##div[id^="wrapperLink"]
 dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-edmunds.com##div[id^="-nemmejc_ybq_gdpykc_19982205"]
+edmunds.com##div[id^="-nfnnfkd_zcr_heqzld_20093316"]
 edmunds.com##div[class^="-ndcyrspcb"]
 everydayhealth.com##div[id^="-euccuzs_org_wtfoas_/8657"]
 everydayhealth.com##.rc-item
