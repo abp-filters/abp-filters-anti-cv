@@ -244,9 +244,10 @@ uploadmp4.com#$#abort-on-property-write Fingerprint2
 uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 
 ! #20679
-pch.com##[id^="prlo-"]
+pch.com##[id^="zyqv-"]
 pch.com##[id^="div-gpt-ad"]
 pch.com##[id^="google_ads_iframe_"]
+||gumgum.com^$third-party,domain=pch.com
 @@||pch.com$generichide,genericblock
 pch.com#$#abort-current-inline-script JSON.parse Math.random
 
