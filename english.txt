@@ -28,13 +28,13 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-nckkcha_wzo_ebnwia_/0486"]
+cbssports.com##div[id^="-ndlldib_xap_fcoxjb_/1597"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
 chicagotribune.com##div[style*="width: 500px; height: 1100px;"]
 chicagotribune.com##[data-role="adloader adloader_ad delayload delayload_done"]
-cnet.com##div[id^="-etbbtyr_nqf_vsenzr_/1597"]
+cnet.com##div[id^="-euccuzs_org_wtfoas_/2608"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
