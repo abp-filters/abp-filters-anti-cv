@@ -98,8 +98,8 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-demmejc_ybq_gdpykc_/8929"]
-tvguide.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
+tv.com##div[id^="-dfnnfkd_zcr_heqzld_/9030"]
+tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com##.container.global-container-1
