@@ -14,6 +14,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||101x.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||klbjfm.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 @@||boston.com$generichide,genericblock
+@@||cbssports.com$generichide,genericblock
+@@||cnet.com$generichide,genericblock
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
 @@||everydayhealth.com$generichide,genericblock
@@ -28,7 +30,7 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-ndlldib_xap_fcoxjb_/1597"]
+cbssports.com##div[id^="-nemmejc_ybq_gdpykc_/2608"]
 cbssports.com##.cc-skybox
 cbssports.com###skybox-top-wrapper
 cbssports.com,metrolyrics.com##[data-ad]
@@ -38,6 +40,7 @@ cnet.com##div[id^="-euccuzs_org_wtfoas_/2608"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
+cnet.com##[data-load-complete="true"]
 cnet.com##.sticky-leader
 chowhound.com##div[id^="-fyggydw_svk_axjsew_6042"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
