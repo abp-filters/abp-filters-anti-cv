@@ -88,4 +88,5 @@ wetteronline.at##div[id^="UXYc-"]
 wetteronline.ch##div[id^="WYZd-"]
 
 ! #11076
-||damoh.$media,rewrite=abp-resource:blank-mp3,domain=golem.de|4players.de
+||damoh.$media,rewrite=abp-resource:blank-mp3,domain=golem.de
+||player-abcd.glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
