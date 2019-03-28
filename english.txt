@@ -16,6 +16,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||boston.com$generichide,genericblock
 @@||cbssports.com$generichide,genericblock
 @@||cnet.com$generichide,genericblock
+@@||pcmag.com$generichide,genericblock
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
 @@||everydayhealth.com$generichide,genericblock
@@ -80,6 +81,9 @@ msn.com##[data-aaixgcb]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gdlldib_xap_fcoxjb_/7818"]
+pcmag.com##.panel-container
+pcmag.com##.zergentity
+pcmag.com##.zergheader
 ranker.com##div[id^="-nhpphmf_bet_jgsbnf_/2171717"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="wrapperLink"]
