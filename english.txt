@@ -79,7 +79,7 @@ msn.com##[class^="aaibtsxjbrpgs"]
 msn.com##[data-aaixgcb]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
-pcmag.com##div[id^="-gckkcha_wzo_ebnwia_/6707"]
+pcmag.com##div[id^="-gdlldib_xap_fcoxjb_/7818"]
 ranker.com##div[id^="-nhpphmf_bet_jgsbnf_/2171717"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="wrapperLink"]
@@ -101,8 +101,8 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dfnnfkd_zcr_heqzld_/9030"]
-tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
+tv.com##div[id^="-dfnnfkd_zcr_heqzld_/3719"]
+tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/6707"]
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com##.container.global-container-1
