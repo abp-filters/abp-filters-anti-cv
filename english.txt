@@ -255,6 +255,8 @@ uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 pch.com##[id^="zyqv-"]
 pch.com##[id^="div-gpt-ad"]
 pch.com##[id^="google_ads_iframe_"]
+pch.com##.freewheel-ad-frame
+||adsrvr.org^$third-party,domain=pch.com
 ||gumgum.com^$third-party,domain=pch.com
 @@||pch.com$generichide,genericblock
 pch.com#$#abort-current-inline-script JSON.parse Math.random
