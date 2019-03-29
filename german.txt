@@ -86,9 +86,6 @@ wetteronline.de,wetteronline.at,wetteronline.ch#$#abort-on-property-read proxyLo
 wetteronline.de##div[id^="KMNP-"]
 wetteronline.at##div[id^="cVbc-"]
 wetteronline.ch##div[id^="eWcd-"]
-@@||wetteronline.de$generichide,genericblock
-@@||wetteronline.at$generichide,genericblock
-@@||wetteronline.ch$generichide,genericblock
 
 ! #11076
 ||damoh.$media,rewrite=abp-resource:blank-mp3,domain=golem.de
