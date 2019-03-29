@@ -83,9 +83,9 @@ t-online.de##a.Tctiga[href="https://t-online.de/#"]
 
 ! #16030
 wetteronline.de,wetteronline.at,wetteronline.ch#$#abort-on-property-read proxyLocation; abort-on-property-read PerformanceLongTaskTiming
-wetteronline.de##div[id^="QLHQ-"]
-wetteronline.at##div[id^="YVVd-"]
-wetteronline.ch##div[id^="aWWe-"]
+wetteronline.de##div[id^="QJJQ-"]
+wetteronline.at##div[id^="YdWd-"]
+wetteronline.ch##div[id^="aeXe-"]
 
 ! #11076
 ||damoh.$media,rewrite=abp-resource:blank-mp3,domain=golem.de
