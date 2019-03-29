@@ -51,7 +51,7 @@ chron.com##div[id^="-obwfuu"]
 chron.com###NTV4
 dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-edmunds.com##div[id^="-nhpphmf_bet_jgsbnf_86659972"]
+edmunds.com##div[id^="-niqqing_cfu_khtcog_97760083"]
 edmunds.com##div[class^="-ndcyrspcb"]
 everydayhealth.com##div[id^="-exffxcv_ruj_zwirdv_/1980"]
 everydayhealth.com##.rc-item
