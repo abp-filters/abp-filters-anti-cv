@@ -238,8 +238,10 @@ businessinsider.in,bombaytimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted St
 iamgujarat.com##.esi_ads_widget
 iamgujarat.com#?#div:-abp-has(> h2:-abp-contains(FROM WEB))
 samayam.com,indiatimes.com##a[onclick][rel="nofollow,noindex"]
-indiatimes.com#?#div:-abp-has(> h2:-abp-contains(FROM AROUND THE WEB))
+indiatimes.com#?#div:-abp-has(> h2:-abp-contains(Promoted Stories))
+idiva.com#?#div:-abp-has(> h2:-abp-contains(More From Web))
 indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
+mensxp.com##a[onclick*="mensxp.com//asddjm/"]
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad")))
 
