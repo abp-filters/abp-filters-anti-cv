@@ -52,7 +52,7 @@ dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##div[id^="-nhpphmf_bet_jgsbnf_86659972"]
 edmunds.com##div[class^="-ndcyrspcb"]
-everydayhealth.com##div[id^="-eweewbu_qti_yvhqcu_/0141"]
+everydayhealth.com##div[id^="-exffxcv_ruj_zwirdv_/1980"]
 everydayhealth.com##.rc-item
 everydayhealth.com##[title="Advertisement"]
 gamepedia.com##div[id^="cdm-zone"]
@@ -70,7 +70,7 @@ medicinenet.com##iframe[height="200"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kemmejc_ybq_gdpykc_/8756878"]
-emedicinehealth.com##div[id^="-bdlldib_xap_fcoxjb_/7645767"]
+emedicinehealth.com##div[id^="-bemmejc_ybq_gdpykc_/8756878"]
 metrolyrics.com##div[id^="-naiiafy_uxm_czlugy_/4585"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
