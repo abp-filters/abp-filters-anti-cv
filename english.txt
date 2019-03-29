@@ -13,6 +13,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
 ||101x.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||klbjfm.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
+||static.adziff.com^$script,domain=pcmag.com
 @@||boston.com$generichide,genericblock
 @@||cbssports.com$generichide,genericblock
 @@||cnet.com$generichide,genericblock
@@ -55,7 +56,7 @@ everydayhealth.com##div[id^="-eweewbu_qti_yvhqcu_/0141"]
 everydayhealth.com##.rc-item
 everydayhealth.com##[title="Advertisement"]
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-ppxxpun_jmb_roajvn_/47298866"]
+gamepedia.com##div[id^="-pqyyqvo_knc_spbkwo_/58309977"]
 geek.com##div[id^="-mlttlqj_fix_nkwfrj_/9030"]
 geek.com##div[id^="-mnsfubsh"]
 goal.com##div[id^="-mzhhzex_twl_byktfx_/56869170"]
@@ -84,6 +85,7 @@ pcmag.com##div[id^="-gdlldib_xap_fcoxjb_/7818"]
 pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
+pcmag.com##.tile.strip.deal-of-day
 ranker.com##div[id^="-nhpphmf_bet_jgsbnf_/2171717"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="wrapperLink"]
