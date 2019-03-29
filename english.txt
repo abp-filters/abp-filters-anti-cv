@@ -44,10 +44,11 @@ cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##[data-load-complete="true"]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fyggydw_svk_axjsew_6042"]
+chowhound.com##div[id^="-fzhhzex_twl_byktfx_7153"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
-chron.com##div[id^="-oksskpi_ehw_mjveqi_/70551046"]
-chron.com##div[id^="wrapperLink"]
+chron.com##div[id^="-olttlqj_fix_nkwfrj_/81662157"]
+chron.com##div[id^="-obwfuu"]
+chron.com###NTV4
 dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 edmunds.com##div[id^="-nhpphmf_bet_jgsbnf_86659972"]
@@ -71,7 +72,7 @@ medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kemmejc_ybq_gdpykc_/8756878"]
 emedicinehealth.com##div[id^="-bemmejc_ybq_gdpykc_/8756878"]
-metrolyrics.com##div[id^="-naiiafy_uxm_czlugy_/4585"]
+metrolyrics.com##div[id^="-nbjjbgz_vyn_damvhz_/9375"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-oemmejc_ybq_gdpykc_/70551046"]
@@ -86,29 +87,30 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-ranker.com##div[id^="-nhpphmf_bet_jgsbnf_/2171717"]
+ranker.com##div[id^="-niqqing_cfu_khtcog_/3282828"]
 streetchopperweb.com##div[style*="width: 970px; height: 250px;"]
 sfgate.com##div[id^="wrapperLink"]
-sfgate.com##div[id^="-njrrjoh_dgv_liudph_/69440935"]
+sfgate.com##div[id^="-nksskpi_ehw_mjveqi_/70551046"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
 sportingnews.com##div[id^="-gnvvnsl_hkz_pmyhtl_/1252"]
 seattlepi.com##div[id^="wrapperLink"]
+seattlepi.com###-pGMO3
 seattlepi.com##[data-adid]
 seattlepi.com##div[id^="-ppktiixkE"]
 seattlepi.com##div[id^="-pzhhzex_twl_byktfx_/25006591"]
 spox.com##div[id^="-zfnnfkd_zcr_heqzld_/0286"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
-thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/5655279"]
+thoughtcatalog.com##div[id^="-hemmejc_ybq_gdpykc_/05725093"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
 tv.com##div[id^="-dfnnfkd_zcr_heqzld_/3719"]
-tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/6707"]
+tvguide.com##div[id^="-nsaasxq_mpe_urdmyq_/0486"]
 webmd.com###ContentPane10
 webmd.com##[class="main-container main-container-3"]
 webmd.com##.container.global-container-1
