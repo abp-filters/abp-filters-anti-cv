@@ -62,5 +62,4 @@ rueconomics.ru#$#abort-on-property-read isLentainform; abort-on-property-read lo
 politexpert.net,nahnews.org#$#abort-on-property-read encodeURIComponent
 
 ! #21363
-mail.ru,sportmail.ru#$#abort-on-property-read __debugComponentSlotMimic
-news.mail.ru,sportmail.ru#$#abort-current-inline-script Element.prototype.webkitMatchesSelector
+cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
