@@ -59,7 +59,7 @@ krolik.biz#$#abort-current-inline-script document.createElement
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
 rueconomics.ru#$#abort-on-property-read isLentainform; abort-on-property-read loaded_block_nnn
-politexpert.net,nahnews.org#$#abort-on-property-read encodeURIComponent
+politexpert.net#$#abort-on-property-read encodeURIComponent
 
 ! #21363
 auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
