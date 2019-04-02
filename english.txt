@@ -270,7 +270,7 @@ pch.com#$#abort-current-inline-script JSON.parse Math.random
 
 ! MISC
 fileflares.com,fflares.com#$#abort-on-property-write _pop
-33sk.tv,egydead.com,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
+uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed
 biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
@@ -281,11 +281,11 @@ txxx.com#$#abort-on-property-read BetterJsPop
 ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
 vidplayer.cz,rapidvideo.com#$#abort-on-property-read AaDetector
 9xupload.me,mstream.net,mysembed.net,mystream.to#$#abort-on-property-read eval
-33sk.tv,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
+europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
 novom.ru#$#abort-on-property-read zoneNativeSett
 9xupload.me#$#abort-on-property-read atop
-33sk.tv,egydead.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
-egydead.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
+uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
+uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
 
 ! #10530
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.club,extreme-download.me,ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,tv-onlinehd.com#$#abort-on-property-read atob
