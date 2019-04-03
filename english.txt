@@ -14,6 +14,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||101x.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||klbjfm.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||static.adziff.com^$script,domain=pcmag.com
+||revcontent.com^$domain=boston.com,~media
 @@||boston.com$generichide,genericblock
 @@||cbssports.com$generichide,genericblock
 @@||cnet.com$generichide,genericblock
