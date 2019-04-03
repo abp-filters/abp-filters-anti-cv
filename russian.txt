@@ -63,3 +63,4 @@ politexpert.net#$#abort-on-property-read encodeURIComponent
 
 ! #21363
 auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
+horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write MrgContext
