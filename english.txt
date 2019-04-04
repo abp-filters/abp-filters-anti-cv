@@ -308,3 +308,7 @@ adpop.me,amyscans.com,anime-extremo.co,anime-extremo.com,apurogol.net,esapurogol
 ! #21547
 nyasatimes.com##a[href="http://www.tnm.co.mw/"]
 nyasatimes.com##a[href^="http://www.africa.airtel.com"]
+
+! #21781
+twitch.tv#$#strip-fetch-query-parameter player_type /access_token
+/^(https?://usher\.ttvnw\.net/api/channel/hls/[^?]+\?.*?)&baking_bread=[^&]+&baking_brownies=[^&]+&baking_brownies_timeout=[^&]+/$rewrite=$1
