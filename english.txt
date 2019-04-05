@@ -6,9 +6,9 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
 @@||webmd.com^$elemhide
-||googletagservices.com^$domain=webmd.com,~media
-||contextual.media.net^$domain=webmd.com,~media
-||amazon-adsystem.com^$domain=webmd.com,~media
+||googletagservices.com^$domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+||contextual.media.net^$domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+||amazon-adsystem.com^$domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*x2eofu.g00.sportingnews.com^$script,domain=sportingnews.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
@@ -21,7 +21,15 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||boston.com$generichide,genericblock
 @@||cbssports.com$generichide,genericblock
 @@||cnet.com$generichide,genericblock
+@@||diversitybestpractices.com^$generichide,genericblock
+@@||hoylosangeles.com^$generichide,genericblock
+@@||growthspotter.com^$generichide,genericblock
+@@||gamepedia.com^$generichide,genericblock
 @@||pcmag.com$generichide,genericblock
+@@||range365.com^$generichide,genericblock
+@@||ranker.com^$generichide,genericblock
+@@||scubadiving.com^$generichide,genericblock
+@@||wakeboardingmag.com^$generichide,genericblock
 @@||webmd.com$generichide,genericblock
 @@||edmunds.com$generichide,genericblock
 @@||everydayhealth.com$generichide,genericblock
