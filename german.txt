@@ -16,7 +16,6 @@ fr.de,chefkoch.de,pcwelt.de,notebookcheck.net,finanzen.net,tagesspiegel.de,motor
 cinema.de#$#abort-current-inline-script String.fromCharCode 1a29dc4fab2ecccaac0fe462b1ff9d68
 playboy.de#$#abort-current-inline-script String.fromCharCode 0220bd133a11be8926b2b690eda42fae
 golem.de#$#abort-current-inline-script String.fromCharCode 0ed51c75d6ecb3d4dd31d0c28c2b5c4c
-reuters.com#$#abort-current-inline-script String.fromCharCode 265fd94cf47a09f67f133c8258f205f8
 4players.de#$#abort-current-inline-script String.fromCharCode 515a0492b3ff8afc3e962e2e7f12f7a7
 chefkoch.de#$#abort-current-inline-script String.fromCharCode 781a57bf021e7508d0d755a432cc6bac
 finanzen.net#$#abort-current-inline-script String.fromCharCode 51d6840b0852f47ebc8d1376008cd2d5

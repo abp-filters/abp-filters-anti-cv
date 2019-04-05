@@ -1,5 +1,6 @@
 ! #8479
-||reutersmedia.net/resources/r/?x=*&m=*&d=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?z=*&m=*&d=$image,domain=reuters.com
+reuters.com#$#abort-current-inline-script String.fromCharCode 69bfbfdbe821fab7200e9613cab94c8b
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
