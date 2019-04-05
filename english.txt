@@ -5,7 +5,6 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-||*x2eofu*.g00.webmd.com^$script,domain=webmd.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*x2eofu.g00.sportingnews.com^$script,domain=sportingnews.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
