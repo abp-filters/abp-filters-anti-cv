@@ -5,6 +5,10 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
+@@||webmd.com^$elemhide
+||googletagservices.com^$domain=webmd.com,~media
+||contextual.media.net^$domain=webmd.com,~media
+||amazon-adsystem.com^$domain=webmd.com,~media
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*x2eofu.g00.sportingnews.com^$script,domain=sportingnews.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
