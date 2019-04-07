@@ -1,5 +1,6 @@
 ! MISC
-33sk.tv,egydead.com#$#abort-on-property-read atob
-33sk.tv,egydead.com#$#abort-on-property-write Fingerprint2
-33sk.tv#$#abort-on-property-read decodeURIComponent
+3sk.co,33sk.tv,egydead.com#$#abort-on-property-read atob
+3sk.co,33sk.tv,egydead.com#$#abort-on-property-write Fingerprint2
+3sk.co,33sk.tv#$#abort-on-property-read decodeURIComponent
+3sk.co,33sk.tv#$#abort-on-property-read RegExp
 egydead.com#$#abort-on-property-read _pop
