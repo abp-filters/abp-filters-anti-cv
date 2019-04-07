@@ -74,6 +74,7 @@ spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||ianget.stroeerdp.de^$image,domain=t-online.de
 ||aemooj.stroeerdp.de^$image,domain=t-online.de
 ||eipaiz.stroeerdp.de^$image,domain=t-online.de
+||ahgaih.stroeerdp.de^$image,domain=t-online.de
 ||stroeerdp.de/i$image,domain=t-online.de
 www.t-online.de#?#:-abp-has(> div:-abp-properties(background-image: *.stroeerdp.de*; height: *px; width: *px;))
 www.t-online.de##img[src^="https://"][src*="stroeerdp.de/"][src$=".gif"]
