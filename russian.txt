@@ -19,6 +19,7 @@ echo.msk.ru#$#abort-on-property-read atob; abort-on-property-read IntersectionOb
 kakprosto.ru#$#abort-current-inline-script document.createElement renderTo
 razlozhi.ru#$#abort-on-property-read advertSlice
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Ya; abort-on-property-read yandex_metrika_callbacks
+24smi.org#$#abort-on-property-read yandex_metrika_callbacks
 
 ! #9708
 24tv.ua##.b_reklama
