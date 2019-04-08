@@ -81,9 +81,9 @@ t-online.de##a.Tctiga[href="https://t-online.de/#"]
 /bimages/*$image,domain=t-online.de
 
 ! #16030
-wetteronline.de##div[id^="KMNO-"]
-wetteronline.at##div[id^="cVbb-"]
-wetteronline.ch##div[id^="eWcc-"]
+wetteronline.de##div[id^="INOO-"]
+wetteronline.at##div[id^="aWcb-"]
+wetteronline.ch##div[id^="cXdc-"]
 ||goaz.wetteronline.de^$popup
 ||obri.wetteronline.at^$popup
 ||gyw.wetteronline.ch^$popup
