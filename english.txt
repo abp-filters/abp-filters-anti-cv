@@ -16,7 +16,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||moatads.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|tv.com|cbssports.com|everydayhealth.com,~media
 ||doubleclick.net^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|everydayhealth.com|geek.com,~media
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
-||*x2eofu.g00.sportingnews.com^$script,domain=sportingnews.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
