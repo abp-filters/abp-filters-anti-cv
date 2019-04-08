@@ -7,9 +7,14 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
 @@||webmd.com^$elemhide
-||googletagservices.com^$domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
-||contextual.media.net^$domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
-||amazon-adsystem.com^$domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+@@||everydayhealth.com^$elemhide
+@@||edmunds.com^$elemhide
+@@||cbssports.com^$elemhide
+||googletagservices.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+||amazon-adsystem.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+||moatads.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|tv.com|cbssports.com|everydayhealth.com,~media
+||doubleclick.net^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|everydayhealth.com|geek.com,~media
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*x2eofu.g00.sportingnews.com^$script,domain=sportingnews.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
@@ -18,22 +23,43 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||101x.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||klbjfm.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||static.adziff.com^$script,domain=pcmag.com
-||revcontent.com^$domain=boston.com,~media
-@@||boston.com$generichide,genericblock
-@@||cbssports.com$generichide,genericblock
-@@||cnet.com$generichide,genericblock
+||revcontent.com^$domain=boston.com|geek.com,~media
+@@||baltimoresun.com^$generichide,genericblock
+@@||boston.com^$generichide,genericblock
+@@||carrollcountytimes.com^$generichide,genericblock
+@@||chicagotribune.com^$generichide,genericblock
+@@||cbssports.com^$generichide,genericblock
+@@||chowhound.com^$generichide,genericblock
+@@||chron.com^$generichide,genericblock
+@@||capitalgazette.com^$generichide,genericblock
+@@||citypaper.com^$generichide,genericblock
+@@||cnet.com^$generichide,genericblock
+@@||dailypress.com^$generichide,genericblock
 @@||diversitybestpractices.com^$generichide,genericblock
+@@||emedicinehealth.com^$generichide,genericblock
 @@||hoylosangeles.com^$generichide,genericblock
 @@||growthspotter.com^$generichide,genericblock
+@@||geek.com^$generichide,genericblock
+@@||goal.com^$generichide,genericblock
 @@||gamepedia.com^$generichide,genericblock
+@@||metrolyrics.com^$generichide,genericblock
+@@||medicinenet.com^$generichide,genericblock
+@@||mcall.com^$generichide,genericblock
+@@||orlandosentinel.com^$generichide,genericblock
 @@||pcmag.com$generichide,genericblock
 @@||range365.com^$generichide,genericblock
 @@||ranker.com^$generichide,genericblock
 @@||scubadiving.com^$generichide,genericblock
+@@||sun-sentinel.com^$generichide,genericblock
+@@||sportingnews.com^$generichide,genericblock
+@@||sfgate.com^$generichide,genericblock
+@@||tv.com^$generichide,genericblock
+@@||tvguide.com^$generichide,genericblock
+@@||thoughtcatalog.com^$generichide,genericblock
 @@||wakeboardingmag.com^$generichide,genericblock
-@@||webmd.com$generichide,genericblock
-@@||edmunds.com$generichide,genericblock
-@@||everydayhealth.com$generichide,genericblock
+@@||webmd.com^$generichide,genericblock
+@@||edmunds.com^$generichide,genericblock
+@@||everydayhealth.com^$generichide,genericblock
 allakhazam.com,101x.com,1070thefan.com##[amp4ads]
 101x.com,1070thefan.com,klbjfm.com##[data-size="970x90"]
 101x.com,1070thefan.com,klbjfm.com##[data-size="300x250"]
