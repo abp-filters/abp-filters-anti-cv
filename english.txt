@@ -310,7 +310,7 @@ pch.com#$#abort-current-inline-script JSON.parse Math.random
 fileflares.com,fflares.com#$#abort-on-property-write _pop
 uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed
-biter.tv,byter.tv#$#abort-on-property-read decodeURI
+cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
 rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,rarbgmirror.com,rarbgmirror.org,rarbgmirror.xyz,rarbgmirrored.org,rarbgproxy.org,rarbgprx.org,rarbgto.org,rarbgunblock.com,rarbgweb.org#$#abort-on-property-read LieDetector
 rapidvideo.com#$#abort-on-property-write executed
