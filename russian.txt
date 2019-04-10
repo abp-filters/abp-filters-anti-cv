@@ -14,7 +14,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 
 ! #18828
 auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,yandex.ee,yandex.fr,yandex.kg,yandex.kz,yandex.lt,yandex.lv,yandex.md,yandex.ru,yandex.ua,yandex.uz#$#hide-if-shadow-contains *
-sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
+drive2.ru,sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 echo.msk.ru#$#abort-on-property-read IntersectionObserver; abort-on-property-read irsya; abort-on-property-read yartb; abort-on-property-read ystatId; abort-current-inline-script String /static-mon\.yandex\.net/
 kakprosto.ru#$#abort-current-inline-script document.createElement renderTo
 razlozhi.ru#$#abort-on-property-read advertSlice
@@ -22,7 +22,6 @@ liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Ya; abort-
 24smi.org#$#abort-on-property-read yandex_metrika_callbacks
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
-drive2.ru#$#abort-on-property-read ShadowRoot
 
 ! #9708
 24tv.ua##.b_reklama
