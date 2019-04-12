@@ -47,6 +47,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||pcmag.com$generichide,genericblock
 @@||range365.com^$generichide,genericblock
 @@||ranker.com^$generichide,genericblock
+@@||mysanantonio.com^$generichide,genericblock
 @@||scubadiving.com^$generichide,genericblock
 @@||seattlepi.com^$generichide,genericblock
 @@||sun-sentinel.com^$generichide,genericblock
