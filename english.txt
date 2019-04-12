@@ -114,10 +114,6 @@ metrolyrics.com##div[id^="-nemmejc_ybq_gdpykc_/8929"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mamaslatinas.com##.sidebar
 mysanantonio.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
-msn.com##div[id^="aaisreevi3_yfdvgrxv"]
-msn.com##div[data-aaihuwyed="bannerad3_section"]
-msn.com##[class^="aaibtsxjbrpgs"]
-msn.com##[data-aaixgcb]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
 pcmag.com##div[id^="-gdlldib_xap_fcoxjb_/7818"]
@@ -175,6 +171,34 @@ baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,daily
 baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##[data--gtwil-kwuxtmbm="true"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,boston.com,carrollcountytimes.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,cycleworld.com,dailypress.com,destinationweddingmag.com,dirtrider.com,fieldandstream.com,floridatravellife.com,flyingmag.com,gamespot.com,hotbikeweb.com,islands.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,motorcyclecruiser.com,motorcyclistonline.com,mustangandfords.com,mysanantonio.com,orlandosentinel.com,outdoorlife.com,pcmag.com,popphoto.com,saltwatersportsman.com,saveur.com,scubadiving.com,seattlepi.com,southflorida.com,sportdiver.com,sportfishingmag.com,sportrider.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,boston.com,carrollcountytimes.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,cycleworld.com,dailypress.com,destinationweddingmag.com,dirtrider.com,fieldandstream.com,floridatravellife.com,flyingmag.com,gamespot.com,hotbikeweb.com,islands.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,motorcyclecruiser.com,motorcyclistonline.com,mustangandfords.com,mysanantonio.com,orlandosentinel.com,outdoorlife.com,pcmag.com,popphoto.com,saltwatersportsman.com,saveur.com,scubadiving.com,seattlepi.com,southflorida.com,sportdiver.com,sportfishingmag.com,sportrider.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 narcity.com#$#abort-on-property-write Ha
+||atwola.com^$domain=msn.com,~media
+||advertising.com^$domain=msn.com,~media
+||adnxs.com^$domain=msn.com,~media
+||media.net^$domain=msn.com,~media
+||fwmrm.net^$domain=msn.com,~media
+||adbroker.mp.dse.microsoft.com^$domain=msn.com,~media
+||facebook.com^*/instream/$domain=msn.com,~media
+||adsafeprotected.com^$domain=msn.com,~media
+||2mdn.net^$domain=msn.com,~media
+||3lift.com^$domain=msn.com,~media
+||imasdk.googleapis.com^$domain=msn.com,~media
+||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
+||ad.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
+||msavideo-a.akamaihd.net^$domain=msn.com
+||ad.71i.de^$domain=player.glomex.com
+||yieldlab.net^$domain=player.glomex.com
+||flashtalking.com^$domain=player.glomex.com
+msn.com##a[href^="https://beap.gemini.yahoo.com/"]
+msn.com##a[href*="?adUnit="]
+msn.com##a[href*="&utm_medium=native&"]
+msn.com##a[href^="https://paid.outbrain.com/"]
+msn.com##a[href^="https://api.taboola.com/"]
+msn.com##a[href*=".tradedoubler.com/"]
+@@||msn.com^$generichide,genericblock
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
+@@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
+@@||fwmrm.net/p/msn_live/AdManager.js$domain=msn.com
+@@||fwmrm.net/ad/g/1?$script,domain=msn.com
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
