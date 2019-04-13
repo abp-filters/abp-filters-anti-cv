@@ -314,6 +314,7 @@ celticquicknews.co.uk,videocelts.com,mjsbigblog.com,thecelticblog.com#$#abort-cu
 psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
 justjared.com,pockettactics.com,thisisfutbol.com#$#abort-on-property-read PerformanceLongTaskTiming
 footballleagueworld.co.uk#$#abort-on-property-read atob
+audiofanzine.com#$#abort-on-property-read require
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
