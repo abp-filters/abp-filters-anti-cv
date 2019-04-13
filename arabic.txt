@@ -4,3 +4,6 @@
 3sk.co,33sk.tv#$#abort-on-property-read decodeURIComponent
 3sk.co,33sk.tv#$#abort-on-property-read RegExp
 egydead.com#$#abort-on-property-read _pop
+
+! #20940
+arabseed.com,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
