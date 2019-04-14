@@ -318,7 +318,7 @@ audiofanzine.com#$#abort-on-property-read require
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
-vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read adcashMacros
+vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read adcashMacros
 uploadmp4.com#$#abort-on-property-write Fingerprint2
 uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 
@@ -342,7 +342,7 @@ rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,ra
 rapidvideo.com#$#abort-on-property-write executed
 oladblock.me,oladblock.xyz,oload.cc,oload.club,oload.download,oload.fun,oload.live,oload.space,oload.win,openload.pw,oload.info,oload.site,oload.stream,oload.tv,openload.co,openloed.co#$#abort-on-property-write _pop; abort-on-property-read decodeURI; abort-on-property-read popjs; abort-on-property-read toString; abort-on-property-read AaDetector; abort-on-property-read BetterJsPop; abort-on-property-write Fingerprint2; abort-current-inline-script document.getElementById isSandboxed
 txxx.com#$#abort-on-property-read BetterJsPop
-vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
+vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
 vidplayer.cz,rapidvideo.com#$#abort-on-property-read AaDetector
 9xupload.me,mstream.net,mysembed.net,mystream.to#$#abort-on-property-read eval
 zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
@@ -358,7 +358,7 @@ fastplay.to#$#abort-current-inline-script atob decodeURIComponent
 convert2mp3.net#$#abort-on-property-read decodeURIComponent
 
 ! #20940
-vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
+vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
 
 ! #10644
 yuudrive.me,hdhub4u.pw,hdhub4u.website,thevid.net,thevid.tv,biter.tv,byter.tv,flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
