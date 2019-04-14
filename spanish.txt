@@ -7,7 +7,7 @@ mamaslatinas.com##.top-bar-content
 telexplorer.com.ar#$#abort-current-inline-script MutationObserver compareDocumentPosition
 
 ! #21283
-planetatvonlinehd.com#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
+rojadirecta.fr,rojadirectatv.live,planetatvonlinehd.com#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
 
 ! MISC
 planetatvonlinehd.com#$#abort-on-property-read atob
