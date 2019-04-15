@@ -5,6 +5,7 @@ aachener-nachrichten.de##aside[data-portal-id]
 ||static-immobilienscout24.de/fro/*$image,domain=immobilienscout24.de
 
 ! #8479
+chefkoch.de#$#abort-current-inline-script window.addEventListener '/\[\^\:\;\{\}\]\+\:/'
 
 ! #9272
 spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
