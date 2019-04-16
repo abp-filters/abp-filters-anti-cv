@@ -193,6 +193,9 @@ msn.com##a[href*=".tradedoubler.com/"]
 eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,gorillavid.in,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com,walterfootball.com#$#abort-on-property-read TextDecoder
 tetrisfriends.com,movpod.in,humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob TextDecoder
 
+! #9291
+dexerto.com##a[href^="https://scufgaming.com"]
+
 ! #9343
 tube8.com##.gridBanner_
 tube8.com##.footerBanner
