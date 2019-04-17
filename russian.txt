@@ -21,7 +21,7 @@ liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Ya; abort-
 24smi.org#$#abort-on-property-read yandex_metrika_callbacks
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
-drive2.ru#$#abort-current-inline-script document.createElement String.fromCharCode
+drive2.ru#$#abort-current-inline-script document.currentScript
 
 ! #9708
 24tv.ua##.b_reklama
