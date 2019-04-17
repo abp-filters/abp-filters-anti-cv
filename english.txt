@@ -9,11 +9,15 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||everydayhealth.com^$elemhide
 @@||edmunds.com^$elemhide
 @@||cbssports.com^$elemhide
-||googletagservices.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
+||googletagservices.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||amazon-adsystem.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||moatads.com^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|tv.com|cbssports.com|everydayhealth.com,~media
 ||doubleclick.net^$script,domain=dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|everydayhealth.com|geek.com,~media
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
+||g.doubleclick.net^$script,domain=webmd.com
+||sharethrough.com^$script,domain=webmd.com
+||adsafeprotected.com^$script,domain=webmd.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
