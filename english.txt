@@ -312,6 +312,8 @@ pch.com##.freewheel-ad-frame
 ||gumgum.com^$third-party,domain=pch.com
 @@||pch.com$generichide,genericblock
 pch.com#$#abort-current-inline-script JSON.parse Math.random
+pch.com##span[style^="background-image:"]
+pch.com##.rewards-block
 
 ! MISC
 fileflares.com,fflares.com#$#abort-on-property-write _pop
