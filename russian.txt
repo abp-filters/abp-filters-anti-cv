@@ -60,6 +60,7 @@ hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-wr
 artfile.me,artfile.ru,astrakhan.ru,gorodche.ru,informpskov.ru,tambovnet.org#$#abort-on-property-read kav_cn
 krolik.biz#$#abort-current-inline-script document.createElement
 www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCharCode
+sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
