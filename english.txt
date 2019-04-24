@@ -5,8 +5,6 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-@@||webmd.com^$elemhide
-@@||everydayhealth.com^$elemhide
 @@||edmunds.com^$elemhide
 ||googletagservices.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
@@ -36,7 +34,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||cnet.com^$generichide,genericblock
 @@||dailypress.com^$generichide,genericblock
 @@||diversitybestpractices.com^$generichide,genericblock
-@@||emedicinehealth.com^$generichide,genericblock
 @@||hoylosangeles.com^$generichide,genericblock
 @@||growthspotter.com^$generichide,genericblock
 @@||goal.com^$generichide,genericblock
@@ -58,9 +55,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||tvguide.com^$generichide,genericblock
 @@||thoughtcatalog.com^$generichide,genericblock
 @@||wakeboardingmag.com^$generichide,genericblock
-@@||webmd.com^$generichide,genericblock
 @@||edmunds.com^$generichide,genericblock
-@@||everydayhealth.com^$generichide,genericblock
 1070thefan.com###sitewrap
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
