@@ -8,7 +8,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||webmd.com^$elemhide
 @@||everydayhealth.com^$elemhide
 @@||edmunds.com^$elemhide
-@@||cbssports.com^$elemhide
 ||googletagservices.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||amazon-adsystem.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
@@ -30,7 +29,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||boston.com^$generichide,genericblock
 @@||carrollcountytimes.com^$generichide,genericblock
 @@||chicagotribune.com^$generichide,genericblock
-@@||cbssports.com^$generichide,genericblock
 @@||chowhound.com^$generichide,genericblock
 @@||chron.com^$generichide,genericblock
 @@||capitalgazette.com^$generichide,genericblock
@@ -41,7 +39,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||emedicinehealth.com^$generichide,genericblock
 @@||hoylosangeles.com^$generichide,genericblock
 @@||growthspotter.com^$generichide,genericblock
-@@||geek.com^$generichide,genericblock
 @@||goal.com^$generichide,genericblock
 @@||gamepedia.com^$generichide,genericblock
 @@||metrolyrics.com^$generichide,genericblock
