@@ -5,7 +5,6 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-@@||edmunds.com^$elemhide
 ||googletagservices.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||amazon-adsystem.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
@@ -27,11 +26,9 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||boston.com^$generichide,genericblock
 @@||carrollcountytimes.com^$generichide,genericblock
 @@||chicagotribune.com^$generichide,genericblock
-@@||chowhound.com^$generichide,genericblock
 @@||chron.com^$generichide,genericblock
 @@||capitalgazette.com^$generichide,genericblock
 @@||citypaper.com^$generichide,genericblock
-@@||cnet.com^$generichide,genericblock
 @@||dailypress.com^$generichide,genericblock
 @@||diversitybestpractices.com^$generichide,genericblock
 @@||hoylosangeles.com^$generichide,genericblock
@@ -48,14 +45,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||mysanantonio.com^$generichide,genericblock
 @@||scubadiving.com^$generichide,genericblock
 @@||seattlepi.com^$generichide,genericblock
-@@||sun-sentinel.com^$generichide,genericblock
-@@||sportingnews.com^$generichide,genericblock
 @@||sfgate.com^$generichide,genericblock
-@@||tv.com^$generichide,genericblock
-@@||tvguide.com^$generichide,genericblock
-@@||thoughtcatalog.com^$generichide,genericblock
 @@||wakeboardingmag.com^$generichide,genericblock
-@@||edmunds.com^$generichide,genericblock
 1070thefan.com###sitewrap
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
