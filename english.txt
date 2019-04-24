@@ -69,6 +69,7 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
+cbssports.com###leader-top-wrap
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##div[id^="-euccuzs_org_wtfoas_/2608"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
