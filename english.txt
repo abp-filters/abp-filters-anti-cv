@@ -291,7 +291,6 @@ pch.com##.freewheel-ad-frame
 @@||pch.com$generichide,genericblock
 pch.com#$#abort-current-inline-script JSON.parse Math.random
 pch.com##span[style^="background-image:"]
-pch.com##.rewards-block
 
 ! MISC
 europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
