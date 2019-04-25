@@ -61,6 +61,7 @@ spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||aemooj.stroeerdp.de^$image,domain=t-online.de
 ||eipaiz.stroeerdp.de^$image,domain=t-online.de
 ||ahgaih.stroeerdp.de^$image,domain=t-online.de
+||yeejua.stroeerdp.de^$image,domain=t-online.de
 ||stroeerdp.de/i$image,domain=t-online.de
 www.t-online.de#?#:-abp-has(> div:-abp-properties(background-image: *.stroeerdp.de*; height: *px; width: *px;))
 www.t-online.de##img[src^="https://"][src*="stroeerdp.de/"][src$=".gif"]
@@ -68,7 +69,6 @@ t-online.de##div[style] + img[src*=".stroeerdp.de/"]
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
 t-online.de##a.Tctiga[href="https://t-online.de/#"]
-/bimages/*$image,domain=t-online.de
 
 ! #16030
 wetteronline.de##div[id^="KKMH-"]
