@@ -292,7 +292,7 @@ pch.com##.rewards-block
 ! MISC
 europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
 gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
-streamango.com,fruitadblock.net,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed
+streamango.com,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed; abort-on-property-read String.fromCharCode
 cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
 rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,rarbgmirror.com,rarbgmirror.org,rarbgmirror.xyz,rarbgmirrored.org,rarbgproxy.org,rarbgprx.org,rarbgto.org,rarbgunblock.com,rarbgweb.org#$#abort-on-property-read LieDetector
