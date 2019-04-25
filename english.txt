@@ -67,7 +67,7 @@ geek.com##div[id^="gk"]
 geek.com###-minapwnc
 goal.com##div[id^="-mckkcha_wzo_ebnwia_/89192403"]
 goal.com##[data-role="ad"]
-metacritic.com##div[id^="-osaasxq_mpe_urdmyq_/0486"]
+metacritic.com##div[id^="-ojmr_"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
 metacritic.com##.side_recommend
