@@ -75,6 +75,7 @@ mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kiqqing_cfu_khtcog_/6534656"]
+medicinenet.com##div[class^="-kdg_"]
 emedicinehealth.com##div[id^="-biqqing_cfu_khtcog_/6534656"]
 metrolyrics.com##div[id^="-nemmejc_ybq_gdpykc_/8929"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
