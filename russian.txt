@@ -24,6 +24,7 @@ championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Objec
 drive2.ru#$#abort-current-inline-script document.currentScript
 
 ! #9708
+newsyou.info#$#abort-on-property-write Math.random
 24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
 azov-sea.info##td[width="330"]
