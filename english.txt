@@ -277,9 +277,10 @@ indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad
 audiofanzine.com#$#abort-on-property-read TextDecoder
 celticquicknews.co.uk,videocelts.com,mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
 psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
-justjared.com,pockettactics.com,thisisfutbol.com#$#abort-on-property-read PerformanceLongTaskTiming
+justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTiming
 footballleagueworld.co.uk#$#abort-on-property-read atob
 audiofanzine.com#$#abort-on-property-read require
+||d12ysuoljjyfqa.cloudfront.net^$script
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
