@@ -14,7 +14,9 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||g.doubleclick.net^$script,domain=webmd.com
 ||sharethrough.com^$script,domain=webmd.com
 ||adsafeprotected.com^$script,domain=webmd.com
+||*x2evmb.g00.goal.com^$script,domain=goal.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
+||*x2etkz.g00.chowhound.com^$script,domain=chowhound.com
 ||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -103,7 +105,7 @@ seattlepi.com##div[id^="-pckkcha_wzo_ebnwia_/58339824"]
 spox.com##div[id^="-zfnnfkd_zcr_heqzld_/0286"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
-thoughtcatalog.com##div[id^="-hhpphmf_bet_jgsbnf_/5696"]
+thoughtcatalog.com##div[class^="-hku-"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
