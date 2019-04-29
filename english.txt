@@ -283,23 +283,13 @@ footballleagueworld.co.uk#$#abort-on-property-read atob
 audiofanzine.com#$#abort-on-property-read require
 ||d12ysuoljjyfqa.cloudfront.net^$script,domain=thisisfutbol.com
 ||d1oxccu2k3w6jx.cloudfront.net^$script,domain=footballtransfertavern.com
+||damnodoz.tkepyc.com^$domain=pch.com
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
 vidshare.tv,govid.me,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read adcashMacros
 uploadmp4.com#$#abort-on-property-write Fingerprint2
 uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
-
-! #20679
-pch.com##[id^="mlsp-"]
-pch.com##[id^="div-gpt-ad"]
-pch.com##[id^="google_ads_iframe_"]
-pch.com##.freewheel-ad-frame
-||adsrvr.org^$third-party,domain=pch.com
-||gumgum.com^$third-party,domain=pch.com
-@@||pch.com$generichide,genericblock
-pch.com#$#abort-current-inline-script JSON.parse Math.random
-pch.com##span[style^="background-image:"]
 
 ! MISC
 europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
