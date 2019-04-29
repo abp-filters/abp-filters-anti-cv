@@ -82,7 +82,7 @@ medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kiqqing_cfu_khtcog_/6534656"]
 medicinenet.com##div[class^="-kdg_"]
 emedicinehealth.com##div[id^="-biqqing_cfu_khtcog_/6534656"]
-metrolyrics.com##div[id^="-nemmejc_ybq_gdpykc_/8929"]
+metrolyrics.com##div[id^="-nfnnfkd_zcr_heqzld_/3719/"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mysanantonio.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
