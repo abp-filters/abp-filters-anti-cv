@@ -280,7 +280,8 @@ psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOA
 justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTiming
 footballleagueworld.co.uk#$#abort-on-property-read atob
 audiofanzine.com#$#abort-on-property-read require
-||d12ysuoljjyfqa.cloudfront.net^$script
+||d12ysuoljjyfqa.cloudfront.net^$script,domain=thisisfutbol.com
+||d1oxccu2k3w6jx.cloudfront.net^$script,domain=footballtransfertavern.com
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
