@@ -7,6 +7,7 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 
 ! #16030
 sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLongTaskTiming
+||kwjvwlav.eomfsoxhti.com^$script
 
 ! MISC
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
