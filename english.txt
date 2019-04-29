@@ -11,8 +11,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||moatads.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|tv.com|cbssports.com|everydayhealth.com,~media
 ||doubleclick.net^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|baltimoresun.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|everydayhealth.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
-||nanovisor.io/i10c@p1^$xmlhttprequest,domain=geek.com
-||sdad.guru/i10c@p1^$xmlhttprequest,domain=geek.com|webmd.com|emedicinehealth.com
+||nanovisor.io/i10c@p1^$xmlhttprequest,domain=geek.com|medicinenet.com
+||sdad.guru/i10c@p1^$xmlhttprequest,domain=geek.com|webmd.com|emedicinehealth.com|medicinenet.com
 ||g.doubleclick.net^$script,domain=webmd.com
 ||sharethrough.com^$script,domain=webmd.com
 ||adsafeprotected.com^$script,domain=webmd.com
