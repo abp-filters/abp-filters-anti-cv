@@ -79,5 +79,4 @@ t-online.de##a.Tctiga[href="https://t-online.de/#"]
 ||gyw.wetteronline.ch^$popup
 
 ! #11076
-||damoh.$media,rewrite=abp-resource:blank-mp3,domain=golem.de
 ||player-abcd.glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
