@@ -30,7 +30,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||diversitybestpractices.com^$generichide,genericblock
 @@||goal.com^$generichide,genericblock
 @@||gamepedia.com^$generichide,genericblock
-@@||mcall.com^$generichide,genericblock
 @@||pcmag.com$generichide,genericblock
 @@||range365.com^$generichide,genericblock
 @@||ranker.com^$generichide,genericblock
