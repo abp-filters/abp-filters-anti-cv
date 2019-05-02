@@ -253,9 +253,6 @@ quora.com#?#.FeedStory.AnswerFeedStory.feed_item > :not(.EventHeader):not(.Toggl
 quora.com#?#.pagedlist_item:-abp-has(a:-abp-properties(/background-image: url/))
 quora.com#?#.UnifiedAnswerPagedList.PagedListFoo.unified > div:not(.paged_list_wrapper) div:-abp-has(div > a:not([href*="quora"]):-abp-properties(/background-image: url/))
 
-! #15511
-namemc.com#$#abort-on-property-read PerformanceLongTaskTiming
-
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
 adageindia.in,bombaytimes.com#?#a:-abp-has(> div > p:-abp-contains(Ad: ))
@@ -285,6 +282,7 @@ audiofanzine.com#$#abort-on-property-read require
 ||d12ysuoljjyfqa.cloudfront.net^$script,domain=thisisfutbol.com
 ||d1oxccu2k3w6jx.cloudfront.net^$script,domain=footballtransfertavern.com
 ||damnodoz.tkepyc.com^$domain=pch.com
+||1u0oqad.diqx.namemc.com^$domain=namemc.com
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
