@@ -23,11 +23,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2etkz.g00.chowhound.com^$script,domain=chowhound.com
 ||*x2eeqo.g00.metacritic.com^$script,domain=metacritic.com
 ||*x2ekwu.g00.metrolyrics.com^$script,domain=metrolyrics.com
-||1070thefan.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
-||101x.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
-||klbjfm.com^$csp=script-src http: https: 'self' * 'unsafe-inline'
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||diversitybestpractices.com^$generichide,genericblock
