@@ -283,6 +283,7 @@ audiofanzine.com#$#abort-on-property-read require
 ||d1oxccu2k3w6jx.cloudfront.net^$script,domain=footballtransfertavern.com
 ||damnodoz.tkepyc.com^$domain=pch.com
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
+||grlnpmbc.goar.justjared.com^$domain=justjared.com
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
