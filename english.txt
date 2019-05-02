@@ -21,6 +21,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*x2evmb.g00.cbssports.com^$script,domain=cbssports.com
 ||*x2etkz.g00.chowhound.com^$script,domain=chowhound.com
+||*x2edpn.g00.1070thefan.com^$script,domain=1070thefan.com
+||*x2efrp.g00.101x.com^$script,domain=101x.com
 ||*x2eeqo.g00.metacritic.com^$script,domain=metacritic.com
 ||*x2ekwu.g00.metrolyrics.com^$script,domain=metrolyrics.com
 ||metacritic.com^$csp=script-src 'self' * 'unsafe-inline'
@@ -70,6 +72,7 @@ geek.com##div[id^="gk"]
 geek.com###-minapwnc
 goal.com##div[id^="-mckkcha_wzo_ebnwia_/89192403"]
 goal.com##[data-role="ad"]
+klbjfm.com##div[id^="-baiiafy_uxm_czlugy_/6732"]
 metacritic.com##div[id^="-ojmr_"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
