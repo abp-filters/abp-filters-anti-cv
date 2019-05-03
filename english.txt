@@ -113,7 +113,7 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##iframe[width="300"]
-tv.com##div[id^="-dpiehiv_"]
+tv.com##div[id^="-elttlqj_fix_nkwfrj_/3719"]
 tvguide.com##div[id^="-nbuqtuh_"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
