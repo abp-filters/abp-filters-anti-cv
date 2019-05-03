@@ -61,7 +61,6 @@ dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 everydayhealth.com##div[id^="-eaiiafy_uxm_czlugy_/4585"]
 everydayhealth.com##div[class^="-fwz-"]
-everydayhealth.com##.rc-item
 everydayhealth.com##[title="Advertisement"]
 edmunds.com##.slick-slider
 edmunds.com##div[id^="-njrrjoh_dgv_liudph_08871194"]
