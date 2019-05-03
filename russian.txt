@@ -24,8 +24,7 @@ championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Objec
 drive2.ru#$#abort-current-inline-script document.currentScript
 
 ! #9708
-sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read localStorage
-gismeteo.ua#$#abort-on-property-read localStorage; abort-on-property-write document.cookie; abort-on-property-read Object
+gismeteo.ua,sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read localStorage
 newsyou.info#$#abort-on-property-write Math.random
 24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
