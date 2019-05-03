@@ -21,7 +21,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*x2evmb.g00.cbssports.com^$script,domain=cbssports.com
 ||*x2etkz.g00.chowhound.com^$script,domain=chowhound.com
-||*x2edpn.g00.1070thefan.com^$script,domain=1070thefan.com
 ||*x2edpn.g00.101x.com^$script,domain=101x.com
 ||*x2eeqo.g00.metacritic.com^$script,domain=metacritic.com
 ||*x2ekwu.g00.metrolyrics.com^$script,domain=metrolyrics.com
