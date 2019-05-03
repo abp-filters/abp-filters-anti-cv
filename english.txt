@@ -72,7 +72,7 @@ goal.com##div[id^="-mckkcha_wzo_ebnwia_/89192403"]
 goal.com##div[id^="-mxa-"]
 goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-bzhhdn-"]
-metacritic.com##div[id^="-ojmr_"]
+metacritic.com##div[id^="-okns_"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
 metacritic.com##.side_recommend
