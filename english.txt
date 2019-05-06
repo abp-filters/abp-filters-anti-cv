@@ -82,7 +82,7 @@ medicinenet.com##div[id^="-kiqqing_cfu_khtcog_/6534656"]
 medicinenet.com##div[class^="-keh_"]
 emedicinehealth.com##div[class^="-beh_"]
 emedicinehealth.com##div[id^="-biqqing_cfu_khtcog_/6534656"]
-metrolyrics.com##div[id^="-nfnnfkd_zcr_heqzld_/3719/"]
+metrolyrics.com##div[id^="-nhpphmf_bet_jgsbnf_/9375"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mysanantonio.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
@@ -113,7 +113,7 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-emuumrk_gjy_olxgsk_/4820"]
-tvguide.com##div[id^="-mxffxcv_ruj_zwirdv_/5931"]
+tvguide.com##div[id^="-myggydw_svk_axjsew_/6042"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
