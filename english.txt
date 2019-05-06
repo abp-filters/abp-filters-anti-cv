@@ -71,7 +71,6 @@ goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
 1070thefan.com##div[class^="-rowwsc-"]
 101x.com##div[class^="-hsaawg-"]
-metacritic.com##div[class^="-ozc_"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
 metacritic.com##.side_recommend
