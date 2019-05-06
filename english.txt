@@ -58,10 +58,10 @@ chron.com###NTV4
 dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 everydayhealth.com##div[id^="-eaiiafy_uxm_czlugy_/4585"]
-everydayhealth.com##div[class^="-fwz-"]
+everydayhealth.com##div[class^="-fxa-"]
 everydayhealth.com##[title="Advertisement"]
 edmunds.com##.slick-slider
-edmunds.com##div[id^="-njiexyvih"]
+edmunds.com##div[class^="-nxqnhp-"]
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-psaasxq_mpe_urdmyq_/70521199"]
 geek.com##div[id^="-mrzzrwp_lod_tqclxp_/5696"]
@@ -81,8 +81,8 @@ mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[id^="-kiqqing_cfu_khtcog_/6534656"]
-medicinenet.com##div[class^="-kdg_"]
-emedicinehealth.com##div[class^="-bdg_"]
+medicinenet.com##div[class^="-keh_"]
+emedicinehealth.com##div[class^="-beh_"]
 emedicinehealth.com##div[id^="-biqqing_cfu_khtcog_/6534656"]
 metrolyrics.com##div[id^="-nfnnfkd_zcr_heqzld_/3719/"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
