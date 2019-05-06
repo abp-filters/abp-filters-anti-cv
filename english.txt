@@ -112,7 +112,6 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##iframe[width="300"]
 tv.com##div[id^="-emuumrk_gjy_olxgsk_/4820"]
 tvguide.com##div[id^="-mxffxcv_ruj_zwirdv_/5931"]
 webmd.com##.container.global-container-1
