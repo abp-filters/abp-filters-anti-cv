@@ -252,6 +252,7 @@ mediafire.com#$#abort-on-property-read UAParser
 quora.com##.Bundle[data-clog-metadata]:not([class*=" "])
 quora.com##.UnifiedAnswerPagedList.PagedListFoo.unified > [class*=" "]:not(.spinner_display_area)
 quora.com##.pagedlist_item > div[id$="_paged_list"]
+quora.com##.answer_auto_expanded_comments + div > div.feed_expand
 
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
