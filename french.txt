@@ -11,7 +11,6 @@ sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLong
 ||1suo487.cob.autojournal.fr^$script
 ||8lvu1h.gos.autoplus.fr^$script
 ||j9hrkm.eomfsoxhti.com^$domain=ledauphine.com
-||planet.fr/parsers^$script,xmlhttprequest
 
 ! MISC
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
