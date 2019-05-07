@@ -212,7 +212,8 @@ zbporn.com#$#abort-on-property-read popns
 /*gek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|igg-games.com|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
 /^https?:\/\/([0-9a-z]+\.)?(animeland\.us|animenova\.org|animeplus\.tv|animewow\.org|gogoanime1\.com|gogoanime\.in|gogoanime\.to|gogoanime\.tv|gogoanimes\.co|goodanime\.co|igg-games\.com|kimcartoon\.to|kimcartoon\.tv|kiss-anime\.ws|mangareader\.net|readcomiconline\.to|thewatchcartoononline\.tv|toonget\.net|toonova\.net|watchcartoononline\.io|kickassanime\.io)\/[a-z]+\/[0-9a-zA-Z\-\_]{15,50}$/$script
-/wp-includes/css/admin-bar.min.css^$script,domain=watchcartoononline.io|kiss-anime.ws|animeland.us
+/wp-includes/css/admin-bar.min.css^$script,domain=watchcartoononline.io|kiss-anime.ws|animeland.us|thewatchcartoononline.tv|igg-games.com
+/Content/css/tpl_style.css^$script,domain=readcomiconline.to
 
 ! #9708
 filmxy.one##.promo-contents
