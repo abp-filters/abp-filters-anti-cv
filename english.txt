@@ -42,12 +42,12 @@ cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
 cbssports.com##div[id^="-oksskpi_ehw_mjveqi_/2608"]
 cbssports.com###leader-top-wrap
 cbssports.com,metrolyrics.com##[data-ad]
-cnet.com##div[id^="-eweewbu_qti_yvhqcu_/4820"]
+cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fjmr_"]
+chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chron.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
 chron.com##div[id^="-obwfuu"]
@@ -58,11 +58,11 @@ everydayhealth.com##div[id^="-eaiiafy_uxm_czlugy_/4585"]
 everydayhealth.com##div[class^="-fyb-"]
 everydayhealth.com##[title="Advertisement"]
 edmunds.com##.slick-slider
-edmunds.com##div[class^="-nxqnhp-"]
+edmunds.com##div[class^="-nlkgzaxkj-"]
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-ptbbtyr_nqf_vsenzr_/81632200"]
-geek.com##div[id^="-msaasxq_mpe_urdmyq_/6707"]
-goal.com##div[id^="-mckkcha_wzo_ebnwia_/89192403"]
+geek.com##div[id^="-muccuzs_org_wtfoas_/8929"]
+goal.com##div[id^="-memmejc_ybq_gdpykc_/01314625"]
 goal.com##div[id^="-mxa-"]
 goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
@@ -74,11 +74,11 @@ metacritic.com##.side_recommend
 mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
-medicinenet.com##div[id^="-kiqqing_cfu_khtcog_/6534656"]
+medicinenet.com##div[id^="-klttlqj_fix_nkwfrj_/9867989"]
 medicinenet.com##div[class^="-keh_"]
 emedicinehealth.com##div[class^="-beh_"]
-emedicinehealth.com##div[id^="-biqqing_cfu_khtcog_/6534656"]
-metrolyrics.com##div[id^="-nhpphmf_bet_jgsbnf_/9375"]
+emedicinehealth.com##div[id^="-blttlqj_fix_nkwfrj_/9867989"]
+metrolyrics.com##div[id^="-niqqing_cfu_khtcog_/0486"]
 mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
 mysanantonio.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
 narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
@@ -88,13 +88,13 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-ranker.com##div[id^="-nowwotm_ila_qnzium_/9848484"]
+ranker.com##div[id^="-npxxpun_jmb_roajvn_/3474"]
 sfgate.com##div[id^="wrapperLink"]
 sfgate.com##div[id^="-nnvvnsl_hkz_pmyhtl_/03884379"]
 sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
 sportingnews.com##[data-placement="Top_Banner"]
 sportingnews.com##[data-ad-type="Section_Fronts"]
-sportingnews.com##div[class^="-grae-"]
+sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/334793567"]
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com###-pGMO3
 seattlepi.com##[data-adid]
@@ -108,8 +108,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-emuumrk_gjy_olxgsk_/4820"]
-tvguide.com##div[id^="-myggydw_svk_axjsew_/6042"]
+tv.com##div[id^="-elttlqj_fix_nkwfrj_/3719"]
+tvguide.com##div[id^="-mzhhzex_twl_byktfx_/7153"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
@@ -117,14 +117,14 @@ g00.webmd.com##body > div
 101x.com,1070thefan.com,americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,chowhound.com,cnet.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,emedicinehealth.com,everydayhealth.com,fieldandstream.com,floridatravellife.com,flyingmag.com,gamespot.com,hearthhead.com,hotbikeweb.com,islands.com,kgsr.com,klbjfm.com,lolking.net,marlinmag.com,medicinenet.com,motorcyclecruiser.com,motorcyclistonline.com,mustangandfords.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportingnews.com,sportrider.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,webmd.com,workingmother.com,seattlepi.com,yachtingmagazine.com##[data-google-query-id]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
-americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-evddvat_psh_xugpbt_/1292"]
+americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-eweewbu_qti_yvhqcu_/2303"]
 americanphotomag.com,atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,destinationweddingmag.com,dirtrider.com,diversitybestpractices.com,fieldandstream.com,floridatravellife.com,flyingmag.com,hotbikeweb.com,islands.com,marlinmag.com,motorcyclecruiser.com,motorcyclistonline.com,outdoorlife.com,popphoto.com,range365.com,saltwatersportsman.com,saveur.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportrider.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[data--examp-oaybxqfq="true"]
 chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,orlandosentinel.com##.ntv-plc
 cbssports.com,chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,orlandosentinel.com##div[draggable="false"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,orlandosentinel.com##div[style="display: inline-block;"]
-baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[class^="-hzxh_sn_gjH"]
-baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[class^="-hzxh_mvzGj"]
-baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-hzxh_hxqx_"]
+baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[class^="-hayi_to_hkI"]
+baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[class^="-hayi_vvwHk"]
+baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-hayi_iyry_"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com##a[href^="https://jadserve.postrelease.com/"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com###NTV4
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com##.ntv-disclaimer
