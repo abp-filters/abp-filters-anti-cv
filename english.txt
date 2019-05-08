@@ -155,6 +155,9 @@ msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
 msn.com###MSNUKEN14
+msn.com###wrapper
+msn.com##a[data-cb]
+msn.com#$#abort-on-property-read Math.Random
 @@||msn.com^$generichide,genericblock
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
