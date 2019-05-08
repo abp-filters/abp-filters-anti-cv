@@ -154,7 +154,7 @@ msn.com##a[href*="&utm_medium=native&"]
 msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
-msn.com###MSNUSEN12
+msn.com###MSNUKEN14
 @@||msn.com^$generichide,genericblock
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
