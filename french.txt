@@ -9,7 +9,8 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLongTaskTiming
 ||1yv1phk.jaz.sportauto.fr^$script
 ||1v9d7vx.jaz.sportauto.fr^$script
-||1suo487.cob.autojournal.fr^$script
+||ib3i33.cob.autojournal.fr^$script
+||1v9d7vx.cob.autojournal.fr^$script
 ||mssjxgfk.gos.autoplus.fr^$script
 ||j9hrkm.eomfsoxhti.com^$domain=ledauphine.com
 planet.fr##img[src^="https://www.planet.fr/parsers/"]
