@@ -154,7 +154,9 @@ msn.com##a[href*="&utm_medium=native&"]
 msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
-msn.com###MSNUKEN14
+msn.com##div[id^="MSNU"]
+msn.com##[data-aairfg="stripe.youmaylike_stripe"]
+msn.com##[data-aairfg="stripe.msstore_stripe"]
 msn.com###wrapper
 msn.com##a[data-cb]
 msn.com#$#abort-on-property-read Math.Random
