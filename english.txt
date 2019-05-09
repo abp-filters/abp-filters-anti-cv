@@ -291,6 +291,10 @@ audiofanzine.com#$#abort-on-property-read require
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
+||dlkfm8bqz0bpx.cloudfront.net^$script,domain=footballleagueworld.co.uk
+||d1lu68kpg9miy0.cloudfront.net^$script,domain=celticquicknews.co.uk
+||d11a2fzhgzqe7i.cloudfront.net^$script,domain=thecelticblog.com
+||d3pk579obpqv7b.cloudfront.net^$script,domain=videocelts.com
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
