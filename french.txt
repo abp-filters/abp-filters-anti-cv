@@ -12,7 +12,7 @@ sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLong
 ||ib3i33.cob.autojournal.fr^$script
 ||1v9d7vx.cob.autojournal.fr^$script
 ||mssjxgfk.gos.autoplus.fr^$script
-||j9hrkm.eomfsoxhti.com^$domain=ledauphine.com
+||1ic92yd.mdbgbcskjj.com^$script
 planet.fr##img[src^="https://www.planet.fr/parsers/"]
 
 ! MISC
