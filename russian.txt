@@ -25,7 +25,7 @@ drive2.ru#$#abort-current-inline-script document.currentScript
 
 ! #9708
 ringside24.com,gagadget.com,sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read localStorage
-gismeteo.ua#$#abort-on-property-read localStorage; abort-on-property-read loadMain
+gismeteo.ua#$#abort-on-property-read loadMain
 newsyou.info#$#abort-on-property-write Math.random
 24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
