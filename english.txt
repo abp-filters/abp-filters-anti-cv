@@ -298,11 +298,7 @@ audiofanzine.com#$#abort-on-property-read require
 ||d1lu68kpg9miy0.cloudfront.net^$script,domain=celticquicknews.co.uk
 ||d11a2fzhgzqe7i.cloudfront.net^$script,domain=thecelticblog.com
 ||d3pk579obpqv7b.cloudfront.net^$script,domain=videocelts.com
-||gkhfrduj.jba.tribunnews.com^$script,domain=tribunnews.com
-||xlxalusv.jba.tribunnews.com^$script,domain=tribunnews.com
-||ojkjvowc.jba.tribunnews.com^$script,domain=tribunnews.com
-||turxdnyf.jba.tribunnews.com^$script,domain=tribunnews.com
-||pswidwsq.jba.tribunnews.com^$script,domain=tribunnews.com
+||tixpvaoy.jba.tribunnews.com^$script,domain=tribunnews.com
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
