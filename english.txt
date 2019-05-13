@@ -20,6 +20,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2evmb.g00.goal.com^$script,domain=goal.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*78rjinfo*^$script,domain=cbssports.com
+||*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
 ||*x2etkz.g00.chowhound.com^$script,domain=chowhound.com
 ||*x2edpn.g00.101x.com^$script,domain=101x.com
 ||*x2eeqo.g00.metacritic.com^$script,domain=metacritic.com
@@ -127,7 +128,7 @@ cbssports.com,chicagotribune.com,baltimoresun.com,sandiegouniontribune.com,sun-s
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,orlandosentinel.com##div[style="display: inline-block;"]
 baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[class^="-hayi_to_hkI"]
 baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##div[class^="-hayi_vvwHk"]
-baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-hayi_iyry_"]
+baltimoresun.com,chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,orlandosentinel.com##aside[class^="-hbzj_jzsz_"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com##a[href^="https://jadserve.postrelease.com/"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com###NTV4
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com##.ntv-disclaimer
