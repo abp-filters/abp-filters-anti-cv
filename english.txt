@@ -1,5 +1,6 @@
 ! #8479
 ||reutersmedia.net/resources/r/^h=*&m=*&d=$image,domain=reuters.com
+/ads.js|$script,domain=notebookcheck.net|notebookcheck.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
