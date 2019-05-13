@@ -14,6 +14,7 @@ sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLong
 ||mssjxgfk.gos.autoplus.fr^$script
 ||1ic92yd.mdbgbcskjj.com^$script
 ||www.planet.fr/scurrile^$script,xmlhttprequest
+||ovtyvnei.g00.closermag.fr^$script
 
 ! MISC
 netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
