@@ -294,7 +294,7 @@ footballleagueworld.co.uk#$#abort-on-property-read atob
 audiofanzine.com#$#abort-on-property-read require
 ||d12ysuoljjyfqa.cloudfront.net^$script,domain=thisisfutbol.com
 ||d1oxccu2k3w6jx.cloudfront.net^$script,domain=footballtransfertavern.com
-||damnodoz.tkepyc.com^$domain=pch.com
+||b05d77a4.tkepyc.com^$script,domain=pch.com
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
