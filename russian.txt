@@ -22,6 +22,7 @@ liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Ya; abort-
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-current-inline-script document.currentScript
+echo.msk.ru#$#abort-on-property-read eval
 
 ! #9708
 ringside24.com,gagadget.com,sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read localStorage
