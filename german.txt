@@ -68,8 +68,9 @@ spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||paigei.stroeerdp.de^$image,domain=t-online.de
 ||quohjo.stroeerdp.de^$image,domain=t-online.de
 ||aexait.stroeerdp.de^$image,domain=t-online.de
+||mohsee.stroeerdp.de^$image,domain=t-online.de
 ||stroeerdp.de/b$image,domain=t-online.de
-/timagey/*$image,domain=t-online.de
+/timagez/*$image,domain=t-online.de
 www.t-online.de#?#:-abp-has(> div:-abp-properties(background-image: *.stroeerdp.de*; height: *px; width: *px;))
 www.t-online.de##img[src^="https://"][src*="stroeerdp.de/"][src$=".gif"]
 t-online.de##div[style] + img[src*=".stroeerdp.de/"]
