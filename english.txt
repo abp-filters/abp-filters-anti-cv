@@ -312,7 +312,7 @@ uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 
 ! MISC
 europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
-gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
+kimcartoon.to,gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed; abort-on-property-read String.fromCharCode
 cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
@@ -329,7 +329,7 @@ novom.ru#$#abort-on-property-read zoneNativeSett
 zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
 zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
 xhamster.com#$#abort-on-property-read initials.urls.backUrl
-ayefiles.com#$#abort-on-property-read NativeAd; abort-on-property-read popjs.init
+ayefiles.com#$#abort-on-property-read popjs.init
 verystream.com#$#abort-on-property-read open
 europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net#$#abort-current-inline-script document.createElement String.fromCharCode
 bs.to,burningseries.co#$#abort-current-inline-script Object
@@ -356,3 +356,6 @@ adpop.me,amyscans.com,anime-extremo.co,anime-extremo.com,apurogol.net,esapurogol
 ! #21547
 nyasatimes.com##a[href="http://www.tnm.co.mw/"]
 nyasatimes.com##a[href^="http://www.africa.airtel.com"]
+
+! #22109
+kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
