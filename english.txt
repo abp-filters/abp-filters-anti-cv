@@ -169,7 +169,7 @@ msn.com##[data-aaijlipcxyl="bing"]
 msn.com###wrapper
 msn.com##a[data-cb]
 msn.com#$#abort-on-property-read Math.Random
-||*x2eius.g01.msn.com^$script,image,domain=msn.com
+||*x2ehtr.g01.msn.com^$script,image,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
 @@||fwmrm.net/p/msn_live/AdManager.js$domain=msn.com
