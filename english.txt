@@ -21,9 +21,9 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*78rjinfo*^$script,domain=cbssports.com
 ||*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
-||*x2etkz.g00.chowhound.com^$script,domain=chowhound.com
+||*x2eula*^$script,image,domain=chowhound.com
 ||*x2edpn.g00.101x.com^$script,domain=101x.com
-||*x2eeqo.g00.metacritic.com^$script,domain=metacritic.com
+||*x2etkz*^$script,image,domain=metacritic.com
 ||*x2ekwu*^$script,image,domain=atvrider.com|baggersmag.com|boatingmag.com|cruisingworld.com|cycleworld.com|destinationweddingmag.com|dirtrider.com|diversitybestpractices.com|fieldandstream.com|floridatravellife.com|flyingmag.com|hotbikeweb.com|islands.com|marlinmag.com|motorcyclecruiser.com|motorcyclistonline.com|outdoorlife.com|popphoto.com|range365.com|saltwatersportsman.com|saveur.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|sportrider.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 ||*x2edpn.g00.gamepedia.com^$script,domain=gamepedia.com
 ||*yx2ehtr.g00.everydayhealth.com^$script,domain=everydayhealth.com
