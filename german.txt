@@ -11,7 +11,7 @@ spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||adup-tech.com^$third-party,domain=spox.com
 
 ! #15654
-||www.t-online.de^$csp=img-src 'self' data: www.t-online.de https://t-online.de iss.t-online.de c.t-online.de bilder.t-online.de stats.t-online.de tipi.stat.t-online.de dlc3.t-online.de cnt2.stroeerdp.de *.taboola.com *.exactag.com img.toi.de *.google-analytics.com ssl-t-online.met.vgwort.de *.scorecardresearch.com *.heatmap.it *.trbo.com *.tchibo.de *.intelliad.de *.nativendo.de *.wetter.info *.gstatic.com
+||www.t-online.de^$csp=img-src 'self' data: www.t-online.de https://t-online.de iss.t-online.de c.t-online.de bilder.t-online.de stats.t-online.de tipi.stat.t-online.de dlc3.t-online.de cnt2.stroeerdp.de *.taboola.com *.exactag.com img.toi.de *.google-analytics.com ssl-t-online.met.vgwort.de *.scorecardresearch.com *.heatmap.it *.trbo.com *.tchibo.de *.intelliad.de *.nativendo.de *.wetter.info *.gstatic.com *.twitter.com *.twimg.com
 ||giephi.stroeerdp.de^$image,domain=t-online.de
 ||coopau.stroeerdp.de^$image,domain=t-online.de
 ||ohched.stroeerdp.de^$image,domain=t-online.de
