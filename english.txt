@@ -229,6 +229,7 @@ zbporn.com#$#abort-on-property-read popns
 /customjavascript.js^$script,domain=readcomiconline.to
 /pzx*$script,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io|watchcartoonsonline.eu
+||watchcartoonsonline.eu/cache2/*
 
 ! #9708
 filmxy.one##.promo-contents
