@@ -19,7 +19,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2esjy.g01.webmd.com^$script,domain=webmd.com
 ||*x2evmb.g00.goal.com^$script,domain=goal.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
-||*wotmag*^$script,image,domain=emedicinehealth.com|everydayhealth.com
+||*wotmag*^$script,image,domain=emedicinehealth.com|everydayhealth.com|medicinenet.com|chicagotribune.com|baltimoresun.com|sandiegouniontribune.com|sun-sentinel.com|courant.com|mcall.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|lajollalight.com|growthspotter.com|ranchosantafereview.com|seattlepi.com|orlandosentinel.com
+||*ohfol*^$script,image,domain=thoughtcatalog.com
 ||*sx2ehtr*^$script,image,domain=everydayhealth.com
 ||*78rjinfo*^$script,domain=cbssports.com
 ||*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
