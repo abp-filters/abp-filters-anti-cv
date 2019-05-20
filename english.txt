@@ -19,6 +19,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||*x2esjy.g01.webmd.com^$script,domain=webmd.com
 ||*x2evmb.g00.goal.com^$script,domain=goal.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
+||*wotmag*^$script,image,domain=emedicinehealth.com|everydayhealth.com
 ||*sx2ehtr*^$script,image,domain=everydayhealth.com
 ||*78rjinfo*^$script,domain=cbssports.com
 ||*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
