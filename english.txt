@@ -230,7 +230,7 @@ zbporn.com#$#abort-on-property-read popns
 /admin-bar.css^$script,domain=thewatchcartoononline.tv|watchcartoononline.io
 /media-query.css^$script,domain=kiss-anime.ws|animeland.us
 /customjavascript.js^$script,domain=readcomiconline.to
-/pzx*$script,domain=mangareader.net
+/pz*$script,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io|watchcartoonsonline.eu
 ||watchcartoonsonline.eu/cache2/*
 
