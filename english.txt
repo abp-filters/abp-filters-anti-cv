@@ -162,16 +162,16 @@ msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
 msn.com##div[id^="MSNU"]
-msn.com##[data-aaiuij="stripe.youmaylike_stripe"]
-msn.com##[data-aaiuij="stripe.msstore_stripe"]
-msn.com##[data-aaiuij="sponsored.stripe.shopping_stripe"]
-msn.com##[data-aaiuij="ad_ad"]
+msn.com##[data-aaiwkl="stripe.youmaylike_stripe"]
+msn.com##[data-aaiwkl="stripe.msstore_stripe"]
+msn.com##[data-aaiwkl="sponsored.stripe.shopping_stripe"]
+msn.com##[data-aaiwkl="ad_ad"]
 msn.com##div[data-aailyacih="bannerad3_section"]
 msn.com##[data-aaijlipcxyl="bing"]
 msn.com###wrapper
 msn.com##a[data-cb]
 msn.com#$#abort-on-property-read Math.Random
-||*x2egsq.g01.msn.com^$script,image,domain=msn.com
+||*x2eius.g01.msn.com^$script,image,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
 @@||fwmrm.net/p/msn_live/AdManager.js$domain=msn.com
