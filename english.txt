@@ -16,7 +16,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||g.doubleclick.net^$script,domain=webmd.com
 ||sharethrough.com^$script,domain=webmd.com
 ||adsafeprotected.com^$script,domain=webmd.com
-||*x2esjy.g01.webmd.com^$script,domain=webmd.com
+||*x2eqhw.g01.webmd.com^$script,domain=webmd.com
 ||*x2evmb.g00.goal.com^$script,domain=goal.com
 ||*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
 ||*sx2ehtr*^$script,image,domain=everydayhealth.com
