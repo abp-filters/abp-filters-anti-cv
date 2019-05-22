@@ -18,10 +18,9 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||adsafeprotected.com^$script,domain=webmd.com
 /*x2edpn*$script,image,domain=atvrider.com|baggersmag.com|boatingmag.com|cruisingworld.com|cycleworld.com|destinationweddingmag.com|dirtrider.com|diversitybestpractices.com|fieldandstream.com|floridatravellife.com|flyingmag.com|hotbikeweb.com|islands.com|marlinmag.com|motorcyclecruiser.com|motorcyclistonline.com|outdoorlife.com|popphoto.com|range365.com|saltwatersportsman.com|saveur.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|sportrider.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 /*x2eqhw.g01.webmd.com^$script,domain=webmd.com
-/*x2evmb.g00.goal.com^$script,domain=goal.com
-/*x2ehtr.g00.sfgate.com^$script,domain=sfgate.com
-/*sx2ehtr*^$script,image,domain=everydayhealth.com
-||*78rjinfo*^$script,domain=cbssports.com
+/*x2ehtr*^$script,domain=goal.com
+/*x2ejvt*^$script,domain=everydayhealth.com
+/*eehr*^$script,domain=cbssports.com
 /*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
 /*x2eula*^$script,image,domain=chowhound.com|gamepedia.com
 /*x2etkz*^$script,image,domain=metacritic.com|gamepedia.com
