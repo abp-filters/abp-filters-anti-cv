@@ -345,7 +345,7 @@ zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Finge
 zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
 xhamster.com#$#abort-on-property-read initials.urls.backUrl
 ayefiles.com#$#abort-on-property-read popjs.init
-verystream.com#$#abort-on-property-read open
+configspc.com,verystream.com#$#abort-on-property-read open
 europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net#$#abort-current-inline-script document.createElement String.fromCharCode
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
