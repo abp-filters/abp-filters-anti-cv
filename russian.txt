@@ -68,9 +68,9 @@ sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 facenews.ua#$#abort-on-property-read XMLHttpRequest
 queen-time.ru,kinogo.eu,gidonline.eu#$#abort-on-property-read utarget_script
-krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read FixedAdsWrapper
-krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read uCoz.spam
-krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read adbetnet
+3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read FixedAdsWrapper
+3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read uCoz.spam
+3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read adbetnet
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
