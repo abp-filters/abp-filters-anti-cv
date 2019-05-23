@@ -67,6 +67,10 @@ www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCha
 sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 facenews.ua#$#abort-on-property-read XMLHttpRequest
+queen-time.ru,kinogo.eu,gidonline.eu#$#abort-on-property-read utarget_script
+novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read FixedAdsWrapper
+novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read uCoz.spam
+novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read adbetnet
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
