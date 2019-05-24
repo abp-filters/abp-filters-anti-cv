@@ -44,6 +44,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||sfgate.com^$generichide,genericblock
 @@||wakeboardingmag.com^$generichide,genericblock
 1070thefan.com###sitewrap
+baltimoresun.com##div[id^="-hlttlqj_fix_nkwfrj_/9566"]
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
