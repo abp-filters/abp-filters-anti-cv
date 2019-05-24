@@ -25,8 +25,8 @@ drive2.ru#$#abort-current-inline-script document.currentScript
 echo.msk.ru#$#abort-on-property-read eval
 
 ! #9708
-ringside24.com,gagadget.com,dynamo.kiev.ua#$#abort-on-property-read localStorage
-sinoptik.ua#$#abort-on-property-read document.documentElement.createShadowRoot
+ringside24.com,gagadget.com#$#abort-on-property-read localStorage
+sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
 gismeteo.ua#$#abort-on-property-read eval
 newsyou.info#$#abort-on-property-read localStorage
 24tv.ua##.b_reklama
