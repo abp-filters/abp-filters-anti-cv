@@ -22,8 +22,8 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2ejvt*^$script,domain=everydayhealth.com
 /*px2eeqo*^$script,image,domain=thoughtcatalog.com
 /*vx2efrp*$script,image,domain=cbssports.com
-/*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
-/*x2eula*^$script,image,domain=chowhound.com|gamepedia.com
+/*ox2edpn*^$script,image,domain=medicinenet.com|chicagotribune.com
+/*x2eqhw*^$script,image,domain=gamepedia.com
 /*x2etkz*^$script,image,domain=metacritic.com|gamepedia.com
 /*wotmag*^$script,image,domain=geek.com|emedicinehealth.com|everydayhealth.com|medicinenet.com|chicagotribune.com|baltimoresun.com|sandiegouniontribune.com|sun-sentinel.com|courant.com|mcall.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|lajollalight.com|growthspotter.com|ranchosantafereview.com|seattlepi.com|orlandosentinel.com
 /*joh*^$script,image,domain=chicagotribune.com|sun-sentinel.com|courant.com|mcall.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com|orlandosentinel.com
