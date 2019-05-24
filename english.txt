@@ -28,7 +28,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*vx2ekwu^$script,image,domain=everydayhealth.com
 /*ox2edpn*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
 /*joh*^$script,image,domain=chicagotribune.com|sun-sentinel.com|courant.com|mcall.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com|orlandosentinel.com
-/*zoe*^$script,image,domain=emedicinehealth.com
+/*zoe*^$script,image,domain=emedicinehealth.com|chowhound.com
 /*78x2ehtr*^$script,image,domain=tvguide.com
 /*ohfol*^$script,image,domain=thoughtcatalog.com
 /*sx2ehtr*$script,image,domain=101x.com
