@@ -21,7 +21,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2ehtr*^$script,domain=goal.com
 /*x2ejvt*^$script,domain=everydayhealth.com
 /*px2eeqo*^$script,image,domain=thoughtcatalog.com
-/*eehr*^$script,domain=cbssports.com
+/*vx2efrp*$script,image,domain=cbssports.com
 /*x2esjy*^$script,image,domain=medicinenet.com|chicagotribune.com
 /*x2eula*^$script,image,domain=chowhound.com|gamepedia.com
 /*x2etkz*^$script,image,domain=metacritic.com|gamepedia.com
