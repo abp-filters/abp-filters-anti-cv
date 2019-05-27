@@ -28,7 +28,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*vx2ekwu^$script,image,domain=everydayhealth.com
 /*ox2edpn*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
 /*x2evmb*$script,image,domain=chicagotribune.com|sun-sentinel.com|courant.com|mcall.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com|orlandosentinel.com|baltimoresun.com
-/*zoe*^$script,image,domain=emedicinehealth.com|chowhound.com
+/*zoe*^$script,image,domain=emedicinehealth.com|chowhound.com|webmd.com
 /*78x2ehtr*^$script,image,domain=tvguide.com
 /*ohfol*^$script,image,domain=thoughtcatalog.com
 /*sx2ehtr*$script,image,domain=101x.com
@@ -122,6 +122,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-elttlqj_fix_nkwfrj_/3719"]
 tvguide.com##div[id^="-mzhhzex_twl_byktfx_/7153"]
+webmd.com##div[id^="-bweewbu_qti_yvhqcu_/0978090"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
