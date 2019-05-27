@@ -238,8 +238,8 @@ zbporn.com#$#abort-on-property-read popns
 /inc/fcm/fcl.js*$domain=watchcartoononline.io|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
 /customjavascript.js^$script,domain=kiss-anime.ws|animeland.us
-/Scripts/jquery.tools.min.js^$script,domain=readcomiconline.to
-/pz*$script,domain=mangareader.net
+/Scripts/jquery.min.js^$script,domain=readcomiconline.to
+/paz*$script,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /jwplayer.js^$domain=watchcartoonsonline.eu
 
