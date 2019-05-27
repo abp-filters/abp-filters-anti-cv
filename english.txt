@@ -72,7 +72,7 @@ edmunds.com##.slick-slider
 edmunds.com##div[class^="-nlkgzaxkj-"]
 gamepedia.com##div[id^="cdm-zone"]
 gamepedia.com##div[id^="-puccuzs_org_wtfoas_/92743311"]
-geek.com##div[id^="-mvddvat_psh_xugpbt_/9030"]
+geek.com##div[id^="-mweewbu_qti_yvhqcu_/0141"]
 goal.com##div[id^="-mfnnfkd_zcr_heqzld_/12425736"]
 goal.com##div[id^="-mxa-"]
 goal.com##[data-role="ad"]
