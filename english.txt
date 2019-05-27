@@ -167,18 +167,14 @@ msn.com##a[href*="&utm_medium=native&"]
 msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
-msn.com##div[id^="MSNU"]
-msn.com##[data-aaidrs="river>4"]
-msn.com##[data-aaivhfwlrq-lg="sponsored.stripe.shopping"]
-msn.com##[data-aaivhfwlrq-lg="stripe.msstore"]
-msn.com##[data-aaidrs="stripe.youmaylike_stripe"]
-msn.com##[data-aaixlm="ad_ad"]
-msn.com##[data-aaidrs="bannerad3.ad_ad"]
+msn.com##[data-aaixjhynts-ni="sponsored.stripe.shopping"]
+msn.com##[data-aaixjhynts-ni="stripe.msstore"]
+msn.com##[data-aaixjhynts-ni="stripe.youmaylike"]
+msn.com##[data-aaixjhynts-ni="bannerad3"]
 msn.com##[data-aaijlipcxyl="bing"]
 msn.com###wrapper
-msn.com##a[data-cb]
 msn.com#$#abort-on-property-read Math.Random
-||*x2eius.g01.msn.com^$script,image,domain=msn.com
+||*x2edpn.g01.msn.com^$script,image,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
 @@||fwmrm.net/p/msn_live/AdManager.js$domain=msn.com
