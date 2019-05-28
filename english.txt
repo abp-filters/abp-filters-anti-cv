@@ -233,9 +233,9 @@ zbporn.com#$#abort-on-property-read popns
 /wp-includes/*$script,domain=igg-games.com
 /inc/fcz/*$domain=watchcartoononline.io|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
-/customjavascript.js^$script,domain=kiss-anime.ws|animeland.us
+/animeland/js/*$script,image,domain=kiss-anime.ws|animeland.us
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
-/paz*$script,domain=mangareader.net
+/pit*$script,image,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /jwplayer.js^$domain=watchcartoonsonline.eu
 
