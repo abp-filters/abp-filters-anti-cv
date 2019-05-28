@@ -232,7 +232,7 @@ zbporn.com#$#abort-on-property-read popns
 /^https?:\/\/([0-9a-z]+\.)?(animeland\.us|animenova\.org|animeplus\.tv|animewow\.org|gogoanime1\.com|gogoanime\.in|gogoanime\.to|gogoanime\.tv|gogoanimes\.co|goodanime\.co|igg-games\.com|kimcartoon\.to|kimcartoon\.tv|kiss-anime\.ws|mangareader\.net|readcomiconline\.to|thewatchcartoononline\.tv|toonget\.net|toonova\.net|watchcartoononline\.io|kickassanime\.io)\/[a-z]+\/[0-9a-zA-Z\-\_]{15,50}$/$script
 /wp-includes/css/admin-bar.min.css^$script,domain=watchcartoononline.io|kiss-anime.ws|animeland.us|thewatchcartoononline.tv|igg-games.com
 /wp-includes/*$script,domain=igg-games.com
-/inc/fcm/fcl.js*$domain=watchcartoononline.io|thewatchcartoononline.tv
+/inc/fcz/*$domain=watchcartoononline.io|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
 /customjavascript.js^$script,domain=kiss-anime.ws|animeland.us
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
