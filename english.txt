@@ -167,14 +167,14 @@ msn.com##a[href*="&utm_medium=native&"]
 msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
-msn.com##[data-aaixjhynts-ni="sponsored.stripe.shopping"]
-msn.com##[data-aaixjhynts-ni="stripe.msstore"]
-msn.com##[data-aaixjhynts-ni="stripe.youmaylike"]
-msn.com##[data-aaixjhynts-ni="bannerad3"]
-msn.com##[data-aaijlipcxyl="bing"]
+msn.com##[data-aaiguv="sponsored.stripe.shopping"]
+msn.com##[data-aaiguv="stripe.msstore"]
+msn.com##[data-aaiguv="stripe.youmaylike"]
+msn.com##[data-aaiguv="bannerad3"]
+msn.com##[data-aaiguv="bing"]
 msn.com###wrapper
 msn.com#$#abort-on-property-read Math.Random
-||*x2edpn.g01.msn.com^$script,image,domain=msn.com
+/*cx2eeqo.g01.msn.com*$script,image,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
 @@||fwmrm.net/p/msn_live/AdManager.js$domain=msn.com
