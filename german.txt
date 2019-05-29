@@ -84,6 +84,9 @@ t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 ||goaz.wetteronline.de^$popup
 ||obri.wetteronline.at^$popup
 ||gyw.wetteronline.ch^$popup
+wetteronline.de##div[id^="cgZZ-"]
+wetteronline.at##div[id^="ehaa-"]
+wetteronline.ch##div[id^="gibb-"]
 
 ! #11076
 ||player-abcd.glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
