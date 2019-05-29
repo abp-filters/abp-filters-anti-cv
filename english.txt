@@ -121,7 +121,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-elttlqj_fix_nkwfrj_/3719"]
 tvguide.com##div[id^="-mzhhzex_twl_byktfx_/7153"]
-webmd.com##div[id^="-bweewbu_qti_yvhqcu_/0978090"]
+webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
