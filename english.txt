@@ -119,8 +119,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-elttlqj_fix_nkwfrj_/3719"]
-tvguide.com##div[id^="-mzhhzex_twl_byktfx_/7153"]
+tv.com##div[id^="-emuumrk_gjy_olxgsk_/4820"]
+tvguide.com##div[id^="-maiiafy_uxm_czlugy_/8264"]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
