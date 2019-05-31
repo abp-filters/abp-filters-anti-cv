@@ -114,7 +114,7 @@ seattlepi.com##div[id^="-pckkcha_wzo_ebnwia_/58339824"]
 spox.com##div[id^="-zfnnfkd_zcr_heqzld_/0286"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
-thoughtcatalog.com##div[class^="-hnx-"]
+thoughtcatalog.com##div[class^="-hoy-"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
