@@ -26,7 +26,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*ox2erix78*^$script,image,domain=gamepedia.com
 /*x2etkz*^$script,image,domain=metacritic.com
 /*vx2ekwu^$script,image,domain=everydayhealth.com
-/*ox2edpn*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
+/*sx2ehtr*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
 /*x2evmb*$script,image,domain=chicagotribune.com|sun-sentinel.com|courant.com|mcall.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com|orlandosentinel.com|baltimoresun.com
 /*zoe*^$script,image,domain=emedicinehealth.com|chowhound.com|webmd.com
 /*78x2ehtr*^$script,image,domain=tvguide.com
