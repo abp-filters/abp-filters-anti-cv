@@ -167,11 +167,11 @@ msn.com##a[href*="&utm_medium=native&"]
 msn.com##a[href^="https://paid.outbrain.com/"]
 msn.com##a[href^="https://api.taboola.com/"]
 msn.com##a[href*=".tradedoubler.com/"]
-msn.com##[data-aaiguv="sponsored.stripe.shopping"]
-msn.com##[data-aaiguv="stripe.msstore"]
-msn.com##[data-aaiguv="stripe.youmaylike"]
-msn.com##[data-aaiguv="bannerad3"]
-msn.com##[data-aaiguv="bing"]
+msn.com##[data-aaiiwx="bannerad3"]
+msn.com##[data-aaiiwx="bing"]
+msn.com##[data-aaiiwx="stripe.msstore_stripe"]
+msn.com##[data-aaiiwx="stripe.youmaylike_stripe"]
+msn.com##[data-aaiiwx="sponsored.stripe.shopping_stripe"]
 msn.com###wrapper
 msn.com#$#abort-on-property-read Math.Random
 /*cx2eeqo.g01.msn.com*$script,image,domain=msn.com
