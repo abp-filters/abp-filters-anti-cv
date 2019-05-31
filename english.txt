@@ -28,7 +28,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*vx2ekwu^$script,image,domain=everydayhealth.com
 /*sx2ehtr*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
 /*x2evmb*$script,image,domain=chicagotribune.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com|orlandosentinel.com|baltimoresun.com
-/*zoe*^$script,image,domain=emedicinehealth.com|chowhound.com|webmd.com
+/*zoe*^$script,image,domain=emedicinehealth.com|webmd.com
 /*78x2ehtr*^$script,image,domain=tvguide.com
 /*ohfol*^$script,image,domain=thoughtcatalog.com
 /*sx2ehtr*$script,image,domain=101x.com
@@ -57,7 +57,7 @@ cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
+chowhound.com##div[id^="-fnqv_"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chron.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
 chron.com##div[id^="-obwfuu"]
