@@ -230,11 +230,11 @@ zbporn.com#$#abort-on-property-read popns
 /*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
 /^https?:\/\/([0-9a-z]+\.)?(animeland\.us|animenova\.org|animeplus\.tv|animewow\.org|gogoanime1\.com|gogoanime\.in|gogoanime\.to|gogoanime\.tv|gogoanimes\.co|goodanime\.co|kimcartoon\.to|kimcartoon\.tv|kiss-anime\.ws|mangareader\.net|readcomiconline\.to|thewatchcartoononline\.tv|toonget\.net|toonova\.net|watchcartoononline\.io|kickassanime\.io)\/[a-z]+\/[0-9a-zA-Z\-\_]{15,50}$/$script
 /wp-includes/css/admin-bar.min.css^$script,domain=watchcartoononline.io|kiss-anime.ws|animeland.us|thewatchcartoononline.tv
-/inc/fcr/*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
+/inc/acr/*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
-/addtoany.min.js*$script,image,domain=kiss-anime.ws|animeland.us
+/adbtoany.min.js*$script,image,domain=kiss-anime.ws|animeland.us
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
-/pot*$script,image,domain=mangareader.net
+/kot*$script,image,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
