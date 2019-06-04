@@ -298,6 +298,7 @@ businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(A
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad")))
 
 ! #16030
+pch.com##div[id^="nptq-"]
 pch.com##.new-div-wrapper
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require
 celticquicknews.co.uk,videocelts.com,mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
@@ -306,7 +307,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 footballleagueworld.co.uk#$#abort-on-property-read atob
 ||d12ysuoljjyfqa.cloudfront.net^$script,domain=thisisfutbol.com
 ||d1oxccu2k3w6jx.cloudfront.net^$script,domain=footballtransfertavern.com
-||1iao3k1.tkepyc.com^$script,domain=pch.com
+||1gy9201.tkepyc.com^$script,domain=pch.com
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
