@@ -234,7 +234,7 @@ zbporn.com#$#abort-on-property-read popns
 /jsvendor/app.^$script,image,domain=kickassanime.io
 /adbtoany.min.js*$script,image,domain=kiss-anime.ws|animeland.us
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
-/kot*$script,image,domain=mangareader.net
+/zrt*$script,image,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
