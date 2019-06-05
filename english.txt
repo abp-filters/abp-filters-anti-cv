@@ -279,6 +279,7 @@ quora.com##.UnifiedAnswerPagedList.PagedListFoo.unified > [class*=" "]
 quora.com##.pagedlist_item > div[id$="_paged_list"]
 quora.com##.answer_auto_expanded_comments + div > div.feed_expand
 quora.com##a[href^="/MT"]
+quora.com##.HyperLinkBundle.Bundle
 
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
