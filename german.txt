@@ -84,6 +84,9 @@ t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 ||goaz.wetteronline.de^$popup
 ||obri.wetteronline.at^$popup
 ||gyw.wetteronline.ch^$popup
+wetteronline.de#$#abort-current-inline-script document.createElement; abort-current-inline-script document.body.getAttribute
+wetteronline.ch#$#abort-current-inline-script document.createElement; abort-current-inline-script  document.body.getAttribute
+wetteronline.at#$#abort-current-inline-script document.createElement; abort-current-inline-script  document.body.getAttribute
 
 ! #11076
 ||player-abcd.glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
