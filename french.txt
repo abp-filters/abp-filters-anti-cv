@@ -15,7 +15,7 @@ sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLong
 ||1ic92yd.mdbgbcskjj.com^$script
 ||www.planet.fr/scurrile^$script,xmlhttprequest
 ||www.planet.fr/parsers^$script,xmlhttprequest
-||planet.fr/bedunced^$script,xmlhttprequest
+||planet.fr/crucify^$script,xmlhttprequest
 ||ovtyvnei.g00.closermag.fr^$script
 ||penascogerlach.lovilialaceyville.com/nectaries.js/$script,domain=planet.fr
 
