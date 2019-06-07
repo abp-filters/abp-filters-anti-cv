@@ -89,4 +89,4 @@ wetteronline.ch#$#abort-current-inline-script document.createElement; abort-curr
 wetteronline.at#$#abort-current-inline-script document.createElement; abort-current-inline-script  document.body.getAttribute
 
 ! #11076
-||player-abcd.glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
+||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
