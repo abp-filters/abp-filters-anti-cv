@@ -172,7 +172,7 @@ msn.com##[data-aaikyz="bannerad3"]
 msn.com##[data-aaikyz="bing"]
 msn.com##[data-aaikyz="stripe.msstore_stripe"]
 msn.com##[data-aaikyz="stripe.youmaylike_stripe"]
-msn.com##[data-aaikyz="sponsored.stripe.shopping_stripe"]
+msn.com##[data-aop="sponsored.stripe.shopping_stripe"]
 msn.com###wrapper
 msn.com###_mN_main
 msn.com#$#abort-on-property-write atob
