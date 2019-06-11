@@ -176,7 +176,6 @@ msn.com##[data-aaikyz="stripe.youmaylike_stripe"]
 msn.com##[data-aop="sponsored.stripe.shopping_stripe"]
 msn.com###wrapper
 msn.com###_mN_main
-msn.com#$#abort-on-property-write atob
 msn.com#$#abort-on-property-read Math.Random
 /*x2ejvt.g01.msn.com*$script,image,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
