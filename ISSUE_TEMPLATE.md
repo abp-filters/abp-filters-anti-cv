@@ -4,6 +4,9 @@
 
 * 
 
+<!-- Surround the URLs with backticks `` to prevents the URL from being clickable. -->
+<!-- Warn with "NSFW" where applicable. -->
+
 ### Define the problem 
 
 <!-- Describe the issue using as many details as possible. -->
@@ -11,10 +14,13 @@
 ### Screenshot(s) 
 
 <!-- Screenshot(s) to describe visual issues. -->
+<!-- Post links instead of Inline Images for screenshots containing Adult material. -->
 
 ### List all of your filter lists 
 
 <!-- Go to **Options > Advanced** to see all of your filter lists. -->
+<!-- If necessary, post the link of an Adblock Plus issue report. -->
+<!-- https://help.eyeo.com/adblockplus/report-an-issue -->
 
 ### Tell us about your system configuration 
 
