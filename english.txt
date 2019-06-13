@@ -16,7 +16,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||g.doubleclick.net^$script,domain=webmd.com
 ||sharethrough.com^$script,domain=webmd.com
 ||adsafeprotected.com^$script,domain=webmd.com
-/i10c@p1/client/latest/abd/instart.js^$script,domain=thoughtcatalog.com|geek.com
+/i10c@p1/client/latest/abd/instart.js^$script,domain=thoughtcatalog.com|geek.com|tv.com
 /*x2edpn*$script,image,domain=medicinenet.com|atvrider.com|baggersmag.com|boatingmag.com|cruisingworld.com|cycleworld.com|destinationweddingmag.com|dirtrider.com|diversitybestpractices.com|fieldandstream.com|floridatravellife.com|flyingmag.com|hotbikeweb.com|islands.com|marlinmag.com|motorcyclecruiser.com|motorcyclistonline.com|outdoorlife.com|popphoto.com|range365.com|saltwatersportsman.com|saveur.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|sportrider.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 /*px2epgv.g01.webmd.com^$script,domain=webmd.com
 /*tx2eius*$script,domain=goal.com|medicinenet.com
@@ -104,9 +104,6 @@ pcmag.com##.tile.strip.deal-of-day
 ranker.com##div[id^="-npxxpun_jmb_roajvn_/3474"]
 sfgate.com##div[id^="wrapperLink"]
 sfgate.com##div[id^="-nnvvnsl_hkz_pmyhtl_/03884379"]
-sportingnews.com##[data-parent-placement-name="Below Article Thumbnails Feed"]
-sportingnews.com##[data-placement="Top_Banner"]
-sportingnews.com##[data-ad-type="Section_Fronts"]
 sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/334793567"]
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com###-pGMO3
