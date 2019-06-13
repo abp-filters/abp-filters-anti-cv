@@ -70,7 +70,7 @@ sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 facenews.ua#$#abort-on-property-read XMLHttpRequest
 queen-time.ru,kinogo.eu,gidonline.eu#$#abort-on-property-read utarget_script
-elegos.ru,3dn.ru,at.ua,clan.su,cliphq.ru,db-energo.ru,ftechedu.ru,krasnickij.ru,megaclips.net,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,online-supernatural.ru,paint-cars.com,pkrc.ru,poleteli.tv,sdr-deluxe.com,ucoz.net,ucoz.org,ucoz.ru,xakevsoft.ru#$#abort-on-property-read FAW29378
+elegos.ru,3dn.ru,at.ua,clan.su,cliphq.ru,db-energo.ru,ftechedu.ru,krasnickij.ru,megaclips.net,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,online-supernatural.ru,paint-cars.com,pkrc.ru,poleteli.tv,sdr-deluxe.com,ucoz.net,ucoz.org,ucoz.ru,xakevsoft.ru#$#abort-on-property-read vastPlayerNew
 elegos.ru,db-energo.ru,ftechedu.ru,my1.ru,newgames.com.ua,online-supernatural.ru,sdr-deluxe.com,poleteli.tv,megaclips.net,cliphq.ru,3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read uCoz.spam
 elegos.ru,db-energo.ru,ftechedu.ru,my1.ru,newgames.com.ua,online-supernatural.ru,sdr-deluxe.com,poleteli.tv,megaclips.net,cliphq.ru,3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read adbetnet
 radikal.ru#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
