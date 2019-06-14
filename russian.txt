@@ -23,6 +23,7 @@ championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Objec
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-current-inline-script document.currentScript
 echo.msk.ru#$#abort-on-property-read eval
+otzovik.com#$#abort-on-property-read Ya.Direct
 
 ! #9708
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
@@ -75,7 +76,6 @@ autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,db-energo.ru,ftechedu.ru,m
 autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,db-energo.ru,ftechedu.ru,my1.ru,newgames.com.ua,online-supernatural.ru,sdr-deluxe.com,poleteli.tv,megaclips.net,cliphq.ru,3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read adbetnet
 radikal.ru#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
-otzovik.com#$#abort-on-property-read Ya.Direct
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
