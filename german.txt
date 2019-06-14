@@ -74,9 +74,7 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 
 ! #16030
-||84435849.lvxutzhzm.com^$script,domain=wetteronline.de
-||16bbe820.eylhikorp.com^$script,domain=wetteronline.at
-||32435b79.gvxzguivpv.com^$script,domain=wetteronline.ch
+/1b0n9kn.$script,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 
 ! #11076
 ||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
