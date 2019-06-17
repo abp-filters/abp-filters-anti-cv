@@ -27,3 +27,6 @@ japscan.cc,japscan.com,japscan.to#$#abort-current-inline-script document.createE
 
 ! #21137
 lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
+
+! #22109
+voiranime.com#$#abort-on-property-read NativeAd
