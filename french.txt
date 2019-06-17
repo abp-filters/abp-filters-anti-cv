@@ -30,3 +30,6 @@ lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-
 
 ! #22109
 voiranime.com#$#abort-on-property-read NativeAd
+
+! #10530
+voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
