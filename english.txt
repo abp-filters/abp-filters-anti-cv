@@ -17,6 +17,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||sharethrough.com^$script,domain=webmd.com
 ||adsafeprotected.com^$script,domain=webmd.com
 /i10c@p1/client/latest/abd/instart.js^$script,domain=thoughtcatalog.com|geek.com|tv.com
+/i10c@p1/client/latest/abd.html_streaming/instart.js^$script,domain=atvrider.com|baggersmag.com|boatingmag.com|cruisingworld.com|cycleworld.com|destinationweddingmag.com|dirtrider.com|diversitybestpractices.com|fieldandstream.com|floridatravellife.com|flyingmag.com|hotbikeweb.com|islands.com|marlinmag.com|motorcyclecruiser.com|motorcyclistonline.com|outdoorlife.com|popphoto.com|range365.com|saltwatersportsman.com|saveur.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|sportrider.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 /*x2edpn*$script,image,domain=medicinenet.com|atvrider.com|baggersmag.com|boatingmag.com|cruisingworld.com|cycleworld.com|destinationweddingmag.com|dirtrider.com|diversitybestpractices.com|fieldandstream.com|floridatravellife.com|flyingmag.com|hotbikeweb.com|islands.com|marlinmag.com|motorcyclecruiser.com|motorcyclistonline.com|outdoorlife.com|popphoto.com|range365.com|saltwatersportsman.com|saveur.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|sportrider.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 /*px2epgv.g01.webmd.com^$script,domain=webmd.com
 /*tx2eius*$script,domain=goal.com|medicinenet.com
@@ -34,7 +35,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*ohfol*^$script,image,domain=thoughtcatalog.com
 /*sx2ehtr*$script,image,domain=101x.com
 /*wotmag*$script,image,domain=extremetech.com
-/*fuk*^$script,image,domain=atvrider.com|baggersmag.com|boatingmag.com|cruisingworld.com|cycleworld.com|destinationweddingmag.com|dirtrider.com|diversitybestpractices.com|fieldandstream.com|floridatravellife.com|flyingmag.com|hotbikeweb.com|islands.com|marlinmag.com|motorcyclecruiser.com|motorcyclistonline.com|outdoorlife.com|popphoto.com|range365.com|saltwatersportsman.com|saveur.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|sportrider.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
