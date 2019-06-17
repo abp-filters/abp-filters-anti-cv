@@ -49,66 +49,43 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
-cafemom.com##div[id^="-muccuzs_org_wtfoas_/7495"]
-cbssports.com##div[id^="-omuumrk_gjy_olxgsk_/4820"]
 cbssports.com###leader-top-wrap
 cbssports.com,metrolyrics.com##[data-ad]
-cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 chowhound.com##div[id^="-fnqv_"]
 cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
-chron.com##div[id^="-oowwotm_ila_qnzium_/14995480"]
 chron.com##div[id^="-obwfuu"]
 chron.com###NTV4
-dailymail.co.uk##div[id^="-mzhhzex_twl_byktfx_/4654"]
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-everydayhealth.com##div[id^="-ffnnfkd_zcr_heqzld_/9768"]
 everydayhealth.com##div[class^="-fyb-"]
 everydayhealth.com##[title="Advertisement"]
 edmunds.com##.slick-slider
 edmunds.com##div[class^="-nlkgzaxkj-"]
 gamepedia.com##div[id^="cdm-zone"]
-gamepedia.com##div[id^="-pvddvat_psh_xugpbt_/03854422"]
-geek.com##div[id^="-mweewbu_qti_yvhqcu_/0141"]
-goal.com##div[id^="-mfnnfkd_zcr_heqzld_/12425736"]
 goal.com##div[id^="-mxa-"]
 goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
 1070thefan.com##div[class^="-rowwsc-"]
 101x.com##div[class^="-hsaawg-"]
-metacritic.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 metacritic.com##div[class^="amzn-native-container"]
 metacritic.com##.leader
 metacritic.com##.side_recommend
-mustangandfords.com##div[id^="-drzzrwp_lod_tqclxp_/4944"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
-medicinenet.com##div[id^="-klttlqj_fix_nkwfrj_/9867989"]
 medicinenet.com##div[class^="-keh_"]
 emedicinehealth.com##div[class^="-beh_"]
-emedicinehealth.com##div[id^="-blttlqj_fix_nkwfrj_/9867989"]
-metrolyrics.com##div[id^="-njrrjoh_dgv_liudph_/1597"]
-mamaslatinas.com##div[id^="-mtbbtyr_nqf_vsenzr_/6384"]
-mysanantonio.com##div[id^="-oiqqing_cfu_khtcog_/58339824"]
-narcity.com##div[id^="-muccuzs_org_wtfoas_/5464704"]
 narcity.com##div[class^="lbtop"]
-pcmag.com##div[id^="-gdlldib_xap_fcoxjb_/7818"]
 pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-ranker.com##div[id^="-npxxpun_jmb_roajvn_/3474"]
 sfgate.com##div[id^="wrapperLink"]
-sfgate.com##div[id^="-nnvvnsl_hkz_pmyhtl_/03884379"]
-sportingnews.com##div[id^="-gsaasxq_mpe_urdmyq_/334793567"]
 seattlepi.com##div[id^="wrapperLink"]
 seattlepi.com##[data-adid]
 seattlepi.com##div[id^="-ppktiixkE"]
-seattlepi.com##div[id^="-pckkcha_wzo_ebnwia_/58339824"]
-spox.com##div[id^="-zfnnfkd_zcr_heqzld_/0286"]
 spox.com##div[id^="-zhdbipv"]
 saltwatersportsman.com##[alt="Advertisement"]
 thoughtcatalog.com##div[class^="-hoy-"]
@@ -116,9 +93,6 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-emuumrk_gjy_olxgsk_/4820"]
-tvguide.com##div[id^="-maiiafy_uxm_czlugy_/8264"]
-webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
@@ -132,8 +106,6 @@ atvrider.com,baggersmag.com,boatingmag.com,cruisingworld.com,cycleworld.com,dest
 chicagotribune.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,##.ntv-plc
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,##div[draggable="false"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,##div[style="display: inline-block;"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,##div[class^="-hcak_vq_jmK"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,##div[class^="-hcak_pycJm"]
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,##aside[class^="-hbzj_jzsz_"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com##a[href^="https://jadserve.postrelease.com/"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com###NTV4
