@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?p=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?q=$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
@@ -208,6 +208,10 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
+^aobtoany.min.js^$script,image,domain=kiss-anime.ws|animeland.us
+^zrt*$script,domain=mangareader.net
+^yla/fcl.js^$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
+
 
 ! #9708
 filmxy.one##.promo-contents
