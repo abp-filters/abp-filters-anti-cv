@@ -6,6 +6,7 @@ www.reuters.com,uk.reuters.com###spacerElement
 www.reuters.com,uk.reuters.com##.renderable[data-template="article_list"] > div:not([data-reactroot])
 www.reuters.com,uk.reuters.com##.RelatedCoverage_related-coverage-module.module.RelatedCoverage_recirc + div[id][class]
 www.reuters.com,uk.reuters.com##.markets-module.mod-tabs-table + div.linebreak + div[class]
+reuters.com#?#.StandardArticleBody_container div:-abp-has(div.sponsor a[title="dianomi"])
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
