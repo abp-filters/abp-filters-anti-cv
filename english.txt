@@ -1,5 +1,11 @@
 ! #8479
-||reutersmedia.net/resources/r/?q=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?s=$image,domain=reuters.com
+www.reuters.com,uk.reuters.com##.Sticky_content > :not(.NewsletterSignUp_container):not(.TrendingStories_container)
+www.reuters.com,uk.reuters.com##.mod-sticky.sticky-1
+www.reuters.com,uk.reuters.com###spacerElement
+www.reuters.com,uk.reuters.com##.renderable[data-template="article_list"] > div:not([data-reactroot])
+www.reuters.com,uk.reuters.com##.RelatedCoverage_related-coverage-module.module.RelatedCoverage_recirc + div[id][class]
+www.reuters.com,uk.reuters.com##.markets-module.mod-tabs-table + div.linebreak + div[class]
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
