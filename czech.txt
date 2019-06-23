@@ -1,34 +1,6 @@
-! #9056
-search.seznam.cz,clanky.seznam.cz##.ResultLayout-pla-wrapper
-novinky.cz#$#abort-current-inline-script btoa
-kupi.cz##div[style="margin-bottom: -30px;"]
-kupi.cz##div[style*="background-image :"]
-kupi.cz##.static_bottom
-kupi.cz##.sklik-middle
-kupi.cz##.kupi_midle_holder
-kupi.cz##.kupi_top_holder
-kupi.cz##iframe[src^="//www.kupi.cz/sH"]
-kupi.cz###pageCutBanner_creative
-obrazky.cz###sklik-pla-original
-kupi.cz##.adts_block
-sport.cz##.produkt
-sport.cz,super.cz###container-combi
-super.cz##iframe[width="971"][height="309"]
-sport.cz##iframe[width="100%"][height="299"]
-super.cz##img[src*="www.super.cz/uL"]
-sport.cz##img[src*="www.sport.cz/uL"]
-super.cz##iframe[width="100%"][height="186"]
-super.cz,sport.cz##iframe[width="100%"][height="254"]
-super.cz##div[id*="_plch"]
-super.cz##div[style="width: 968px; height: 311px;"]
-super.cz##iframe[class][src^="//www.super.cz/qE"][scrolling="no"]
-super.cz##iframe[width="100%"][height][style="display: block;"]
-sport.cz##iframe[scrolling="no"][src*="%2Fwww.sport.cz%2F"]
-super.cz##div[id*="chaoz"]
-sport.cz##iframe[class*="amchrn"]
-super.cz##iframe[src*="SEZNAM"]
-sport.cz##iframe[class][scrolling="no"][src^="//www.sport.cz/"]
-search.seznam.cz#?#div[class^="r"]:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
-search.seznam.cz#?#.ResultContainer:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
-search.seznam.cz#?#.Fixer-layout:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
-search.seznam.cz#?#div[data-dot-data*="sklik_"]:-abp-has(div:-abp-properties(*background-size: cover; display: inline-block; height: 1.8rem;*width: 5.6rem;))
+csfd.cz#$#abort-current-inline-script $ completeAdsObject
+idnes.cz,novinky.cz,aktualne.cz,aktuality.sk,info.cz,reflex.cz,zive.cz,mobilmania.cz,e15.cz,tiscali.cz,blesk.cz,ahaonline.cz,extra.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,lupa.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,karaoketexty.cz,iprima.cz,hnonline.sk,kupi.cz,kinobox.cz,cnews.cz,onetv.cz,zeny.cz#$#abort-current-inline-script Math.random adb
+kupi.cz#$#abort-current-inline-script $ Detect
+kupi.cz#$#abort-current-inline-script setTimeout document.write
+onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
+titulky.com#$#abort-current-inline-script adblfetected
