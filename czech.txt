@@ -1,6 +1,11 @@
-csfd.cz#$#abort-current-inline-script $ completeAdsObject
-idnes.cz,novinky.cz,aktualne.cz,aktuality.sk,info.cz,reflex.cz,zive.cz,mobilmania.cz,e15.cz,tiscali.cz,blesk.cz,ahaonline.cz,extra.cz,super.cz,auto.cz,maminka.cz,autorevue.cz,lupa.cz,vareni.cz,osobnosti.cz,sport.cz,lidovky.cz,karaoketexty.cz,iprima.cz,hnonline.sk,kupi.cz,kinobox.cz,cnews.cz,onetv.cz,zeny.cz#$#abort-current-inline-script Math.random adb
+! #9056
+search.seznam.cz,clanky.seznam.cz##.Result:not(.Result--organic)
+novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-current-inline-script Math.random adb
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
+
+! MISC
+idnes.cz,aktualne.cz,aktuality.sk,info.cz,reflex.cz,zive.cz,mobilmania.cz,e15.cz,tiscali.cz,blesk.cz,ahaonline.cz,extra.cz,auto.cz,maminka.cz,autorevue.cz,lupa.cz,vareni.cz,osobnosti.cz,lidovky.cz,karaoketexty.cz,iprima.cz,hnonline.sk,kinobox.cz,cnews.cz,onetv.cz,zeny.cz#$#abort-current-inline-script Math.random adb
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
+csfd.cz#$#abort-current-inline-script $ completeAdsObject
