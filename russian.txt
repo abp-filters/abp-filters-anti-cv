@@ -76,6 +76,7 @@ crashkino.net,giginfo.ru,mp4android.ru,omsimclub.ru,cheater-top.ru,stalkermods.r
 crashkino.net,giginfo.ru,mp4android.ru,omsimclub.ru,cheater-top.ru,stalkermods.ru,ucoz.ua,moy.su,fukushima-news.ru,mod-rus.ru,selezen.net,torrent-15.ru,ucoz.com,autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,db-energo.ru,ftechedu.ru,my1.ru,newgames.com.ua,online-supernatural.ru,sdr-deluxe.com,poleteli.tv,megaclips.net,cliphq.ru,3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read adbetnet
 radikal.ru#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
+omskpress.ru#$#abort-on-property-read kav_cn
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
