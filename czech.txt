@@ -1,5 +1,5 @@
 ! #9056
-search.seznam.cz,clanky.seznam.cz##.Result:not(.Result--organic):not(.Result--obrazky)
+search.seznam.cz,clanky.seznam.cz##.Result:not([class*="Result--"])
 novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-current-inline-script Math.random adb
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
