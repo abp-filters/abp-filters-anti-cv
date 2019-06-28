@@ -32,4 +32,4 @@ lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-
 voiranime.com#$#abort-on-property-read NativeAd
 
 ! #10530
-voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
+jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode

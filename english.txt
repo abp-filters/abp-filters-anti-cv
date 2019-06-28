@@ -339,10 +339,10 @@ ianimes.co,ianimes.top#$#abort-on-property-read _0x522e
 upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 
 ! #10530
-jetanime.co,extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.club,extreme-download.me,ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,tv-onlinehd.com,revivelink.com#$#abort-on-property-read atob
+extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.club,extreme-download.me,ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,tv-onlinehd.com,revivelink.com#$#abort-on-property-read atob
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.club,extreme-download.me#$#abort-on-property-write Fingerprint2; abort-on-property-read AaDetector; abort-on-property-read RegExp
 fastplay.to#$#abort-current-inline-script atob decodeURIComponent
-jetanime.co,convert2mp3.net#$#abort-on-property-read decodeURIComponent
+convert2mp3.net#$#abort-on-property-read decodeURIComponent
 
 ! #20940
 thevidhd.xyz,thevidhd.online,thehdvid.website,vidhd.site,vidhd.space,thehdvid.xyz,vidhd.host,vidshare.tv,govid.me,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
