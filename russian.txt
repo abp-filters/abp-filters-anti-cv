@@ -77,6 +77,7 @@ top-torrent.info,fon-ki.com,gloria-cedric.ru,stalker-zone.info,vodopads.ru,crash
 radikal.ru#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 omskpress.ru#$#abort-on-property-read kav_cn
+spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/

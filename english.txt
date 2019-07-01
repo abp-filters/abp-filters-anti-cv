@@ -331,7 +331,7 @@ europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropi
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
 upload4earn.org,uploadbyte.com#$#abort-on-property-read localStorage
-spcs.me,strip2.me#$#abort-on-property-read SpacesClickunder
+1strip2.me,strip2.me#$#abort-on-property-read SpacesClickunder
 mrpornx.com#$#abort-current-inline-script eval String.fromCharCode
 gounlimited.to#$#abort-on-property-read atob
 gounlimited.to#$#abort-on-property-read decodeURIComponent
