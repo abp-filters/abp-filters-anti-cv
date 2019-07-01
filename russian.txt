@@ -24,6 +24,7 @@ championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Objec
 drive2.ru#$#abort-current-inline-script document.currentScript
 echo.msk.ru#$#abort-on-property-read eval
 otzovik.com#$#abort-on-property-read Ya.Direct
+it-here.ru#$#abort-on-property-read pum
 
 ! #9708
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
