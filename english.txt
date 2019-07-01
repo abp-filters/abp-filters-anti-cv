@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?u=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?v=$image,domain=reuters.com
 www.reuters.com,uk.reuters.com##.Sticky_content > :not(.NewsletterSignUp_container):not(.TrendingStories_container)
 www.reuters.com,uk.reuters.com##.mod-sticky.sticky-1
 www.reuters.com,uk.reuters.com###spacerElement
