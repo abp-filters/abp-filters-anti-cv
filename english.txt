@@ -215,10 +215,9 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
-^aobtoany.min.js^$script,image,domain=kiss-anime.ws|animeland.us
-^zrt*$script,domain=mangareader.net
-^yla/fcl.js^$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
-
+/agbtoany*$script,image,domain=kiss-anime.ws|animeland.us
+/bzk*$script,domain=mangareader.net
+/nnz*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
 
 ! #9708
 filmxy.one##.promo-contents
