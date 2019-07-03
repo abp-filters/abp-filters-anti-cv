@@ -297,7 +297,6 @@ footballleagueworld.co.uk#$#abort-on-property-read atob
 ||d11a2fzhgzqe7i.cloudfront.net^$script,domain=thecelticblog.com
 ||d3pk579obpqv7b.cloudfront.net^$script,domain=videocelts.com
 ||be202947.jba.tribunnews.com^$script,domain=tribunnews.com
-pch.com#$#abort-current-inline-script document.createElement; abort-current-inline-script  document.body.getAttribute
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
