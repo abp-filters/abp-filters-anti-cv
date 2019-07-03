@@ -305,7 +305,7 @@ uploadmp4.com#$#abort-on-property-write Fingerprint2
 uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 
 ! MISC
-europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
+2ddl.vg,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
 file-up.org,kimcartoon.to,gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed; abort-on-property-read String.fromCharCode
 cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
