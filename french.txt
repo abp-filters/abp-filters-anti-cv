@@ -20,10 +20,11 @@ sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLong
 ||penascogerlach.lovilialaceyville.com/nectaries.js/$script,domain=planet.fr
 
 ! MISC
-netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
-netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
+hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
+hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
 japscan.cc,japscan.com,japscan.to#$#abort-on-property-read atob
 japscan.cc,japscan.com,japscan.to#$#abort-current-inline-script document.createElement String.fromCharCode
+||hindipix.in/js/optscript/script-2.12.3.js?
 
 ! #21137
 lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
