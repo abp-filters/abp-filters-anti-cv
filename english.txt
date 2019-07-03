@@ -218,7 +218,7 @@ anime-vostfr.net##.mn-related-container
 /agbtoany*$script,image,domain=kiss-anime.ws|animeland.us
 /bzk*$script,domain=mangareader.net
 /nnz*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
-/jwplayer.js?$image,domain=watchcartoonsonline.eu
+/wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
 
 ! #9708
 filmxy.one##.promo-contents
