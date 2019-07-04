@@ -3,6 +3,7 @@
 autoscout24.de#$#abort-on-property-read tisoomi
 
 ! #8479
+de.reuters.com#$#abort-current-inline-script setInterval getElementsByTagName
 de.reuters.com##.Sticky_content > :not(.NewsletterSignUp_container):not(.TrendingStories_container)
 de.reuters.com##.renderable[data-template="article_list"] > div:not([data-reactroot])
 de.reuters.com##.RelatedCoverage_related-coverage-module.module.RelatedCoverage_recirc + div[id][class]
