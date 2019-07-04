@@ -4,12 +4,6 @@ autoscout24.de#$#abort-on-property-read tisoomi
 
 ! #8479
 de.reuters.com#$#abort-current-inline-script setInterval getElementsByTagName
-de.reuters.com##.Sticky_content > :not(.NewsletterSignUp_container):not(.TrendingStories_container)
-de.reuters.com##.renderable[data-template="article_list"] > div:not([data-reactroot])
-de.reuters.com##.RelatedCoverage_related-coverage-module.module.RelatedCoverage_recirc + div[id][class]
-de.reuters.com##.markets-module.mod-tabs-table + div.linebreak + div[class]
-de.reuters.com##.mod-sticky.sticky-1
-de.reuters.com###spacerElement
 
 ! #9272
 spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
