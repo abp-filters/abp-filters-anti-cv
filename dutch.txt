@@ -1,1 +1,3 @@
 ! #8479
+ajaxshowtime.com#?#div:-abp-properties(content: "Advertentie";)
+ajaxshowtime.com##div.leaderboard_ad + div
