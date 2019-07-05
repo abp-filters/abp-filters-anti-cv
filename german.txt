@@ -3,7 +3,6 @@
 autoscout24.de#$#abort-on-property-read tisoomi
 
 ! #8479
-de.reuters.com#$#abort-current-inline-script setInterval getElementsByTagName
 
 ! #9272
 spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
