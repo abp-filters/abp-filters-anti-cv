@@ -213,6 +213,9 @@ anime-vostfr.net##.mn-related-container
 /bzk*$script,domain=mangareader.net
 /nnz*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
 /wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
+/iggtheme/js/theme.js*$script,domain=igg-games.com
+/homepage*$script,image,domain=kickassanime.io
+kickassanime.io##.ka-ax-wrapper
 
 ! #9708
 filmxy.one##.promo-contents
