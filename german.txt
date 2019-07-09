@@ -18,9 +18,9 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 
 ! #16030
-||lvxutzhzm.com^$script
-||gvxzguivpv.com^$script
-||eylhikorp.com^$script
+||1uivdip.lvxutzhzm.com^$script
+||5u0k8e.gvxzguivpv.com^$script
+||1b0ew2f.eylhikorp.com^$script
 
 ! #11076
 ||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
