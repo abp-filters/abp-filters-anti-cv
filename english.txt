@@ -1,6 +1,8 @@
 ! #8479
-||reutersmedia.net/resources/r/?b=$image,domain=reuters.com
-reuters.com##div[style="height: 354px;"]
+||reutersmedia.net/resources/r/?c=$image,domain=reuters.com
+reuters.com##div[class="renderable"] > a
+reuters.com##div[class*="TrendingStories_container"] > img
+reuters.com##div[class*="sfaobj"]
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
