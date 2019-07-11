@@ -1,5 +1,5 @@
 ! #9056
-search.seznam.cz,clanky.seznam.cz##.Result:not([class*="Result--"])
+clanky.seznam.cz,search.seznam.cz##[class^="Result Result--organic R8e"]
 novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-current-inline-script setTimeout createElement
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
