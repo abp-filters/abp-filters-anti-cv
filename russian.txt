@@ -41,6 +41,8 @@ inforesist.org##aside[id="text-44"]
 inforesist.org##aside[id="text-39"]
 inforesist.org##aside[id="execphp-30"]
 inforesist.org##aside[id="execphp-24"]
+||onthe.io^$xmlhttprequest,script=inforesist.org
+inforesist.org##.advert
 etextlib.ru##.partners
 etextlib.ru##.head_bann
 kinohome.net##a[data-i]
