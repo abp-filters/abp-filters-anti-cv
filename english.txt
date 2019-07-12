@@ -1,8 +1,8 @@
 ! #8479
-||reutersmedia.net/resources/r/?c=$image,domain=reuters.com
-reuters.com##div[class="renderable"] > a
-reuters.com##div[class*="TrendingStories_container"] > img
-reuters.com##div[class*="sfaobj"]
+||reutersmedia.net/resources/r/?e=$image,domain=reuters.com
+reuters.com##div[class="renderable"] > div:first-child:not([class*="container"])
+reuters.com##span > div[class*="sfbobj"]
+reuters.com#$#abort-current-inline-script setInterval #$%&
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
