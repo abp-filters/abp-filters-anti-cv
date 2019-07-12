@@ -19,6 +19,9 @@ t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 
 ! #16030
 wetteronline.de,wetteronline.at,wetteronline.ch#$#abort-on-property-read $BxTy
+||1mehz7y.goaz.wetteronline.de^$script
+||ud5mh2.gyw.wetteronline.ch^$script
+||ag4ihh.obri.wetteronline.at^$script
 
 ! #11076
 ||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
