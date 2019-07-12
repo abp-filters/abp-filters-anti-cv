@@ -218,7 +218,9 @@ anime-vostfr.net##.mn-related-container
 /iggtheme/js/theme.js*$script,domain=igg-games.com
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
-/fcl.js*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
+/fcl.js*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
+/iggtheme/js/*.js*$script,domain=igg-games.com
+/homeside*$script,image,domain=kickassanime.io
 
 ! #9708
 filmxy.one##.promo-contents
