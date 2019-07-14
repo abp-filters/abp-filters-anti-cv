@@ -59,7 +59,7 @@ baskino-z720.com#$#abort-on-property-read atob
 ! MISC
 rg-mechanics.org#$#abort-on-property-read adska
 xatab-repack.net#$#abort-on-property-read adss
-fastpic.ru#$#abort-current-inline-script document.createElement Math.random
+fastpic.ru#$#abort-on-property-read Ma_random
 kinopad.net#$#abort-on-property-read atob
 nnm-club.lib,nnm-club.me,nnmclub.to#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
 nnmclub.ro#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
