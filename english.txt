@@ -58,7 +58,7 @@ cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chron.com##div[id^="-obwfuu"]
 chron.com###NTV4
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-everydayhealth.com##div[class^="-fyb-"]
+everydayhealth.com##div[class^="-fcf-"]
 everydayhealth.com##[title="Advertisement"]
 edmunds.com##.slick-slider
 edmunds.com##div[class^="-nlkgzaxkj-"]
