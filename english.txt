@@ -46,7 +46,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||range365.com^$generichide,genericblock
 @@||mysanantonio.com^$generichide,genericblock
 @@||seattlepi.com^$generichide,genericblock
-@@||sfgate.com^$generichide,genericblock
 @@||wakeboardingmag.com^$generichide,genericblock
 1070thefan.com###sitewrap
 boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
