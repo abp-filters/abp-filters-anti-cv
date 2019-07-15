@@ -281,7 +281,6 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 footballleagueworld.co.uk#$#abort-on-property-read atob
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
-pch.com#$#abort-current-inline-script document.createElement; abort-current-inline-script document.body.getAttribute
 
 ! #10531
 ||d12ysuoljjyfqa.cloudfront.net^$script,domain=thisisfutbol.com
