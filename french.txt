@@ -8,17 +8,19 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 ! #16030
 lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
 sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLongTaskTiming
+||1ic92yd.mdbgbcskjj.com^$script
+||www.planet.fr/scurrile^$script,xmlhttprequest
+||www.planet.fr/parsers^$script,xmlhttprequest
+||planet.fr/crucify^$script,xmlhttprequest
+||penascogerlach.lovilialaceyville.com/nectaries.js/$script,domain=planet.fr
+
+! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
 ||1v9d7vx.jaz.sportauto.fr^$script
 ||ib3i33.cob.autojournal.fr^$script
 ||1v9d7vx.cob.autojournal.fr^$script
 ||mssjxgfk.gos.autoplus.fr^$script
-||1ic92yd.mdbgbcskjj.com^$script
-||www.planet.fr/scurrile^$script,xmlhttprequest
-||www.planet.fr/parsers^$script,xmlhttprequest
-||planet.fr/crucify^$script,xmlhttprequest
 ||ovtyvnei.g00.closermag.fr^$script
-||penascogerlach.lovilialaceyville.com/nectaries.js/$script,domain=planet.fr
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
