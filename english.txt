@@ -274,13 +274,11 @@ businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(A
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad")))
 
 ! #16030
-pch.com##.new-div-wrapper
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require
 celticquicknews.co.uk,videocelts.com,mjsbigblog.com,thecelticblog.com#$#abort-current-inline-script atob TextDecoder; abort-current-inline-script btoa BOOTLOADER_LOADED
 psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
 justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTiming
 footballleagueworld.co.uk#$#abort-on-property-read atob
-||1gy9201.tkepyc.com^$script,domain=pch.com
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 pch.com#$#abort-current-inline-script document.createElement; abort-current-inline-script document.body.getAttribute
