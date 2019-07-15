@@ -25,13 +25,11 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2edpn*$script,image,domain=medicinenet.com|atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|islands.com|marlinmag.com|range365.com|saltwatersportsman.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 /*px2epgv.g01.webmd.com^$script,domain=webmd.com
 /*tx2eius*$script,domain=goal.com|medicinenet.com
-/*x2ejvt*^$script,domain=everydayhealth.com
 /*px2eeqo*^$script,image,domain=thoughtcatalog.com
 /*tx2edpn*$script,image,domain=cbssports.com
 /*ox2edpn*^$script,image,domain=medicinenet.com|chicagotribune.com
 /*ox2erix78*^$script,image,domain=gamepedia.com
 /*x2etkz*^$script,image,domain=metacritic.com
-/*vx2ekwu^$script,image,domain=everydayhealth.com
 /*sx2ehtr*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
 /*x2evmb*$script,image,domain=chicagotribune.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com
 /*zoe*^$script,image,domain=emedicinehealth.com|webmd.com
@@ -59,7 +57,6 @@ chron.com##div[id^="-obwfuu"]
 chron.com###NTV4
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
 everydayhealth.com##div[class^="-fcf-"]
-everydayhealth.com##[title="Advertisement"]
 edmunds.com##.slick-slider
 edmunds.com##div[class^="-nlkgzaxkj-"]
 gamepedia.com##div[id^="cdm-zone"]
