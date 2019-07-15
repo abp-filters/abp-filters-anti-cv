@@ -9,10 +9,7 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
 sportauto.fr,autoplus.fr,autojournal.fr#$#abort-on-property-read PerformanceLongTaskTiming
 ||1ic92yd.mdbgbcskjj.com^$script
-||www.planet.fr/scurrile^$script,xmlhttprequest
-||www.planet.fr/parsers^$script,xmlhttprequest
-||planet.fr/crucify^$script,xmlhttprequest
-||penascogerlach.lovilialaceyville.com/nectaries.js/$script,domain=planet.fr
+/N4I$script,xmlhttprequest,domain=planet.fr
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
