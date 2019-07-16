@@ -66,7 +66,6 @@ medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[class^="-keh_"]
 emedicinehealth.com##div[class^="-beh_"]
-narcity.com##div[class^="lbtop"]
 pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
