@@ -61,8 +61,6 @@ rg-mechanics.org#$#abort-on-property-read adska
 xatab-repack.net#$#abort-on-property-read adss
 fastpic.ru#$#abort-on-property-read Ma_random
 kinopad.net#$#abort-on-property-read atob
-nnm-club.lib,nnm-club.me,nnmclub.to#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
-nnmclub.ro#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
 seasonvar.re#$#abort-current-inline-script String
 amazinghis.ru#$#abort-on-property-read anOptions
 newfilms.online,kinogo-2016-net.ru#$#abort-current-inline-script String
