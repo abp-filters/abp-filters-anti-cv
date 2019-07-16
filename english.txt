@@ -1,8 +1,5 @@
 ! #8479
 ||reutersmedia.net/resources/r/?g=$image,domain=reuters.com
-reuters.com##div[class="renderable"] > div:first-child:not([class*="container"])
-reuters.com##span > div[class*="sfbobj"]
-reuters.com##div[class$="AD "]
 reuters.com#$#abort-current-inline-script setInterval dianomi
 
 ! #9276
