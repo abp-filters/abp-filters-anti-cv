@@ -26,7 +26,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*tx2edpn*$script,image,domain=cbssports.com
 /*ox2edpn*^$script,image,domain=medicinenet.com|chicagotribune.com
 /*ox2erix78*^$script,image,domain=gamepedia.com
-/*x2etkz*^$script,image,domain=metacritic.com
 /*sx2ehtr*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
 /*x2evmb*$script,image,domain=chicagotribune.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com
 /*zoe*^$script,image,domain=emedicinehealth.com|webmd.com
@@ -49,7 +48,6 @@ cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 chowhound.com##div[id^="-fnqv_"]
-cbssports.com,metacritic.com,cnet.com##.clrm-cw-outer
 chron.com##div[id^="-obwfuu"]
 chron.com###NTV4
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
@@ -62,9 +60,8 @@ goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
 1070thefan.com##div[class^="-rowwsc-"]
 101x.com##div[class^="-hsaawg-"]
-metacritic.com##div[class^="amzn-native-container"]
-metacritic.com##.leader
-metacritic.com##.side_recommend
+metacritic.com##div[id^="-ojrrjoh_dgv_liudph_/1597"]
+metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
 medicinenet.com##div[class^="-keh_"]
