@@ -1,6 +1,6 @@
 ! #8479
-||reutersmedia.net/resources/r/?g=$image,domain=reuters.com
-reuters.com#$#abort-current-inline-script setInterval dianomi
+||reutersmedia.net/resources/r/?h=$image,domain=reuters.com
+reuters.com#$#abort-current-inline-script setInterval style.setProperty
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
