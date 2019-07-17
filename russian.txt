@@ -78,6 +78,7 @@ kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 omskpress.ru#$#abort-on-property-read kav_cn
 spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 naruto-base.su#$#abort-on-property-read njranu
+nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement String.fromCharCode
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
