@@ -42,6 +42,7 @@ boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
 boston.com##[data-placement-name="Mid Main Column Stream"]
 boston.com##div[style*="width: 300px; height: 250px;"]	
 cbssports.com###skybox-top-wrapper
+cbssports.com##[data-ad-unit]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###glade-aslot-1
