@@ -1,6 +1,5 @@
 ! #8479
 ||reutersmedia.net/resources/r/?j=$image,domain=reuters.com
-reuters.com#$#abort-current-inline-script setInterval style.setProperty
 reuters.com#$#abort-on-property-write atob
 
 ! #9276
