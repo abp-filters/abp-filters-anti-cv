@@ -2,6 +2,7 @@
 3sk.io,3sk.co,33sk.tv#$#abort-on-property-read atob; abort-on-property-write Fingerprint2; abort-on-property-read decodeURIComponent; abort-on-property-read RegExp
 egydead.com#$#abort-on-property-read _pop; abort-on-property-read atob; abort-on-property-write Fingerprint2
 cimaclub.com#$#abort-on-property-read atob; abort-on-property-read decodeURIComponent; abort-current-inline-script document.createElement String.fromCharCode
+$popup,third-party,domain=egybest2.com|egybest4.com
 
 ! #20940
 arabseed.com,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent

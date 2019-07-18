@@ -334,3 +334,7 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! #23864
 alifeinbalance.net,bike-urious.com,blwideas.com,entertainment-focus.com,fanatik.com.tr,foreverconscious.com,goodnewsnetwork.org,greenarrowtv.com,hbculifestyle.com,heysigmund.com,hodgepodgehippie.com,homestratosphere.com,katiescucina.com,knowyourphrase.com,lizs-early-learning-spot.com,ledauphine.com,leprogres.fr,milliyet.com.tr,mjsbigblog.com,pinoyrecipe.net,prepared-housewives.com,redcarpet-fashionawards.com,republicain-lorrain.fr,savingadvice.com,spring.org.uk,stevivor.com,tamaratattles.com,tastefullyeclectic.com,theavtimes.com,thechroniclesofhome.com,ultimateninjablazingx.com,universfreebox.com,usersub.com,utahsweetsavings.com,vgamerz.com,yummytummyaarthi.com#$#abort-current-inline-script document.createElement
+
+! Popups
+$popup,third-party,domain=streamega.com|verystream.com|oload.biz
+||35.194.16.41^$popup
