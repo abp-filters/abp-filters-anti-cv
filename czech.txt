@@ -1,11 +1,12 @@
 ! #9056
 clanky.seznam.cz,search.seznam.cz##[class^="Result Result--organic R8e"]
-novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-current-inline-script setTimeout createElement
+novinky.cz#$#abort-current-inline-script setTimeout createElement
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
+kupi.cz,super.cz,sport.cz#$#abort-current-inline-script setTimeout /\\x[0-9a-f]{2}/
 
 ! MISC
-idnes.cz,aktualne.cz,aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,iprima.cz,kinobox.cz,cnews.cz,zeny.cz,tiscali.cz,extra.cz,onetv.cz#$#abort-current-inline-script setTimeout createElement
+idnes.cz,aktualne.cz,aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,iprima.cz,kinobox.cz,cnews.cz,zeny.cz,tiscali.cz,extra.cz,onetv.cz#$#abort-current-inline-script setTimeout /\\x[0-9a-f]{2}/
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
