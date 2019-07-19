@@ -188,6 +188,11 @@ kickassanime.io##.ka-ax-wrapper
 /fcl.js*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
 /iggtheme/js/*.js*$script,domain=igg-games.com
 /homeside*$script,image,domain=kickassanime.io
+/ggz/*$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
+/side*$domain=kickassanime.io
+*ggtheme/*$script,domain=igg-games.com
+/plugins/*any/*$script,image,domain=kiss-anime.ws|animeland.us
+/bzt*$script,domain=mangareader.net
 
 ! #9708
 filmxy.one##.promo-contents
