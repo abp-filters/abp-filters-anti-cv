@@ -1,5 +1,5 @@
 ! #9056
-clanky.seznam.cz,search.seznam.cz##[class^="Result Result--organic R8e"]
+clanky.seznam.cz,search.seznam.cz##[class^="Result Result--organic R25"]
 novinky.cz#$#abort-current-inline-script setTimeout createElement
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
