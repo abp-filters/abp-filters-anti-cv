@@ -1,7 +1,6 @@
 ! #8479
-||reutersmedia.net/resources/r/?k=$image,domain=reuters.com
-reuters.com#$#abort-on-property-write atob
-reuters.com#$#abort-current-inline-script setInterval imgalt
+||reutersmedia.net/resources/r/?l=$image,domain=reuters.com
+reuters.com#$#abort-current-inline-script setInterval welect.enabled
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
