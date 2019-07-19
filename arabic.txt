@@ -4,5 +4,7 @@ egydead.net,egydead.com#$#abort-on-property-read _pop; abort-on-property-read at
 cimaclub.com#$#abort-on-property-read atob; abort-on-property-read decodeURIComponent; abort-current-inline-script document.createElement String.fromCharCode
 $popup,third-party,domain=egybest2.com|egybest4.com|egydead.net|egydead.com
 
+egybest2.com,egybest4.com#$#abort-on-property-read adcashMacros; abort-on-property-write adcashMacros; abort-current-inline-script _0xbc13 
+
 ! #20940
 arabseed.com,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
