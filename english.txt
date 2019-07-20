@@ -15,6 +15,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||nanovisor.io/i10c@p1^$xmlhttprequest,domain=geek.com|medicinenet.com|webmd.com
 ||sdad.guru/i10c@p1^$xmlhttprequest,domain=geek.com|webmd.com|emedicinehealth.com|medicinenet.com
 ||g.doubleclick.net^$script,domain=webmd.com
+||ga.gfycat.com^$script,domain=gfycat.com
 ||sharethrough.com^$script,domain=webmd.com
 ||adsafeprotected.com^$script,domain=webmd.com
 /i10c@p1/client/latest/abd/instart.js^$script,domain=thoughtcatalog.com|geek.com|tv.com
