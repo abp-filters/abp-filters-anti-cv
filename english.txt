@@ -1,6 +1,6 @@
 ! #8479
-||reutersmedia.net/resources/r/?h=$image,domain=reuters.com
-reuters.com#$#abort-current-inline-script setInterval style.setProperty
+||reutersmedia.net/resources/r/?l=$image,domain=reuters.com
+reuters.com#$#abort-current-inline-script setInterval welect.enabled
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
@@ -20,20 +20,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||adsafeprotected.com^$script,domain=webmd.com
 /i10c@p1/client/latest/abd/instart.js^$script,domain=thoughtcatalog.com|geek.com|tv.com
 /i10c@p1/client/latest/abd.html_streaming/instart.js^$script,domain=atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|marlinmag.com|range365.com|saltwatersportsman.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
-/*x2edpn*$script,image,domain=medicinenet.com|atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|marlinmag.com|range365.com|saltwatersportsman.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
-/*px2epgv.g01.webmd.com^$script,domain=webmd.com
-/*tx2eius*$script,domain=goal.com|medicinenet.com
-/*px2eeqo*^$script,image,domain=thoughtcatalog.com
-/*tx2edpn*$script,image,domain=cbssports.com
-/*ox2edpn*^$script,image,domain=medicinenet.com|chicagotribune.com
-/*ox2erix78*^$script,image,domain=gamepedia.com
-/*sx2ehtr*^$script,image,domain=geek.com|emedicinehealth.com|medicinenet.com
-/*x2evmb*$script,image,domain=chicagotribune.com|dailypress.com|hoylosangeles.com|carrollcountytimes.com|southflorida.com|ctnow.com|citypaper.com|growthspotter.com|seattlepi.com
-/*zoe*^$script,image,domain=emedicinehealth.com|webmd.com
-/*wotmb*^$script,image,domain=tvguide.com
-/*ohfol*^$script,image,domain=thoughtcatalog.com
-/*sx2ehtr*$script,image,domain=101x.com
-/*wotmag*$script,image,domain=extremetech.com
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
@@ -93,13 +79,9 @@ atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversit
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[data--examp-oaybxqfq="true"]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##iframe[id^="-exffxcv_ruj_zwirdv_/3414"]
-chicagotribune.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,##.ntv-plc
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com,seattlepi.com,##div[draggable="false"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,seattlepi.com,##div[style="display: inline-block;"]
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,##aside[class^="-hbzj_jzsz_"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com##a[href^="https://jadserve.postrelease.com/"]
 mysanantonio.com,chron.com,sfgate.com,seattlepi.com###NTV4
-mysanantonio.com,chron.com,sfgate.com,seattlepi.com##.ntv-disclaimer
 chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,carrollcountytimes.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,##[data--gtwil-kwuxtmbm="true"]
 atvrider.com,baggersmag.com,carrollcountytimes.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,dailypress.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,saltwatersportsman.com,scubadiving.com,seattlepi.com,southflorida.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,carrollcountytimes.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,dailypress.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,saltwatersportsman.com,scubadiving.com,seattlepi.com,southflorida.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 ||atwola.com^$domain=msn.com,~media
@@ -207,6 +189,11 @@ kickassanime.io##.ka-ax-wrapper
 /fcl.js*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
 /iggtheme/js/*.js*$script,domain=igg-games.com
 /homeside*$script,image,domain=kickassanime.io
+/ggz/*$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
+/side*$domain=kickassanime.io
+*ggtheme/*$script,domain=igg-games.com
+/plugins/*any/*$script,image,domain=kiss-anime.ws|animeland.us
+/bzt*$script,domain=mangareader.net
 
 ! #9708
 filmxy.one##.promo-contents
@@ -331,9 +318,11 @@ extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.
 fastplay.to#$#abort-current-inline-script atob decodeURIComponent
 convert2mp3.net#$#abort-on-property-read decodeURIComponent
 gogoanimes.tv#$#abort-on-property-write atob
+windowssof.weebly.com#$#abort-current-inline-script document.createElement String.fromCharCode
 
 ! #20940
 onvid.website,thevidhd.xyz,thevidhd.online,thehdvid.website,vidhd.site,vidhd.space,thehdvid.xyz,vidhd.host,vidshare.tv,govid.me,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
+kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURIComponent
 
 ! #10644
 yuudrive.me,hdhub4u.pw,hdhub4u.website,thevid.net,thevid.tv,biter.tv,byter.tv,flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
@@ -352,3 +341,7 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! #23864
 alifeinbalance.net,bike-urious.com,blwideas.com,entertainment-focus.com,fanatik.com.tr,foreverconscious.com,goodnewsnetwork.org,greenarrowtv.com,hbculifestyle.com,heysigmund.com,hodgepodgehippie.com,homestratosphere.com,katiescucina.com,knowyourphrase.com,lizs-early-learning-spot.com,ledauphine.com,leprogres.fr,milliyet.com.tr,mjsbigblog.com,pinoyrecipe.net,prepared-housewives.com,redcarpet-fashionawards.com,republicain-lorrain.fr,savingadvice.com,spring.org.uk,stevivor.com,tamaratattles.com,tastefullyeclectic.com,theavtimes.com,thechroniclesofhome.com,ultimateninjablazingx.com,universfreebox.com,usersub.com,utahsweetsavings.com,vgamerz.com,yummytummyaarthi.com#$#abort-current-inline-script document.createElement
+
+! Popups
+$popup,third-party,domain=streamega.com|verystream.com|oload.biz
+||35.194.16.41^$popup
