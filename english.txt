@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?n=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?*^w=011^$image,domain=reuters.com
 reuters.com#$#abort-current-inline-script setInterval getBoundingClientRect
 
 ! #9276
