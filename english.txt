@@ -1,6 +1,6 @@
 ! #8479
-||reutersmedia.net/resources/r/?o=$image,domain=reuters.com
-reuters.com#$#abort-current-inline-script setInterval getBoundingClientRect
+||reutersmedia.net/resources/r/?p=$image,domain=reuters.com
+reuters.com#$#abort-current-inline-script setInterval getComputedStyle
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
