@@ -57,6 +57,7 @@ baskino-z720.com#$#abort-on-property-read atob
 ! #19890
 
 ! MISC
+scrin.org#$#abort-on-property-read Math.random
 rg-mechanics.org#$#abort-on-property-read adska
 xatab-repack.net#$#abort-on-property-read adss
 fastpic.ru#$#abort-on-property-read Ma_random
