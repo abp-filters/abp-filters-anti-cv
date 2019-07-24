@@ -320,6 +320,9 @@ pandamovies.pw,adultvideoz.net,gounlimited.to#$#abort-on-property-read decodeURI
 ianimes.co,ianimes.top#$#abort-on-property-read _0x522e
 upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 gamefront.com#$#abort-current-inline-script $ AdBlock
+||myfastcdn.com^$domain=kickassanime.io
+||thikraik.net^$domain=kickassanime.io
+kickassanime.io##.ka-ax-wrp.mb-3
 
 
 ! #10530
