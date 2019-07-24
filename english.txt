@@ -197,6 +197,11 @@ kickassanime.io##.ka-ax-wrapper
 *ggtheme/*$script,domain=igg-games.com
 /plugins/*any/*$script,image,domain=kiss-anime.ws|animeland.us
 /bzt*$script,domain=mangareader.net
+/kzm*$script,image,domain=mangareader.net
+/sid*$domain=kickassanime.io
+*toany.min.js*$script,image,domain=kiss-anime.ws|animeland.us
+/zheme.js*$script,domain=igg-games.com
+/mla/ffa.js*$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
 
 ! #9708
 filmxy.one##.promo-contents
