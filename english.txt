@@ -50,7 +50,7 @@ goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
 1070thefan.com##div[class^="-rowwsc-"]
 101x.com##div[class^="-hsaawg-"]
-metacritic.com##div[id^="-oksskpi_ehw_mjveqi_/2608"]
+metacritic.com##div[id^="-olttlqj_fix_nkwfrj_/3719"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
