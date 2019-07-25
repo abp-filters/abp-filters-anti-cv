@@ -24,10 +24,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||pcmag.com$generichide,genericblock
-1070thefan.com###sitewrap
-boston.com##[name^="-gxffxcv_ruj_zwirdv_/38058326"]
-boston.com##[data-placement-name="Mid Main Column Stream"]
-boston.com##div[style*="width: 300px; height: 250px;"]	
 cbssports.com###skybox-top-wrapper
 cbssports.com##[data-ad-unit]
 cbssports.com,metrolyrics.com##[data-ad]
