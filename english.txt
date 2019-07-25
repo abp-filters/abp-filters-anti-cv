@@ -28,6 +28,8 @@ cbssports.com###skybox-top-wrapper
 cbssports.com###leader_plus_top
 cbssports.com###leader_bottom
 cbssports.com##[data-ad-unit]
+cbssports.com##div[id*="ums"]
+cbssports.com##div[id*="tsi"]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###fd_leader_plus_top
