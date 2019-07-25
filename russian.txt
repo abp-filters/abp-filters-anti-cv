@@ -60,7 +60,7 @@ baskino-z720.com#$#abort-on-property-read atob
 scrin.org#$#abort-on-property-read Math.random
 rg-mechanics.org#$#abort-on-property-read adska
 xatab-repack.net#$#abort-on-property-read adss
-9111.ru,fastpic.ru#$#abort-on-property-read Ma_random
+gorodche.ru,9111.ru,fastpic.ru#$#abort-on-property-read Ma_random
 kinopad.net#$#abort-on-property-read atob
 seasonvar.re#$#abort-current-inline-script String
 amazinghis.ru#$#abort-on-property-read anOptions
