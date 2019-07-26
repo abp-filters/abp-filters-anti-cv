@@ -311,7 +311,7 @@ rapidvideo.com,jawcloud.co,kimcartoon.to,europixhd.net,europixhd.com,gledajonlin
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
 upload4earn.org,uploadbyte.com#$#abort-on-property-read localStorage
-1strip2.me,strip2.me#$#abort-on-property-read SpacesClickunder
+strip2.xxx#$#abort-on-property-read SpacesClickunder
 mrpornx.com#$#abort-current-inline-script eval String.fromCharCode
 gounlimited.to#$#abort-on-property-read atob
 pandamovies.pw,adultvideoz.net,gounlimited.to#$#abort-on-property-read decodeURIComponent
