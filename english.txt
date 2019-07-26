@@ -1,7 +1,8 @@
 ! #8479
-||reutersmedia.net/resources/r/?y=$image,domain=reuters.com
-||reutersmedia.net/resources/r/*w=001^$image,domain=reuters.com
-@@/adfly/*$image,domain=reuters.com
+||reutersmedia.net/resources/r/?z=$image,domain=reuters.com
+||reutersmedia.net/resources/r/*w=010^$image,domain=reuters.com
+@@/adfolder/*$image,domain=reuters.com
+reuters.com##div > div > img[src*="reutersmedia.net"]:only-child
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
