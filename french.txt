@@ -33,6 +33,7 @@ voiranime.com#$#abort-on-property-read NativeAd
 
 ! #10530
 jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
+streaming-vostfr.com#$#abort-current-inline-script document.dispatchEvent String.fromCharCode
 
 ! #20940
 streaming-vostfr.com#$#abort-on-property-read decodeURIComponent
