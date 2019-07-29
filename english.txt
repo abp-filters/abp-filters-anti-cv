@@ -8,6 +8,8 @@ reuters.com##div > div > img[src*="reutersmedia.net"]:only-child
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
+msn.com#$#abort-current-inline-script navigator.userAgent instart
+msn.com##[data-aop="sponsored.stripe.shopping_stripe"]
 ||googletagservices.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
 ||amazon-adsystem.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|sfgate.com|chron.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
