@@ -5,7 +5,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ! #8479
 
 ! #9272
-wetteronline.de#$#abort-current-inline-script navigator.userAgent Instart
+wetteronline.de#$#abort-current-inline-script navigator.userAgent atob
 spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||adup-tech.com^$third-party,domain=spox.com
 
