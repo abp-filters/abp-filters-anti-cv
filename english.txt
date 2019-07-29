@@ -38,18 +38,17 @@ cnet.com##div[id^="-eckkcha_wzo_ebnwia_/0486"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fnqv_"]
-chron.com##div[id^="-obwfuu"]
+chowhound.com##div[id^="-fiqqing_cfu_khtcog_0486"]
 chron.com###NTV4
 dailypress.com##div[style*="width: 500px; height: 1230px;"]
-everydayhealth.com##div[class^="-fcf-"]
+everydayhealth.com##div[class^="-fdg-"]
 edmunds.com##.slick-slider
-edmunds.com##div[class^="-nlkgzaxkj-"]
+edmunds.com##div[id^="-nnvvnsl_hkz_pmyhtl_42215538"]
 gamepedia.com##div[id^="cdm-zone"]
-goal.com##div[id^="-mxa-"]
+goal.com##div[id^="-mhpphmf_bet_jgsbnf_/78081392"]
 goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
-metacritic.com##div[id^="-omuumrk_gjy_olxgsk_/4820"]
+metacritic.com##div[id^="-opxxpun_jmb_roajvn_/7153"]
 metacritic.com##div[id^="-onvvnsl_hlz_pmyhtl_/5931"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
