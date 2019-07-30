@@ -171,32 +171,24 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 /wp-includes/css/admin-bar.min.css^$script,domain=watchcartoononline.io|kiss-anime.ws|animeland.us|thewatchcartoononline.tv
 /inc/lcx*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
-/add-to-any/azbtoany.min.js*$script,image,domain=kiss-anime.ws|animeland.us
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
-/kot*$script,image,domain=mangareader.net
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
 /agbtoany*$script,image,domain=kiss-anime.ws|animeland.us
-/bzk*$script,domain=mangareader.net
-/nnz*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
 /wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
 /iggtheme/js/theme.js*$script,domain=igg-games.com
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
-/fcl.js*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
 /iggtheme/js/*.js*$script,domain=igg-games.com
-/homeside*$script,image,domain=kickassanime.io
-/ggz/*$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
-/side*$domain=kickassanime.io
 *ggtheme/*$script,domain=igg-games.com
 /plugins/*any/*$script,image,domain=kiss-anime.ws|animeland.us
-/bzt*$script,domain=mangareader.net
-/kzm*$script,image,domain=mangareader.net
 /sid*$domain=kickassanime.io
-*toany.min.js*$script,image,domain=kiss-anime.ws|animeland.us
-/zheme.js*$script,domain=igg-games.com
-/mla/ffa.js*$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
+/mya/ffa.js?$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
+/gheme.js?$script,domain=igg-games.com
+/uzd-to-aby/*$script,image,domain=kiss-anime.ws|animeland.us
+animeland.us##div[id*="container-"]
+/azm*$script,domain=mangareader.net
 
 ! #9708
 filmxy.one##.promo-contents
