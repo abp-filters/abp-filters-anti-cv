@@ -7,26 +7,6 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-msn.com#$#abort-current-inline-script navigator.userAgent instart
-msn.com##[data-aop="sponsored.stripe.shopping_stripe"]
-msn.com##[data-aop="stripe.msstore_stripe"]
-||googletagservices.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
-||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
-||amazon-adsystem.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|sfgate.com|chron.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|hoylosangeles.com|thoughtcatalog.com,~media
-||moatads.com^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|sfgate.com|chron.com|tv.com|cbssports.com|everydayhealth.com,~media
-||doubleclick.net^$script,domain=mcall.com|dailypress.com|sun-sentinel.com|sfgate.com|chron.com|mysanantonio.com|tv.com|cbssports.com|everydayhealth.com|geek.com,~media
-@@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
-||nanovisor.io/i10c@p1^$xmlhttprequest,domain=geek.com|medicinenet.com|webmd.com
-||sdad.guru/i10c@p1^$xmlhttprequest,domain=geek.com|webmd.com|emedicinehealth.com|medicinenet.com
-||g.doubleclick.net^$script,domain=webmd.com
-||sharethrough.com^$script,domain=webmd.com
-||adsafeprotected.com^$script,domain=webmd.com
-/i10c@p1/client/latest/abd/instart.js^$script,domain=thoughtcatalog.com|geek.com|tv.com
-/i10c@p1/client/latest/abd.html_streaming/instart.js^$script,domain=atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|marlinmag.com|range365.com|saltwatersportsman.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
-||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
-||static.adziff.com^$script,domain=pcmag.com
-||revcontent.com^$domain=boston.com|geek.com,~media
-@@||pcmag.com$generichide,genericblock
 cbssports.com###skybox-top-wrapper
 cbssports.com###leader_plus_top
 cbssports.com###leader_bottom
@@ -46,6 +26,7 @@ everydayhealth.com##div[class^="-fdg-"]
 edmunds.com##.slick-slider
 edmunds.com##div[id^="-nnvvnsl_hkz_pmyhtl_42215538"]
 gamepedia.com##div[id^="cdm-zone"]
+gamespot.com##div[id^="-mxffxcv_ruj_zwirdv_/5931"]
 goal.com##div[id^="-miqqing_cfu_khtcog_/89192403"]
 goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
@@ -60,7 +41,7 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-thoughtcatalog.com##div[class^="-hoy-"]
+thoughtcatalog.com##div[id^="-hnvvnsl_hkz_pmyhtl_/85867843"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
@@ -76,11 +57,8 @@ atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversit
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-evddvat_psh_xugpbt_/1292"]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[data--examp-oaybxqfq="true"]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##iframe[id^="-eweewbu_qti_yvhqcu_/2303"]
-cbssports.com,chicagotribune.com,sandiegouniontribune.com,sun-sentinel.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,hoylosangeles.com,southflorida.com,ctnow.com,citypaper.com,lajollalight.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
-mysanantonio.com,chron.com,sfgate.com,seattlepi.com##a[href^="https://jadserve.postrelease.com/"]
-mysanantonio.com,chron.com,sfgate.com,seattlepi.com###NTV4
-chicagotribune.com,sun-sentinel.com,courant.com,mcall.com,dailypress.com,hoylosangeles.com,southflorida.com,ctnow.com,citypaper.com,growthspotter.com,##[data--gtwil-kwuxtmbm="true"]
-atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,dailypress.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,southflorida.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,dailypress.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,southflorida.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
+cbssports.com,chicagotribune.com,sandiegouniontribune.com,courant.com,mcall.com,mamaslatinas.com,dailypress.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
+atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,dailypress.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,dailypress.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 ||atwola.com^$domain=msn.com,~media
 ||advertising.com^$domain=msn.com,~media
 ||adnxs.com^$domain=msn.com,~media
@@ -98,6 +76,22 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 ||ad.71i.de^$domain=player.glomex.com
 ||yieldlab.net^$domain=player.glomex.com
 ||flashtalking.com^$domain=player.glomex.com
+||googletagservices.com^$script,domain=mcall.com|dailypress.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|gamepedia.com|thoughtcatalog.com,~media
+||contextual.media.net^$script,domain=webmd.com|growthspotter.com|gamepedia.com|thoughtcatalog.com,~media
+||amazon-adsystem.com^$script,domain=mcall.com|dailypress.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|gamepedia.com|thoughtcatalog.com,~media
+||moatads.com^$script,domain=mcall.com|dailypress.com|tv.com|cbssports.com|everydayhealth.com,~media
+||doubleclick.net^$script,domain=mcall.com|dailypress.com|mysanantonio.com|tv.com|cbssports.com|everydayhealth.com|geek.com,~media
+||nanovisor.io/i10c@p1^$xmlhttprequest,domain=geek.com|medicinenet.com|webmd.com
+||sdad.guru/i10c@p1^$xmlhttprequest,domain=geek.com|webmd.com|emedicinehealth.com|medicinenet.com
+||g.doubleclick.net^$script,domain=webmd.com
+||sharethrough.com^$script,domain=webmd.com
+||adsafeprotected.com^$script,domain=webmd.com
+/i10c@p1/client/latest/abd.html_streaming/instart.js^$script,domain=atvrider.com|baggersmag.com|cruisingworld.com|destinationweddingmag.com|diversitybestpractices.com|floridatravellife.com|hotbikeweb.com|marlinmag.com|range365.com|saltwatersportsman.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
+||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
+||static.adziff.com^$script,domain=pcmag.com
+||revcontent.com^$domain=boston.com|geek.com,~media
+msn.com##[data-aop="sponsored.stripe.shopping_stripe"]
+msn.com##[data-aop="stripe.msstore_stripe"]
 msn.com##a[href^="https://beap.gemini.yahoo.com/"]
 msn.com##a[href*="?adUnit="]
 msn.com##a[href*="&utm_medium=native&"]
@@ -110,12 +104,13 @@ msn.com##[data-aailza="stripe.msstore_stripe"]
 msn.com##[data-aailza="stripe.youmaylike_stripe"]
 msn.com##[data-aailza="sponsored.stripe.shopping_stripe"]
 msn.com##[data-aaicprtzy="aside"]
-/*kx2egsq.g01.msn.com*$script,image,domain=msn.com
-/*ex2egsq.g01.msn.com*$script,image,domain=msn.com
+msn.com#$#abort-current-inline-script navigator.userAgent instart
+@@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=msn.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$script,domain=msn.com
 @@||fwmrm.net/p/msn_live/AdManager.js$domain=msn.com
 @@||fwmrm.net/ad/g/1?$script,domain=msn.com
+@@||pcmag.com$generichide,genericblock
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
