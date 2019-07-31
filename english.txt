@@ -46,7 +46,7 @@ everydayhealth.com##div[class^="-fdg-"]
 edmunds.com##.slick-slider
 edmunds.com##div[id^="-nnvvnsl_hkz_pmyhtl_42215538"]
 gamepedia.com##div[id^="cdm-zone"]
-goal.com##div[id^="-mhpphmf_bet_jgsbnf_/78081392"]
+goal.com##div[id^="-miqqing_cfu_khtcog_/89192403"]
 goal.com##[data-role="ad"]
 klbjfm.com##div[class^="-baiieo-"]
 metacritic.com##div[id^="-opxxpun_jmb_roajvn_/7153"]
