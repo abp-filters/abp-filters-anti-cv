@@ -169,20 +169,15 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 /assets*$script,image,domain=anime-vostfr.net|kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
-/agbtoany*$script,image,domain=kiss-anime.ws|animeland.us
 /wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
 /iggtheme/js/theme.js*$script,domain=igg-games.com
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
 /iggtheme/js/*.js*$script,domain=igg-games.com
 *ggtheme/*$script,domain=igg-games.com
-/plugins/*any/*$script,image,domain=kiss-anime.ws|animeland.us
 /sid*$domain=kickassanime.io
 /mya/ffa.js?$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
 /gheme.js?$script,domain=igg-games.com
-/uzd-to-aby/*$script,image,domain=kiss-anime.ws|animeland.us
-animeland.us##div[id*="container-"]
-/azm*$script,domain=mangareader.net
 
 ! #9708
 filmxy.one##.promo-contents
