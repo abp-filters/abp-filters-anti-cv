@@ -317,6 +317,7 @@ fastplay.to#$#abort-current-inline-script atob decodeURIComponent
 convert2mp3.net#$#abort-on-property-read decodeURIComponent
 gogoanimes.tv#$#abort-on-property-write atob
 clipwatching.com,protect-mylinks.com,01fmovies.com,ffmovies.ru,fmovies.taxi,fmovies.to,fmovies.world,fmovies123.cc,fmovieson.com,thefmovies.me#$#abort-current-inline-script document.createElement String.fromCharCode
+liivideo.com#$#abort-on-property-read Math.sin
 
 ! #20940
 onvid.website,thevidhd.xyz,thevidhd.online,thehdvid.website,vidhd.site,vidhd.space,thehdvid.xyz,vidhd.host,vidshare.tv,govid.me,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
