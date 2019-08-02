@@ -166,9 +166,9 @@ mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
 filmxy.one##.promo-contents
 
 ! #15096
-facebook.com#$#hide-if-has-and-matches-style 'abbr .timestampContent' 'div[id^="hyperfeed_story_id_"]' 'div[id*="feed_subtitle_"] > span, div[id*="feed_subtitle_"] > s' '' 'display: none'; hide-if-contains /.*/ .ego_section 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad_campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad___campaign/landing.php?"]'
-facebook.com#?#div[data-testid^="fbfeed_story"]:-abp-has(div[data-testid^="story-subtitle"] a:-abp-contains(/^StpS|^SdptS|^SsSp|^SSpS|^SSSp|^SSPp|^Sp|^ppS|^pS|^pppppSS|^tcrS|^Supt|^ltSr|^StdfS|^rtSthS|^SpSpSon|^SntpS/))
+facebook.com#$#hide-if-contains /.*/ .ego_section 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad_campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad___campaign/landing.php?"]'
 facebook.com#?#.ego_section:-abp-has(a:-abp-contains(Sponsored))
+facebook.com#$#hide-if-contains-visible-text /Sponsorlu|Sponsored|Gesponsert|Publicidad|Patrocinado|Sponsorisé|Sponsorizzato|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|ממומן|Bersponsor|Ditaja|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে/ 'div[id^="topnews_main_stream"] div[data-testid^="fbfeed_story"]' 'div[id^="topnews_main_stream"] div[data-testid^="fbfeed_story"] div[id^="fbfeed_sub"] a'
 
 ! #18467
 seekingalpha.com#$#abort-on-property-read atob
