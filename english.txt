@@ -220,6 +220,14 @@ indiatimes.com##a[onclick*="timesofindia.indiatimes.com/tilockbk/"]
 mensxp.com##a[onclick*="mensxp.com//asddjm/"]
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad")))
+indiatimes.com#?#div > a[onclick]:-abp-has( p span[class="btxt"] )
+indiatimes.com##div[class="clearfix widget list_gallery latest"]
+indiatimes.com##div[class="clearfix widget"]
+idiva.com##li[style*="box-shadow"] > a > img
+gizmodo.com#?#article[class*="js_post_item"]:-abp-has( div > span[id="avatarIcon"] )
+mensxp.com#?#div > a[onclick]:-abp-has( p span:-abp-contains(Ad: IDIVA) )
+techradar.com##.hawk-widget
+lifehacker.com#?#article[class*="js_post_item"]:-abp-has( div > span[id="avatarIcon"] )
 
 ! #16030
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require
