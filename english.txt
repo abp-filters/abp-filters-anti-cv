@@ -242,7 +242,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
 ||yieli7.tkepyc.com^$script,domain=pch.com
 ||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
-||vxq18c.g01.ign.com^$script,domain=ign.com
+||g01.ign.com^$script
 gfycat.com#$#abort-current-inline-script Math
 pch.com#$#abort-on-property-read $pxy1097
 
