@@ -154,14 +154,11 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 anime-vostfr.net##.mn-related-container
 /wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
-/iggtheme/js/theme.js*$script,domain=igg-games.com
+/uheme.js?$script,domain=igg-games.com
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
-/iggtheme/js/*.js*$script,domain=igg-games.com
-*ggtheme/*$script,domain=igg-games.com
 /sid*$domain=kickassanime.io
 /mya/ffa.js?$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
-/gheme.js?$script,domain=igg-games.com
 mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
 
 ! #9708
