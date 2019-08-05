@@ -92,6 +92,7 @@ msn.com##[data-aailza="stripe.msstore_stripe"]
 msn.com##[data-aailza="stripe.youmaylike_stripe"]
 msn.com##[data-aailza="sponsored.stripe.shopping_stripe"]
 msn.com##[data-aaicprtzy="aside"]
+msn.com##[data-aaiveaz*="/msn-adblocker-"]
 msn.com#$#abort-current-inline-script navigator.userAgent instart
 
 ! #9274
