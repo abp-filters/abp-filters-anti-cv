@@ -10,3 +10,6 @@ egybest2.com,egybest4.com#$#abort-on-property-read adcashMacros; abort-on-proper
 arabseed.com,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
 arabseed.co,arabseed.com,arabseed.tv#$#abort-on-property-read _0xb36c
 hawak.tv,rotana.video,almstba.tv#$#abort-on-property-read atob
+
+! #10530
+hawak.tv,rotana.video#$#abort-on-property-read decodeURIComponent
