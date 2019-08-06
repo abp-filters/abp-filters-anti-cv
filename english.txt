@@ -169,7 +169,7 @@ filmxy.one##.promo-contents
 ! #15096
 facebook.com#$#hide-if-contains /.*/ .ego_section 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad_campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad___campaign/landing.php?"]'
 facebook.com#?#.ego_section:-abp-has(a:-abp-contains(Sponsored))
-facebook.com#$#hide-if-contains-visible-text /Sponsorlu|Sponsored|Gesponsert|Publicidad|Patrocinado|Sponsorisé|Sponsorizzato|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|ממומן|Bersponsor|Ditaja|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে/ 'div[id^="topnews_main_stream"] div[data-testid^="fbfeed_story"]' 'div[id^="topnews_main_stream"] div[data-testid^="fbfeed_story"] div[id^="fbfeed_sub"] a'
+facebook.com#$#hide-if-contains-visible-text /Sponsorlu|Sponsored|Gesponsert|Publicidad|Patrocinado|Sponsorisé|Sponsorizzato|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|ממומן|Bersponsor|Ditaja|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে/ 'div[id^="topnews_main_stream"] div[data-testid^="fbfeed_story"]' 'div[id^="topnews_main_stream"] div[data-testid^="fbfeed_story"] div[data-testid$="-subtitle"] a'
 
 ! #18467
 seekingalpha.com#$#abort-on-property-read atob
