@@ -294,9 +294,10 @@ kickassanime.io##.ka-ax-wrp.mb-3
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.club,extreme-download.me,ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,tv-onlinehd.com,revivelink.com#$#abort-on-property-read atob
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.club,extreme-download.me#$#abort-on-property-write Fingerprint2; abort-on-property-read AaDetector; abort-on-property-read RegExp
 fastplay.to#$#abort-current-inline-script atob decodeURIComponent
-convert2mp3.net#$#abort-on-property-read decodeURIComponent
+getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw,convert2mp3.net#$#abort-on-property-read decodeURIComponent
+getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw,clipwatching.com,protect-mylinks.com,01fmovies.com,ffmovies.ru,fmovies.taxi,fmovies.to,fmovies.world,fmovies123.cc,fmovieson.com,thefmovies.me#$#abort-current-inline-script document.createElement String.fromCharCode
+getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw#$#abort-on-property-write Fingerprint2
 gogoanimes.tv#$#abort-on-property-write atob
-clipwatching.com,protect-mylinks.com,01fmovies.com,ffmovies.ru,fmovies.taxi,fmovies.to,fmovies.world,fmovies123.cc,fmovieson.com,thefmovies.me#$#abort-current-inline-script document.createElement String.fromCharCode
 holavid.com,liivideo.com#$#abort-on-property-read Math.sin
 vidshare.tv#$#abort-on-property-read Math.random
 
