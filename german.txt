@@ -3,8 +3,7 @@
 autoscout24.de#$#abort-on-property-read tisoomi
 
 ! #8479
-||img.morgenpost.de^$popup,domain=morgenpost.de
-||img.derwesten.de^^$popup,domain=derwesten.de
+/img.$popup,domain=morgenpost.de|derwesten.de|waz.de|ikz-online.de|nrz.de|wr.de|wp.de
 
 ! #9272
 wetteronline.de#$#abort-current-inline-script navigator.userAgent atob
