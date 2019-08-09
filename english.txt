@@ -19,8 +19,8 @@ cnet.com##div[id^="-edlldib_xap_fcoxjb_/1597"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fksskpi_ehw_mjveqi_/8929"]
-everydayhealth.com##div[class^="-fdg-"]
+chowhound.com##div[id^="-flttlqj_fix_nkwfrj_3719"]
+everydayhealth.com##div[class^="-feh-"]
 edmunds.com##.slick-slider
 edmunds.com##div[id^="-nnvvnsl_hkz_pmyhtl_42215538"]
 gamepedia.com##div[id^="cdm-zone"]
