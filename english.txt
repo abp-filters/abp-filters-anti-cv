@@ -6,12 +6,12 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-cbssports.com###skybox-top-wrapper
+cbssports.com##.skybox-top-wrapper
 cbssports.com###leader_plus_top
 cbssports.com###leader_bottom
 cbssports.com##[data-ad-unit]
 cbssports.com##.cc-sbillboard
-cbssports.com##div[id^="-oowwotm_ila_qnzium_/6042"]
+cbssports.com##div[id^="-opxxpun_jmb_roajvn_/7153"]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###fd_leader_plus_top
