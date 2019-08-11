@@ -3,6 +3,7 @@ kicker.de,giga.de,express.de,meinestadt.de,quoka.de,finya.de,spieletipps.de,kino
 ||static-immobilienscout24.de/fro/*$image,domain=immobilienscout24.de
 autoscout24.de#$#abort-on-property-read tisoomi
 news.de#$#hide-if-contains-image-hash ff7f7f7f7f7f7f7f * 0 8 '777x0x800x23'; hide-if-contains-image-hash ffc0c3e1e1e1477f * 0 8 '773x0x27x27'; hide-if-contains-image-hash e6e3e1e1e0fefefe * 0 8 '273x0x27x27'
+kicker.de##.kick__ad-pos_wrapper
 
 ! #8479
 /img.$popup,domain=morgenpost.de|derwesten.de|waz.de|ikz-online.de|nrz.de|wr.de|wp.de
