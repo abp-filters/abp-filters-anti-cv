@@ -1,11 +1,11 @@
 ! #9056
 clanky.seznam.cz,search.seznam.cz##[class^="Result Result--organic R25"]
-novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob; abort-on-property-write atob
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
 
 ! MISC
-idnes.cz,aktualne.cz,aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,kinobox.cz,cnews.cz,zeny.cz,tiscali.cz,extra.cz,onetv.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+idnes.cz,aktualne.cz,aktuality.sk,reflex.cz,zive.cz,mobilmania.cz,e15.cz,blesk.cz,ahaonline.cz,auto.cz,maminka.cz,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,kinobox.cz,cnews.cz,zeny.cz,tiscali.cz,extra.cz,onetv.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob; abort-on-property-write atob
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 iprima.cz#$#abort-current-inline-script setTimeout atob
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
