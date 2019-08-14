@@ -6,6 +6,7 @@
 @@||hobodoka.de^$image,domain=reuters.com
 @@||iefpiu.com^$image,domain=reuters.com
 @@||itectale.de^$image,domain=reuters.com
+@@||unaealay.net^$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
