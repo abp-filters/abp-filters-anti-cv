@@ -249,7 +249,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
 ||g01.ign.com^$script
 gfycat.com#$#abort-current-inline-script Math
-pch.com#$#abort-on-property-read $pxy1097
+pch.com#$#abort-on-property-read PCH
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
