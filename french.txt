@@ -8,7 +8,7 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 ! #16030
 lephoceen.fr,supertoinette.com,laprovence.com,viedemerde.fr#$#abort-on-property-read setInterval
 ||1ic92yd.mdbgbcskjj.com^$script
-/N4I$script,xmlhttprequest,domain=planet.fr
+/gzg$script,xmlhttprequest,domain=planet.fr
 ||meteocity.com/ressources/js/generated/adbp*.js
 audiofanzine.com#$#abort-on-property-read _adb
 
@@ -27,9 +27,14 @@ japscan.cc,japscan.com,japscan.to#$#abort-on-property-read atob
 japscan.cc,japscan.com,japscan.to#$#abort-current-inline-script document.createElement String.fromCharCode
 ||hindipix.in/js/optscript/script-2.12.3.js?
 mavanimes.co#$#abort-on-property-read _0xb36c
+streaminfr.com#$#abort-on-property-read pushADs
 
 ! #22109
 voiranime.com#$#abort-on-property-read NativeAd
 
 ! #10530
 jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
+streaming-vostfr.com#$#abort-current-inline-script document.dispatchEvent String.fromCharCode
+
+! #20940
+streaming-vostfr.com#$#abort-on-property-read decodeURIComponent

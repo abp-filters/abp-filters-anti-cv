@@ -1,6 +1,6 @@
 ! baidu.com
 ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains 广告 .c-container '.f13 > .m'
-1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com#$#abort-current-inline-script _ top_pic;abort-current-inline-script Bigpipe top_pic
+1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com#$#abort-current-inline-script _ top_pic
 
 ! MISC
 torrentkitty.tv#$#abort-on-property-read _fupfgk;abort-on-property-read _nyjdy
