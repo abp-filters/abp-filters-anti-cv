@@ -14,7 +14,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 
 ! #18828
 auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,yandex.ee,yandex.fr,yandex.kg,yandex.kz,yandex.lt,yandex.lv,yandex.md,yandex.ru,yandex.ua,yandex.uz#$#hide-if-shadow-contains *
-avtovzglyad.ru,sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
+gismeteo.kz,gismeteo.ru,gismeteo.by,gismeteo.md,avtovzglyad.ru,sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode
 razlozhi.ru#$#abort-on-property-write hasAdvert
 liveinternet.ru#$#abort-on-property-read YaHeaderBiddingSettings
@@ -57,9 +57,10 @@ baskino-z720.com#$#abort-on-property-read atob
 ! #19890
 
 ! MISC
+scrin.org#$#abort-on-property-read Math.random
 rg-mechanics.org#$#abort-on-property-read adska
 xatab-repack.net#$#abort-on-property-read adss
-fastpic.ru#$#abort-on-property-read Ma_random
+gorodche.ru,9111.ru,fastpic.ru#$#abort-on-property-read Ma_random
 kinopad.net#$#abort-on-property-read atob
 seasonvar.re#$#abort-current-inline-script String
 amazinghis.ru#$#abort-on-property-read anOptions
@@ -79,6 +80,7 @@ omskpress.ru#$#abort-on-property-read kav_cn
 spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement String.fromCharCode
+theplace.ru,sobesednik.ru,blamper.ru#$#abort-on-property-read Math_random
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
@@ -88,6 +90,4 @@ auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.r
 horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-read MrgContext
 
 ! #24711
-vorozheja.ru,asia-tv.su,rocketdockfree.ru,svadbatomsk.ru,addfiles.ru,devdrivers.ru,doc-filmik.info,elektrosat.ru,fireiser.org,goldformat.ru,hack-port.ru,skidrowcrack.ru,x-proshivki.ru,mult-online.net,soft-game.net,do.am,gnr-samp.ru,mp3songs.ru,onlinestargate.ru,torrent-file.top,правокоми.рф,xn--80aeshkkbdj.xn--p1ai,world-cs.net,top-torrent.info,fon-ki.com,gloria-cedric.ru,stalker-zone.info,vodopads.ru,crashkino.net,giginfo.ru,mp4android.ru,omsimclub.ru,cheater-top.ru,stalkermods.ru,ucoz.ua,moy.su,fukushima-news.ru,mod-rus.ru,selezen.net,torrent-15.ru,ucoz.com,autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,3dn.ru,at.ua,clan.su,cliphq.ru,db-energo.ru,ftechedu.ru,krasnickij.ru,megaclips.net,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,online-supernatural.ru,paint-cars.com,pkrc.ru,poleteli.tv,sdr-deluxe.com,ucoz.net,ucoz.org,ucoz.ru,xakevsoft.ru#$#abort-on-property-read u_global_data.preroll_video
-vorozheja.ru,asia-tv.su,rocketdockfree.ru,svadbatomsk.ru,addfiles.ru,devdrivers.ru,doc-filmik.info,elektrosat.ru,fireiser.org,goldformat.ru,hack-port.ru,skidrowcrack.ru,x-proshivki.ru,mult-online.net,soft-game.net,do.am,gnr-samp.ru,mp3songs.ru,onlinestargate.ru,torrent-file.top,правокоми.рф,xn--80aeshkkbdj.xn--p1ai,world-cs.net,top-torrent.info,fon-ki.com,gloria-cedric.ru,stalker-zone.info,vodopads.ru,crashkino.net,giginfo.ru,mp4android.ru,omsimclub.ru,cheater-top.ru,stalkermods.ru,ucoz.ua,moy.su,fukushima-news.ru,mod-rus.ru,selezen.net,torrent-15.ru,ucoz.com,autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,db-energo.ru,ftechedu.ru,my1.ru,newgames.com.ua,online-supernatural.ru,sdr-deluxe.com,poleteli.tv,megaclips.net,cliphq.ru,3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read u_global_data.clundused
-vorozheja.ru,asia-tv.su,rocketdockfree.ru,svadbatomsk.ru,addfiles.ru,devdrivers.ru,doc-filmik.info,elektrosat.ru,fireiser.org,goldformat.ru,hack-port.ru,skidrowcrack.ru,x-proshivki.ru,mult-online.net,soft-game.net,do.am,gnr-samp.ru,mp3songs.ru,onlinestargate.ru,torrent-file.top,правокоми.рф,xn--80aeshkkbdj.xn--p1ai,world-cs.net,top-torrent.info,fon-ki.com,gloria-cedric.ru,stalker-zone.info,vodopads.ru,crashkino.net,giginfo.ru,mp4android.ru,omsimclub.ru,cheater-top.ru,stalkermods.ru,ucoz.ua,moy.su,fukushima-news.ru,mod-rus.ru,selezen.net,torrent-15.ru,ucoz.com,autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,db-energo.ru,ftechedu.ru,my1.ru,newgames.com.ua,online-supernatural.ru,sdr-deluxe.com,poleteli.tv,megaclips.net,cliphq.ru,3dn.ru,at.ua,clan.su,krasnickij.ru,paint-cars.com,novospasskoe-city.ru,narod.ru,xakevsoft.ru,ucoz.ru,ucoz.net,pkrc.ru#$#abort-on-property-read mvd
+free-dream.ru,igrul-ka.ru,men-stalker.com,getmovie.me,warcraftda.ru,carproblem.ru,hero-empire.com,kp-pmr.ru,vorozheja.ru,asia-tv.su,rocketdockfree.ru,svadbatomsk.ru,addfiles.ru,devdrivers.ru,doc-filmik.info,elektrosat.ru,fireiser.org,goldformat.ru,hack-port.ru,skidrowcrack.ru,x-proshivki.ru,mult-online.net,soft-game.net,do.am,gnr-samp.ru,mp3songs.ru,onlinestargate.ru,torrent-file.top,world-cs.net,top-torrent.info,fon-ki.com,gloria-cedric.ru,stalker-zone.info,vodopads.ru,crashkino.net,giginfo.ru,mp4android.ru,omsimclub.ru,cheater-top.ru,stalkermods.ru,ucoz.ua,moy.su,fukushima-news.ru,mod-rus.ru,selezen.net,torrent-15.ru,ucoz.com,autosimgames.ru,for-gsm.ru,zona-stalkera.ru,elegos.ru,3dn.ru,at.ua,clan.su,cliphq.ru,db-energo.ru,ftechedu.ru,krasnickij.ru,megaclips.net,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,online-supernatural.ru,paint-cars.com,pkrc.ru,poleteli.tv,sdr-deluxe.com,ucoz.net,ucoz.org,ucoz.ru,xakevsoft.ru,xn--80aeshkkbdj.xn--p1ai,правокоми.рф#$#abort-on-property-read mdiv; abort-on-property-read u_global_data.clundused; abort-on-property-read u_global_data.urls
