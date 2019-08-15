@@ -25,7 +25,7 @@ drive2.ru#$#abort-current-inline-script document.currentScript
 echo.msk.ru#$#abort-on-property-read eval
 otzovik.com#$#abort-on-property-read Ya.Direct
 it-here.ru#$#abort-on-property-read pum
-gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-current-inline-script document.createElement script
+gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read fetch
 
 ! #9708
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
