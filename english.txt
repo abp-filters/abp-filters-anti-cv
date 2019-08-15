@@ -260,6 +260,7 @@ uploadmp4.com#$#abort-on-property-write Fingerprint2
 uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 
 ! MISC
+3movierulz.tv#$#abort-current-inline-script Math zfgloaded
 vidshare.tv,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
 file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
 streamango.com,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed; abort-on-property-read String.fromCharCode
@@ -332,3 +333,4 @@ alifeinbalance.net,bike-urious.com,blwideas.com,entertainment-focus.com,fanatik.
 ! Popups
 $popup,third-party,domain=streamega.com|verystream.com|oload.biz
 ||35.194.16.41^$popup
+
