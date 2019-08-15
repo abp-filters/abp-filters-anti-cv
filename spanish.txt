@@ -12,6 +12,7 @@ rojadirecta.fr,rojadirectatv.live,planetatvonlinehd.com#$#abort-on-property-read
 ! MISC
 planetatvonlinehd.com#$#abort-on-property-read atob
 pelispedia.co,pelispedia.tv,pelispedia.site,pelispedia.stream#$#abort-on-property-read AaDetector
+topflix.tv#$#abort-current-inline-script Math zfgloaded
 
 ! #22109
 rainanime.net#$#abort-on-property-read NativeAd
