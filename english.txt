@@ -14,7 +14,7 @@ cbssports.com##div[id^="-opxxpun_jmb_roajvn_/7153"]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###fd_leader_plus_top
-cnet.com##div[id^="-edlldib_xap_fcoxjb_/1597"]
+cnet.com##div[id^="-eemmejc_ybq_gdpykc_/8929"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
