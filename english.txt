@@ -1,13 +1,4 @@
 ! #8479
-@@||mellodur.net^$image,domain=reuters.com
-@@||feadrope.net^$image,domain=reuters.com
-@@||frantro.de^$image,domain=reuters.com
-@@||gcueda.com^$image,domain=reuters.com
-@@||hobodoka.de^$image,domain=reuters.com
-@@||iefpiu.com^$image,domain=reuters.com
-@@||itectale.de^$image,domain=reuters.com
-@@||unaealay.net^$image,domain=reuters.com
-@@||utoumine.net^$image,domain=reuters.com
 @@https://$image,third-party,domain=reuters.com
 
 ! #9276
