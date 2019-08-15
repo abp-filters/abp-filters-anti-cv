@@ -14,7 +14,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 
 ! #18828
 auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,yandex.ee,yandex.fr,yandex.kg,yandex.kz,yandex.lt,yandex.lv,yandex.md,yandex.ru,yandex.ua,yandex.uz#$#hide-if-shadow-contains *
-gismeteo.kz,gismeteo.ru,gismeteo.by,gismeteo.md,avtovzglyad.ru,sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
+avtovzglyad.ru,sdamgia.ru,gorodrabot.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode
 razlozhi.ru#$#abort-on-property-write hasAdvert
 liveinternet.ru#$#abort-on-property-read YaHeaderBiddingSettings
@@ -25,6 +25,7 @@ drive2.ru#$#abort-current-inline-script document.currentScript
 echo.msk.ru#$#abort-on-property-read eval
 otzovik.com#$#abort-on-property-read Ya.Direct
 it-here.ru#$#abort-on-property-read pum
+gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-current-inline-script document.createElement script
 
 ! #9708
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
