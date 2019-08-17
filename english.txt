@@ -121,7 +121,9 @@ dexerto.com##a[href^="https://scufgaming.com"]
 tube8.com##.gridBanner_
 tube8.com##.footerBanner
 youporn.com##[data-track="ad-iframe-top"]
-xhamster.com#$#abort-on-property-write dataPopUnder
+xhamster.com#$#abort-on-property-write wit-popunder
+xhamster.com##.wit-sponsor-banner
+xhamster.com##.xplayer-banner-bottom
 spankwire.com#$#abort-on-property-write ppAb
 tube8.com,pornhub.com#$#abort-on-property-write AdDelivery
 youporn.com,redtube.com#$#abort-on-property-write rAb
@@ -269,7 +271,6 @@ novom.ru#$#abort-on-property-read zoneNativeSett
 9xupload.me#$#abort-on-property-read atop
 file-up.org,zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
 zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
-xhamster.com#$#abort-on-property-read initials.urls.backUrl
 ayefiles.com#$#abort-on-property-read popjs.init
 iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com,verystream.com#$#abort-on-property-read open
 verystream.com#$#abort-on-property-read adblock
