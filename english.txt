@@ -1,5 +1,5 @@
 ! #8479
-@@https://$image,third-party,domain=reuters.com
+||reutersmedia.net/resources/r/?h=$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
