@@ -6,7 +6,6 @@ kicker.de##.kick__ad-pos_wrapper
 ! #8479
 
 ! #9272
-wetteronline.de#$#abort-current-inline-script navigator.userAgent atob
 spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||adup-tech.com^$third-party,domain=spox.com
 
