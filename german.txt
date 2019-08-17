@@ -20,7 +20,6 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 
 ! #10531
-wetteronline.de,wetteronline.at,wetteronline.ch#$#abort-on-property-read $x7m
 ||97g4tu.goaz.wetteronline.de^$script
 ||17vjmka.gyw.wetteronline.ch^$script
 ||1nn6d7t.obri.wetteronline.at^$script
