@@ -37,13 +37,13 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-thoughtcatalog.com##div[id^="-hrzzrwp_lod_tqclxp_/29201287"]
+thoughtcatalog.com##div[id^="-haiiafy_uxm_czlugy_/18190176"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-eqyyqvo_knc_spbkwo_/8264"]
-tvguide.com##div[id^="-memmejc_ybq_gdpykc_/2608"]
+tv.com##div[id^="-exffxcv_ruj_zwirdv_/1252"]
+tvguide.com##div[id^="-mxffxcv_ruj_zwirdv_/5931"]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
@@ -52,7 +52,7 @@ g00.webmd.com##body > div
 atvrider.com,baggersmag.com,chowhound.com,cnet.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,emedicinehealth.com,everydayhealth.com,floridatravellife.com,gamespot.com,hearthhead.com,hotbikeweb.com,kgsr.com,klbjfm.com,marlinmag.com,medicinenet.com,mustangandfords.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportingnews.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,webmd.com,workingmother.com,yachtingmagazine.com##[data-google-query-id]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
-atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-euccuzs_org_wtfoas_/0181"]
+atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-erzzrwp_lod_tqclxp_/5696"]
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,courant.com,mcall.com,mamaslatinas.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
 atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 ||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
