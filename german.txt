@@ -21,6 +21,7 @@ t-online.de##div[style] + img[src*=".stroeerdp.de/"]
 t-online.de##a.Tctiga[href="https://t-online.de"]
 t-online.de##a.Tctiga[href="https://t-online.de/"]
 t-online.de##a.Tctiga[href^="https://t-online.de/#"]
+t-online.de##a.Tctiga[href^="https://t-online.de/-"]
 
 ! #10531
 ||97g4tu.goaz.wetteronline.de^$script
