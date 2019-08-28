@@ -14,11 +14,11 @@ cbssports.com##div[id^="-orzzrwp_lod_tqclxp_/9375"]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###fd_leader_plus_top
-cnet.com##div[id^="-envvnsl_hkz_pmyhtl_/1252"]
+cnet.com##div[id^="-etbbtyr_nqf_vsenzr_/1597"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fowwotm_ila_qnzium_6042"]
+chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_/7818"]
 everydayhealth.com##div[class^="-ffi-"]
 edmunds.com##.slick-slider
 edmunds.com##div[class^="-nburlt-burmna"]
@@ -52,7 +52,7 @@ g00.webmd.com##body > div
 atvrider.com,baggersmag.com,chowhound.com,cnet.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,emedicinehealth.com,everydayhealth.com,floridatravellife.com,gamespot.com,hearthhead.com,hotbikeweb.com,kgsr.com,klbjfm.com,marlinmag.com,medicinenet.com,mustangandfords.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportingnews.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,webmd.com,workingmother.com,yachtingmagazine.com##[data-google-query-id]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
-atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-erzzrwp_lod_tqclxp_/5696"]
+atvrider.com,baggersmag.com,cruisingworld.com,destinationweddingmag.com,diversitybestpractices.com,floridatravellife.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-eiqqing_cfu_khtcog_/6707"]
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,courant.com,mcall.com,mamaslatinas.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
 atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,cruisingworld.com,destinationweddingmag.com,floridatravellife.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 ||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
