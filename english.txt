@@ -323,3 +323,7 @@ alifeinbalance.net,bike-urious.com,blwideas.com,entertainment-focus.com,fanatik.
 ! Popups
 $popup,third-party,domain=streamega.com|verystream.com|oload.biz|streamango.com|fruithosts.net
 ||35.194.16.41^$popup
+
+! #19788
+bing.com##li.b_adBottom
+bing.com###b_results > li:not(.b_algo):not(.b_ans):not(.b_pag)
