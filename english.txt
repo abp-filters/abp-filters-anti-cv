@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?h=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?i=$image,domain=reuters.com
 reuters.com##div[style="height: 355px;"]
 
 ! #9276
