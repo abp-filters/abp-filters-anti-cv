@@ -161,6 +161,7 @@ kickassanime.io##.ka-ax-wrapper
 /sid*$domain=kickassanime.io
 /mya/ffa.js?$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
 mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
+watchcartoononline.io,thewatchcartoononline.tv,watchcartoonsonline.eu,kiss-anime.ws,animeland.us#$#hide-if-contains-image-hash 3cd4c03ff443b507,7e30f8d030771f8c,80f7c07d3ec17e30,0cfa87c37f047e06,f8133339347c1ec6,18bee9e0027f78c3,e12d035f370e7e60,3f1420fb7f083e07,00ff79130797fc0c,90cf45ecc03f7f10,819f4e9cef8001ef,3f093c1e0f2eff00,7e287c383e1cff00,3c1efc18f462ff00
 
 ! #9708
 filmxy.one##.promo-contents
