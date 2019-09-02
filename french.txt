@@ -19,6 +19,7 @@ audiofanzine.com#$#abort-on-property-read _adb
 ||1v9d7vx.cob.autojournal.fr^$script
 ||mssjxgfk.gos.autoplus.fr^$script
 ||ovtyvnei.g00.closermag.fr^$script
+ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script document.head.appendChild
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
