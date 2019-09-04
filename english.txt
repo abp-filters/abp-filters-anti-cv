@@ -91,6 +91,7 @@ msn.com##[data-aailza="stripe.youmaylike_stripe"]
 msn.com##[data-aailza="sponsored.stripe.shopping_stripe"]
 msn.com##[data-aaicprtzy="aside"]
 msn.com##[data-aaiveaz*="/msn-adblocker-"]
+metrolyrics.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
