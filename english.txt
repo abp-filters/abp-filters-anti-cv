@@ -37,7 +37,7 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-thoughtcatalog.com##div[id^="-hweewbu_qti_yvhqcu_/74756732"]
+thoughtcatalog.com##div[id^="-hxffxcv_ruj_zwirdv_/85867843"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
