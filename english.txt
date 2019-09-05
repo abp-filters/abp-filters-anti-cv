@@ -243,6 +243,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
 ||g01.ign.com^$script
 gfycat.com#$#abort-current-inline-script Math
+alifeinbalance.net#$#abort-on-property-read g00gletag
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
