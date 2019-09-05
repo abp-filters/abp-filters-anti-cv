@@ -2,3 +2,6 @@
 
 ! #9276
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
+
+! #10531
+||d1quho2us9g95p.cloudfront.net^$script,domain=fanatik.com.tr
