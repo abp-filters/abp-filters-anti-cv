@@ -22,7 +22,7 @@ chowhound.com##div[id^="-fqyyqvo_knc_spbkwo_8264"]
 everydayhealth.com##div[class^="-ffi-"]
 edmunds.com##.slick-slider
 edmunds.com##div[class^="-nburlt-burmna"]
-edmunds.com##div[id^="-nqyyqvo_knc_spbkwo_75548861"]
+edmunds.com##div[id^="-ntbbtyr_nqf_vsenzr_08871194"]
 gamepedia.com##div[id^="cdm-zone"]
 gamespot.com##div[id^="-mzhhzex_twl_byktfx_/7153"]
 klbjfm.com##div[class^="-baiieo-"]
