@@ -18,7 +18,7 @@ cnet.com##div[id^="-eqyyqvo_knc_spbkwo_/8264"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fqyyqvo_knc_spbkwo_8264"]
+chowhound.com##div[id^="-ftbbtyr_nqf_vsenzr_1597"]
 everydayhealth.com##div[class^="-ffi-"]
 edmunds.com##.slick-slider
 edmunds.com##div[class^="-nburlt-burmna"]
@@ -43,7 +43,7 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-eweewbu_qti_yvhqcu_/4820"]
-tvguide.com##div[id^="-mnvvnsl_hkz_pmyhtl_/5931"]
+tvguide.com##div[id^="-mowwotm_ila_qnzium_/6042"]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
