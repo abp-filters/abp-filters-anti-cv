@@ -43,7 +43,7 @@ thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-eweewbu_qti_yvhqcu_/4820"]
-tvguide.com##div[id^="-mowwotm_ila_qnzium_/6042"]
+tvguide.com##div[id^="-mrzzrwp_lod_tqclxp_/9375"]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
