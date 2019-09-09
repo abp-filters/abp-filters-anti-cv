@@ -92,7 +92,7 @@ msn.com##[data-aailza="sponsored.stripe.shopping_stripe"]
 msn.com##[data-aaicprtzy="aside"]
 msn.com##[data-aaiveaz*="/msn-adblocker-"]
 metrolyrics.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
-baggersmag.com##div[id^="-emuumrk_gjy_olxgsk_/2303"]
+baggersmag.com##div[id^="-eowwotm_ila_qnzium_/4525"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
