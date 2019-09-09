@@ -85,6 +85,7 @@ naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement String.fromCharCode
 theplace.ru,sobesednik.ru,blamper.ru#$#abort-on-property-read Math_random
 vestivrn.ru#$#abort-on-property-read video.preroll
+dokonlin.ru#$#abort-on-property-read btoa
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
