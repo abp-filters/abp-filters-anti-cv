@@ -243,7 +243,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
 ||g01.ign.com^$script
 gfycat.com#$#abort-current-inline-script Math
-usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
+utahsweetsavings.com,usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
 katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script document.head.appendChild
 
 ! #10409
