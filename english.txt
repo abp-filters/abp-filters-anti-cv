@@ -324,7 +324,7 @@ nyasatimes.com##a[href^="http://www.africa.airtel.com"]
 kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! Popups
-$popup,third-party,domain=streamega.com|verystream.com|oload.biz|streamango.com|fruithosts.net|woof.tube
+$popup,third-party,domain=streamega.com|verystream.com|oload.biz|streamango.com|fruithosts.net|woof.tube|entervideo.net
 ||35.194.16.41^$popup
 
 ! #19788
