@@ -23,10 +23,5 @@ t-online.de##a.Tctiga[href="https://t-online.de/"]
 t-online.de##a.Tctiga[href^="https://t-online.de/#"]
 t-online.de##a.Tctiga[href^="https://t-online.de/-"]
 
-! #10531
-||97g4tu.goaz.wetteronline.de^$script
-||17vjmka.gyw.wetteronline.ch^$script
-||1nn6d7t.obri.wetteronline.at^$script
-
 ! #11076
 ||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
