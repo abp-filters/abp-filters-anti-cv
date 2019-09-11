@@ -39,3 +39,6 @@ streaming-vostfr.com#$#abort-current-inline-script document.dispatchEvent String
 
 ! #20940
 streaming-vostfr.com#$#abort-on-property-read decodeURIComponent
+
+! MISC
+french-streams.com#$#abort-on-property-read open
