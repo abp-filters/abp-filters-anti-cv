@@ -41,7 +41,7 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-ebjjbgz_vyn_damvhz_/9375"]
+tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
 tvguide.com##div[id^="-muccuzs_org_wtfoas_/2608"]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
