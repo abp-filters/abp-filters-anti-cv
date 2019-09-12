@@ -8,9 +8,8 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 ! #16030
 lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterval
 ||1ic92yd.mdbgbcskjj.com^$script
-/gDCB$script,xmlhttprequest,domain=planet.fr|e-sante.fr|laprovence.com
+/gDCB$script,xmlhttprequest,domain=planet.fr|e-sante.fr|laprovence.com|audiofanzine.com
 ||meteocity.com/ressources/js/generated/adbp*.js
-audiofanzine.com#$#abort-on-property-read _adb
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
