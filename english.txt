@@ -1,5 +1,5 @@
 ! #8479
-||reutersmedia.net/resources/r/?v=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?e=$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
@@ -14,7 +14,7 @@ cbssports.com##div[id^="-ockkcha_wzo_ebnwia_/0486"]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###fd_leader_plus_top
-cnet.com##div[id^="-etbbtyr_nqf_vsenzr_/1597"]
+cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
@@ -24,7 +24,7 @@ edmunds.com##.slick-slider
 edmunds.com##div[class^="-nburlt-burmna"]
 edmunds.com##div[id^="-ntbbtyr_nqf_vsenzr_08871194"]
 gamepedia.com##div[id^="cdm-zone"]
-gamespot.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
+gamespot.com##div[id^="-mfnnfkd_zcr_heqzld_/3719"]
 klbjfm.com##div[class^="-baiieo-"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
@@ -41,8 +41,8 @@ thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
-tvguide.com##div[id^="-mxffxcv_ruj_zwirdv_/5931"]
+tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
+tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
 webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
 webmd.com##.container.global-container-1
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
