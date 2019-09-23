@@ -94,6 +94,7 @@ metrolyrics.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nqyyqvo_knc_spbkwo_/1060606"]
+goal.com##div[id^="-mowwotm_ila_qnzium_/45758069"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
