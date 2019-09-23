@@ -84,7 +84,6 @@ omskpress.ru#$#abort-on-property-read kav_cn
 spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement String.fromCharCode
-blamper.ru#$#abort-on-property-read Math_random
 vestivrn.ru#$#abort-on-property-read video.preroll
 kinosvit.tv#$#abort-current-inline-script document.createElement ExternalChromePop
 
