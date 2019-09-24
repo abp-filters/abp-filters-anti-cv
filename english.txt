@@ -95,7 +95,6 @@ baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nqyyqvo_knc_spbkwo_/1060606"]
 goal.com##div[id^="-mowwotm_ila_qnzium_/45758069"]
-scubadiving.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
