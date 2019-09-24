@@ -325,6 +325,7 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 ! Popups
 $popup,third-party,domain=streamega.com|verystream.com|oload.biz|streamango.com|fruithosts.net|woof.tube|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
+/empty.html$popup,domain=woof.tube
 
 ! #19788
 bing.com##li.b_adBottom
