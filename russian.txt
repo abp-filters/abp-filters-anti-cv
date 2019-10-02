@@ -58,7 +58,7 @@ megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-rea
 baskino-z720.com#$#abort-on-property-read atob
 
 ! #19890
-7days.ru,7ogorod.ru,agrognom.ru,alau.kz,argumenti.ru,argumentiru.com,etotprazdnik.ru,fermilon.ru,globuss24.ru,gorodche.ru,kp.ru,mashintop.ru,maxpark.com,newsland.com,ogodom.ru,pasmi.ru,news.ru,politros.com,shtrafsud.ru,svpressa.ru,teleprogramma.pro#$#abort-on-property-read M_rnd
+7days.ru,7ogorod.ru,agrognom.ru,alau.kz,argumenti.ru,argumentiru.com,etotprazdnik.ru,fermilon.ru,globuss24.ru,gorodche.ru,kp.ru,mashintop.ru,maxpark.com,newsland.com,ogodom.ru,pasmi.ru,news.ru,politros.com,shtrafsud.ru,svpressa.ru,teleprogramma.pro#$#abort-on-property-write M_rnd
 
 ! MISC
 scrin.org#$#abort-on-property-read Math.random
