@@ -1,6 +1,7 @@
 ! #8471
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
+kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,deine-tierwelt.de,weser-kurier.de,donnerwetter.de,digitalfernsehen.de,rundschau-online.de,dhd24.com,liga3-online.de,aachener-zeitung.de,airliners.de,moviejones.de,fussballdaten.de,aachener-nachrichten.de,virtualnights.com,boersennews.de,auszeit.bio#$#abort-current-inline-script setTimeout
 ||kino.de/imagzs^$image,domain=kino.de
 ||spieletipps.de/imagz^$image,domain=spieletipps.de
 ||meinestadt.de/imagey^$image,domain=meinestadt.de
