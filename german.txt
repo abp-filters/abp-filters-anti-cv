@@ -10,6 +10,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||quoka.de/image/pubz^$image,domain=quoka.de
 
 ! #8479
+||img.abendblatt.de/img^$popup,domain=abendblatt.de
 
 ! #9272
 spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
