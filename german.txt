@@ -6,7 +6,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||spieletipps.de/imagz^$image,domain=spieletipps.de
 ||meinestadt.de/imagey^$image,domain=meinestadt.de
 ||giga.de/imagey^$image,domain=giga.de
-||t.kicker.de/imagb^$image,domain=kicker.de
+||t.kicker.de/imagc^$image,domain=kicker.de
 ||quoka.de/image/pubz^$image,domain=quoka.de
 
 ! #8479
