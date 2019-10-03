@@ -9,6 +9,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||t.kicker.de/imagc^$image,domain=kicker.de
 ||quoka.de/image/publiy^$image,domain=quoka.de
 ||clever-tanken.de/image^$image,domain=clever-tanken.de
+||nw.de/img1^$image,domain=nw.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
