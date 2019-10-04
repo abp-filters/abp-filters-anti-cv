@@ -12,6 +12,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||nw.de/img1^$image,domain=nw.de
 ||meinestadt.de/image^$image,domain=meinestadt.de
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
+||tichyseinblick.de/image^$image,domain=tichyseinblick.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
