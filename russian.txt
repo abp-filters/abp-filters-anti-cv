@@ -21,7 +21,7 @@ liveinternet.ru#$#abort-on-property-read YaHeaderBiddingSettings
 24smi.org#$#abort-on-property-read XMLHttpRequest
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
-drive2.ru#$#abort-current-inline-script document.currentScript
+drive2.ru#$#abort-on-property-read Object.prototype.AdvManagerInit
 echo.msk.ru#$#abort-on-property-read eval
 otzovik.com#$#abort-on-property-read Ya.Direct
 it-here.ru#$#abort-on-property-read pum
