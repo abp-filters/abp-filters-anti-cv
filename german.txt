@@ -7,7 +7,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||meinestadt.de/imagex^$image,domain=meinestadt.de
 ||giga.de/imagez^$image,domain=giga.de
 ||t.kicker.de/image^$image,domain=kicker.de
-||quoka.de/imagez/publx^$image,domain=quoka.de
+||quoka.de/imagez/publyx^$image,domain=quoka.de
 ||clever-tanken.de/imags^$image,domain=clever-tanken.de
 ||nw.de/img1^$image,domain=nw.de
 ||meinestadt.de/imag^$image,domain=meinestadt.de
