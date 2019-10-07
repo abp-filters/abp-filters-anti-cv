@@ -74,6 +74,7 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
 @@||pcmag.com^$generichide,genericblock
+||c-9pruhskhx78v0x24lex2edgqavx2efrp.g00.tv.com^script,domain=tv.com
 msn.com##[data-aop="sponsored.stripe.shopping_stripe"]
 msn.com##[data-aop="stripe.msstore_stripe"]
 msn.com##a[href^="https://beap.gemini.yahoo.com/"]
