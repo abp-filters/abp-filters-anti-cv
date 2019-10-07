@@ -11,7 +11,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||clever-tanken.de/imagx^$image,domain=clever-tanken.de
 ||nw.de/img1^$image,domain=nw.de
 ||meinestadt.de/imgs^$image,domain=meinestadt.de
-||tichyseinblick.de/image^$image,domain=tichyseinblick.de
+||tichyseinblick.de/imags^$image,domain=tichyseinblick.de
 ||donnerwetter.de/images^$image,domain=donnerwetter.de
 @@||static.donnerwetter.de/images^$image,domain=donnerwetter.de
 @@||donnerwetter.de/images/content^$image,domain=donnerwetter.de
