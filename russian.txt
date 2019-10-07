@@ -85,7 +85,7 @@ spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement String.fromCharCode
 vestivrn.ru#$#abort-on-property-read video.preroll
-kinosvit.tv#$#abort-current-inline-script document.createElement ExternalChromePop
+rutor.in,kinosvit.tv#$#abort-current-inline-script document.createElement ExternalChromePop
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
