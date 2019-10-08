@@ -12,7 +12,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||nw.de/imgs2^$image,domain=nw.de
 ||meinestadt.de/imgs^$image,domain=meinestadt.de
 ||tichyseinblick.de/imagz^$image,domain=tichyseinblick.de
-||donnerwetter.de/imagez^$image,domain=donnerwetter.de
+||donnerwetter.de/imagex^$image,domain=donnerwetter.de
 ||frag-mutti.de/imagez^$image,domain=frag-mutti.de
 ||weser-kurier.de/image/publix^$image,domain=weser-kurier.de
 
