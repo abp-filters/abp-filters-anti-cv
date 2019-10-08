@@ -4,7 +4,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,deine-tierwelt.de,weser-kurier.de,donnerwetter.de,digitalfernsehen.de,rundschau-online.de,dhd24.com,liga3-online.de,aachener-zeitung.de,airliners.de,moviejones.de,fussballdaten.de,aachener-nachrichten.de,virtualnights.com,boersennews.de,auszeit.bio#$#abort-current-inline-script setTimeout
 ||kino.de/imagz^$image,domain=kino.de
 ||spieletipps.de/imags^$image,domain=spieletipps.de
-||meinestadt.de/imgx^$image,domain=meinestadt.de
+||meinestadt.de/imgz^$image,domain=meinestadt.de
 ||giga.de/images^$image,domain=giga.de
 ||t.kicker.de/imagh^$image,domain=kicker.de
 ||quoka.de/imagez/puby^$image,domain=quoka.de
