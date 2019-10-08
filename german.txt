@@ -8,7 +8,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||giga.de/images^$image,domain=giga.de
 ||t.kicker.de/imagh^$image,domain=kicker.de
 ||quoka.de/imagez/pubz^$image,domain=quoka.de
-||clever-tanken.de/imagx^$image,domain=clever-tanken.de
+||clever-tanken.de/imagz^$image,domain=clever-tanken.de
 ||nw.de/imgs1^$image,domain=nw.de
 ||meinestadt.de/imgs^$image,domain=meinestadt.de
 ||tichyseinblick.de/imags^$image,domain=tichyseinblick.de
