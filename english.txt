@@ -289,7 +289,7 @@ strip2.xxx#$#abort-on-property-read SpacesClickunder
 mrpornx.com#$#abort-current-inline-script eval String.fromCharCode
 gounlimited.to#$#abort-on-property-read atob
 pandamovies.pw,adultvideoz.net,gounlimited.to#$#abort-on-property-read decodeURIComponent
-0xxx.ws#$#abort-current-inline-script decodeURIComponent
+0xxx.ws#$#abort-current-inline-script decodeURI decodeURIComponent
 ianimes.co,ianimes.top#$#abort-on-property-read _0x522e
 upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 gamefront.com#$#abort-current-inline-script $ AdBlock
