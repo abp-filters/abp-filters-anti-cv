@@ -42,9 +42,9 @@ tv.com###headerleader
 tv.com###leader_bottom
 tv.com##div[id^="-eksskpi_ehw_mjveqi_/2608"]
 tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
-webmd.com##div[data--bdgsv-ugehdwlw="true"]
+webmd.com##div[data--bknzc-bnlokdsd="true"]
 webmd.com###mys-overlay
-webmd.com##div[id^="-bxffxcv_ruj_zwirdv_/1089101"]
+webmd.com##div[id^="-bfnnfkd_zcr_heqzld_/9867989"]
 webmd.com##[name="google_ads_frame1"]
 webmd.com##div[data-js="global-container-1"]
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
