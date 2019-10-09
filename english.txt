@@ -238,7 +238,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||d1lu68kpg9miy0.cloudfront.net^$script,domain=celticquicknews.co.uk
 ||d11a2fzhgzqe7i.cloudfront.net^$script,domain=thecelticblog.com
 ||d3pk579obpqv7b.cloudfront.net^$script,domain=videocelts.com
-||1m4s7a9.jba.tribunnews.com^$script,domain=tribunnews.com
+||1m4s7a9.jba.tribunnews.com^$script,xmlhttprequest,domain=tribunnews.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
 ||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
 ||b8n5kh.g02.ign.com^$script,xmlhttprequest,domain=ign.com
