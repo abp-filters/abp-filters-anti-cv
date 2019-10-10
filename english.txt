@@ -44,7 +44,7 @@ tv.com##div[id^="-ehpphmf_bet_jgsbnf_/9375"]
 tvguide.com##div[id^="-maiiafy_uxm_czlugy_/8264"]
 webmd.com##div[data--bknzc-bnlokdsd="true"]
 webmd.com###mys-overlay
-webmd.com##div[id^="-bfnnfkd_zcr_heqzld_/9867989"]
+webmd.com##div[id^="-bdlldib_xap_fcoxjb_/7645767"]
 webmd.com##[name="google_ads_frame1"]
 webmd.com##div[data-js="global-container-1"]
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
