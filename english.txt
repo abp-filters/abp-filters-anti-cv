@@ -23,7 +23,9 @@ edmunds.com##.slick-slider
 edmunds.com##div[class^="-nburlt-burmna"]
 edmunds.com##div[id^="-ntbbtyr_nqf_vsenzr_08871194"]
 gamepedia.com##div[id^="cdm-zone"]
-gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
+gamespot.com###leader_plus_top-wrap
+gamespot.com###leader_top-wrap
+gamespot.com###leader_bottom-wrap
 klbjfm.com##div[class^="-baiieo-"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
@@ -55,7 +57,7 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
 atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,courant.com,mcall.com,mamaslatinas.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
-atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
+atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 ||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
 ||ad.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
 ||ad.71i.de^$domain=player.glomex.com
@@ -98,6 +100,11 @@ baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 goal.com##div[id^="-mrzzrwp_lod_tqclxp_/78081392"]
+@@$media,domain=gamespot.com
+@@||gamespot.com^$generichide
+@@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
+@@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
+@@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
