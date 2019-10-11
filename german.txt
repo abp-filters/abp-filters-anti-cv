@@ -9,7 +9,7 @@ kicker.de,express.de,mz-web.de,berliner-zeitung.de,nw.de,berliner-kurier.de,dein
 ||t.kicker.de/imgez^$image,domain=kicker.de
 ||quoka.de/image/publz^$image,domain=quoka.de
 ||clever-tanken.de/imags^$image,domain=clever-tanken.de
-||nw.de/imgz1^$image,domain=nw.de
+||nw.de/imgz2^$image,domain=nw.de
 ||meinestadt.de/imgs^$image,domain=meinestadt.de
 ||tichyseinblick.de/imags^$image,domain=tichyseinblick.de
 ||donnerwetter.de/imagey^$image,domain=donnerwetter.de
