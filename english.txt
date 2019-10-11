@@ -96,7 +96,7 @@ msn.com##[data-aailza="sponsored.stripe.shopping_stripe"]
 msn.com##[data-aaicprtzy="aside"]
 msn.com##[data-aaiveaz*="/msn-adblocker-"]
 metrolyrics.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
-baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
+baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 goal.com##div[id^="-mrzzrwp_lod_tqclxp_/78081392"]
