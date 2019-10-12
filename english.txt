@@ -25,9 +25,9 @@ edmunds.com##div[id^="-ntbbtyr_nqf_vsenzr_08871194"]
 gamepedia.com##div[id^="cdm-zone"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
+gamespot.com###leader_bottom-wrap
 msn.com##.todayshowcasead
 msn.com##.widead
-gamespot.com###leader_bottom-wrap
 klbjfm.com##div[class^="-baiieo-"]
 metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
