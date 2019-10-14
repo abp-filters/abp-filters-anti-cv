@@ -26,6 +26,8 @@ gamepedia.com##div[id^="cdm-zone"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
+msn.com##.todayshowcasead
+msn.com##.widead
 klbjfm.com##div[class^="-baiieo-"]
 metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
@@ -100,8 +102,9 @@ baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 goal.com##div[id^="-mrzzrwp_lod_tqclxp_/78081392"]
-@@$media,domain=gamespot.com
+@@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
+@@||msn.com^$generichide
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
