@@ -77,7 +77,6 @@ goal.com##div[id^="-mrzzrwp_lod_tqclxp_/78081392"]
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
-baggersmag.com#$#abort-current-inline-script IXC_269_12571081248889526
 atvrider.com#$#abort-current-inline-script IXC_269_12571081248889526
 islands.com#$#abort-current-inline-script IXC_269_12571081248889526
 diversitybestpractices.com#$#abort-current-inline-script IXC_269_12571081248889526
@@ -88,10 +87,7 @@ superstreetbike.com#$#abort-current-inline-script IXC_269_12571081248889526
 sportingnews.com#$#abort-current-inline-script IXC_269_12571081248889526
 utvdriver.com#$#abort-current-inline-script IXC_269_12571081248889526
 gamespot.com#$#abort-current-inline-script IXC_269_12571081248889526
-workingmother.com#$#abort-current-inline-script IXC_269_12571081248889526
 cbssports.com#$#abort-current-inline-script IXC_269_12571081248889526
-goal.com#$#abort-current-inline-script IXC_269_12571081248889526
-metrolyrics.com#$#abort-current-inline-script IXC_269_12571081248889526
 edmunds.com#$#abort-current-inline-script IXC_106_9047456100928801
 
 ! #9274
