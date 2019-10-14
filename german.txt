@@ -7,7 +7,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ||giga.de/imagey^$image,domain=giga.de
 ||t.kicker.de/imagez^$image,domain=kicker.de
 ||quoka.de/image/publy^$image,domain=quoka.de
-||clever-tanken.de/imags^$image,domain=clever-tanken.de
+||clever-tanken.de/imagx^$image,domain=clever-tanken.de
 ||nw.de/imgz2^$image,domain=nw.de
 ||meinestadt.de/imgs^$image,domain=meinestadt.de
 ||tichyseinblick.de/imags^$image,domain=tichyseinblick.de
