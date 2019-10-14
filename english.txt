@@ -10,18 +10,14 @@ cbssports.com###leader_plus_top
 cbssports.com###leader_bottom
 cbssports.com##[data-ad-unit]
 cbssports.com##.cc-sbillboard
-cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 cbssports.com,metrolyrics.com##[data-ad]
 cnet.com##[data-ad="incontent-ad-plus-billboard-top"]
 cnet.com###fd_leader_plus_top
-download.cnet.com##div[id^="-ezhhzex_twl_byktfx_/7153"]
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 chowhound.com##div[id^="-fyggydw_svk_axjsew_6042"]
 edmunds.com##.slick-slider
-edmunds.com##div[class^="-nburlt-burmna"]
-edmunds.com##div[id^="-ntbbtyr_nqf_vsenzr_08871194"]
 gamepedia.com##div[id^="cdm-zone"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
@@ -33,8 +29,6 @@ metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
-medicinenet.com##div[class^="-keh_"]
-emedicinehealth.com##div[class^="-beh_"]
 pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
@@ -53,11 +47,8 @@ webmd.com##[name="google_ads_frame1"]
 webmd.com##div[data-js="global-container-1"]
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
 webmd.com#?#.wrapper:-abp-has(div:-abp-contains(Sponsored ads))
-g00.webmd.com##body > div
 atvrider.com,baggersmag.com,chowhound.com,cnet.com,destinationweddingmag.com,diversitybestpractices.com,emedicinehealth.com,everydayhealth.com,gamespot.com,hearthhead.com,hotbikeweb.com,kgsr.com,klbjfm.com,marlinmag.com,medicinenet.com,mustangandfords.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,sportingnews.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,webmd.com,workingmother.com,yachtingmagazine.com##[data-google-query-id]
-atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[id^="ntv"]
 atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
-atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,courant.com,mcall.com,mamaslatinas.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
 atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
 ||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
@@ -75,8 +66,6 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
-||c-9pruhskhx78v0x24lex2edgqavx2efrp.g00.tv.com^script,domain=tv.com
-||c-3sux78kvnkay76x24ohx2egjtdyx2eius.g00.cnet.com^script,domain=cnet.com
 metrolyrics.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
