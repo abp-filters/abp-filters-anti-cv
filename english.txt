@@ -70,8 +70,6 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 ||nanovisor.io/i10c@p1^$xmlhttprequest,domain=geek.com|medicinenet.com|webmd.com
 ||sdad.guru/i10c@p1^$xmlhttprequest,domain=geek.com|webmd.com|emedicinehealth.com|medicinenet.com
 ||g.doubleclick.net^$script,domain=webmd.com
-||sharethrough.com^$script,domain=webmd.com
-||adsafeprotected.com^$script,domain=webmd.com
 /i10c@p1/client/latest/abd.html_streaming/instart.js^$script,domain=atvrider.com|baggersmag.com|destinationweddingmag.com|diversitybestpractices.com|hotbikeweb.com|marlinmag.com|range365.com|saltwatersportsman.com|scubadiving.com|scubadivingintro.com|sportdiver.com|sportfishingmag.com|streetchopperweb.com|superstreetbike.com|utvdriver.com|wakeboardingmag.com|waterskimag.com|workingmother.com|yachtingmagazine.com
 ||extremetech.com^$csp=script-src 'self' * 'unsafe-inline'
 ||static.adziff.com^$script,domain=pcmag.com
