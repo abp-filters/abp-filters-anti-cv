@@ -5,11 +5,11 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ||giga.de/imagex^$image,domain=giga.de
 ||meinestadt.de/imagex^$image,domain=meinestadt.de
 ||quoka.de/image/publ^$image,domain=quoka.de
-||kino.de/imagz^$image,domain=kino.de
-||spieletipps.de/imagxx^$image,domain=spieletipps.de
-||clever-tanken.de/imagx^$image,domain=clever-tanken.de
+||spieletipps.de/imags^$image,domain=spieletipps.de
+||kino.de/image^$image,domain=kino.de
+||clever-tanken.de/imagz^$image,domain=clever-tanken.de
+||tichyseinblick.de/image^$image,domain=tichyseinblick.de
 ||nw.de/img1^$image,domain=nw.de
-||tichyseinblick.de/imagz^$image,domain=tichyseinblick.de
 ||donnerwetter.de/imagy^$image,domain=donnerwetter.de
 ||frag-mutti.de/imagz^$image,domain=frag-mutti.de
 ||weser-kurier.de/image/publx^$image,domain=weser-kurier.de
