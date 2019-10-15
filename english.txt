@@ -25,7 +25,7 @@ gamespot.com###leader_bottom-wrap
 msn.com##.todayshowcasead
 msn.com##.widead
 klbjfm.com##div[class^="-baiieo-"]
-metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
+metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
@@ -71,7 +71,7 @@ metrolyrics.com##div[id^="-nksskpi_ehw_mjveqi_/2608"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
-goal.com##div[id^="-muccuzs_org_wtfoas_/01314625"]
+goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
 @@||msn.com^$generichide
