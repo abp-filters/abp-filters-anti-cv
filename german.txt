@@ -4,9 +4,9 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ||t.kicker.de/imagz^$image,domain=kicker.de
 ||giga.de/images^$image,domain=giga.de
 ||meinestadt.de/imagex^$image,domain=meinestadt.de
-||quoka.de/image/publ^$image,domain=quoka.de
-||spieletipps.de/imags^$image,domain=spieletipps.de
-||kino.de/image^$image,domain=kino.de
+||quoka.de/image/pubx^$image,domain=quoka.de
+||spieletipps.de/imagz^$image,domain=spieletipps.de
+||kino.de/imags^$image,domain=kino.de
 ||clever-tanken.de/imagz^$image,domain=clever-tanken.de
 ||tichyseinblick.de/image^$image,domain=tichyseinblick.de
 ||nw.de/imgs1^$image,domain=nw.de
