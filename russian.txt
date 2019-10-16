@@ -100,3 +100,6 @@ free-dream.ru,igrul-ka.ru,men-stalker.com,getmovie.me,warcraftda.ru,carproblem.r
 
 ! #26248
 vesti.ua#$#abort-current-inline-script document.createElement atob
+
+! #20940
+online.animedia.tv#$#abort-on-property-read zfgformats
