@@ -69,7 +69,6 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
 metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
-cnet.com#$#abort-current-inline-script navigator.userAgent Instart
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 @@$media,domain=gamespot.com|msn.com
