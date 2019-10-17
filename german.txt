@@ -2,15 +2,15 @@
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
 ||t.kicker.de/imagz^$image,domain=kicker.de
-||giga.de/images^$image,domain=giga.de
+||giga.de/imagex^$image,domain=giga.de
 ||meinestadt.de/imagex^$image,domain=meinestadt.de
-||quoka.de/image/pubx^$image,domain=quoka.de
+||quoka.de/images/public^$image,domain=quoka.de
 ||spieletipps.de/imagz^$image,domain=spieletipps.de
 ||kino.de/imags^$image,domain=kino.de
 ||clever-tanken.de/image^$image,domain=clever-tanken.de
 ||tichyseinblick.de/imags^$image,domain=tichyseinblick.de
 ||nw.de/imgs1^$image,domain=nw.de
-||donnerwetter.de/imgs^$image,domain=donnerwetter.de
+||donnerwetter.de/img^$image,domain=donnerwetter.de
 ||frag-mutti.de/imagy^$image,domain=frag-mutti.de
 ||weser-kurier.de/image/publz^$image,domain=weser-kurier.de
 
