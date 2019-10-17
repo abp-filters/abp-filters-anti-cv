@@ -84,10 +84,9 @@ hotbikeweb.com#$#abort-current-inline-script IXC_269_12571081248889526
 scubadivingintro.com#$#abort-current-inline-script IXC_269_12571081248889526
 sportdiver.com#$#abort-current-inline-script IXC_269_12571081248889526
 superstreetbike.com#$#abort-current-inline-script IXC_269_12571081248889526
-sportingnews.com#$#abort-current-inline-script IXC_269_12571081248889526
 utvdriver.com#$#abort-current-inline-script IXC_269_12571081248889526
 gamespot.com#$#abort-current-inline-script IXC_269_12571081248889526
-cbssports.com#$#abort-current-inline-script IXC_277_6862765520017649
+sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_277_6862765520017649
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 
 ! #9274
