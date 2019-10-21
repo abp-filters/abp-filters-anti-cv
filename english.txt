@@ -72,7 +72,6 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
-goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
 @@||msn.com^$generichide
