@@ -11,7 +11,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||greenlawnmantador.com^$script
 /N4Ig$script,xmlhttprequest,domain=planet.fr|viedemerde.fr|audiofanzine.com
 /gpgH$script,xmlhttprequest,domain=e-sante.fr|laprovence.com
-/gDCB$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
+/gHA7A$script,xmlhttprequest,domain=planet.fr
 /raindrops^$script,xmlhttprequest,domain=audiofanzine.com
 /gjAr$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
 
