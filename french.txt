@@ -9,6 +9,7 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterval
 ||1ic92yd.mdbgbcskjj.com^$script
 ||greenlawnmantador.com^$script
+||dajwf4bbz9xqa.cloudfront.net^$script
 /N4Ig$script,xmlhttprequest,domain=planet.fr|viedemerde.fr|audiofanzine.com
 /gpgH$script,xmlhttprequest,domain=e-sante.fr|laprovence.com
 /gHA7A$script,xmlhttprequest,domain=planet.fr
