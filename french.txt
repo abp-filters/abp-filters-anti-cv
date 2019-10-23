@@ -12,7 +12,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 /N4Ig$script,xmlhttprequest,domain=planet.fr|viedemerde.fr|audiofanzine.com
 /gpgH$script,xmlhttprequest,domain=e-sante.fr|laprovence.com
 /gHA7A$script,xmlhttprequest,domain=planet.fr
-/raindrops^$script,xmlhttprequest,domain=audiofanzine.com
+||audiofanzine.com/gantlets^$script,xmlhttprequest,domain=audiofanzine.com
 /gjAr$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
 
 ! #10531
