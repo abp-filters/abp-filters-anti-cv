@@ -229,9 +229,9 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 gfycat.com#$#abort-current-inline-script Math
 foreverconscious.com,blwideas.com,ultimateninjablazingx.com,utahsweetsavings.com,usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
 katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script document.head.appendChild
-||52na4b.tkepyc.com^$script,xmlhttprequest,domain=pch.com
-||1x7e5ya.tjfmd.com^$script,xmlhttprequest,domain=pch.com
-||1pmtk6s.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
+||1ql4tcu.tkepyc.com^$script,xmlhttprequest,domain=pch.com
+||2ywm9z.tjfmd.com^$script,xmlhttprequest,domain=pch.com
+||cr8emp.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
 ||zk8n5o.oaqjwapqdho.com^$script,xmlhttprequest
 ||fws2n1.volstqkwmth.com^$script,xmlhttprequest
 
