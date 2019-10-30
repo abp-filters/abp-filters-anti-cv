@@ -10,11 +10,10 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||1ic92yd.mdbgbcskjj.com^$script
 ||greenlawnmantador.com^$script
 ||dajwf4bbz9xqa.cloudfront.net^$script
-/N4Ig$script,xmlhttprequest,domain=planet.fr|viedemerde.fr|audiofanzine.com
-/gpgH$script,xmlhttprequest,domain=e-sante.fr|laprovence.com
-/gHA7A$script,xmlhttprequest,domain=planet.fr
+/gpgH$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
+/gbAr$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
+/gDgp$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
 ||audiofanzine.com/gantlets^$script,xmlhttprequest,domain=audiofanzine.com
-/gjAr$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
