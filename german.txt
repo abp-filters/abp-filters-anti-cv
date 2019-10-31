@@ -1,9 +1,9 @@
 ! #8471
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
-||t.kicker.de/imagev^$image,domain=kicker.de
-||giga.de/imagex^$image,domain=giga.de
-||meinestadt.de/imagey^$image,domain=meinestadt.de
+||t.kicker.de/imags^$image,domain=kicker.de
+||giga.de/images^$image,domain=giga.de
+||meinestadt.de/imagex^$image,domain=meinestadt.de
 ||quoka.de/image/pubz^$image,domain=quoka.de
 ||spieletipps.de/image^$image,domain=spieletipps.de
 ||kino.de/image^$image,domain=kino.de
