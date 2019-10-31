@@ -17,7 +17,7 @@ cnet.com###fd_leader_plus_top
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
+download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
