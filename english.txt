@@ -84,6 +84,7 @@ gamespot.com#$#abort-current-inline-script IXC_277_6862765520017649
 gamespot.com,goal.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_280_008554868837845397
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
+edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
