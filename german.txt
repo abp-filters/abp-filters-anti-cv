@@ -11,9 +11,9 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ||clever-tanken.de/imagz^$image,domain=clever-tanken.de
 ||tichyseinblick.de/imagz^$image,domain=tichyseinblick.de
 ||nw.de/img1^$image,domain=nw.de
-||donnerwetter.de/imags^$image,domain=donnerwetter.de
-||frag-mutti.de/imagey^$image,domain=frag-mutti.de
-||weser-kurier.de/image/pubix^$image,domain=weser-kurier.de
+||donnerwetter.de/imagy^$image,domain=donnerwetter.de
+||frag-mutti.de/imags^$image,domain=frag-mutti.de
+||weser-kurier.de/image/pubiy^$image,domain=weser-kurier.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
