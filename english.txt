@@ -17,8 +17,8 @@ cnet.com###fd_leader_plus_top
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
-chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608"]
+download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
+chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
@@ -33,13 +33,13 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/41423409"]
+thoughtcatalog.com##div[id^="-hemmejc_ybq_gdpykc_/52534510"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
-tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
+tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
+tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
 webmd.com##div[data--bjmyb-amknjcrc="true"]
 webmd.com###mys-overlay
 webmd.com##div[id^="-bemmejc_ybq_gdpykc_/65165682897"]
@@ -51,7 +51,7 @@ atvrider.com,baggersmag.com,chowhound.com,cnet.com,destinationweddingmag.com,div
 atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com,webmd.com,everydayhealth.com##[data-google-container-id]
 cbssports.com,chicagotribune.com,sandiegouniontribune.com,courant.com,mcall.com,mamaslatinas.com,ctnow.com,citypaper.com,growthspotter.com,ranchosantafereview.com##div[draggable="false"]
 atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,gamespot.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com,atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,citypaper.com,cnet.com,destinationweddingmag.com,hotbikeweb.com,marlinmag.com,mcall.com,metacritic.com,metrolyrics.com,mustangandfords.com,mysanantonio.com,pcmag.com,scubadiving.com,sportdiver.com,sportfishingmag.com,spox.com,streetchopperweb.com,superstreetbike.com,tv.com,tvguide.com,utvdriver.com,waterskimag.com,workingmother.com,yachtingmagazine.com##[observeid]
-atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
+atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com,hotbikeweb.com,marlinmag.com,scubadiving.com,scubadivingintro.com,sportdiver.com,sportfishingmag.com,streetchopperweb.com,superstreetbike.com,utvdriver.com,wakeboardingmag.com,waterskimag.com,workingmother.com,yachtingmagazine.com##div[id^="-evddvat_psh_xugpbt_/1292"]
 ||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
 ||ad.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
 ||googletagservices.com^$script,domain=mcall.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|thoughtcatalog.com,~media
@@ -68,8 +68,8 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
 metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
-baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
-ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
+baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
+ranker.com##div[id^="-nweewbu_qti_yvhqcu_/7626262"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
 @@||msn.com^$generichide
@@ -85,6 +85,9 @@ gamespot.com,goal.com,sportingnews.com,cbssports.com#$#abort-current-inline-scri
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
+goal.com##div[id^="-muccuzs_org_wtfoas_/01314625"]
+gamespot.com##div[id^="-miqqing_cfu_khtcog_/0486"]
+cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
