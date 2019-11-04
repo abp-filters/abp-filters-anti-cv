@@ -87,6 +87,7 @@ nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script doc
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in,kinosvit.tv#$#abort-current-inline-script document.createElement ExternalChromePop
 uploadimagex.com#$#abort-on-property-read open
+paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
