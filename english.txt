@@ -129,11 +129,10 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
-/*gek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
-/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|watchcartoononline.io|animeland.us
+/*gek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|animeland.us
+/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|goodanime.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|toonget.net|toonova.net|mangareader.net|animewow.org|animewow.org|animeland.us
 /^https?:\/\/([0-9a-z]+\.)?(animeland\.us|animenova\.org|animeplus\.tv|animewow\.org|gogoanime1\.com|gogoanime\.in|gogoanime\.to|gogoanime\.tv|gogoanimes\.co|goodanime\.co|kimcartoon\.to|kimcartoon\.tv|kiss-anime\.ws|mangareader\.net|readcomiconline\.to|thewatchcartoononline\.tv|toonget\.net|toonova\.net|watchcartoononline\.io|kickassanime\.io)\/[a-z]+\/[0-9a-zA-Z\-\_]{15,50}$/$script
-/wp-includes/css/admin-bar.min.css^$script,domain=watchcartoononline.io|kiss-anime.ws|animeland.us|thewatchcartoononline.tv
-/inc/lcx*$script,image,domain=watchcartoononline.io|thewatchcartoononline.tv
+/wp-includes/css/admin-bar.min.css^$script,domain=kiss-anime.ws|animeland.us|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
 /assets*$script,image,domain=kickassanime.io
@@ -143,9 +142,9 @@ nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
 /sid*$domain=kickassanime.io
-/mya/ffa.js?$domain=watchcartoononline.io|thewatchcartoononline.tv|watchcartoonsonline.eu
+/mya/lfa.js$domain=thewatchcartoononline.tv|wcostream.com
 mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
-watchcartoononline.io,thewatchcartoononline.tv,mangareader.net,watchcartoonsonline.eu,kiss-anime.ws,animeland.us#$#hide-if-contains-image-hash 3cd4c03ff443b507,7e30f8d030771f8c,80f7c07d3ec17e30,0cfa87c37f047e06,f8133339347c1ec6,18bee9e0027f78c3,e12d035f370e7e60,3f1420fb7f083e07,00ff79130797fc0c,90cf45ecc03f7f10,819f4e9cef8001ef,3f093c1e0f2eff00,7e287c383e1cff00,3c1efc18f462ff00,08fb321ff681ff00,4f073cb8e8f0ff00,7874e0f1f074ff00,0d8f16e3cf82ff00,9f033b5833393e38,f0f01c3e72367e18,173c3b1c7b227478,7f08783916377e60,c3c3c363c715ff00,c7838f07037e4e2e,e3c1d383bd81ff00,f0f0f4c2c70b059f,f891f4682f83c3c9,f8b0583e3e45a3c3,f8b0583e3e45a3c3,f8c2c38dff003f82,fc180e1f81ee5e0e
+thewatchcartoononline.tv,mangareader.net,watchcartoonsonline.eu,kiss-anime.ws,animeland.us#$#hide-if-contains-image-hash 3cd4c03ff443b507,7e30f8d030771f8c,80f7c07d3ec17e30,0cfa87c37f047e06,f8133339347c1ec6,18bee9e0027f78c3,e12d035f370e7e60,3f1420fb7f083e07,00ff79130797fc0c,90cf45ecc03f7f10,819f4e9cef8001ef,3f093c1e0f2eff00,7e287c383e1cff00,3c1efc18f462ff00,08fb321ff681ff00,4f073cb8e8f0ff00,7874e0f1f074ff00,0d8f16e3cf82ff00,9f033b5833393e38,f0f01c3e72367e18,173c3b1c7b227478,7f08783916377e60,c3c3c363c715ff00,c7838f07037e4e2e,e3c1d383bd81ff00,f0f0f4c2c70b059f,f891f4682f83c3c9,f8b0583e3e45a3c3,f8b0583e3e45a3c3,f8c2c38dff003f82,fc180e1f81ee5e0e
 
 ! #9708
 filmxy.one##.promo-contents
