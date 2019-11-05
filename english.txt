@@ -18,7 +18,7 @@ cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
 download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
-chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
+chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
@@ -68,8 +68,8 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
 metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
-baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
-ranker.com##div[id^="-nweewbu_qti_yvhqcu_/7626262"]
+baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
+ranker.com##div[id^="-nuccuzs_org_wtfoas_/5404040"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
 @@||msn.com^$generichide
