@@ -17,7 +17,7 @@ cnet.com###fd_leader_plus_top
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
+download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
@@ -33,13 +33,13 @@ pcmag.com##.panel-container
 pcmag.com##.zergentity
 pcmag.com##.zergheader
 pcmag.com##.tile.strip.deal-of-day
-thoughtcatalog.com##div[id^="-hemmejc_ybq_gdpykc_/52534510"]
+thoughtcatalog.com##div[id^="-hckkcha_wzo_ebnwia_/30312398"]
 thoughtcatalog.com##.ThoughtCatalog_728x90_Homepage_Top_Prebid
 thoughtcatalog.com###ThoughtCatalog_728x90_Homepage_Top_1
 tv.com###headerleader
 tv.com###leader_bottom
-tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
-tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
+tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
+tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
 webmd.com##div[data--bjmyb-amknjcrc="true"]
 webmd.com###mys-overlay
 webmd.com##div[id^="-bemmejc_ybq_gdpykc_/65165682897"]
