@@ -24,7 +24,6 @@ gamespot.com###leader_bottom-wrap
 msn.com##.todayshowcasead
 msn.com##.widead
 klbjfm.com##div[class^="-baiieo-"]
-metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
@@ -78,7 +77,6 @@ gamespot.com#$#abort-current-inline-script IXC_277_6862765520017649
 gamespot.com,goal.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_296_0815505398943761
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
-edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
@@ -89,6 +87,8 @@ tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
+edmunds.com##div[id^="-naiiafy_uxm_czlugy_75548861"]
+metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
