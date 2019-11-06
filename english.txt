@@ -18,7 +18,6 @@ cnet.com###fd_leader_plus_top
 cnet.com###glade-aslot-1
 cnet.com##[data-ad-cid]
 cnet.com##.sticky-leader
-chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
@@ -65,8 +64,6 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
 metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
-baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
-ranker.com##div[id^="-nuccuzs_org_wtfoas_/5404040"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
 @@||msn.com^$generichide
@@ -89,6 +86,9 @@ download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
 thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/41423409"]
 tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
 tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
+ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
+baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
+chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
