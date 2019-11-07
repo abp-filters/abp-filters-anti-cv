@@ -80,7 +80,7 @@ cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
-download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
+download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/41423409"]
 tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
 tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
