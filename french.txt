@@ -15,7 +15,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 /gDgp$script,xmlhttprequest,domain=planet.fr|laprovence.com|e-sante.fr|viedemerde.fr
 ||audiofanzine.com/gantlets^$script,xmlhttprequest,domain=audiofanzine.com
 ||kernvilleuniontown.com^$script,image
-||doyondeville.com^$script,domain=planet.fr
+||doyondeville.com^$script
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
