@@ -1,7 +1,7 @@
 ! #8479
 ||reutersmedia.net/resources/r/?o=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?p=$image,domain=reuters.com
-||reutersmedia.net/resources/r/?n=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?s=$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
