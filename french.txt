@@ -24,6 +24,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||ovtyvnei.g00.closermag.fr^$script
 ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script document.head.appendChild
 ||l4orfd.artimwapo.com^$script,xmlhttprequest,domain=mariefrance.fr
+||suqerc.com^$script
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
