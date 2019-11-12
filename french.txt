@@ -23,7 +23,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||mssjxgfk.gos.autoplus.fr^$script
 ||ovtyvnei.g00.closermag.fr^$script
 ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script document.head.appendChild
-||l4orfd.artimwapo.com^$script,xmlhttprequest,domain=mariefrance.fr
+||artimwapo.com^$script
 ||suqerc.com^$script
 ||rdqgllmny.com^$script
 ||dxfzasn.com^$script
