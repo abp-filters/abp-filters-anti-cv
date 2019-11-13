@@ -88,7 +88,6 @@ vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in,kinosvit.tv#$#abort-current-inline-script document.createElement ExternalChromePop
 uploadimagex.com#$#abort-on-property-read open
 paratechnik.ru#$#abort-current-inline-script decodeURIComponent
-vgtimes.ru#$#abort-on-property-write window.hi_url
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
