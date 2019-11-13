@@ -30,6 +30,7 @@ ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script
 ||nyoskiov.com^$script
 ||oohekxhvt.com^$script
 ||ywywjrlbsuv.com^$script
+||jylgd.com^$script
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
