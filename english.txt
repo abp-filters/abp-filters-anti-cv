@@ -214,7 +214,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 
 ! #10531
-||1m4s7a9.jba.tribunnews.com^$script,xmlhttprequest,domain=tribunnews.com
+||1h6jqyt.jba.tribunnews.com^$script,xmlhttprequest,domain=tribunnews.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
 ||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
 ||1ecfkts.g02.ign.com^$script,xmlhttprequest,domain=ign.com
