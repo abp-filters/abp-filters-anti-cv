@@ -84,7 +84,7 @@ baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
 chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 edmunds.com##div[id^="-nyggydw_svk_axjsew_53326649"]
 edmunds.com##div[data--nljsucafy-hsjwfl="edm-entry-partner-promotions"]
-metacritic.com##div[id^="-pbjjbgz_vyn_damvhz_/9375"]
+metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
 maxpreps.com##div[id^="-mowwotm_ila_qnzium_/6042"]
 
 ! #9274
