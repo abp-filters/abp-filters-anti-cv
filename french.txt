@@ -15,6 +15,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||kernvilleuniontown.com^$script,image
 ||doyondeville.com^$script
 ||planet.fr/foretimes^$script
+||planet.fr/piercers^$script
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
