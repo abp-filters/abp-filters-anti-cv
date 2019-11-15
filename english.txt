@@ -83,9 +83,9 @@ ranker.com##div[id^="-nweewbu_qti_yvhqcu_/7626262"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
 edmunds.com##div[id^="-naiiafy_uxm_czlugy_75548861"]
-edmunds.com##div[data--nljsucafy-hsjwfl="edm-entry-partner-promotions"]
+edmunds.com##div[data--nnluwecha-julyhn="edm-entry-partner-promotions"]
 metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597"]
-maxpreps.com##div[id^="-mowwotm_ila_qnzium_/6042"]
+maxpreps.com##div[id^="-mqyyqvo_knc_spbkwo_/8264"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
