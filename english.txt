@@ -23,7 +23,7 @@ gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
 msn.com##.todayshowcasead
 msn.com##.widead
-klbjfm.com##div[class^="-baiieo-"]
+klbjfm.com##div[id^="-bksskpi_ehw_mjveqi_/0176"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
