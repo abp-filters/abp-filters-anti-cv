@@ -42,6 +42,7 @@ ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script
 ||jcavis.com^$script,xmlhttprequest
 ||ugeolf.com^$script
 ||jkajunrtzql.com^$script
+||volstqkwmth.com^$script
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
