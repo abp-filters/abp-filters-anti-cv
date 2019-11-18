@@ -2,6 +2,7 @@
 ||reutersmedia.net/resources/r/?f=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?h=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?k=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?l=$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
