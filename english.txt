@@ -8,7 +8,9 @@
 ||reutersmedia.net/resources/r/?s=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?u=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?v=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?w=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?x=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?y=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?z=$image,domain=reuters.com
 
 ! #9276
