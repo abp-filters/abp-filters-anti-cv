@@ -20,6 +20,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||polaccafaison.com^
 ||laprovence.com/overstirring^$script
 ||laprovence.com/resailed^$script
+||e-sante.fr/cracklier^$script
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
