@@ -5,6 +5,8 @@
 ||reutersmedia.net/resources/r/?n=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?o=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?p=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?q=$image,domain=reuters.com
+||reutersmedia.net/resources/r/?r=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?s=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?u=$image,domain=reuters.com
 ||reutersmedia.net/resources/r/?v=$image,domain=reuters.com
