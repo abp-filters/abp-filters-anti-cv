@@ -217,7 +217,7 @@ indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: " Ad ")))
 
 ! #16030
-audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require
+audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require; abort-current-inline-script audiofanzineProductStack
 psychologyjunkie.com,thelovenerds.com#$#abort-current-inline-script btoa BOOTLOADER_LOADED
 justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTiming
 ||1u0oqad.diqx.namemc.com^$domain=namemc.com
