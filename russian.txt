@@ -86,7 +86,7 @@ naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement eval; abort-current-inline-script eval; abort-current-inline-script String.fromCharCode constructor; abort-on-property-read loaded_blocks_directadvert
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in,kinosvit.tv#$#abort-current-inline-script document.createElement ExternalChromePop
-uploadimagex.com#$#abort-on-property-read open
+wowskill.ru,uploadimagex.com#$#abort-on-property-read open
 paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 dota2.ru#$#abort-on-property-read helpUsImproveSite
 tele.ru#$#abort-current-inline-script document.createElement
