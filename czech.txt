@@ -18,4 +18,3 @@ centrum.cz#$#abort-on-property-read b1
 &breaktime=0$script,domain=auto.cz|blesk.cz
 &unsafe=0$script,domain=auto.cz|blesk.cz
 .cz/*.webp|$image,domain=auto.cz|blesk.cz
-blesk.cz,auto.cz#?#div:-abp-has(span:-abp-contains(MGID reklama))
