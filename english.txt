@@ -68,7 +68,7 @@ metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
-gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
+pch.com,gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 goal.com##div[id^="-msaasxq_mpe_urdmyq_/89192403"]
