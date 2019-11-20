@@ -89,6 +89,7 @@ rutor.in,kinosvit.tv#$#abort-current-inline-script document.createElement Extern
 uploadimagex.com#$#abort-on-property-read open
 paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 dota2.ru#$#abort-on-property-read helpUsImproveSite
+tele.ru#$#abort-current-inline-script document.createElement
 
 ! #20468
 inforeactor.ru#$#abort-current-inline-script document.createElement /directadvert|infox|lentainform|mainews|marketgid|nnn|smi2/
