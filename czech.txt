@@ -13,3 +13,9 @@ onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
 centrum.cz#$#abort-on-property-read b1
+
+! #9708
+&breaktime=0$script,domain=auto.cz|blesk.cz
+&unsafe=0$script,domain=auto.cz|blesk.cz
+.cz/*.webp|$image,domain=auto.cz|blesk.cz
+blesk.cz,auto.cz#?#div:-abp-has(span:-abp-contains(MGID reklama))
