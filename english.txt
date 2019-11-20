@@ -36,7 +36,7 @@ tv.com###headerleader
 tv.com###leader_bottom
 webmd.com##div[data--bjmyb-amknjcrc="true"]
 webmd.com###mys-overlay
-webmd.com##div[id^="-bdlldib_xap_fcoxjb_/7645767"]
+webmd.com##div[id^="-bemmejc_ybq_gdpykc_/8756878"]
 webmd.com##[name="google_ads_frame1"]
 webmd.com##div[data-js="global-container-1"]
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
