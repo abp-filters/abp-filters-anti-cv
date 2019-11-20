@@ -23,7 +23,6 @@ gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
 msn.com##.todayshowcasead
 msn.com##.widead
-klbjfm.com##div[id^="-biqqing_cfu_khtcog_/8954"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
@@ -84,6 +83,7 @@ edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 edmunds.com##div[class^="-nitkmgxk-ikhfh"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
 maxpreps.com##div[id^="-mpxxpun_jmb_roajvn_/7153"]
+klbjfm.com##div[id^="-bjrrjoh_dgv_liudph_/9065"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
