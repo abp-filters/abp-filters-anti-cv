@@ -26,10 +26,10 @@ echo.msk.ru#$#abort-on-property-read eval
 otzovik.com#$#abort-on-property-read Ya.Direct
 it-here.ru#$#abort-on-property-read pum
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read fetch
-gorodrabot.ru,sdamgia.ru,www.gismeteo.by,www.gismeteo.kz,www.gismeteo.md#$#abort-on-property-read Object.prototype.AdvManager
+gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.AdvManager
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.getYaContext
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
-beta.gismeteo.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
+beta.gismeteo.ru,www.gismeteo.by,www.gismeteo.kz,www.gismeteo.md#$#abort-on-property-read Object.prototype.AdvManagerStatic
 
 ! #9708
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
