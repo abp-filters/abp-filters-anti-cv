@@ -82,7 +82,7 @@ chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608"]
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 edmunds.com##div[class^="-nitkmgxk-ikhfh"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
-maxpreps.com##div[id^="-mqyyqvo_knc_spbkwo_/8264"]
+maxpreps.com##div[id^="-mpxxpun_jmb_roajvn_/3474"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
