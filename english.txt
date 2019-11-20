@@ -72,7 +72,7 @@ pch.com,gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-scrip
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 goal.com##div[id^="-msaasxq_mpe_urdmyq_/89192403"]
-download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
+download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
 thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/41423409"]
 tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
 tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
