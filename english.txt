@@ -147,7 +147,7 @@ kickassanime.io##.ka-ax-wrapper
 /mya/lfa.js$domain=thewatchcartoononline.tv|wcostream.com
 mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
 thewatchcartoononline.tv,mangareader.net,watchcartoonsonline.eu,kiss-anime.ws,animeland.us#$#hide-if-contains-image-hash 3cd4c03ff443b507,7e30f8d030771f8c,80f7c07d3ec17e30,0cfa87c37f047e06,f8133339347c1ec6,18bee9e0027f78c3,e12d035f370e7e60,3f1420fb7f083e07,00ff79130797fc0c,90cf45ecc03f7f10,819f4e9cef8001ef,3f093c1e0f2eff00,7e287c383e1cff00,3c1efc18f462ff00,08fb321ff681ff00,4f073cb8e8f0ff00,7874e0f1f074ff00,0d8f16e3cf82ff00,9f033b5833393e38,f0f01c3e72367e18,173c3b1c7b227478,7f08783916377e60,c3c3c363c715ff00,c7838f07037e4e2e,e3c1d383bd81ff00,f0f0f4c2c70b059f,f891f4682f83c3c9,f8b0583e3e45a3c3,f8b0583e3e45a3c3,f8c2c38dff003f82,fc180e1f81ee5e0e
-kiss-anime.ws#$#hide-if-contains-image-hash c6c915d59f60153e,878e2ce3639cf02b
+kiss-anime.ws#$#hide-if-contains-image-hash c6c915d59f60153e,878e2ce3639cf02b,074f89ce9e62cf0c,c1f4ee188e787c1c
 animeland.us#$#hide-if-contains-image-hash c3c3c19d81bdff00,730d326e2747ff00,40fd949e907e466e,0f0f9f41c16e662e
 
 ! #9708
