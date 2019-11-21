@@ -2,7 +2,7 @@
 ||reutersmedia.net/resources/r/?j*=$image,domain=reuters.com
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 reuters.com#$#abort-current-inline-script String.prototype.charAt
-/reutersmedia\.net\/resources\/r\/\?[a-ln-z]=/$image,domain=reuters.com
+/reutersmedia\.net\/resources\/r\/\?\m\=[1-9][0-9]/$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
