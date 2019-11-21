@@ -1,7 +1,7 @@
 ! #8479
 ||reutersmedia.net/resources/r/?j*=$image,domain=reuters.com
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
-reuters.com#$#abort-current-inline-script String.prototype.charAt
+reuters.com#$#abort-current-inline-script String.prototype.buildChunk
 /reutersmedia\.net\/resources\/r\/\?[a-ln-z]=/$image,domain=reuters.com
 
 ! #9276
