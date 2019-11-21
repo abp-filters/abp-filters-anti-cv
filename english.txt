@@ -85,6 +85,7 @@ edmunds.com##div[class^="-nitkmgxk-ikhfh"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
 maxpreps.com##div[id^="-mpxxpun_jmb_roajvn_/7153"]
 klbjfm.com##div[id^="-bjrrjoh_dgv_liudph_/9065"]
+pch.com##div[id^="-mvddvat_psh_xugpbt_/0944"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
