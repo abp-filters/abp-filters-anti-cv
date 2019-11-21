@@ -101,9 +101,6 @@ outdoorlife.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com,walterfootball.com#$#abort-on-property-read TextDecoder
 humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob TextDecoder
 
-! #9291
-dexerto.com##a[href^="https://scufgaming.com"]
-
 ! #9343
 tube8.com##.gridBanner_
 tube8.com##.footerBanner
