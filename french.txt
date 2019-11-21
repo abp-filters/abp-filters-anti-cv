@@ -18,8 +18,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||planet.fr/piercers^$script
 ||planet.fr/federation^$script
 ||polaccafaison.com^
-||laprovence.com/overstirring^$script
-||laprovence.com/resailed^$script
+||laprovence.com/euploids^$script
 ||e-sante.fr/cracklier^$script
 
 ! #10531
