@@ -73,7 +73,7 @@ cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 download.cnet.com##div[id^="-eweewbu_qti_yvhqcu_/4820"]
 thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/41423409"]
-tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
+tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
 tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
 ranker.com##div[id^="-nuccuzs_org_wtfoas_/5404040"]
 baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969"]
