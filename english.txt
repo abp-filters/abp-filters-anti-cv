@@ -86,7 +86,7 @@ maxpreps.com##div[id^="-mowwotm_ila_qnzium_/6042"]
 webmd.com##div[id^="-bdlldib_xap_fcoxjb_/7645767"]
 klbjfm.com##div[id^="-biqqing_cfu_khtcog_/8954"]
 pch.com##div[id^="-mvddvat_psh_xugpbt_/0944"]
-outdoorlife.com##div[id^="-euccuzs_org_wtfoas_/0181"]
+outdoorlife.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
