@@ -19,7 +19,6 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ||golem.de^*.jpg#$popup,domain=golem.de
 
 ! #9272
-spox.com##div[id^="-ziqqing_cfu_khtcog_/7953"]
 ||adup-tech.com^$third-party,domain=spox.com
 
 ! #15654
