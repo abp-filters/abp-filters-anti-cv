@@ -71,7 +71,6 @@ metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
-goal.com##div[id^="-msaasxq_mpe_urdmyq_/89192403"]
 download.cnet.com##div[id^="-eweewbu_qti_yvhqcu_/4820"]
 thoughtcatalog.com##div[id^="-hckkcha_wzo_ebnwia_/30312398"]
 tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
@@ -88,6 +87,9 @@ maxpreps.com##div[id^="-mpxxpun_jmb_roajvn_/7153"]
 webmd.com##div[id^="-bdlldib_xap_fcoxjb_/7645767"]
 klbjfm.com##div[id^="-bjrrjoh_dgv_liudph_/9065"]
 pch.com##div[id^="-mvddvat_psh_xugpbt_/0944"]
+goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
+gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
+cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
