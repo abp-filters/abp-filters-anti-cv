@@ -17,4 +17,4 @@ centrum.cz#$#abort-on-property-read b1
 ! #9708
 &breaktime=0$script,domain=auto.cz|blesk.cz
 &unsafe=0$script,domain=auto.cz|blesk.cz
-.cz/*.webp|$image,domain=auto.cz|blesk.cz
+.cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz
