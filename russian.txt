@@ -52,7 +52,7 @@ kinohome.net##a[data-i]
 indoxx1.show##img[src^="blob:https://indoxx1.show/"]
 ||wysasys.com^$popup,domain=indoxx1.show
 /img.akubebas.com^$image,script,domain=indoxx1.show
-dokonlin.ru#$#abort-on-property-read String.prototype.charCodeAt
+dokonlin.ru#$#abort-on-property-read document.head.appendChild
 
 ! #19360
 megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
