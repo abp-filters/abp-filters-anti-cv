@@ -16,7 +16,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||planet.fr/cesuras^$script
 ||polaccafaison.com^
 ||laprovence.com/silkier^$script
-||e-sante.fr/cactoid/gTCB$script
+||e-sante.fr/cactoid/gjAzA$script
 ||wyacondahamptonville.com^$script
 ||mecostasenath.com^$script
 ||smithersworonoco.com^
