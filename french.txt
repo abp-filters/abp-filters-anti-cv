@@ -19,6 +19,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||e-sante.fr/cracklier^$script
 ||wyacondahamptonville.com^$script
 ||mecostasenath.com^$script
+||smithersworonoco.com^
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
