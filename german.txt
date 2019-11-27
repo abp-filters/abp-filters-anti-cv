@@ -25,6 +25,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /clever-tanken\.de\/img\w{1,3}/$image,domain=clever-tanken.de
 /tichyseinblick\.de\/imag\w{1,3}/$image,domain=tichyseinblick.de
 /nw\.de\/img\d\/\w\/\w/$image,domain=nw.de
+/donnerwetter\.de\/image[a-rt-z]/$image,domain=donnerwetter.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
