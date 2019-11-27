@@ -10,7 +10,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||1ic92yd.mdbgbcskjj.com^$script
 ||greenlawnmantador.com^$script
 ||dajwf4bbz9xqa.cloudfront.net^$script
-||viedemerde.fr/provost^$script
+||viedemerde.fr/defrauds^$script
 ||kernvilleuniontown.com^$script,image
 ||doyondeville.com^$script
 ||planet.fr/rhino^$script
