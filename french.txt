@@ -13,7 +13,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||viedemerde.fr/provost^$script
 ||kernvilleuniontown.com^$script,image
 ||doyondeville.com^$script
-||planet.fr/cesuras^$script
+||planet.fr/rhino^$script
 ||polaccafaison.com^
 ||laprovence.com/silkier^$script
 ||e-sante.fr/cactoid/gjAzA$script
