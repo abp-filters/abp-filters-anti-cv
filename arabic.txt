@@ -15,3 +15,4 @@ hawak.tv,rotana.video,almstba.tv#$#abort-on-property-read atob
 
 ! #10530
 hawak.tv,rotana.video#$#abort-on-property-read decodeURIComponent
+shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
