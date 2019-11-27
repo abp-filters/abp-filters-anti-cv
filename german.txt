@@ -20,7 +20,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /giga.de\/imag[a-z]/$image,domain=giga.de
 /meinestadt.de\/image[a-rt-z]/$image,domain=meinestadt.de
 /quoka\.de\/imag[a-z]\/publ[a-z]/$image,domain=quoka.de
-/spieletipps.de\/imag\w{1,3}/$image,domain=spieletipps.de
+/spieletipps\.de\/img\w{1,3}/$image,domain=spieletipps.de
 /kino.de\/imag\w{1,3}/$image,domain=kino.de
 /clever-tanken.de\/imag\w{1,3}/$image,domain=clever-tanken.de
 
