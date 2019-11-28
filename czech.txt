@@ -16,5 +16,5 @@ centrum.cz#$#abort-on-property-read b1
 
 ! #9708
 zeny.cz,dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-read __cmp
-.cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz
+.cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz
 ||domnovrek.com^$third-party
