@@ -5,7 +5,7 @@ kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
 
 ! MISC
-idnes.cz,aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,kinobox.cz,cnews.cz,tiscali.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+idnes.cz,aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz,tiscali.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
 auto.cz,onetv.cz,extra.cz,mobilmania.cz,zive.cz,zeny.cz,ahaonline.cz,maminka.cz,reflex.cz,e15.cz,blesk.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 iprima.cz#$#abort-current-inline-script setTimeout atob
