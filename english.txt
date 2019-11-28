@@ -71,11 +71,11 @@ metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
-download.cnet.com##div[id^="-ezhhzex_twl_byktfx_/7153"]
+download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 thoughtcatalog.com##div[id^="-hemmejc_ybq_gdpykc_/52534510"]
-tvguide.com##div[id^="-mdlldib_xap_fcoxjb_/1597"]
-tv.com##div[id^="-eksskpi_ehw_mjveqi_/2608"]
-ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
+tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
+tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
+ranker.com##div[id^="-nuccuzs_org_wtfoas_/5404040"]
 baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486"]
