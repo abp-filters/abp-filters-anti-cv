@@ -74,9 +74,9 @@ cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 ||c-3sux78kvnkay76x24iroktzx2etgtuboyux78x2eou.g00.thoughtcatalog.com^$script,domain=thoughtcatalog.com
 download.cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
-thoughtcatalog.com##div[id^="-hemmejc_ybq_gdpykc_/52534510"]
-tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
-tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
+thoughtcatalog.com##div[id^="-hdlldib_xap_fcoxjb_/41423409"]
+tvguide.com##div[id^="-mckkcha_wzo_ebnwia_/0486"]
+tv.com##div[id^="-ejrrjoh_dgv_liudph_/1597"]
 ranker.com##div[id^="-nuccuzs_org_wtfoas_/5404040"]
 baggersmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070"]
 chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
