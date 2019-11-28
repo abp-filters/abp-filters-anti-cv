@@ -238,7 +238,6 @@ uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 ! MISC
 projectfreetv.ag,govid.me,vidshare.tv,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
 file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,rapidvideo.com,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
-streamango.com,fruithosts.net#$#abort-on-property-read BetterJsPop; abort-on-property-read isSandboxed
 cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
 rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,rarbgmirror.com,rarbgmirror.org,rarbgmirror.xyz,rarbgmirrored.org,rarbgproxy.org,rarbgprx.org,rarbgto.org,rarbgunblock.com,rarbgweb.org#$#abort-on-property-read LieDetector
@@ -310,7 +309,7 @@ nyasatimes.com##a[href^="http://www.africa.airtel.com"]
 kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! Popups
-$popup,third-party,domain=streamega.com|verystream.com|oload.biz|streamango.com|fruithosts.net|woof.tube|123putlocker.club|mstream.rocks|openloadmovies.bz
+$popup,third-party,domain=streamega.com|verystream.com|oload.biz|woof.tube|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
 .html$popup,domain=woof.tube
 /favicon.ico$popup,domain=vidshare.tv
