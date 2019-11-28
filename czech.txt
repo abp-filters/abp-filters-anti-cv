@@ -15,5 +15,5 @@ csfd.cz#$#abort-current-inline-script $ completeAdsObject
 centrum.cz#$#abort-on-property-read b1
 
 ! #9708
-extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-read __cmp
+dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-read __cmp
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz
