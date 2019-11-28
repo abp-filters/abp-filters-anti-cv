@@ -15,7 +15,7 @@ csfd.cz#$#abort-current-inline-script $ completeAdsObject
 centrum.cz#$#abort-on-property-read b1
 
 ! #9708
-zive.cz,maminka.cz,zeny.cz,dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-read __cmp
+reflex.cz,onetv.cz,info.cz,ahaonline.cz,zive.cz,maminka.cz,zeny.cz,dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-read __cmp
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
