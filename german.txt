@@ -21,7 +21,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /meinestadt\.de\/image\w{0,1}/$image,domain=meinestadt.de
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
 /quoka\.de\/imag\w{0,2}\/pub\w{0,3}/$image,domain=quoka.de
-/spieletipps\.de\/img\w{1,3}/$image,domain=spieletipps.de
+/spieletipps\.de\/im\w*g\w*/$image,domain=spieletipps.de
 /kino\.de\/img\w{1,3}/$image,domain=kino.de
 /clever-tanken\.de\/img\w{1,3}/$image,domain=clever-tanken.de
 /tichyseinblick\.de\/imag\w{1,3}/$image,domain=tichyseinblick.de
