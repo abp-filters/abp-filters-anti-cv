@@ -16,7 +16,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||static.donnerwetter.de/images^$image,domain=donnerwetter.de
 @@||frag-mutti.de/img/logo^$image,domain=frag-mutti.de
 @@||donnerwetter.de/images/content^$image,domain=donnerwetter.de
-/b.{1,5}\.t\.kicker\.de\/.{3,10}/$image,domain=kicker.de
+/b\w*\.t\.kicker\.de\/im\w*g\w*/$image,domain=kicker.de
 /giga.de\/imag[a-z]/$image,domain=giga.de
 /meinestadt\.de\/image\w{0,1}/$image,domain=meinestadt.de
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
