@@ -6,7 +6,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
 @@||videos.kino.de/image^$image,domain=kino.de
 @@||frag-mutti.de/images/logo^$image,domain=frag-mutti.de
-/b\w*\.t\.kicker\.de\//$image,domain=kicker.de
+/b.*\.t\.kicker\.de\//$image,domain=kicker.de
 /giga.de\/imag[a-z]/$image,domain=giga.de
 /meinestadt\.de\/i\w*g\w*/$image,domain=meinestadt.de
 /quoka\.de\/i\w*g\w*\/pub\w*/$image,domain=quoka.de
