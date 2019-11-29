@@ -1,24 +1,10 @@
 ! #8471
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
-@@||static.donnerwetter.de/images^$image,domain=donnerwetter.de
-@@||donnerwetter.de/images/content^$image,domain=donnerwetter.de
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
-@@||videos.kino.de/image^$image,domain=kino.de
-@@||frag-mutti.de/images/logo^$image,domain=frag-mutti.de
 @@||meinestadt.de/images^$image,domain=meinestadt.de
-/b.*\.t\.kicker\.de\//$image,domain=kicker.de
 /giga.de\/imag[a-z]/$image,domain=giga.de
 /www\.meinestadt\.de\/\w*g\w*/$image,domain=meinestadt.de
-/quoka\.de\/i\w*g\w*\/pub\w*/$image,domain=quoka.de
-/spieletipps\.de\/pub\w*/$image,domain=spieletipps.de
-/kino\.de\/i\w*g\w*/$image,domain=kino.de
-/clever-tanken\.de\/im\w*g\w*/$image,domain=clever-tanken.de
-/tichyseinblick\.de\/im\w*g\w*/$image,domain=tichyseinblick.de
-/nw\.de\/im\w*g\w*\/\w\/\w/$image,domain=nw.de
-/donnerwetter\.de\/im\w*g\w*/$image,domain=donnerwetter.de
-/frag-mutti\.de\/im\w*g\w*/$image,domain=frag-mutti.de
-/weser-kurier\.de\/im\w*g\w*\/pub\w*/$image,domain=weser-kurier.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
