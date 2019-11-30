@@ -1,5 +1,4 @@
 ! #8479
-www.reuters.com,uk.reuters.com,de.reuters.com#$#abort-on-property-write setInterval
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 /reutersmedia\.net\/resources\/r\/\?[a-ln-z]=/$image,domain=reuters.com
 /s2\.reutersmedia\.net\/resources\/r\/\?\m\=02&\w+=\w+&\w*=\w+&\w=\d&\w=\w+&\w=\w+&\w+=&\w+=&\w+=&\w+=&\w=\w+/$image,domain=reuters.com
