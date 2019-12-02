@@ -252,8 +252,7 @@ govid.me,9xupload.me#$#abort-on-property-read atop
 file-up.org,zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
 zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
 ayefiles.com#$#abort-on-property-read popjs.init
-govid.me,mstream.rocks,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com,verystream.com#$#abort-on-property-read open
-verystream.com#$#abort-on-property-read adblock
+govid.me,mstream.rocks,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
 rapidvideo.com,jawcloud.co,kimcartoon.to,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net#$#abort-current-inline-script document.createElement String.fromCharCode
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
@@ -307,9 +306,8 @@ nyasatimes.com##a[href^="http://www.africa.airtel.com"]
 kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! Popups
-$popup,third-party,domain=streamega.com|verystream.com|woof.tube|123putlocker.club|mstream.rocks|openloadmovies.bz
+$popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
-.html$popup,domain=woof.tube
 /favicon.ico$popup,domain=vidshare.tv
 
 ! #19788
