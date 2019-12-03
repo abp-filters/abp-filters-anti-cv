@@ -1,6 +1,6 @@
 ! #8479
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
-/s\d\.reutersmedia\.net\/resources\/r\/\?\m\=02&\w+=\w+&\w*=\w+&\w+=\w+&\w=\w+&\w+=\w*&\w*=\w*&\w+=&\w+=&\w+=&\w+=&\w=\w+/$image,domain=reuters.com
+/s\d\.reutersmedia\.net\/resources\/r\/\?\m\=02&\w+=\w+&\w*=\w+&\w+=\w+&\w=\w+&\w{3,5}=\w*&\w*=\w*&\w+=&\w+=&\w+=&\w+=\w+/$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
