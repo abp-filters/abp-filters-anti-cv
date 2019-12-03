@@ -3,6 +3,8 @@ news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7f
 autoscout24.de#$#abort-on-property-read tisoomi
 /\w+\.t\.kicker\.de\/\w*/$image,domain=kicker.de
 /www\.giga\.de\/.+\/\w+\/\w+.gif/$image,domain=giga.de
+/www\.giga\.de\/.+\/\w+\/\w+.jpg/$image,domain=giga.de
+@@||giga.de/special/gutscheine/bg.jpg
 /www\.meinestadt\.de\/.+\/\w+\/\w+.gif/$image,domain=meinestadt.de
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
 @@||meinestadt.de/images^$image,domain=meinestadt.de
