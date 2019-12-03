@@ -27,6 +27,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /www\.weser-kurier\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=weser-kurier.de
 @@||weser-kurier.de/cms_media^$domain=weser-kurier.de
 @@||weser-kurier.de/pu_wkd2014^$domain=weser-kurier.de
+/www\.fanfiktion\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=fanfiktion.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
