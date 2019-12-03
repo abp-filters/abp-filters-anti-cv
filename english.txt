@@ -70,7 +70,7 @@ metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 cnet.com,~download.cnet.com#$#abort-current-inline-script navigator.userAgent
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
-||*x2eula*$script,domain=boatingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
+||*x2eula*$script,domain=wakeboardingmag.com|boatingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 thoughtcatalog.com##div[id^="-hckkcha_wzo_ebnwia_/30312398"]
 tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
