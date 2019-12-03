@@ -8,6 +8,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||meinestadt.de/images^$image,domain=meinestadt.de
 /www\.quoka\.de\/.+\/.+\/\w+\/\w+\.gif/$image,domain=quoka.de
 @@||www.quoka.de/assets/img*$image,domain=quoka.de
+/www\.spieletipps\.de\/.+\w+\/\w+\.gif/$image,domain=spieletipps.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
