@@ -18,6 +18,8 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /www\.clever-tanken\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=clever-tanken.de
 /www\.tichyseinblick\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=tichyseinblick.de
 @@||tichyseinblick.de/wp-content/uploads^$domain=tichyseinblick.de
+/www\.nw\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=nw.de
+@@||nw.de/_em_daten/nw/assets^$domain=nw.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
