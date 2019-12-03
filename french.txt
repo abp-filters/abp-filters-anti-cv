@@ -13,15 +13,15 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||viedemerde.fr/defrauds^$script
 ||kernvilleuniontown.com^$script,image
 ||doyondeville.com^$script
-||planet.fr/encrust^$script
+||planet.fr/brimstone^$script
 ||polaccafaison.com^
 ||laprovence.com/monos^$script
-||e-sante.fr/sphinges^$script
+||e-sante.fr/boniface^$script
 ||wyacondahamptonville.com^$script
 ||mecostasenath.com^$script
 ||smithersworonoco.com^
 ||potterpetrey.com^
-||ladepeche.fr/kiblah^$script
+||ladepeche.fr/believed^$script
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
