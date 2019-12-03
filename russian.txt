@@ -27,7 +27,7 @@ otzovik.com#$#abort-on-property-read Ya.Direct
 it-here.ru#$#abort-on-property-read pum
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read fetch
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.AdvManager
-gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.adfoxCode; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.Direct; abort-on-property-read Object.prototype.isAllowedRepeatAds
+gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.adfoxCode; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.Direct; abort-on-property-read Object.prototype.isAllowedRepeatAds; abort-on-property-read Object.prototype.pcodeWindowData
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.getYaContext
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
