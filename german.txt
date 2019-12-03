@@ -6,6 +6,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /www\.giga\.de\/.+\/\w+\/\w+.jpg/$image,domain=giga.de
 @@||giga.de/special/gutscheine/bg.jpg
 /www\.meinestadt\.de\/.+\/\w+\/\w+.gif/$image,domain=meinestadt.de
+/www\.meinestadt\.de\/.+\/\w+\/\w+.jpg/$image,domain=meinestadt.de
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
 @@||meinestadt.de/images^$image,domain=meinestadt.de
 /www\.quoka\.de\/.+\/.+\/\w+\/\w+\.gif/$image,domain=quoka.de
