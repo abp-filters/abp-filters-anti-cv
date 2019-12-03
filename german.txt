@@ -23,6 +23,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /www\.donnerwetter\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=donnerwetter.de
 @@||donnerwetter.de/images/content^$domain=donnerwetter.de
 @@||static.donnerwetter.de/images^$image,domain=donnerwetter.de
+/www\.frag-mutti\.de\/.+\w+\/\w+\.(jpg|gif)/$image,domain=frag-mutti.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
