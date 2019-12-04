@@ -22,6 +22,8 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||fanfiktion.de/pics/store_google.png
 @@||fanfiktion.de/pics/store_apple.png
 @@||fanfiktion.de/pics/favicon.png
+/www\.frag-mutti\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=frag-mutti.de
+@@||frag-mutti.de/images/logo^$image,domain=frag-mutti.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
