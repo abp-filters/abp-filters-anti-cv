@@ -28,6 +28,8 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||weser-kurier.de/cms_media^$domain=weser-kurier.de
 @@||weser-kurier.de/pu_wkd2014^$domain=weser-kurier.de
 @@||weser-kurier.de/__wetterkontor/images^$domain=weser-kurier.de
+/www\.donnerwetter\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=donnerwetter.de
+@@||donnerwetter.de/*pagespeed*.webp^$domain=donnerwetter.de
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
