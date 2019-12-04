@@ -18,6 +18,10 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||videos.kino.de/image^$image,domain=kino.de
 @@||tichyseinblick.de/wp-content/uploads^$domain=tichyseinblick.de
 @@||nw.de/_em_daten^$domain=nw.de
+/www\.fanfiktion\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=fanfiktion.de
+@@||fanfiktion.de/pics/store_google.png
+@@||fanfiktion.de/pics/store_apple.png
+@@||fanfiktion.de/pics/favicon.png
 
 ! #8479
 ||img.abendblatt.de/img^$popup,domain=abendblatt.de
