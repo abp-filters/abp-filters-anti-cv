@@ -73,6 +73,7 @@ gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_30
 /*x2ehtr*$script,domain=ranker.com|frontpage.pch.com
 /*x2eofu*$script,domain=webmd.com
 ^*x2etkz.g00.cnet.com^$domain=cnet.com
+^*x2eqhw.g00*$domain=tvguide.com|tv.com
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 thoughtcatalog.com##div[id^="-hckkcha_wzo_ebnwia_/30312398"]
 tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
