@@ -69,7 +69,8 @@ metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
 gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
-/*x2eula*$script,domain=yachtingmagazine.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|boatingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
+/*x2eula*$script,domain=sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|boatingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
+/*x2ehtr*$script,domain=frontpage.pch.com
 /*x2eofu*$script,domain=webmd.com
 ^*x2etkz.g00.cnet.com^$domain=cnet.com
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
