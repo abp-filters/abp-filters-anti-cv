@@ -2,7 +2,8 @@
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
 /\w+\.t\.kicker\.de\/\w*/$image,domain=kicker.de
-/www\.giga\.de\/.+\/\w+\/\w+.(gif|jpg|png)/$image,domain=giga.de
+/www\.giga\.de\/.+\.(gif|jpg|png)/$image,domain=giga.de
+@@||giga.de/special*$image,domain=giga.de
 /www\.meinestadt\.de\/.+\/\w+\/\w+.(gif|jpg|png)/$image,domain=meinestadt.de
 /www\.quoka\.de\/.+\/.+\/\w+\/\w+\.(gif|jpg|png)/$image,domain=quoka.de
 /www\.spieletipps\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=spieletipps.de
@@ -10,7 +11,6 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /www\.clever-tanken\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=clever-tanken.de
 /www\.tichyseinblick\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=tichyseinblick.de
 /www\.nw\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=nw.de
-@@||giga.de/special/gutscheine/bg.jpg
 @@||media.meinestadt.de/image^$image,domain=meinestadt.de
 @@||meinestadt.de/images^$image,domain=meinestadt.de
 @@||quoka.de/img/quoka/editorials^$domain=quoka.de
