@@ -76,9 +76,6 @@ gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_30
 /*x2eofu*$script,domain=webmd.com
 /*x2efrp*$script,domain=tv.com
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
-thoughtcatalog.com##div[id^="-hckkcha_wzo_ebnwia_/30312398"]
-tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375"]
-tv.com##div[id^="-eiqqing_cfu_khtcog_/0486"]
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608"]
