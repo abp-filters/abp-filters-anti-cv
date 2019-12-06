@@ -78,7 +78,7 @@ www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCha
 sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 facenews.ua#$#abort-on-property-read XMLHttpRequest
-radikal.ru#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
+radikal.ru#$#abort-on-property-read atob; abort-on-property-read utarget_script; abort-current-inline-script document.createElement String.fromCharCode
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 omskpress.ru#$#abort-on-property-read kav_cn
 spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
