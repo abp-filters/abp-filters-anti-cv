@@ -91,7 +91,7 @@ gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 wakeboardingmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
-^*x2eofu.g00.cnet.com^$domain=cnet.com
+^*x2etkz.g00.cnet.com^$domain=cnet.com
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
