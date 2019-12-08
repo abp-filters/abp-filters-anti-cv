@@ -90,6 +90,7 @@ goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 wakeboardingmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
+cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
