@@ -130,7 +130,7 @@ oral-amateure.com#$#hide-if-contains-image-hash 00ff992d2c3efe08,38f8e0733b0d1f0
 mangovideo.pw#$#abort-on-property-write puShown
 zbporn.com#$#abort-on-property-read popns
 nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
-hclips.com#$#abort-on-property-read open
+hclips.com#$#abort-on-property-read btoa
 
 ! #15116
 @@||st.bebi.com/bebi_v3.js$script,domain=mangaku.info|lolhentai.net|anime1.com
