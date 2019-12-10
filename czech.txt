@@ -6,13 +6,14 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write
 
 ! MISC
 idnes.cz,aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz,tiscali.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
-auto.cz,onetv.cz,extra.cz,mobilmania.cz,zive.cz,zeny.cz,ahaonline.cz,maminka.cz,reflex.cz,e15.cz,blesk.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow
+onetv.cz,extra.cz,mobilmania.cz,zive.cz,zeny.cz,ahaonline.cz,maminka.cz,e15.cz,blesk.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 iprima.cz#$#abort-current-inline-script setTimeout atob
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
 centrum.cz#$#abort-on-property-read b1
+auto.cz#$#abort-on-property-write _SWDF
 
 ! #9708
 reflex.cz,onetv.cz,info.cz,ahaonline.cz,zive.cz,maminka.cz,zeny.cz,dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-write window._SSA
