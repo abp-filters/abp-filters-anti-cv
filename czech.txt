@@ -13,7 +13,7 @@ onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
 centrum.cz#$#abort-on-property-read b1
-auto.cz#$#abort-on-property-write _SWDF
+auto.cz,autorevue.cz#$#abort-on-property-write _SWDF
 
 ! #9708
 reflex.cz,onetv.cz,info.cz,ahaonline.cz,zive.cz,maminka.cz,zeny.cz,dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-write window._SSA
