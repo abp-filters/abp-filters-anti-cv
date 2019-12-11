@@ -232,6 +232,8 @@ katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script do
 ||1qboss9.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
 ||zk8n5o.oaqjwapqdho.com^$script,xmlhttprequest
 ||volstqkwmth.com^$script,xmlhttprequest
+||sftcdn.net/acmp^$image,domain=softonic.com
+softonic.com##.ad-content-wrapper
 
 ! #10409
 biter.tv,byter.tv,uploadmp4.com#$#abort-on-property-write adcashMacros
