@@ -17,8 +17,6 @@ centrum.cz#$#abort-on-property-read b1
 ! #9708
 reflex.cz,onetv.cz,info.cz,ahaonline.cz,zive.cz,maminka.cz,zeny.cz,dama.cz,e15.cz,extra.cz,mojezdravi.cz,mobilmania.cz,blesk.cz,auto.cz,autorevue.cz#$#abort-on-property-write MUCK.ad
 mobilmania.cz,maminka.cz,ahaonline.cz,blesk.cz,info.cz,zive.cz#$#abort-on-property-write window._ASSa; abort-on-property-write window._ASSo; abort-on-property-write window._ASSn; abort-on-property-write window._ASSl; abort-on-property-write window.__ASSh;abort-on-property-write window._ASSe; abort-on-property-write window._ASSi
-zive.cz#$#abort-on-property-write 
-reflex.cz#$#abort-on-property-write 
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
