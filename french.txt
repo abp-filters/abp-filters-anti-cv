@@ -23,6 +23,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||smithersworonoco.com^
 ||potterpetrey.com^
 ||ladepeche.fr/unpacks^$script
+||whitlashdelmita.craddockvillearnett.com/nectar.js^$third-party,domain=e-sante.fr
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
