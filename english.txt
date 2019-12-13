@@ -70,12 +70,10 @@ metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 ||c-9pruhskhx78v49x24vwdwlfx2ephwdfulwlfx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 ||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.tvguide.com^$script,domain=tvguide.com
-||c-7npsfqifvt34x24dx2ehvnhvnx2edpn.g00.pch.com^$script,domain=pch.com
 /*x2eula*$script,domain=outdoorlife.com|workingmother.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|boatingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
-/*x2ehtr*$script,domain=ranker.com|frontpage.pch.com
 /*x2eofu*$script,domain=webmd.com
 /*x2efrp*$script,domain=tv.com
-/*x2edpn.g00.pch.com^$script,domain=frontpage.pch.com
+/*x2evmb.g00.pch.com^$script,domain=pch.com
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
@@ -92,7 +90,7 @@ gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 wakeboardingmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com##div[id^="-eyggydw_svk_axjsew_/6042"]
-^*x2etkz.g00.cnet.com^$domain=cnet.com
+^*x2eofu.g00.cnet.com^$domain=cnet.com
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
