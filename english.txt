@@ -1,6 +1,12 @@
 ! #8479
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 /s\d\.reutersmedia\.net\/resources\/r\/\?\m\=02&\w*=\w+&\w*=\w+&\w+=\w+&\w=\w+&\w+=\w*&\w*=\w*&\w+=&\w+=&\w+=\w+&\w+=\w+&\w+=\w+/$image,domain=reuters.com
+reuters.com##.DPSlot_container
+reuters.com##.dianomiVideoWrapper
+||dianomi.com/smartads.$subdocument,domain=reuters.com
+reuters.com##div[id^="google_ads_"]
+reuters.com#?#[class^="StickyContainer_"]:-abp-has([class^="AdSlot_"])
+@@||reuters.com^$generichide,genericblock
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
