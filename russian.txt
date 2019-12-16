@@ -26,7 +26,7 @@ echo.msk.ru#$#abort-on-property-read eval
 otzovik.com#$#abort-on-property-read Ya.Direct
 it-here.ru#$#abort-on-property-read pum
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read fetch
-gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.AdvManager; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.isAllowedRepeatAds
+gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.AdvManager; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.isAllowedRepeatAds; abort-on-property-read Object.prototype.__confirmBlocks
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.__confirmBlocks; abort-on-property-read Object.prototype.adfoxCode; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.Direct; abort-on-property-read Object.prototype.isAllowedRepeatAds; abort-on-property-read Object.prototype.pcodeWindowData; abort-on-property-read YaHeaderBiddingSettings; abort-on-property-read Object.prototype.getAdUsageStorage; abort-on-property-read Object.prototype.renderTo; abort-on-property-read Object.prototype.isNewLoader; abort-on-property-read Object.prototype.blockId
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.createAdContainer
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
