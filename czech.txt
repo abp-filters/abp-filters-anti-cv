@@ -20,3 +20,7 @@ mobilmania.cz,maminka.cz,ahaonline.cz,blesk.cz,info.cz,zive.cz#$#abort-on-proper
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
+reflex.cz#$#abort-on-property-write window.A_elxzSA
+auto.cz#$#abort-on-property-write window.A_uozSA
+autorevue.cz#$#abort-on-property-write window.A_uoeuCSA
+maminka.cz#$#abort-on-property-write window.A_aikCSA
