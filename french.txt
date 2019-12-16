@@ -18,10 +18,12 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||smithersworonoco.com^$third-party
 ||potterpetrey.com^$third-party
 ||craddockvillearnett.com^$third-party
-||planet.fr/bedunced^$script,image
-||viedemerde.fr/outsell^$script
-||ladepeche.fr/unpacks^$script,image
-||laprovence.com/fatalistic^$script
+||artaslangdon.com^$third-party
+||planet.fr/crucify^
+||viedemerde.fr/outsell^
+||ladepeche.fr/confabs^
+||laprovence.com/fatalistic^
+||e-sante.fr/miscellaneous^
 
 ! #10531
 ||1yv1phk.jaz.sportauto.fr^$script
