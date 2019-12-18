@@ -1,7 +1,7 @@
 ! #8479
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 /s\d\.reutersmedia\.net\/resources\/r\/\?\m\=02&\w*=\w+&\w*=\w+&\w+=\w+&\w=\w+&\w+=\w*&\w*=\w*&\w+=&\w+=&\w+=\w+&\w+=\w+&\w+=\w+/$image,domain=reuters.com
-&xx=yy&$image,domain=reuters.com
+/\.reutersmedia\.net\/.*=&[a-z][a-z]=&[a-z][a-z]=&/$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
