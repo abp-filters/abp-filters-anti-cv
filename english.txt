@@ -1,7 +1,6 @@
 ! #8479
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
-/s\d\.reutersmedia\.net\/resources\/r\/\?\m\=02&\w*=\w+&\w*=\w+&\w+=\w+&\w=\w+&\w+=\w*&\w*=\w*&\w+=&\w+=&\w+=\w+&\w+=\w+&\w+=\w+/$image,domain=reuters.com
-/\.reutersmedia\.net\/.*=&[a-z][a-z]=&[a-z][a-z]=&/$image,domain=reuters.com
+/s3\.reutersmedia\.net\/.*=&[a-z][a-z]=&[a-z][a-z]=&/$image,domain=reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
@@ -86,6 +85,8 @@ gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 wakeboardingmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com##div[id^="-ezhhzex_twl_byktfx_/7153/"]
+tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375/"]
+wetteronline.at,wetteronline.ch,wetteronline.de##div[id^="-mvddvat_psh_xugpbt_/1263840/"]:not([style*="width: 970px"]
 /*x2etkz.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 /*x2eofu.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 
