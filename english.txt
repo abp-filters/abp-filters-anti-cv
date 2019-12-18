@@ -19,6 +19,11 @@ gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
 msn.com##.todayshowcasead
 msn.com##.widead
+msn.com##li[data-viewability*="sectionads"]
+msn.com##.outeradcontainer
+msn.com##iframe[src^="https://contextual.media.net/"]
+msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has(.adslabel)
+msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has([title="Ad"])
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
@@ -60,7 +65,7 @@ atvrider.com,baggersmag.com,destinationweddingmag.com,diversitybestpractices.com
 metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
-@@||msn.com^$generichide
+@@||msn.com^$generichide,genericblock
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
