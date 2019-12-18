@@ -1,7 +1,7 @@
 ! #8479
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 reuters.com##.linebreak + div > img[src*="resources/r/"]
-reuters.com#?#div:-abp-properties(background: rgb(236, 236, 236))
+reuters.com#?#div[style*="background: rgb(236, 236, 236)"]
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
