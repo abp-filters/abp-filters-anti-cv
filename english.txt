@@ -1,6 +1,7 @@
 ! #8479
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
-/s3\.reutersmedia\.net\/.*=&[a-z][a-z]=&[a-z][a-z]=&/$image,domain=reuters.com
+reuters.com##.linebreak + div > img[src*="resources/r/"]
+reuters.com#?#div:-abp-properties(background: rgb(236, 236, 236));
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
@@ -72,7 +73,7 @@ gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_30
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
-chowhound.com##div[id^="-ffnnfkd_zcr_heqzld_3719"]
+chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597/"]
 metacritic.com##div[id^="-pdlldib_xap_fcoxjb_/1597/"]
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 edmunds.com##div[data--nmktvdbgz-itkxgm="edm-entry-partner-promotions"]
@@ -87,6 +88,8 @@ wakeboardingmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com##div[id^="-ezhhzex_twl_byktfx_/7153/"]
 tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375/"]
 wetteronline.at,wetteronline.ch,wetteronline.de##div[id^="-mvddvat_psh_xugpbt_/1263840/"]:not([style*="width: 970px"]
+atvrider.com,boatingmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070/"]
+baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969/"]
 /*x2etkz.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 /*x2eofu.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 
