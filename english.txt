@@ -2,7 +2,10 @@
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 de.reuters.com,uk.reuters.com,www.reuters.com##.linebreak + div > img[src*="resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div[style*="background: rgb(236, 236, 236)"]
-de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-color: rgb(236, 236, 236);)
+/s1\.reutersmedia\.net\/resources\/r\/\?m=02&d=[0-9]{8}&t=2&i=[0-9]{7,15}&w=[0-9]{2,4}&r=LYNXM/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-color: rgb(236, 236, 237);) > div > div > img:not([alt]):not([org-src])
+@@||reuters.com/ads
+@@||reuters.com^$generichide
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
@@ -86,7 +89,7 @@ edmunds.com##div[data--nmktvdbgz-itkxgm="edm-entry-partner-promotions"]
 maxpreps.com##div[id^="-mpxxpun_jmb_roajvn_/7153"]
 webmd.com##div[id^="-bemmejc_ybq_gdpykc_/8756878"]
 klbjfm.com##div[id^="-bjrrjoh_dgv_liudph_/9065/"]
-pch.com##div[id^="-mqyyqvo_knc_spbkwo_/5499/"]
+pch.com##div[id^="-mrzzrwp_lod_tqclxp_/6500"]
 goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514/"]
 gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
