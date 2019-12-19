@@ -2,7 +2,7 @@
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 de.reuters.com,uk.reuters.com,www.reuters.com##.linebreak + div > img[src*="resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div[style*="background: rgb(236, 236, 236)"]
-de.reuters.com,uk.reuters.com,www.reuters.com##*:not(a)~img[src^="https://s2"][alt=""]
+de.reuters.com,uk.reuters.com,www.reuters.com##*:not(a)~img[src*="LYNXM"][alt=""]
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
