@@ -12,7 +12,8 @@ iprima.cz#$#abort-current-inline-script setTimeout atob
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
-centrum.cz#$#abort-on-property-read b1
+cnews.cz#$#abort-on-property-read window.googletag
+cnews.cz,idnes.cz#$#abort-on-property-read Ads
 
 ! #9708
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
