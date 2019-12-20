@@ -20,9 +20,10 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||craddockvillearnett.com^$third-party
 ||artaslangdon.com^$third-party
 ||xeniawyalusing.com^$third-party
+||shutesburyconstable.com^$third-party
 ||planet.fr/crucify^
 ||viedemerde.fr/sorbents^
-||ladepeche.fr/confabs^
+||ladepeche.fr/ruggers^
 ||laprovence.com/fatalistic^
 ||e-sante.fr/miscellaneous^
 
