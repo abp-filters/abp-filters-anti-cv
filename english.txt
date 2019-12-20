@@ -20,11 +20,6 @@ cbssports.com,metrolyrics.com##[data-ad]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
-msn.com##.todayshowcasead
-msn.com##.widead
-msn.com##li[data-viewability*="sectionads"]
-msn.com##.outeradcontainer
-msn.com##iframe[src^="https://contextual.media.net/"]
 msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has(.adslabel)
 msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has([title="Ad"])
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
