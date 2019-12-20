@@ -37,7 +37,6 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ||golem.de^*.jpg#$popup,domain=golem.de
 
 ! #9272
-||adup-tech.com^$third-party,domain=spox.com
 ^*x2eeqo.g00.wetteronline.$script,domain=wetteronline.at|wetteronline.de|wetteronline.ch
 
 ! #15654
