@@ -182,7 +182,7 @@ swatchseries.to#$#abort-on-property-read zfgloadednative
 
 ! #18552
 9to5google.com,9to5mac.com,9to5toys.com,electrek.co#$#abort-on-property-read canRunAds
-9to5google.com,9to5mac.com,9to5toys.com,electrek.co#$#abort-on-property-read $aproxy
+9to5google.com,9to5mac.com,9to5toys.com,electrek.co,marketrealist.com#$#abort-on-property-read $aproxy
 
 ! #16818
 dailymail.co.uk##.billboard
@@ -335,6 +335,3 @@ $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openload
 ! #19788
 bing.com##li.b_adBottom
 bing.com###b_results > li:not(.b_algo):not(.b_ans):not(.b_pag):not(.aca_algo):not(.aca_algo_count):not(.b_msg)
-
-! APOMAYA AdGain
-marketrealist.com#$#abort-on-property-read $aproxy
