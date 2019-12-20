@@ -2,7 +2,6 @@
 @@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
 de.reuters.com,uk.reuters.com,www.reuters.com##.linebreak + div > img[src*="resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div[style*="background: rgb(236, 236, 236)"]
-/s1\.reutersmedia\.net\/resources\/r\/\?m=02&d=[0-9]{8}&t=2&i=[0-9]{7,15}&w=[0-9]{2,4}&r=LYNXM/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-color: rgb(236, 236, 237);) > div > div > img:not([alt]):not([org-src])
 @@||reuters.com/ads.$script,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reuters.com^$generichide,domain=de.reuters.com|uk.reuters.com|www.reuters.com
