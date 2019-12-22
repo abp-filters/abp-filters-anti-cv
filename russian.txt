@@ -18,7 +18,7 @@ avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
 razlozhi.ru#$#abort-on-property-write hasAdvert
 liveinternet.ru#$#abort-on-property-read atob
-24smi.org#$#abort-on-property-read XMLHttpRequest
+24smi.org#$#abort-on-property-read Object.prototype.Direct
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
