@@ -27,3 +27,12 @@ e15.cz#$#abort-on-property-read window.Zv_1CSA
 extra.cz#$#abort-on-property-read window.Av_xrCSA
 blesk.cz#$#abort-on-property-read window.Zv_lsCSA
 reflex.cz#$#abort-on-property-read window.Zv_elxzSA
+ahaonline.cz#$#abort-on-property-read window.Zv_holnCSA
+dama.cz#$#abort-on-property-read window.Zv_aazSA
+info.cz#$#abort-on-property-read Zv_nozSA
+maminka.cz#$#abort-on-property-read window.Zv_aikCSA
+mobilmania.cz#$#abort-on-property-read window.Zv_oimnazSA
+mojezdravi.cz#$#abort-on-property-read window.Zv_oedaizSA
+onetv.cz#$#abort-on-property-read window.Av_ntCSA
+zeny.cz#$#abort-on-property-read window.Zv_eyzSA
+zive.cz#$#abort-on-property-read window.Zv_iezSA
