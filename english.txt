@@ -137,6 +137,8 @@ redtube.com#$#abort-on-property-read smpop
 ! #10385
 newser.com#$#abort-on-property-read checkAds
 newser.com#$#abort-on-property-write UAParser
+newser.com#?##voteDivContentAuto div:-abp-has(div:-abp-contains(You May Like:))
+newser.com#?##divRightRail div:-abp-has(div:-abp-contains(Paid.. Content:))
 
 ! #10386
 hotmovs.com##div[class^="vda-closeplay"]
