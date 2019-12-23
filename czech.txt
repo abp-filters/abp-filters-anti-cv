@@ -21,5 +21,9 @@ karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 ||domnovrek.com^$third-party
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read window.__cmp
 /vast.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-autorevue.cz#$#abort-on-property-read window.Av_uoeuCSA
-auto.cz#$#abort-on-property-read window.Av_uozSA
+autorevue.cz#$#abort-on-property-read window.Zv_uoeuCSA
+auto.cz#$#abort-on-property-read window.Zv_uozSA
+e15.cz#$#abort-on-property-read window.Zv_1CSA
+extra.cz#$#abort-on-property-read window.Av_xrCSA
+blesk.cz#$#abort-on-property-read window.Zv_lsCSA
+reflex.cz#$#abort-on-property-read window.Zv_elxzSA
