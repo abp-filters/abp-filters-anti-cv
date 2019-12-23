@@ -16,10 +16,11 @@ The ABP anti-circumvention filter list is a supplementary list; it's not related
 
 ## Authors
 
-* [**monzta**](https://github.com/monzta)
-* [**sashachu**](https://github.com/sashachu)
+* [**arsykan**](https://github.com/arsykan)
 * [**mile-ne**](https://github.com/mile-ne)
+* [**monzta**](https://github.com/monzta)
 * [**wizmak**](https://github.com/wizmak)
+
 
 See also the full list of [contributors](https://github.com/abp-filters/abp-filters-anti-cv/graphs/contributors).
 
