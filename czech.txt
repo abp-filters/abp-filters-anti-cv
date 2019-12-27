@@ -14,6 +14,7 @@ titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
 cnews.cz#$#abort-on-property-read window.googletag
 cnews.cz,idnes.cz#$#abort-on-property-read Ads
+centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
