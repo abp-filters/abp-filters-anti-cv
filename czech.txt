@@ -21,11 +21,11 @@ karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 ||domnovrek.com^$third-party
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read window.__cmp
 /vast.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
-e15.cz#$#abort-on-property-read xG21zth
-dama.cz#$#abort-on-property-read xG2aCth
-ahaonline.cz#$#abort-on-property-read xG2hnnzth
-blesk.cz#$#abort-on-property-read xG2lkth
-info.cz#$#abort-on-property-read xG2nCth
-auto.cz#$#abort-on-property-read xG2uCth
-autorevue.cz#$#abort-on-property-read xG2uruzth
-extra.cz#$#abort-on-property-read xG2xath
+ahaonline.cz#$#abort-on-property-read Hb3AoiCiK
+blesk.cz#$#abort-on-property-read Hb3BsziK
+info.cz#$#abort-on-property-read Hb3BsziK
+dama.cz#$#abort-on-property-read Hb3DaiK
+e15.cz#$#abort-on-property-read Hb3ECiK
+reflex.cz#$#abort-on-property-read Hb3RlCiK
+zive.cz#$#abort-on-property-read Hb3ZeiK
+zeny.cz#$#abort-on-property-read Hb3ZyiK
