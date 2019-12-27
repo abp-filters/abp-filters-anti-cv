@@ -7,7 +7,8 @@ de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-c
 @@||reuters.com^$generichide,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||utoumine.net^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||iefpiu.com^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||reutersmedia.net^*/adhtml^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+@@||reutersmedia.net^*/adiframe^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+&r=LYNXNPEFA$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
