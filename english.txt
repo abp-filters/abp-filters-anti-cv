@@ -26,6 +26,9 @@ gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
 msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has(.adslabel)
 msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has([title="Ad"])
+www.msn.com##[data-aaib*="adblockMediumCardContainer"]
+www.msn.com##[data-aaib*="NativeAdHeadlineItemViewModel"]
+www.msn.com##[data-aaib*="sponcon"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
@@ -81,7 +84,7 @@ gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_30
 download.cnet.com##div[id^="-exffxcv_ruj_zwirdv_/5931"]
 ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
-chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597/"]
+chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608/"]
 metacritic.com##div[id^="-pckkcha_wzo_ebnwia_/0486/"]
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
 edmunds.com##div[data--nmktvdbgz-itkxgm="edm-entry-partner-promotions"]
@@ -95,18 +98,23 @@ cbssports.com##div[id^="-oiqqing_cfu_khtcog_/0486"]
 wakeboardingmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 cnet.com##div[id^="-ezhhzex_twl_byktfx_/7153/"]
 tvguide.com##div[id^="-mbjjbgz_vyn_damvhz_/9375/"]
-atvrider.com,boatingmag.com##div[id^="-etbbtyr_nqf_vsenzr_/9070/"]
+atvrider.com,boatingmag.com,utvdriver.com##div[id^="-euccuzs_org_wtfoas_/0181/"]
 baggersmag.com##div[id^="-esaasxq_mpe_urdmyq_/8969/"]
 popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##div[class^="-epafzoy-pbagnvare-051"]
 popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##div[id^="-etbbtyr_nqf_vsenzr_/9070/"]
 popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##div[id^="-etbbtyr_nqf_vsenzr_/466143349/"]
 popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##div[style^="z-index: 6000000; position: fixed; "]
 popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##li[class*=" -ebhj"]
+popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##div[class*=" -ebhj"]
 popphoto.com,outdoorlife.com,workingmother.com,sportfishingmag.com,range365.com,saveur.com,saltwatersportsman.com,yachtingmagazine.com,motorcyclistonline.com,motorcyclecruiser.com,marlinmag.com,hotbikeweb.com,flyingmag.com,floridatravellife.com,cycleworld.com,cruisingworld.com,wakeboardingmag.com,boatingmag.com,thoughtcatalog.com,islands.com,dirtrider.com##div[class^="-ehfq_fpcl thumb"]
 baggersmag.com##li[class~="-eagi"]
 goal.com##div[class^="-mgep_eobk thumb"]
 goal.com##.tbl-feed-card > #_cm-video-unit
 metacritic.com###movie-amazon-shopping-unit
+cnet.com##.amzn-native-container
+hotbikeweb.com##.nolinks
+wakeboardingmag.com,saveur.com##[observeid="tbl-observe-0"]
+marlinmag.com##a[href="/story/boats/yamahas-xto-offshore/"]
 /*x2etkz.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 /*x2eofu.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 
