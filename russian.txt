@@ -105,4 +105,4 @@ kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
 vesti.ua#$#abort-current-inline-script document.createElement atob
 
 ! #20940
-online.animedia.tv#$#abort-on-property-read zfgformats
+vsetut.su,online.animedia.tv#$#abort-on-property-read zfgformats
