@@ -23,9 +23,10 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||shutesburyconstable.com^$third-party
 ||lycomingorson.com^$third-party
 ||otiscogrosvenordale.com^$third-party
+||elberonoakdale.com^$third-party
 ||www.planet.fr/foretimes^
-||viedemerde.fr/dactyls^
-||ladepeche.fr/servable^
+||viedemerde.fr/limekiln^
+||ladepeche.fr/reaccelerate^
 ||laprovence.com/fatalistic^
 ||e-sante.fr/buttoners^
 
