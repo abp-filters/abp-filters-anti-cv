@@ -2,9 +2,7 @@
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
 /\/\/b0.w\.kicker\.de\/.+\.(gif|jpg|png)/$image,domain=kicker.de
-/www\.giga\.de\/.+\.(gif|jpg|png)/$image,domain=giga.de
-@@||giga.de/special/gutscheine/bg.jpg
-@@||giga.de/special/gutscheine/icons-sprite.png
+/static1\.giga\.de\/special\/gutscheine.+\.(gif|jpg|png)/$image,domain=giga.de
 /www\.meinestadt\.de\/.+\/\w+\/\w+.(gif|jpg|png)/$image,domain=meinestadt.de
 /www\.quoka\.de\/.+\/.+\/\w+\/\w+\.(gif|jpg|png)/$image,domain=quoka.de
 /www\.spieletipps\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=spieletipps.de
