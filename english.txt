@@ -9,8 +9,8 @@ de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-c
 @@||iefpiu.com^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reutersmedia.net^*/adinator^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /reutersmedia\.net\/resources\/r\/\?m=.*&r=[A-Z\d]{7,}-[A-z\d]{3,10}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||reutersmedia.net/resources/r/*&r=LYNXMPEFB$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-/reutersmedia\.net\/resources\/r\/\?[a-z]{2}=.*&r=[A-z\d]{9,13}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+@@||reutersmedia.net/resources/r/*&r=LYNXMPE$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+/reutersmedia\.net\/resources\/r\/\?[a-z]{1,2}=.*&r=[A-z\d]{9,13}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 ||reutersmedia.net/resources/r/?cc=$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
