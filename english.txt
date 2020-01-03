@@ -77,7 +77,7 @@ gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_30
 ||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 ||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.tvguide.com^$script,domain=tvguide.com
 ^*x2ehtr.g00*^$script,domain=edmunds.com|popphoto.com|workingmother.com
-^*x2ejvt.g00*^$script,domain=outdoorlife.com|workingmother.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|thoughtcatalog.com|islands.com|dirtrider.com|baggersmag.com|boatingmag.com
+^*x2ejvt.g00*^$script,domain=outdoorlife.com|workingmother.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|thoughtcatalog.com|islands.com|dirtrider.com|baggersmag.com|boatingmag.com|popphoto.com
 /*x2edpn.g01.webmd.com^$script,domain=webmd.com
 /*x2efrp*$script,domain=tv.com
 /*x2evmb.g00.pch.com^$script,domain=pch.com
