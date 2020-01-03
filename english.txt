@@ -44,7 +44,6 @@ tv.com###headerleader
 tv.com###leader_bottom
 webmd.com##div[data--bjmyb-amknjcrc="true"]
 webmd.com###mys-overlay
-webmd.com##div[id^="-bemmejc_ybq_gdpykc_/8756878"]
 webmd.com##[name="google_ads_frame1"]
 webmd.com##div[data-js="global-container-1"]
 webmd.com,thoughtcatalog.com,mcall.com###mys-wrapper
@@ -68,7 +67,6 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
-metrolyrics.com##div[id^="-nrzzrwp_lod_tqclxp_/9375"]
 @@$media,domain=gamespot.com|msn.com
 @@||gamespot.com^$generichide
 @@||msn.com^$generichide,genericblock
