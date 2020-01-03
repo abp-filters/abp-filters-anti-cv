@@ -80,7 +80,7 @@ gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_30
 /*x2esjy.g01.webmd.com^$script,domain=webmd.com
 /*x2efrp*$script,domain=tv.com
 /*x2evmb.g00.pch.com^$script,domain=pch.com
-ranker.com##div[id^="-nvddvat_psh_xugpbt_/6515151"]
+/*x2ekwu.g00.ranker.com^$script,domain=ranker.com
 baggersmag.com##div[id^="-euccuzs_org_wtfoas_/0181"]
 chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608/"]
 edmunds.com##div[id^="-nzhhzex_twl_byktfx_64437750"]
