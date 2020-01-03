@@ -76,12 +76,12 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
 ||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 ||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.tvguide.com^$script,domain=tvguide.com
-^*x2ehtr.g00*^$script,domain=edmunds.com|popphoto.com|outdoorlife.com|workingmother.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|boatingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
+^*x2ehtr.g00*^$script,domain=edmunds.com|popphoto.com|outdoorlife.com|workingmother.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|wakeboardingmag.com|thoughtcatalog.com|islands.com|dirtrider.com
 /*x2esjy.g01.webmd.com^$script,domain=webmd.com
 /*x2efrp*$script,domain=tv.com
 /*x2evmb.g00.pch.com^$script,domain=pch.com
 /*x2ekwu.g00.ranker.com^$script,domain=ranker.com
-/*x2ejvt.g00.baggersmag.com^$script,domain=baggersmag.com
+/*x2ejvt*$script,domain=baggersmag.com|boatingmag.com
 chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608/"]
 klbjfm.com##div[id^="-bjrrjoh_dgv_liudph_/9065/"]
 pch.com##div[id^="-mpxxpun_jmb_roajvn_/4388/"]
