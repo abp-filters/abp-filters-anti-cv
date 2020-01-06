@@ -74,7 +74,7 @@ atvrider.com,baggersmag.com,cbssports.com,chicagotribune.com,chowhound.com,cityp
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
-gamespot.com,sportingnews.com,cbssports.com#$#abort-current-inline-script IXC_303_7900321579941938
+gamespot.com,sportingnews.com#$#abort-current-inline-script IXC_303_7900321579941938
 ||c-0pruhskhx78v40x24lex2edgqavx2efrp.g00.metacritic.com^$script,domain=metacritic.com
 ||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.tvguide.com^$script,domain=tvguide.com
 ^*x2ehtr.g00*^$script,domain=edmunds.com|popphoto.com|workingmother.com|ranker.com
