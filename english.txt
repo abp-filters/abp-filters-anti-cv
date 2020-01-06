@@ -83,6 +83,7 @@ gamespot.com,sportingnews.com#$#abort-current-inline-script IXC_303_790032157994
 /*x2efrp*$script,domain=tv.com
 /*x2evmb.g00.pch.com^$script,domain=pch.com
 /*x2ekwu.g00.ranker.com^$script,domain=ranker.com
+/*x2eius.g00.cbssports.com^$script,domain=cbssports.com
 chowhound.com##div[id^="-femmejc_ybq_gdpykc_2608/"]
 klbjfm.com##div[id^="-bjrrjoh_dgv_liudph_/9065/"]
 pch.com##div[id^="-mpxxpun_jmb_roajvn_/4388/"]
