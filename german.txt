@@ -4,7 +4,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 /\/\/b\d+\.w\.kicker\.de\/.+\.(gif|jpg|png)/$image,domain=kicker.de
 ||static1.giga.de^$image,domain=giga.de
 /static1\.giga\.de\/special\/.+\.(gif|jpg|png)/$image,domain=giga.de
-/www\.meinestadt\.de\/.{5,7}\/.+(gif|jpg|png)/$image,domain=meinestadt.de
+/www\.meinestadt\.de\/[i|m|g|s|h]{3,7}\/.+(gif|jpg|png)/$image,domain=meinestadt.de
 /www\.quoka\.de\/.+\/.+\/\w+\/\w+\.(gif|jpg|png)/$image,domain=quoka.de
 /www\.spieletipps\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=spieletipps.de
 /www\.kino\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=kino.de
