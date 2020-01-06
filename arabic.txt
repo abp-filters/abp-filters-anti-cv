@@ -12,4 +12,4 @@ hawak.tv,rotana.video,almstba.tv#$#abort-on-property-read atob
 
 ! #10530
 hawak.tv,rotana.video#$#abort-on-property-read decodeURIComponent
-arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
+animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
