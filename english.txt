@@ -12,7 +12,7 @@ de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-c
 @@||reutersmedia.net/resources/r/*&r=LYNXMPE$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s1\.reutersmedia\.net\/resources\/r\/\?.+=.*&r=.+/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||s*.reutersmedia.net/resources/r/?m=02&d=*&sq=&r=*$image,domain=reuters.com
-/reutersmedia\.net\/resources\/r\/\?\w{2,}=O\d.*&r=[A-z\d-]{10,20}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+/reutersmedia\.net\/resources\/r\/\?[A-z]=\d\d&.*&r=[A-z\d]+$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
