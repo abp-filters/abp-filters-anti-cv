@@ -23,6 +23,9 @@ cbssports.com,metrolyrics.com##[data-ad]
 gamespot.com###leader_plus_top-wrap
 gamespot.com###leader_top-wrap
 gamespot.com###leader_bottom-wrap
+msn.com##div[aria-label="promotions"]
+msn.com##div[aria-label="from our partners"]
+msn.com##iframe[title="TOPICS FOR YOU"]
 msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has(.adslabel)
 msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has([title="Ad"])
 www.msn.com##[data-aaib*="adblockMediumCardContainer"]
