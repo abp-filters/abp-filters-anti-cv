@@ -9,9 +9,7 @@ de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-c
 @@||iefpiu.com^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reutersmedia.net^*/adinator^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /reutersmedia\.net\/resources\/r\/\?m=.*&r=[A-Z\d]{7,}-[A-z\d]{3,10}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||reutersmedia.net/resources/r/*&r=LYNXMPE$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-/s1\.reutersmedia\.net\/resources\/r\/\?.+=.*&r=.+/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||s*.reutersmedia.net/resources/r/?m=02&d=*&sq=&r=*$image,domain=reuters.com
+/\/\/s\d\.reutersmedia\.net\/resources\/r\/\?\w=\w+&\w=\d{2}&\w=\d*&\w=\d&\w=\d+&\w=\d+&\w=\w+&\w=\w+/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /reutersmedia\.net\/resources\/r\/\?[A-z]=\d\d&.*&r=[A-z\d]+$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
