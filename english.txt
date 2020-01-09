@@ -5,11 +5,8 @@ de.reuters.com,uk.reuters.com,www.reuters.com##div[style*="background: rgb(236, 
 de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-color: rgb(236, 236, 237);) > div > div > img:not([alt]):not([org-src])
 @@||reuters.com/ads.$script,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reuters.com^$generichide,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||utoumine.net^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||iefpiu.com^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reutersmedia.net^*/adinator^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reutersmedia.net/resources/r/*&r=LYNXMPE$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-*&sq=&r*$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
