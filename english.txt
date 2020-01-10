@@ -96,6 +96,7 @@ cnet.com##.amzn-native-container
 hotbikeweb.com##.nolinks
 wakeboardingmag.com,saveur.com##[observeid="tbl-observe-0"]
 marlinmag.com##a[href="/story/boats/yamahas-xto-offshore/"]
+*x2eqhw.g00.metacritic.com^$script,domain=metacritic.com
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
