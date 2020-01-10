@@ -17,3 +17,6 @@ peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 
 ! #22109
 rainanime.net#$#abort-on-property-read NativeAd
+
+! #9708
+y2mate.com#$#abort-on-property-read canRunAds
