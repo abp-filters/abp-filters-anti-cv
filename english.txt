@@ -160,6 +160,7 @@ kiss-anime.ws,animeland.us#$#hide-if-contains-image-hash c6c915d59f60153e,878e2c
 
 ! #9708
 filmxy.one##.promo-contents
+y2mate.com#$#abort-on-property-read canRunAds
 
 ! #15096
 facebook.com#$#hide-if-contains /.*/ .ego_section 'a[href^="/ad__campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad_campaign/landing.php?"]'; hide-if-contains /.*/ .ego_section 'a[href^="/ad___campaign/landing.php?"]'
