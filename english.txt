@@ -80,6 +80,7 @@ gamespot.com,sportingnews.com#$#abort-current-inline-script IXC_303_790032157994
 /*x2ehtr.g01.webmd.com^$script,domain=webmd.com
 /*x2edpn.g01.webmd.com^$script,domain=webmd.com
 /*x2ekwu.g00.edmunds.com^$script,domain=edmunds.com
+/*x2egsq.g00.goal.com^$script,domain=goal.com
 /*x2efrp*$script,domain=tv.com
 /*x2evmb.g00.pch.com^$script,domain=pch.com
 /*x2ekwu.g00.ranker.com^$script,domain=ranker.com
