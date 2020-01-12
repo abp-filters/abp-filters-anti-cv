@@ -11,5 +11,5 @@ arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-propert
 hawak.tv,rotana.video,almstba.tv#$#abort-on-property-read atob
 
 ! #10530
-hawak.tv,rotana.video#$#abort-on-property-read decodeURIComponent
+mvs4u.co,hawak.tv,rotana.video#$#abort-on-property-read decodeURIComponent
 animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
