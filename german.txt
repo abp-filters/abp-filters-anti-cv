@@ -32,6 +32,7 @@ autoscout24.de#$#abort-on-property-read tisoomi
 @@||donnerwetter.de/*pagespeed*.webp^$domain=donnerwetter.de
 
 ! #8479
+playboy.de#$#abort-on-property-read Object.prototype.networkListener
 
 ! #9272
 ^*x2edpn.g00.wetteronline.$script,domain=wetteronline.at|wetteronline.de|wetteronline.ch
