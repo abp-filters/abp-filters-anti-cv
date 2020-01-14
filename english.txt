@@ -7,8 +7,6 @@ de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-c
 @@||reuters.com^$generichide,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@||reutersmedia.net^*/adinator^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
-de.reuters.com,uk.reuters.com,www.reuters.com#$##$#abort-current-inline-script Object.prototype.networkListener
-
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
