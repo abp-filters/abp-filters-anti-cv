@@ -1,14 +1,5 @@
 ! #8479
-@@||reutersmedia.net/*/js/rcom-scroll-tracker.js$script,domain=reuters.com
-de.reuters.com,uk.reuters.com,www.reuters.com##.linebreak + div > img[src*="resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[style*="background: rgb(236, 236, 236)"]
-de.reuters.com,uk.reuters.com,www.reuters.com#?#div:-abp-properties(background-color: rgb(236, 236, 237);) > div > div > img:not([alt]):not([org-src])
 de.reuters.com,uk.reuters.com,www.reuters.com##img[referrerpolicy="unsafe-url"]
-@@||reuters.com/ads.$script,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||reuters.com^$generichide,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@||reutersmedia.net^*/adinator^$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-/s2.reutersmedia\.net\/resources\/r\/\?\w=\w+&\w=\d+&\w=\d+&\w=\w+&\w=\d+&\w+=&\w+=&\w+=&\w+=&\w+=&\w+=LYNXMP.{3,7}/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@/s2.reutersmedia\.net\/resources\/r\/\?.+320&fh.+=LYNXMP.{3,7}/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
