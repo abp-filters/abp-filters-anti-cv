@@ -294,6 +294,7 @@ gamefront.com#$#abort-current-inline-script $ AdBlock
 kickassanime.io##.ka-ax-wrp.mb-3
 imagefap.com#$#abort-on-property-read popCookie
 igg-games.com#$#abort-on-property-write btoa
+searchenginereports.net#$#abort-on-property-read adsbygoogle
 ! Popunders
 porn.com,hotmovs.com,rule34hentai.net#$#abort-on-property-read open
 xhamster.com#$#abort-on-property-read wig-popunder
