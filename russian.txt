@@ -90,6 +90,7 @@ poltava365.com,unn.com.ua,1news.com.ua,365news.biz,4mama.ua,7days-ua.com,cikavos
 fastpic.ru#$#abort-current-inline-script document.createElement Math.random; abort-on-property-read document.getElementsByTagName
 softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-read Object.prototype.str_replace
 www.ixbt.com#$#abort-on-property-read adv_obj
+city.ogo.ua#$#abort-on-property-read myatu_bgm
 
 ! #20468
 
