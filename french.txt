@@ -61,7 +61,7 @@ mavanimes.co#$#abort-on-property-read _0xb36c
 streaminfr.com#$#abort-on-property-read pushADs
 
 ! #22109
-voiranime.com#$#abort-on-property-read NativeAd
+extreme-down.ninja,voiranime.com#$#abort-on-property-read NativeAd
 
 ! #10530
 jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
