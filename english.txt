@@ -97,6 +97,7 @@ wakeboardingmag.com,saveur.com##[observeid="tbl-observe-0"]
 marlinmag.com##a[href="/story/boats/yamahas-xto-offshore/"]
 chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 edmunds.com##div[data--nljsucafy-hsjwfl="edm-entry-partner-promotions"]
+gamespot.com##div[id^="-mhpphmf_bet_jgsbnf_/9375"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
