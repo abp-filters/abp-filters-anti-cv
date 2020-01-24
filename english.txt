@@ -23,6 +23,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2eeqo.g00.klbjfm.com^$script,domain=klbjfm.com
 /*x2etkz.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 /*x2eofu.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
+/*x2eula.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 /*x2eqhw.g00.metacritic.com^$script,domain=metacritic.com
 *x2evmb.g00.chowhound.com^$script,domain=chowhound.com
 *x2eqhw.g00.tvguide.com^$script,domain=tvguide.com
