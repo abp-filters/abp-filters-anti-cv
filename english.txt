@@ -101,6 +101,7 @@ chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 edmunds.com##div[data--nljsucafy-hsjwfl="edm-entry-partner-promotions"]
 gamespot.com##div[id^="-miqqing_cfu_khtcog_/0486"]
 goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
+klbjfm.com##div[id^="-bksskpi_ehw_mjveqi_/0176"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
