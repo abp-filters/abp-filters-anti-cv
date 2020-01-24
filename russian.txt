@@ -78,7 +78,7 @@ facenews.ua#$#abort-on-property-read XMLHttpRequest
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 naruto-base.su#$#abort-on-property-read njranu
-nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement eval; abort-current-inline-script eval; abort-current-inline-script String.fromCharCode constructor; abort-on-property-read loaded_blocks_directadvert
+nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement eval; abort-on-property-read atob
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
 buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru#$#abort-on-property-read open
