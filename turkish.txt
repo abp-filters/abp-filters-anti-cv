@@ -6,3 +6,35 @@ yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
 ! #10531
 ||d1quho2us9g95p.cloudfront.net^$script,domain=fanatik.com.tr
 ||d2zjlj1vewrxcj.cloudfront.net^$script,domain=milliyet.com.tr
+
+! #donanimhaber.com
+donanimhaber.com##.reklam-masthead
+donanimhaber.com##.arkaplan-giydirme
+forum.donanimhaber.com###sagSabitReklam
+forum.donanimhaber.com##.sagreklam
+forum.donanimhaber.com##.DH-Reklam-4
+forum.donanimhaber.com##.Forum_Anasayfa_YeniMasthead_1
+donanimhaber.com##.reklam-kare
+forum.donanimhaber.com##.yazilim-sponsor
+forum.donanimhaber.com##.konulisteTextReklam
+forum.donanimhaber.com##.Forum_Anasayfa_YeniMasthead_2
+
+! #r10.net
+r10.net##.threadSponsor
+||cdn.r10.net/rm/i/odeawebyeni.gif
+||cdn.r10.net/r10/i/yeniyenikoineks.gif
+||cdn.r10.net/rm/i/kuru-v5.gif
+||cdn.r10.net/r10/i/ticimaxxxx.gif
+||cdn.r10.net/r10/i/smmxl.gif
+||cdn.r10.net/r10/i/mdybym.gif
+||cdn.r10.net/r10/i/sosyalmarket.gif
+||cdn.r10.net/r10/m/megatrhost.gif
+||cdn.r10.net/r10/i/r10.gif
+||resimag.com/p1/d7cab06e452.gif
+||megatrhost.com/megatr.gif
+||resimag.com/p1/31c5d87678c.gif
+
+! #turkmmo
+||forum.turkmmo.com/metin2bot.jpg
+forum.turkmmo.com##.pageskin-right
+forum.turkmmo.com##.pageskin-left
