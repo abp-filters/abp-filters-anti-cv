@@ -181,6 +181,7 @@ swatchseries.to#$#abort-on-property-read zfgloadednative
 ! #18552
 kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 ||marketrealist.com^$csp=script-src 'self' * 'unsafe-inline'
+||9to5toys.com^$csp=script-src * 'self' 'unsafe-inline'
 
 ! #16818
 dailymail.co.uk##.billboard
