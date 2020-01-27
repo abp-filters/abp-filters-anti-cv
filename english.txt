@@ -180,8 +180,6 @@ seekingalpha.com#$#abort-on-property-read atob
 swatchseries.to#$#abort-on-property-read zfgloadednative
 
 ! #18552
-9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co#$#abort-on-property-read canRunAds
-9to5google.com,9to5mac.com,9to5toys.com,dronedj.com,electrek.co#$#abort-current-inline-script $apMe
 kansas.com,marketrealist.com,thenewstribune.com#$#abort-on-property-read $aproxy
 9to5toys.com##div[id^="jrrjoh_dgv_liudph_/1049447"]
 marketrealist.com##div[id^="jrrjoh_dgv_liudph_/11060405"]
