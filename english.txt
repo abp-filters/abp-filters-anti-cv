@@ -183,6 +183,7 @@ swatchseries.to#$#abort-on-property-read zfgloadednative
 kansas.com,marketrealist.com,thenewstribune.com#$#abort-on-property-read $aproxy
 9to5toys.com##div[id^="jrrjoh_dgv_liudph_/1049447"]
 marketrealist.com##div[id^="jrrjoh_dgv_liudph_/11060405"]
+||marketrealist.com^$csp=script-src 'self' * 'unsafe-inline'
 
 ! #16818
 dailymail.co.uk##.billboard
