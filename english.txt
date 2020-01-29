@@ -15,6 +15,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ^*x2ejvt.g00*^$script,domain=popphoto.com|outdoorlife.com|workingmother.com|wakeboardingmag.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|thoughtcatalog.com|islands.com|dirtrider.com|baggersmag.com|boatingmag.com|superstreetbike.com|atvrider.com
 /*x2ehtr.g01.webmd.com^$script,domain=webmd.com
 /*x2edpn.g01.webmd.com^$script,domain=webmd.com
+/*x2eeqo.g01.webmd.com^$script,domain=webmd.com
 /*x2ekwu.g00.edmunds.com^$script,domain=edmunds.com
 /*x2egsq.g00.goal.com^$script,domain=goal.com
 /*x2efrp*$script,domain=tv.com
