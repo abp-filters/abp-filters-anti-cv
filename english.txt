@@ -181,10 +181,11 @@ swatchseries.to#$#abort-on-property-read zfgloadednative
 
 ! #18552
 kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
-||ww.9to5google.com/1:$subdocument
-||ww.9to5mac.com/1:$subdocument
-||ww.9to5toys.com/1:$subdocument
+||ww.9to5google.com/2:$subdocument
+||ww.9to5mac.com/2:$subdocument
+||ww.9to5toys.com/2:$subdocument
 9to5mac.com,9to5google.com,9to5toys.com##iframe[data-google-container-id]
+9to5mac.com,9to5google.com,9to5toys.com##iframe[title="Advertisement"]
 
 ! #16818
 dailymail.co.uk##.billboard
