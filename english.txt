@@ -17,7 +17,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2edpn.g01.webmd.com^$script,domain=webmd.com
 /*x2eeqo.g01.webmd.com^$script,domain=webmd.com
 /*x2ekwu.g00.edmunds.com^$script,domain=edmunds.com
-/*x2egsq.g00.goal.com^$script,domain=goal.com
+/*x2ejvt.g00.goal.com^$script,domain=goal.com
 /*x2efrp*$script,domain=tv.com
 /*x2ekwu.g00.ranker.com^$script,domain=ranker.com
 /*x2eius.g00.cbssports.com^$script,domain=cbssports.com
