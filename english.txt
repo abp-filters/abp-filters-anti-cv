@@ -189,6 +189,9 @@ kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 9to5mac.com,9to5google.com,9to5toys.com##iframe[data-google-container-id]
 9to5mac.com,9to5google.com,9to5toys.com##iframe[title="Advertisement"]
 9to5mac.com,9to5google.com,9to5toys.com,marketrealist.com,electrek.co,dronedj.com##iframe[title="3-rd party ad content"]
+marketrealist.com##div[id^="ksskpi_ehw_mjveqi_/11060405"]
+9to5toys.com##div[id^="jrrjoh_dgv_liudph_/1049447"]
+9to5toys.com##iframe[id="jrrjoh_dgv_iudph1"]
 
 ! #16818
 dailymail.co.uk##.billboard
