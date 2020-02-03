@@ -192,6 +192,7 @@ kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 marketrealist.com##div[id^="ksskpi_ehw_mjveqi_/11060405"]
 9to5toys.com##div[id^="jrrjoh_dgv_liudph_/1049447"]
 9to5toys.com##iframe[id="jrrjoh_dgv_iudph1"]
+marketrealist.com##div[id^="jrrjoh_dgv_liudph_"]
 
 ! #16818
 dailymail.co.uk##.billboard
