@@ -10,3 +10,6 @@ anitube.cz,anitubebr.com#$#abort-on-property-write _pop
 ||torcidatricolor.tv/*.gif$image
 kastream.biz#$#abort-on-property-write open
 filmesonlinegratis.com#$#abort-on-property-read atob
+
+! #10530
+filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
