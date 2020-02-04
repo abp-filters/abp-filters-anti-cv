@@ -91,6 +91,7 @@ softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-rea
 www.ixbt.com#$#abort-on-property-read adv_obj
 city.ogo.ua#$#abort-on-property-read myatu_bgm
 fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru#$#abort-current-inline-script document.createElement initb
+anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
 
 ! #20468
 
