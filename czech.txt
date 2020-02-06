@@ -18,6 +18,8 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
+auto.cz#$#abort-on-property-read Q3aAtCK
+e15.cz#$#abort-on-property-read Q3aE5zK
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
