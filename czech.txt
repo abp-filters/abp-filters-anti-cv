@@ -1,5 +1,5 @@
 ! #9056
-clanky.seznam.cz,search.seznam.cz##.Result.Result--organic:not([class$="organic "]):not(.Result--obrazky):not(.Result--video):not(.Result--news)
+clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
 novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
