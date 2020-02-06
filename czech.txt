@@ -20,6 +20,19 @@ centrum.cz#$#abort-on-property-read _sashec.filterPositions
 ! #9708
 auto.cz#$#abort-on-property-read Q3aAtCK
 e15.cz#$#abort-on-property-read Q3aE5zK
+autorevue.cz#$#abort-on-property-read Q3aAtrvezK
+ahaonline.cz#$#abort-on-property-read Q3aAaniezK
+blesk.cz#$#abort-on-property-read Q3aBekzK
+dama.cz#$#abort-on-property-read Q3aDmCK
+extra.cz#$#abort-on-property-read Q3aEtazK
+info.cz#$#abort-on-property-read Q3aIfCK
+maminka.cz#$#abort-on-property-read Q3aMmnazK
+mobilmania.cz#$#abort-on-property-read Q3aMblaiCK
+mojezdravi.cz#$#abort-on-property-read Q3aMjZrvCK
+onetv.cz#$#abort-on-property-read Q3aOevzK
+reflex.cz#$#abort-on-property-read Q3aRfeCK
+zeny.cz#$#abort-on-property-read Q3aZnCK
+zive.cz#$#abort-on-property-read Q3aAmnaiezK
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
