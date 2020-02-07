@@ -108,6 +108,7 @@ msn.com##div[x-enc1="class aria-label"]
 msn.com#?#div[x-enc1="id"]:-abp-has(h2:-abp-contains(Sponsored Topics))
 msn.com##div[id^="msn"]
 msn.com##div[class^="nonlist"]
+msn.com##iframe[title=" TOPICS FOR YOU"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
