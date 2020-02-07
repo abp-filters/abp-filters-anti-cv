@@ -6,7 +6,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ! #9272
 ||c-1qsvitliyw52x24mfx2eehrbwx2egsq.g00.metacritic.com^$script,domain=metacritic.com
 ||c-8oqtgrjgwu37x24kdx2ecfpzux2eeqo.g00.tvguide.com^$script,domain=tvguide.com
-||c-5uwzmx78pmca09x24qjx2eilvfax2ekwu.g00.chowhound.com^$script,domain=chowhound.com
+||c-4tvylwolbz97x24pix2ehkuezx2ejvt.g00.chowhound.com^$script,domain=chowhound.com
 ||c-6rtwjumjzx7877x24fpfx2ex78utychisx2ehtr.g00.pch.com^$script,domain=pch.com
 ^*x2ehtr.g00*^$script,domain=edmunds.com|popphoto.com|outdoorlife.com|workingmother.com|ranker.com|wakeboardingmag.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|islands.com|dirtrider.com|baggersmag.com|boatingmag.com|superstreetbike.com|atvrider.com
 ^*x2ejvt.g00*^$script,domain=popphoto.com|outdoorlife.com|workingmother.com|wakeboardingmag.com|sportfishingmag.com|range365.com|saveur.com|saltwatersportsman.com|yachtingmagazine.com|motorcyclistonline.com|motorcyclecruiser.com|marlinmag.com|hotbikeweb.com|flyingmag.com|floridatravellife.com|cycleworld.com|cruisingworld.com|thoughtcatalog.com|islands.com|dirtrider.com|baggersmag.com|boatingmag.com|superstreetbike.com|atvrider.com
