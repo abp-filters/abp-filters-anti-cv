@@ -352,5 +352,5 @@ $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openload
 /favicon.ico$popup,domain=vidshare.tv
 
 ! #19788
-bing.com##li.b_adBottom
+www.bing.com##li.b_ad
 www.bing.com#?#li.b_algo:not(.b_ans):not(.b_pag):not(.aca_algo):not(.aca_algo_count):not(.b_msg):-abp-has(h2 + .b_caption)
