@@ -24,6 +24,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2eula.g00.cnet.com^$script,xmlhttprequest,domain=cnet.com
 /*x2ehtr.g00.metacritic.com^$script,domain=metacritic.com
 /*x2eqhw.g00.tvguide.com^$script,domain=tvguide.com
+/*x2egsq.g00.goal.com^$script,domain=goal.com
 *x2esjy.g00.pch.com^$script,domain=pch.com
 
 ||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
