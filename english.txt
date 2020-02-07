@@ -106,6 +106,8 @@ klbjfm.com##div[id^="-bksskpi_ehw_mjveqi_/0176"]
 *x2ehtr.g00.newsradioklbj.com^$script,domain=newsradioklbj.com
 msn.com##div[x-enc1="class aria-label"]
 msn.com#?#div[x-enc1="id"]:-abp-has(h2:-abp-contains(Sponsored Topics))
+msn.com##div[id^="msn"]
+msn.com##div[class^="nonlist"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
