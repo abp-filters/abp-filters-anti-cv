@@ -95,9 +95,7 @@ cnet.com##.amzn-native-container
 hotbikeweb.com##.nolinks
 wakeboardingmag.com,saveur.com##[observeid="tbl-observe-0"]
 marlinmag.com##a[href="/story/boats/yamahas-xto-offshore/"]
-chowhound.com##div[id^="-fdlldib_xap_fcoxjb_1597"]
 edmunds.com##div[data--nljsucafy-hsjwfl="edm-entry-partner-promotions"]
-gamespot.com##div[id^="-miqqing_cfu_khtcog_/0486"]
 goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 klbjfm.com##div[id^="-bksskpi_ehw_mjveqi_/0176"]
 ||c-7npsfqifvt0x24x78x78x78x2ehpphmfubhtfswjdftx2edpn.g00.klbjfm.com^$script,domain=klbjfm.com
