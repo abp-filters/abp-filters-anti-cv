@@ -4,7 +4,7 @@
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
 ! #9272
-||c-9pruhskhx78v49x24lex2edgqavx2efrp.g00.metacritic.com^$script,domain=metacritic.com
+||c-1qsvitliyw52x24mfx2eehrbwx2egsq.g00.metacritic.com^$script,domain=metacritic.com
 ||c-8oqtgrjgwu37x24kdx2ecfpzux2eeqo.g00.tvguide.com^$script,domain=tvguide.com
 ||c-5uwzmx78pmca09x24qjx2eilvfax2ekwu.g00.chowhound.com^$script,domain=chowhound.com
 ||c-6rtwjumjzx7877x24fpfx2ex78utychisx2ehtr.g00.pch.com^$script,domain=pch.com
