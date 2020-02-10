@@ -106,6 +106,7 @@ goal.com##div[id^="-mtbbtyr_nqf_vsenzr_/90203514"]
 klbjfm.com##div[id^="-bksskpi_ehw_mjveqi_/0176"]
 ||c-7npsfqifvt0x24x78x78x78x2ehpphmfubhtfswjdftx2edpn.g00.klbjfm.com^$script,domain=klbjfm.com
 *x2ehtr.g00.newsradioklbj.com^$script,domain=newsradioklbj.com
+edmunds.com##div[class="row"]>div[data-tracking-id="home_page_type_select"]
 msn.com##div[x-enc1="class aria-label"]
 msn.com#?#div[x-enc1="id"]:-abp-has(h2:-abp-contains(Sponsored Topics))
 msn.com##div[id^="msn"]
