@@ -116,6 +116,9 @@ msn.com##div[aria-label*="you may like"]
 msn.com##iframe[name="atwAdFrame1"]
 msn.com##[data-yveg*="NativeAdHeadlineItemViewModel"]
 msn.com##li[data-yveg*="adblockMediumCardContainer"][data-visible="true"]
+msn.com##body[onerror*="adsDevilObj"]
+msn.com##div[data-yveh*="adBanner4Homepage"]
+msn.com##a[data-yveh*="NativeAdHeadlineItemViewModel"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
