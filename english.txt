@@ -110,6 +110,11 @@ msn.com##div[id^="msn"]
 msn.com##div[class^="nonlist"]
 msn.com##iframe[title=" TOPICS FOR YOU"]
 msn.com##aside[role="complementary"]
+msn.com##div[class*="extnativeaditem"]
+msn.com##iframe[title*="TOPICS FOR YOU"]
+msn.com##div[aria-label*="you may like"]
+msn.com##iframe[name="atwAdFrame1"]
+msn.com##[data-yveg*="NativeAdHeadlineItemViewModel"]
 
 ! #9274
 ||readlightnovel.org^$csp=script-src 'self' *
