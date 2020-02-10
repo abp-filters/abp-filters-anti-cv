@@ -51,6 +51,7 @@ t-online.de##a.Tctiga[href^="https://t-online.de/-"]
 
 ! #11076
 ||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
+player.glomex.com##._oasis_video:not([src^="blob:https://player.glomex.com/"])
 
 ! #26029
 pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
