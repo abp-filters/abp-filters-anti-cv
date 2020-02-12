@@ -55,6 +55,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
 
 gamespot.com,sportingnews.com#$#abort-current-inline-script IXC_303_7900321579941938
+www.msn.com#$#debug; abort-on-property-read google_reactive_ads_global_state
 
 cbssports.com##.skybox-top-wrapper
 cbssports.com###leader_plus_top
@@ -73,6 +74,7 @@ msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has([title="Ad"])
 www.msn.com##[data-aaib*="adblockMediumCardContainer"]
 www.msn.com##[data-aaib*="NativeAdHeadlineItemViewModel"]
 www.msn.com##[data-aaib*="sponcon"]
+www.msn.com##iframe[onload*="google_iframe_oncopy"]
 metacritic.com##a[href^="https://www.gamespot.com/amazon-prime-day-deals/"]
 medicinenet.com##.stickyColRight
 medicinenet.com##.stickyColLeft
