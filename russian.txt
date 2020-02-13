@@ -81,7 +81,6 @@ naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement eval; abort-on-property-read atob; abort-on-property-read loaded_blocks_directadvert; abort-current-inline-script decodeURIComponent
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
-buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
 paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 dota2.ru#$#abort-on-property-read helpUsImproveSite
 cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
@@ -93,6 +92,9 @@ city.ogo.ua#$#abort-on-property-read myatu_bgm
 fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru#$#abort-current-inline-script document.createElement initb
 anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.is_adblock
+
+! Popups & Popunders
+potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
 
 ! #20468
 
