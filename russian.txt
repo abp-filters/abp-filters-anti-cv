@@ -91,7 +91,6 @@ www.ixbt.com#$#abort-on-property-read adv_obj; abort-current-inline-script docum
 city.ogo.ua#$#abort-on-property-read myatu_bgm
 fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru#$#abort-current-inline-script document.createElement initb
 anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
-erofishki.cc,fishki.net#$#abort-on-property-read fishki.is_adblock
 
 ! Popups & Popunders
 potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
