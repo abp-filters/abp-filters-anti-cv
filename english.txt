@@ -4,6 +4,7 @@
 ||reutersmedia.net/resources/r/?*&r=LYNXMPF$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s3\.reutersmedia\.net\/resources\/r\/\?.*&r=\w{8,14}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 @@/reutersmedia\.net\/resources\/r\/\?.*1489/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+reuters.com##div[id="content"] > div:first-child
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
