@@ -2,8 +2,8 @@
 @@/reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPE[A-Z0-9]{6}$/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 !/reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPE[A-Za-z0-9]{6}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 ||reutersmedia.net/resources/r/?*&r=LYNXMPF$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-/s3\.reutersmedia\.net\/resources\/r\/\?.*&r=\w{8,14}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@/reutersmedia\.net\/resources\/r\/\?.*1489/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+/s3\.reutersmedia\.net\/resources\/r\/\?.*&r=\w{8,17}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+@@/reutersmedia\.net\/resources\/r\/\?.*1491.*/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 de.reuters.com,uk.reuters.com,www.reuters.com##div[id="content"] > div:first-child
 de.reuters.com,uk.reuters.com,www.reuters.com##div[data-template="article_list"] > div:first-child
 
