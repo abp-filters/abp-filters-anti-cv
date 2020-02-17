@@ -57,7 +57,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=gamespot.com
 
 gamespot.com,sportingnews.com#$#abort-current-inline-script IXC_303_7900321579941938
-www.msn.com#$#debug; abort-on-property-read google_reactive_ads_global_state
 
 cbssports.com##.skybox-top-wrapper
 cbssports.com###leader_plus_top
