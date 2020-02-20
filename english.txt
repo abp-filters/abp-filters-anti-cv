@@ -1,8 +1,7 @@
 ! #8479
 !/reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPE[A-Za-z0-9]{6}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 ||reutersmedia.net/resources/r/?*&r=LYNXMPF$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-/s3\.reutersmedia\.net\/resources\/r\/\?.*&r=\w{8,17}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-@@/s3\.reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPEG1I0[A-Z0-9]{2}$/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+/s3\.reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPEG1I0[A-Z0-9]{2}$/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
