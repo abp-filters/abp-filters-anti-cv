@@ -307,14 +307,14 @@ rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,ra
 onlystream.tv,txxx.com#$#abort-on-property-read BetterJsPop
 onvid.website,thevidhd.xyz,thevidhd.online,thehdvid.website,vidhd.site,vidhd.space,thehdvid.xyz,vidhd.host,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
 gaobook.review,mavplayer.xyz,svpri.xyz,vaplayer.xyz,xstreamcdn.com,flashx.pw,flashx.tv,embed.media,fembed.com,vidplayer.cz#$#abort-on-property-read AaDetector
-9xupload.me,mstream.net,mysembed.net,mystream.to#$#abort-on-property-read eval
+9xupload.me,mysembed.net,mystream.to#$#abort-on-property-read eval
 exe.io,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
 novom.ru#$#abort-on-property-read zoneNativeSett
 govid.me,9xupload.me#$#abort-on-property-read atop
 file-up.org,zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
 zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
 ayefiles.com#$#abort-on-property-read popjs.init
-govid.me,mstream.rocks,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
+govid.me,mstream.best|mstream.icu|mstream.rocks|mstream.xyz|mystream.io|mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
 jawcloud.co,kimcartoon.to,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net#$#abort-current-inline-script document.createElement String.fromCharCode
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
