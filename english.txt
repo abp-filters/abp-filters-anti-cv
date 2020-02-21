@@ -66,8 +66,6 @@ gamespot.com###leader_bottom-wrap
 msn.com##div[aria-label*="from our partners"]
 msn.com##div[aria-label*="promotions"]
 msn.com##iframe[title="TOPICS FOR YOU"]
-msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has(.adslabel)
-msn.com#?#li:not(.infopane-placeholder):not(.pick):-abp-has([title="Ad"])
 www.msn.com##[data-aaib*="adblockMediumCardContainer"]
 www.msn.com##[data-aaib*="NativeAdHeadlineItemViewModel"]
 www.msn.com##[data-aaib*="sponcon"]
