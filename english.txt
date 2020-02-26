@@ -243,6 +243,7 @@ quora.com##.answer_auto_expanded_comments + div > div.feed_expand
 quora.com##.feedback_wrapper.hidden:not(.negative_action) + .FeedStory.HyperLinkFeedStory.feed_item
 quora.com##div[class="question_main_col"]  > div:nth-child(3) > div[class="UnifiedAnswerPagedList PagedListFoo unified"]
 quora.com##div[class="pagedlist_item"]  div[id*="paged_list"]
+www.quora.com#?#[class^="Box-sc"]:-abp-has(> [class^="Box-sc"] > [class*="AdLinkWrapper"])
 
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
