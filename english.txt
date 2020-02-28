@@ -30,8 +30,6 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 /*x2egsq.g00.goal.com^$script,domain=goal.com
 *x2esjy.g00.pch.com^$script,domain=pch.com
 
-||g.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
-||ad.doubleclick.net^$domain=player.glomex.com|imasdk.googleapis.com|msn.com,~media
 ||googletagservices.com^$script,domain=mcall.com|mysanantonio.com|tv.com|cbssports.com|edmunds.com|everydayhealth.com|growthspotter.com|thoughtcatalog.com,~media
 ||contextual.media.net^$script,domain=webmd.com|growthspotter.com|thoughtcatalog.com,~media
 ||amazon-adsystem.com^$script,domain=mcall.com|mysanantonio.com|everydayhealth.com|webmd.com|growthspotter.com|thoughtcatalog.com,~media
@@ -45,7 +43,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||static.adziff.com^$script,domain=pcmag.com
 ||revcontent.com^$domain=boston.com|geek.com,~media
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=webmd.com
-@@$media,domain=gamespot.com|msn.com
+@@$media,domain=gamespot.com
 @@||gamespot.com^$generichide
 @@||securepubads.g.doubleclick.net/gampad/ads?$xmlhttprequest,domain=gamespot.com
 @@||securepubads.g.doubleclick.net/tag/js/gpt.js$script,domain=gamespot.com
@@ -107,7 +105,6 @@ msn.com##div[x-enc1="class aria-label"]
 msn.com#?#div[x-enc1="id"]:-abp-has(h2:-abp-contains(Sponsored Topics))
 msn.com##div[id^="msn"]
 msn.com##div[class^="nonlist"]
-msn.com##iframe[title=" TOPICS FOR YOU"]
 msn.com##aside[role="complementary"]
 msn.com##div[class*="extnativeaditem"]
 msn.com##iframe[title*="TOPICS FOR YOU"]
