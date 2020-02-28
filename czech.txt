@@ -30,6 +30,11 @@ blesk.cz#$#abort-on-property-read Blesk_sas2BkQ
 reflex.cz#$#abort-on-property-read Refle_sas2ReQ
 info.cz#$#abort-on-property-read InfoC_sas2ICQ
 auto.cz#$#abort-on-property-read AutoC_sas2ACQ
+zeny.cz#$#abort-on-property-read ZenyC_sas2ZCQ
+ahaonline.cz#$#abort-on-property-read Ahaon_sas2AneQ
+autorevue.cz#$#abort-on-property-read Autor_sas2AreQ
+dama.cz#$#abort-on-property-read Abece_sas2AeadmQ
+extra.cz#$#abort-on-property-read Extra_sas2EaQ
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read window.__cmp; abort-on-property-read window.__pmc; abort-on-property-read window._SAS; abort-on-property-read Adform; abort-on-property-read refreshAds
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
