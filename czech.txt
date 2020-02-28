@@ -24,21 +24,12 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-auto.cz#$#abort-on-property-read Q3aAtCK
-e15.cz#$#abort-on-property-read Q3aE5zK
-autorevue.cz#$#abort-on-property-read Q3aAtrvezK
-ahaonline.cz#$#abort-on-property-read Q3aAaniezK
-blesk.cz#$#abort-on-property-read Q3aBekzK
-dama.cz#$#abort-on-property-read Q3aDmCK
-extra.cz#$#abort-on-property-read Q3aEtazK
-info.cz#$#abort-on-property-read Q3aIfCK
-maminka.cz#$#abort-on-property-read Q3aMmnazK
-mobilmania.cz#$#abort-on-property-read Q3aMblaiCK
-mojezdravi.cz#$#abort-on-property-read Q3aMjZrvCK
-onetv.cz#$#abort-on-property-read Q3aOevzK
-reflex.cz#$#abort-on-property-read Q3aRfeCK
-zeny.cz#$#abort-on-property-read Q3aZnCK
-zive.cz#$#abort-on-property-read Q3aAmnaiezK
+e15.cz#$#abort-on-property-read E15Cz_sas2EzQ
+zive.cz#$#abort-on-property-read ZiveC_sas2ZCQ
+blesk.cz#$#abort-on-property-read Blesk_sas2BkQ
+reflex.cz#$#abort-on-property-read Refle_sas2ReQ
+info.cz#$#abort-on-property-read InfoC_sas2ICQ
+auto.cz#$#abort-on-property-read AutoC_sas2ACQ
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read window.__cmp; abort-on-property-read window.__pmc; abort-on-property-read window._SAS; abort-on-property-read Adform; abort-on-property-read refreshAds
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
