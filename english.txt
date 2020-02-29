@@ -376,3 +376,6 @@ realgfporn.com#$#abort-on-property-read encodeURI
 $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
 /favicon.ico$popup,domain=vidshare.tv
+
+! thesaurus.com / dictionary.com Adblock detection
+dictionary.com,thesaurus.com#$#abort-on-property-read adDetection
