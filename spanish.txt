@@ -17,3 +17,6 @@ peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 
 ! #22109
 rainanime.net#$#abort-on-property-read NativeAd
+
+! Popup/Popunder
+perfectgirls.es#$#abort-on-property-read open
