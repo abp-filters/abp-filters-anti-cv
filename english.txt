@@ -2,6 +2,7 @@
 !/reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPE[A-Za-z0-9]{6}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 ||reutersmedia.net/resources/r/?*&r=LYNXMPF$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s3\.reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPG[A-Z0-9]{4,6}$/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+uk.reuters.com,www.reuters.com##.sticky-1
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
