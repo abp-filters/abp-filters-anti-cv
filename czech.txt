@@ -29,7 +29,7 @@ zive.cz#$#abort-on-property-read ZiveC_sas2ZCQ
 blesk.cz#$#abort-on-property-read Blesk_sas2BkQ
 reflex.cz#$#abort-on-property-read Refle_sas2ReQ
 info.cz#$#abort-on-property-read InfoC_sas2ICQ
-auto.cz#$#abort-on-property-read AutoC_sas2ACQ
+auto.cz#$#abort-on-property-read AutoC_sas2ACQ; abort-on-property-read Az_sas2ACF
 zeny.cz#$#abort-on-property-read ZenyC_sas2ZCQ
 ahaonline.cz#$#abort-on-property-read Ahaon_sas2AneQ
 autorevue.cz#$#abort-on-property-read Autor_sas2AreQ
