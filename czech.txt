@@ -40,7 +40,7 @@ mobilmania.cz#$#abort-on-property-read Mobil_sas2MliQ; abort-on-property-read Mm
 mojezdravi.cz#$#abort-on-property-read MojeZ_sas2MZvQ; abort-on-property-read MdC_sas2MZvF
 onetv.cz#$#abort-on-property-read Onetv_sas2OvQ
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
 /vast.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
