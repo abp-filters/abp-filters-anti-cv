@@ -24,21 +24,21 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-e15.cz#$#abort-on-property-read E15Cz_sas2EzQ; abort-on-property-read E15Cz_sas2EzQ
+e15.cz#$#abort-on-property-read E15Cz_sas2EzQ; abort-on-property-read E15Cz_sas2EzQ; abort-on-property-read Efas4ECK
 zive.cz#$#abort-on-property-read ZiveC_sas2ZCQ; abort-on-property-read Zz_sas2ZCF
 blesk.cz#$#abort-on-property-read Blesk_sas2BkQ; abort-on-property-read BC_sas2BkF
-reflex.cz#$#abort-on-property-read Refle_sas2ReQ; abort-on-property-read Rx_sas2ReF
+reflex.cz#$#abort-on-property-read Refle_sas2ReQ; abort-on-property-read Rx_sas2ReF; abort-on-property-read Rfas4RlCK
 info.cz#$#abort-on-property-read InfoC_sas2ICQ; abort-on-property-read Iz_sas2ICF; abort-on-property-read Ifas4IoK
 auto.cz#$#abort-on-property-read AutoC_sas2ACQ; abort-on-property-read Az_sas2ACF; abort-on-property-read Afas4AoK
-zeny.cz#$#abort-on-property-read ZenyC_sas2ZCQ; abort-on-property-read Zz_sas2ZCF
-ahaonline.cz#$#abort-on-property-read Ahaon_sas2AneQ; abort-on-property-read Alz_sas2AneF
-autorevue.cz#$#abort-on-property-read Autor_sas2AreQ; abort-on-property-read Aez_sas2AreF
-dama.cz#$#abort-on-property-read Abece_sas2AeadmQ; abort-on-property-read Dz_sas2DCF
-extra.cz#$#abort-on-property-read Extra_sas2EaQ
-maminka.cz#$#abort-on-property-read Mamin_sas2MnzQ; abort-on-property-read Mk_sas2MnzF
-mobilmania.cz#$#abort-on-property-read Mobil_sas2MliQ; abort-on-property-read MmC_sas2MliF
-mojezdravi.cz#$#abort-on-property-read MojeZ_sas2MZvQ; abort-on-property-read MdC_sas2MZvF
-onetv.cz#$#abort-on-property-read Onetv_sas2OvQ
+zeny.cz#$#abort-on-property-read ZenyC_sas2ZCQ; abort-on-property-read Zz_sas2ZCF; abort-on-property-read Zfas4ZyK
+ahaonline.cz#$#abort-on-property-read Ahaon_sas2AneQ; abort-on-property-read Alz_sas2AneF; abort-on-property-read Afas4AoiCK
+autorevue.cz#$#abort-on-property-read Autor_sas2AreQ; abort-on-property-read Aez_sas2AreF; abort-on-property-read Afas4AovCK
+dama.cz#$#abort-on-property-read Abece_sas2AeadmQ; abort-on-property-read Dz_sas2DCF; abort-on-property-read Dfas4DaK
+! extra.cz#$#abort-on-property-read Extra_sas2EaQ
+maminka.cz#$#abort-on-property-read Mamin_sas2MnzQ; abort-on-property-read Mk_sas2MnzF; abort-on-property-read Mfas4MiaK
+mobilmania.cz#$#abort-on-property-read Mobil_sas2MliQ; abort-on-property-read MmC_sas2MliF; abort-on-property-read Mfas4MiaaK
+mojezdravi.cz#$#abort-on-property-read MojeZ_sas2MZvQ; abort-on-property-read MdC_sas2MZvF; abort-on-property-read Mfas4MeriK
+onetv.cz#$#abort-on-property-read Onetv_sas2OvQ; abort-on-property-read Onetv_sas2OvQ
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
