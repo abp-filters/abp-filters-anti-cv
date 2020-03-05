@@ -25,7 +25,7 @@ centrum.cz#$#abort-on-property-read _sashec.filterPositions
 ! #9708
 e15.cz#$#abort-on-property-read Efa6gdfsECbpGqlK
 zive.cz#$#abort-on-property-read Zfas5ZeK
-blesk.cz#$#abort-on-property-read Bfas5BszK
+blesk.cz#$#abort-on-property-read Ifa6gdfsIoBszbpGqlK
 reflex.cz#$#abort-on-property-read Rfa6gdfsRlCbpGqlK
 info.cz#$#abort-on-property-read Ifa6gdfsIobpGqlK
 auto.cz#$#abort-on-property-read Afa6gdfsAobpGqlK
@@ -33,7 +33,7 @@ zeny.cz#$#abort-on-property-read Zfas5ZyK
 ahaonline.cz#$#abort-on-property-read Afas5AoiCK
 autorevue.cz#$#abort-on-property-read Afas5AovCK
 dama.cz#$#abort-on-property-read Dfas5DaK
-extra.cz#$#abort-on-property-read Efas5ErzK
+extra.cz#$#abort-on-property-read Efa6gdfsErzbpGqlK
 maminka.cz#$#abort-on-property-read Mfas5MiaK
 mobilmania.cz#$#abort-on-property-read Mfas5MiaaK
 mojezdravi.cz#$#abort-on-property-read Mfas5MeriK
