@@ -24,12 +24,12 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-e15.cz#$#abort-on-property-read Efas5ECK
+e15.cz#$#abort-on-property-read Efa6gdfsECbpGqlK
 zive.cz#$#abort-on-property-read Zfas5ZeK
 blesk.cz#$#abort-on-property-read Bfas5BszK
-reflex.cz#$#abort-on-property-read Rfas5RlCK
-info.cz#$#abort-on-property-read Ifas5IoK
-auto.cz#$#abort-on-property-read Afas5AoK
+reflex.cz#$#abort-on-property-read Rfa6gdfsRlCbpGqlK
+info.cz#$#abort-on-property-read Ifa6gdfsIobpGqlK
+auto.cz#$#abort-on-property-read Afa6gdfsAobpGqlK
 zeny.cz#$#abort-on-property-read Zfas5ZyK
 ahaonline.cz#$#abort-on-property-read Afas5AoiCK
 autorevue.cz#$#abort-on-property-read Afas5AovCK
@@ -38,7 +38,7 @@ extra.cz#$#abort-on-property-read Efas5ErzK
 maminka.cz#$#abort-on-property-read Mfas5MiaK
 mobilmania.cz#$#abort-on-property-read Mfas5MiaaK
 mojezdravi.cz#$#abort-on-property-read Mfas5MeriK
-onetv.cz#$#abort-on-property-read Onetv_sas2OvQ; abort-on-property-read Onetv_sas2OvQ
+onetv.cz#$#abort-on-property-read Ofa6gdfsOtzbpGqlK
 karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#debug; abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag
