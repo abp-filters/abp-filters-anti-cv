@@ -221,6 +221,7 @@ marketrealist.com##iframe[data-creative-load-listener]
 marketrealist.com##iframe[data-apb="true"]
 marketrealist.com##iframe[data-kiosked-adframe]
 marketrealist.com##div[data-kiosked-role="ad-container"]
+marketrealist.com##.kskdDiv
 
 ! #16818
 dailymail.co.uk##.billboard
