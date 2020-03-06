@@ -219,6 +219,8 @@ kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 marketrealist.com##div[data-google-query-id]
 marketrealist.com##iframe[data-creative-load-listener]
 marketrealist.com##iframe[data-apb="true"]
+marketrealist.com##iframe[data-kiosked-adframe]
+marketrealist.com##div[data-kiosked-role="ad-container"]
 
 ! #16818
 dailymail.co.uk##.billboard
