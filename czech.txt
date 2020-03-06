@@ -11,8 +11,8 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write
 sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
 
 ! MISC
-idnes.cz,aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
-tiscali.cz#$#abort-on-property-read atob
+aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+idnes.cz,tiscali.cz#$#abort-on-property-read atob
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 iprima.cz#$#abort-current-inline-script setTimeout atob
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
