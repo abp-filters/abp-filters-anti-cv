@@ -269,6 +269,7 @@ indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: " A
 bombaytimes.com##a[onclick*="click"][rel="nofollow,noindex"]
 indiatimes.com##a[onclick][rel*="nofollow"]
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
+mensxp.com##a[onclick][rel*="nofollow"]
 
 ! #16030
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require; abort-current-inline-script _audiofanzineProductStack
