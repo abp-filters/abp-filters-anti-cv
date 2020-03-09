@@ -27,17 +27,17 @@ e15.cz#$#abort-on-property-read gdfsEv2usECbGqlK
 zive.cz#$#abort-on-property-read gdfsZv2usZebGqlK
 blesk.cz#$#abort-on-property-read gdfsBv2usBszbGqlK
 reflex.cz#$#abort-on-property-read gdfsRv2usRlCbGqlK
-info.cz#$#abort-on-property-read gdfsIvir2usIobGqlK
+info.cz#$#abort-on-property-read gdfsIv2usIobGqlK
 auto.cz#$#abort-on-property-read gdfsAv2usAobGqlK
 zeny.cz#$#abort-on-property-read gdfsZvir2usZybGqlK
 ahaonline.cz#$#abort-on-property-read gdfsAv2usAoiCbGqlK
-autorevue.cz#$#abort-on-property-read gdfsAvir2usAovCbGqlK
-dama.cz#$#abort-on-property-read gdfsDvir2usDabGqlK
+autorevue.cz#$#abort-on-property-read gdfsAv2usAovCbGqlK
+dama.cz#$#abort-on-property-read gdfsDv2usDabGqlK
 !extra.cz#$#abort-on-property-read Efa6gdfsErzbpGqlK
-maminka.cz#$#abort-on-property-read gdfsMvir2usMiabGqlK
-mobilmania.cz#$#abort-on-property-read gdfsMvir2usMiaabGqlK
-mojezdravi.cz#$#abort-on-property-read gdfsMvir2usMeribGqlK
-onetv.cz#$#abort-on-property-read gdfsOvir2usOtzbGqlK
+maminka.cz#$#abort-on-property-read gdfsMv2usMiabGqlK
+mobilmania.cz#$#abort-on-property-read gdfsMv2usMiaabGqlK
+mojezdravi.cz#$#abort-on-property-read gdfsMv2usMeribGqlK
+onetv.cz#$#abort-on-property-read gdfsOv2usOtzbGqlK
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag
