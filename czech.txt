@@ -23,17 +23,16 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-e15.cz#$#abort-on-property-read gdfsEv2usECbGqlK
-zive.cz#$#abort-on-property-read gdfsZv2usZebGqlK
-blesk.cz#$#abort-on-property-read gdfsBv2usBszbGqlK
-reflex.cz#$#abort-on-property-read gdfsRv2usRlCbGqlK
-info.cz#$#abort-on-property-read gdfsIv2usIobGqlK
-auto.cz#$#abort-on-property-read gdfsAv2usAobGqlK
+e15.cz#$#abort-on-property-read gdfsEvb3usECbGqlK
+zive.cz#$#abort-on-property-read gdfsZvb3usZebGqlK
+blesk.cz#$#abort-on-property-read gdfsBvb3usBszbGqlK
+reflex.cz#$#abort-on-property-read gdfsRvb3usRlCbGqlK
+info.cz#$#abort-on-property-read gdfsIvb3usIobGqlK
+auto.cz#$#abort-on-property-read gdfsAvb3usAobGqlK
 zeny.cz#$#abort-on-property-read gdfsZvir2usZybGqlK
 ahaonline.cz#$#abort-on-property-read gdfsAv2usAoiCbGqlK
 autorevue.cz#$#abort-on-property-read gdfsAv2usAovCbGqlK
 dama.cz#$#abort-on-property-read gdfsDv2usDabGqlK
-!extra.cz#$#abort-on-property-read Efa6gdfsErzbpGqlK
 maminka.cz#$#abort-on-property-read gdfsMv2usMiabGqlK
 mobilmania.cz#$#abort-on-property-read gdfsMv2usMiaabGqlK
 mojezdravi.cz#$#abort-on-property-read gdfsMv2usMeribGqlK
