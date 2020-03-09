@@ -266,6 +266,7 @@ mensxp.com##a[onclick*="mensxp.com//asddjm/"]
 businessinsider.in#?#li[class*="display-"]:-abp-has(div > h3 + p:-abp-contains(Ad: ))
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: "Ad")))
 indiatimes.com#?#div:-abp-has(> a p:-abp-has(> span:-abp-properties(content: " Ad ")))
+bombaytimes.com##a[onclick*="click"][rel="nofollow,noindex"]
 
 ! #16030
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require; abort-current-inline-script _audiofanzineProductStack
