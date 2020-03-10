@@ -300,6 +300,7 @@ katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script do
 ||zk8n5o.oaqjwapqdho.com^$script,xmlhttprequest
 ||volstqkwmth.com^$script,xmlhttprequest
 ||dgnepemukk.com^$script,xmlhttprequest
+||eiecaw.com^$script,xmlhttprequest
 ||sftcdn.net/acmp^$image,domain=softonic.com
 softonic.com##.ad-content-wrapper
 
