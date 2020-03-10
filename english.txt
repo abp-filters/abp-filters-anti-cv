@@ -204,13 +204,7 @@ seekingalpha.com#$#abort-on-property-read atob
 swatchseries.to#$#abort-on-property-read zfgloadednative
 
 ! #18552
-kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
-||ww.9to5google.com/8:$subdocument
-||ww.9to5mac.com/8:$subdocument
-||ww.9to5toys.com/8:$subdocument
-||ww.electrek.co/8:$subdocument
-||marketrealist.com/0:$subdocument
-||dronedj.com/8:$subdocument
+marketrealist,kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 9to5mac.com,9to5google.com,9to5toys.com##iframe[data-google-container-id]
 9to5mac.com,9to5google.com,9to5toys.com##iframe[title="Advertisement"]
 9to5mac.com,9to5google.com,9to5toys.com,marketrealist.com,electrek.co,dronedj.com##iframe[title="3-rd party ad content"]
