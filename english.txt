@@ -298,6 +298,7 @@ katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script do
 ||volstqkwmth.com^$script,xmlhttprequest
 ||dgnepemukk.com^$script,xmlhttprequest
 ||eiecaw.com^$script,xmlhttprequest
+||podfdch.com^$script,xmlhttprequest
 ||sftcdn.net/acmp^$image,domain=softonic.com
 softonic.com##.ad-content-wrapper
 
