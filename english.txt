@@ -283,7 +283,8 @@ audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 ! #10531
 ||1h6jqyt.jba.tribunnews.com^$script,xmlhttprequest,domain=tribunnews.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
-||d2kz60b0gq4lg.cloudfront.net^$script,domain=psychologyjunkie.com
+||d2kz60b0gq4lg.cloudfront.net^$script
+||d2wlwbnaa4keje.cloudfront.net^$script
 ||4gtk6i.$script,xmlhttprequest,domain=ign.com
 ||b8n5kh.$script,xmlhttprequest,domain=ign.com
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com
