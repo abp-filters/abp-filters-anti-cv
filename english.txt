@@ -266,6 +266,7 @@ bombaytimes.com##a[onclick*="click"][rel="nofollow,noindex"]
 indiatimes.com##a[onclick][rel*="nofollow"]
 businessinsider.in#?#div:-abp-has(> a[target="_self"][rel="nofollow,noindex"])
 mensxp.com##a[onclick][rel*="nofollow"]
+tamil.samayam.com#?#div:-abp-has(> h2 span:-abp-contains(Colombia))
 
 ! #16030
 audiofanzine.com#$#abort-on-property-read TextDecoder; abort-on-property-read require; abort-current-inline-script _audiofanzineProductStack
