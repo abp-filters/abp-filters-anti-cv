@@ -3,7 +3,7 @@
 ||reutersmedia.net/resources/r/?*&r=LYNXMPF$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s3\.reutersmedia\.net\/resources\/r\/\?.*=&r\w=\w*&r=\w*/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 uk.reuters.com,www.reuters.com##.sticky-1
-de.reuters.com,uk.reuters.com,www.reuters.com##div[id="content"] > div:nth-child(3)
+de.reuters.com,uk.reuters.com,www.reuters.com##div[id="content"] > div:nth-child(4)
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
