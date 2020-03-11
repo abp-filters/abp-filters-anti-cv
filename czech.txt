@@ -23,14 +23,14 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
+blesk.cz#$#abort-on-property-read uB5kBszbcc
+zive.cz#$#abort-on-property-read uZ5kZebcc
+ahaonline.cz#$#abort-on-property-read uA5kAoiCbcc
+reflex.cz#$#abort-on-property-read uR5kRlCbcc
 e15.cz#$#abort-on-property-read gfsEv4asECbGqlK
-zive.cz#$#abort-on-property-read gfsZv4asZebGqlK
-blesk.cz#$#abort-on-property-read gfsPv4asPzyeCbGqlK
-reflex.cz#$#abort-on-property-read gfsRv4asRlCbGqlK
 info.cz#$#abort-on-property-read gfsIv4asIobGqlK
 auto.cz#$#abort-on-property-read gfsAv4asAobGqlK
 zeny.cz#$#abort-on-property-read gfsZv4asZybGqlK
-ahaonline.cz#$#abort-on-property-read gfsAv4asAoiCbGqlK
 autorevue.cz#$#abort-on-property-read gfsAv4asAovCbGqlK
 dama.cz#$#abort-on-property-read gfsDv4asDabGqlK
 maminka.cz#$#abort-on-property-read gfsMv4asMiabGqlK
