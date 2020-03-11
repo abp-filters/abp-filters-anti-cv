@@ -26,6 +26,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||elberonoakdale.com^$third-party
 ||scottsburgpescadero.com^$third-party
 ||fruitlandmesaverde.com^$third-party
+||owlsheadcoalwood.com^$third-party
 ||www.planet.fr/foretimes^
 ||viedemerde.fr/cuckolding^
 ||ladepeche.fr/taffrail^
@@ -53,6 +54,7 @@ ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script
 ||ugeolf.com^$script
 ||jkajunrtzql.com^$script
 ||qlwgkw.com^$script
+||bfxxcram.com^$script
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
