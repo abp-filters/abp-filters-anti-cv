@@ -27,15 +27,15 @@ blesk.cz#$#abort-on-property-read uB5kBszbcc
 zive.cz#$#abort-on-property-read uZ5kZebcc
 ahaonline.cz#$#abort-on-property-read uA5kAoiCbcc
 reflex.cz#$#abort-on-property-read uR5kRlCbcc
-e15.cz#$#abort-on-property-read gfsEv4asECbGqlK
-info.cz#$#abort-on-property-read gfsIv4asIobGqlK
-auto.cz#$#abort-on-property-read gfsAv4asAobGqlK
-zeny.cz#$#abort-on-property-read gfsZv4asZybGqlK
-autorevue.cz#$#abort-on-property-read gfsAv4asAovCbGqlK
-dama.cz#$#abort-on-property-read gfsDv4asDabGqlK
+auto.cz#$#abort-on-property-read uA5kAobcc
+mobilmania.cz#$#abort-on-property-read uM5kMiaabcc
+e15.cz#$#abort-on-property-read uE5kECbcc
+autorevue.cz#$#abort-on-property-read uA5kAovCbcc
+info.cz#$#abort-on-property-read uI5kIobcc
+dama.cz#$#abort-on-property-read uD5kDabcc
 maminka.cz#$#abort-on-property-read gfsMv4asMiabGqlK
-mobilmania.cz#$#abort-on-property-read gfsMv4asMiaabGqlK
 mojezdravi.cz#$#abort-on-property-read gfsMv4asMeribGqlK
+zeny.cz#$#abort-on-property-read gfsZv4asZybGqlK
 onetv.cz#$#abort-on-property-read gdfsOvb3usOtzbGqlK
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
