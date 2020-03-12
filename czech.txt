@@ -29,13 +29,13 @@ ahaonline.cz#$#abort-on-property-read keaAABgCfAnej
 reflex.cz#$#abort-on-property-read keaRRBgCfRej
 auto.cz#$#abort-on-property-read keaAABgCfACj
 mobilmania.cz#$#abort-on-property-read keaMMBgCfMlij
-e15.cz#$#abort-on-property-read afsAEgEhEzj3t
-autorevue.cz#$#abort-on-property-read afsAAgEhArej3t
-info.cz#$#abort-on-property-read afsAIgEhICj3t
-dama.cz#$#abort-on-property-read afsADgEhDCj3t
-maminka.cz#$#abort-on-property-read afsAMgEhMnzj3t
-mojezdravi.cz#$#abort-on-property-read afsAMgEhMZvj3t
-zeny.cz#$#abort-on-property-read afsAZgEhZCj3t
+e15.cz#$#abort-on-property-read keaEEBgCfEzj
+autorevue.cz#$#abort-on-property-read keaAABgCfArej
+info.cz#$#abort-on-property-read keaIIBgCfICj
+dama.cz#$#abort-on-property-read keaIIBgCfICj
+maminka.cz#$#abort-on-property-read keaMMBgCfMnzj
+mojezdravi.cz#$#abort-on-property-read keaMMBgCfMZvj
+zeny.cz#$#abort-on-property-read keaZZBgCfZCj
 onetv.cz#$#abort-on-property-read dedOu2Otzmgr
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
