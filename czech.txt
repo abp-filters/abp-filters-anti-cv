@@ -23,20 +23,21 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-blesk.cz#$#abort-on-property-read guBoQBvetBszd5c
-zive.cz#$#abort-on-property-read guZoQZvetZed5c
-ahaonline.cz#$#abort-on-property-read guAoQAvetAoiCd5c
-reflex.cz#$#abort-on-property-read guRoQRvetRlCd5c
-auto.cz#$#abort-on-property-read guAoQAvetAod5c
-mobilmania.cz#$#abort-on-property-read hjiM3MCadMliu
-e15.cz#$#abort-on-property-read hjiE3ECadEzu
-autorevue.cz#$#abort-on-property-read hjiA3ACadAreu
-info.cz#$#abort-on-property-read keaIIBgCfICj
-dama.cz#$#abort-on-property-read keaIIBgCfICj
-maminka.cz#$#abort-on-property-read keaMMBgCfMnzj
-mojezdravi.cz#$#abort-on-property-read keaMMBgCfMZvj
-zeny.cz#$#abort-on-property-read keaZZBgCfZCj
-onetv.cz#$#abort-on-property-read dedOu2Otzmgr
+blesk.cz#$#abort-on-property-write gvBooBvetBszd5c
+extra.cz#$#abort-on-property-write dedEu2Erzmgr
+zive.cz#$#abort-on-property-write gvZooZvetZed5c
+ahaonline.cz#$#abort-on-property-write gvAooAvetAoiCd5c
+reflex.cz#$#abort-on-property-write gvRooRvetRlCd5c
+auto.cz#$#abort-on-property-write gvAooAvetAod5c
+mobilmania.cz#$#abort-on-property-write gvMooMvetMiaad5c
+e15.cz#$#abort-on-property-write gvEooEvetECd5c
+autorevue.cz#$#abort-on-property-write gvAooAvetAovCd5c
+info.cz#$#abort-on-property-write gvIooIvetIod5c
+dama.cz#$#abort-on-property-write gvDooDvetDad5c
+maminka.cz#$#abort-on-property-write gvMooMvetMiad5c
+mojezdravi.cz#$#abort-on-property-write gvMooMvetMerid5c
+zeny.cz#$#abort-on-property-write gvZooZvetZyd5c
+onetv.cz#$#abort-on-property-write dedOu2Otzmgr
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag; abort-on-property-read __adform_onload
