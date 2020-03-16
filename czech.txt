@@ -23,7 +23,7 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-blesk.cz#$#abort-on-property-write gBoBvBszw7h
+blesk.cz#$#abort-on-property-write gBABvBszw7h
 extra.cz#$#abort-on-property-write dedEu2Erzmgr
 zive.cz#$#abort-on-property-write gZoZvZew6h
 ahaonline.cz#$#abort-on-property-write gAoAvAoiCw11h
