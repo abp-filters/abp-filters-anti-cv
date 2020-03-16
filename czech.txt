@@ -39,7 +39,7 @@ mojezdravi.cz#$#abort-on-property-write gMAMvMeriw12h
 zeny.cz#$#abort-on-property-write gZAZvZyw6h
 onetv.cz#$#abort-on-property-write dedOu2Otzmgr
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
-euro.cz#$#abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
+euro.cz#$#abort-on-property-write googletag; abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag; abort-on-property-read __adform_onload
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
