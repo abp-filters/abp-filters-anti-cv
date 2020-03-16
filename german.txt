@@ -57,4 +57,4 @@ player.glomex.com##._oasis_video:not([src^="blob:https://player.glomex.com/"])
 pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 
 ! #10531
-||1junscg.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de
+||1fbjq39.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de
