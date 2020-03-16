@@ -94,7 +94,6 @@ erofishki.cc,fishki.net#$#abort-on-property-read Object.prototype.adblock-enable
 
 ! Popups & Popunders
 assiatv.com,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
-porno365.blog#$#abort-on-property-read J2CC
 
 ! #20468
 
