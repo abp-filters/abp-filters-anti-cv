@@ -158,8 +158,8 @@ redtube.com#$#abort-on-property-read smpop
 ! #10385
 newser.com#$#abort-on-property-read checkAds
 newser.com#$#abort-on-property-write UAParser
-activistpost.com,naturalblaze.com##div[cls*="_box"]
-activistpost.com,naturalblaze.com##div[cls*="_simule"]
+deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_box"]
+deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_simule"]
 
 ! #10386
 hotmovs.com##div[class^="vda-closeplay"]
