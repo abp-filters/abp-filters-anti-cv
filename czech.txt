@@ -23,20 +23,20 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-blesk.cz#$#abort-on-property-write gBABvBszw7h
-extra.cz#$#abort-on-property-write dedEu2Erzmgr
-zive.cz#$#abort-on-property-write gZAZvZew6h
-ahaonline.cz#$#abort-on-property-write gAAAvAoiCw11h
-reflex.cz#$#abort-on-property-write gRARvRlCw8h
-auto.cz#$#abort-on-property-write gAAAvAow6h
-mobilmania.cz#$#abort-on-property-write gMAMvMiaaw12h
-e15.cz#$#abort-on-property-write gEAEvECw5h
-autorevue.cz#$#abort-on-property-write gAAAvAovCw11h
-info.cz#$#abort-on-property-write gIAIvIow6h
-dama.cz#$#abort-on-property-write gDADvDaw6h
-maminka.cz#$#abort-on-property-write gMAMvMiaw9h
-mojezdravi.cz#$#abort-on-property-write gMAMvMeriw12h
-zeny.cz#$#abort-on-property-write gZAZvZyw6h
+blesk.cz#$#abort-on-property-write gBuBvBszw7h
+extra.cz#$#abort-on-property-write gEuEvErzw7h
+zive.cz#$#abort-on-property-write gZuZvZew6h
+ahaonline.cz#$#abort-on-property-write gAuAvAoiCw11h
+reflex.cz#$#abort-on-property-write gRuRvRlCw8h
+auto.cz#$#abort-on-property-write gAuAvAow6h
+mobilmania.cz#$#abort-on-property-write gMuMvMiaaw12h
+e15.cz#$#abort-on-property-write gEuEvECw5h
+autorevue.cz#$#abort-on-property-write gAoAvAovCw11h
+info.cz#$#abort-on-property-write gIoIvIow6h
+dama.cz#$#abort-on-property-write gDoDvDaw6h
+maminka.cz#$#abort-on-property-write gMoMvMiaw9h
+mojezdravi.cz#$#abort-on-property-write gMoMvMeriw12h
+zeny.cz#$#abort-on-property-write gZoZvZyw6h
 onetv.cz#$#abort-on-property-write dedOu2Otzmgr
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#abort-on-property-write googletag; abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
