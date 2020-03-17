@@ -1,35 +1,6 @@
 ! #8471
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
-||w.kicker.de$image,domain=kicker.de
-||b.t.kicker.de$image,domain=kicker.de
-^specials*$image,domain=giga.de
-/www\.meinestadt\.de\/[i|m|g|s|h]{3,7}\/.+(gif|jpg|png)/$image,domain=meinestadt.de
-/www\.quoka\.de\/.+\/.+\/\w+\/\w+\.(gif|jpg|png)/$image,domain=quoka.de
-/www\.spieletipps\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=spieletipps.de
-/www\.kino\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=kino.de
-/www\.clever-tanken\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=clever-tanken.de
-/www\.tichyseinblick\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=tichyseinblick.de
-/www\.nw\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=nw.de
-@@||media.meinestadt.de/image^$image,domain=meinestadt.de
-@@||meinestadt.de/images^$image,domain=meinestadt.de
-@@||quoka.de/img/quoka/editorials^$domain=quoka.de
-@@||www.quoka.de/assets/img*$image,domain=quoka.de
-@@||videos.kino.de/image^$image,domain=kino.de
-@@||tichyseinblick.de/wp-content/uploads^$domain=tichyseinblick.de
-@@||nw.de/_em_daten^$domain=nw.de
-/www\.fanfiktion\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=fanfiktion.de
-@@||fanfiktion.de/pics/store_google.png
-@@||fanfiktion.de/pics/store_apple.png
-@@||fanfiktion.de/pics/favicon.png
-/www\.frag-mutti\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=frag-mutti.de
-@@||frag-mutti.de/images/logo^$image,domain=frag-mutti.de
-/www\.weser-kurier\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=weser-kurier.de
-@@||weser-kurier.de/cms_media^$domain=weser-kurier.de
-@@||weser-kurier.de/pu_wkd2014^$domain=weser-kurier.de
-@@||weser-kurier.de/__wetterkontor/images^$domain=weser-kurier.de
-/www\.donnerwetter\.de\/.+\w+\/\w+\.(gif|jpg|png)/$image,domain=donnerwetter.de
-@@||donnerwetter.de/*pagespeed*.webp^$domain=donnerwetter.de
 
 ! #8479
 playboy.de#$#abort-current-inline-script Object.prototype.networkListener
