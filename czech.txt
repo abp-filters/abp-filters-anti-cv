@@ -23,12 +23,12 @@ cnews.cz,idnes.cz#$#abort-on-property-read Ads
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
 
 ! #9708
-blesk.cz#$#abort-on-property-write gzsBzsBuzHlveRd17h
-extra.cz#$#abort-on-property-write gzrEzrEuzHxveRd17h
-zive.cz#$#abort-on-property-write gzvHCiuzuhveRd15h
-ahaonline.cz#$#abort-on-property-write gznnhuelahuzoCaveRd25h
-reflex.cz#$#abort-on-property-write gzeeuxfhuzRlveRd19h
-auto.cz#$#abort-on-property-write gztHCuuzuhveRd15h
+blesk.cz#$#abort-on-property-write gzsBzsBjuzHlveRd20h
+extra.cz#$#abort-on-property-write gzrEzrEjuzHxveRd20h
+zive.cz#$#abort-on-property-write gzvHCihuzukveRd18h
+ahaonline.cz#$#abort-on-property-write gznnhuelakluzoCaveRd28h
+reflex.cz#$#abort-on-property-write gzeeuxfkluzRllveRd22h
+auto.cz#$#abort-on-property-write gztHCuhuzukveRd18h
 mobilmania.cz#$#abort-on-property-write gzimbHCnlouzlzlveRd27h
 e15.cz#$#abort-on-property-write gz1u5huzzveRd13h
 autorevue.cz#$#abort-on-property-write gzuruueethuzoCtveRd25h
