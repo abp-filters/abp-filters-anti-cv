@@ -86,21 +86,21 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[class="krh-m-g"]
 
 ! #12079
-blesk.cz#$#abort-on-property-write gzsBzsBKeluzHleveRd25h
-extra.cz#$#abort-on-property-write gzrEzrEKeluzHxeveRd25h
-zive.cz#$#abort-on-property-write gzvHCiufkuzulkveRd23h
-ahaonline.cz#$#abort-on-property-write gznnhuelalebuzoCafveRd33h
-reflex.cz#$#abort-on-property-write gzeeuxflebuzRleveRd27h
-auto.cz#$#abort-on-property-write gztHCuufkuzulkveRd23h
-mobilmania.cz#$#abort-on-property-write gzimbHCnloufkuzlzlKveRd35h
-e15.cz#$#abort-on-property-write gz1u5lebuzzKveRd21h
-autorevue.cz#$#abort-on-property-write gzuruueetkluzoCtveRd28h
-info.cz#$#abort-on-property-write gzfHCnhuzukveRd18h
-dama.cz#$#abort-on-property-write gzmHCahuzukveRd18h
-maminka.cz#$#abort-on-property-write gzkmHCnahuzakhveRd24h
-mojezdravi.cz#$#abort-on-property-write gzvdjHCaZohuzZzZjveRd30h
-zeny.cz#$#abort-on-property-write gznHCehuzukveRd18h
-onetv.cz#$#abort-on-property-write gztOztOjuzHnveRd20h
+blesk.cz#$#abort-on-property-write gzsBzsBuuzGlveRd20h
+extra.cz#$#abort-on-property-write gzrEzrEuuzGxveRd20h
+zive.cz#$#abort-on-property-write gzvGCituzuaveRd18h
+ahaonline.cz#$#abort-on-property-write gznnhuelaaauzoCaveRd28h
+reflex.cz#$#abort-on-property-write gzeeuxfaauzRlaveRd22h
+auto.cz#$#abort-on-property-write gztGCutuzuaveRd18h
+mobilmania.cz#$#abort-on-property-write gzimbGCnlotuzlzluveRd30h
+e15.cz#$#abort-on-property-write gz1u5aauzzuveRd16h
+autorevue.cz#$#abort-on-property-write gzuruueetaauzoCtveRd28h
+info.cz#$#abort-on-property-write gzfGCntuzuaveRd18h
+dama.cz#$#abort-on-property-write gzmGCatuzuaveRd18h
+maminka.cz#$#abort-on-property-write gzkmGCnatuzaktveRd24h
+mojezdravi.cz#$#abort-on-property-write gzvdjGCaZotuzZzZuveRd30h
+zeny.cz#$#abort-on-property-write gznGCetuzuaveRd18h
+onetv.cz#$#abort-on-property-write gztOztOuuzGnveRd20h
 tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read BmOne2n
 euro.cz#$#abort-on-property-write googletag; abort-on-property-read sssp; abort-on-property-read google_reactive_ads_global_state
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read sssp; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag; abort-on-property-read __adform_onload; abort-on-property-read AdTrack
