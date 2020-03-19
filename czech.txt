@@ -101,6 +101,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 euro.cz##iframe[title="3rd party ad content"]
 idnes.cz##.ifr-passback
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[data-role="item"][rel="external nofollow"]
+dama.cz,maminka.cz##div[class="krh-m-g"]
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
