@@ -166,14 +166,14 @@ audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
 ||d2kz60b0gq4lg.cloudfront.net^$script
 ||d2wlwbnaa4keje.cloudfront.net^$script
-||4gtk6i.$script,xmlhttprequest,domain=ign.com
-||b8n5kh.$script,xmlhttprequest,domain=ign.com
-||1ov2pp0.$script,xmlhttprequest,domain=ign.com
-||1ecfkts.$script,xmlhttprequest,domain=ign.com
-||gggxnu.g0$script,xmlhttprequest,domain=ign.com
-||vxq18c.g0$script,xmlhttprequest,domain=ign.com
-||1rsbtjt.g0$script,xmlhttprequest,domain=ign.com
-||1k56pfl.$script,xmlhttprequest,domain=ign.com
+||4gtk6i.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||b8n5kh.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||1ecfkts.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||gggxnu.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||vxq18c.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||1rsbtjt.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||1k56pfl.$script,xmlhttprequest,domain=ign.com|ignboards.com
 gfycat.com#$#abort-current-inline-script Math
 foreverconscious.com,blwideas.com,ultimateninjablazingx.com,utahsweetsavings.com,usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
 katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script document.head.appendChild
