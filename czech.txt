@@ -103,6 +103,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 idnes.cz,tiscali.cz#$#abort-on-property-read atob
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
 idnes.cz#$#abort-on-property-write Badsde.loadSAS
+expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
