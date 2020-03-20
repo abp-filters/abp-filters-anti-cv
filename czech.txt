@@ -103,7 +103,7 @@ idnes.cz,tiscali.cz#$#abort-on-property-read atob
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
 idnes.cz#$#abort-on-property-write Badsde.loadSAS
 expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
-sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
+expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
