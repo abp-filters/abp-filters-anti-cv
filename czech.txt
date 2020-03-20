@@ -8,7 +8,6 @@ clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-tit
 novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
-sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
 
 ! MISC
 aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
@@ -104,6 +103,7 @@ idnes.cz,tiscali.cz#$#abort-on-property-read atob
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
 idnes.cz#$#abort-on-property-write Badsde.loadSAS
 expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
+sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
