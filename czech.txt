@@ -104,7 +104,7 @@ cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write M
 idnes.cz#$#abort-on-property-write Badsde.loadSAS
 expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
 expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
-novinky.cz#$#abort-on-property-read brukev
+sport.cz,novinky.cz#$#abort-on-property-read brukev
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
