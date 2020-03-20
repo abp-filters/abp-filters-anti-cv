@@ -41,6 +41,8 @@ newser.com#$#abort-on-property-read checkAds
 newser.com#$#abort-on-property-write UAParser
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_8ox"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_sinule"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_box"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_simule"]
 
 ! #10386
 hotmovs.com##div[class^="vda-closeplay"]
