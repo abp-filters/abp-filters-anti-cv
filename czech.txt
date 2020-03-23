@@ -107,6 +107,8 @@ expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read
 super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
 super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
 sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
+expres.cz#$#abort-on-property-read kapu6c058a963eds62e88d39ta
+lidovky.cz#$#abort-on-property-read kapuc7b0de3d912sc55d479dta
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
