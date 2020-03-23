@@ -105,6 +105,8 @@ idnes.cz#$#abort-on-property-write Badsde.loadSAS
 expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
 expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
 super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
+super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
+sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
