@@ -82,12 +82,12 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[class="krh-m-g"]
 
 ! #12079
-blesk.cz#$#abort-on-property-write gzsBsefkluzGalveRd24h
-extra.cz#$#abort-on-property-write gzrEsefaxuzGaxveRd24h
-zive.cz#$#abort-on-property-write gzvGazzvluzuflveRd22h
-ahaonline.cz#$#abort-on-property-write gznnhukaCioAuzoaCaveRd32h
-reflex.cz#$#abort-on-property-write gzeeukaClRuzRzlveRd26h
-auto.cz#$#abort-on-property-write gztGazztluzuflveRd22h
+blesk.cz#$#abort-on-property-write vlazBkluztCazeGs24u
+extra.cz#$#abort-on-property-write vlazEkxuztCazeGs24u
+zive.cz#$#abort-on-property-write vlaztzluzaeuzeGs22u
+ahaonline.cz#$#abort-on-property-write vlaznaCofuzoiilzeGs32u
+reflex.cz#$#abort-on-property-write vlazellfuzRzRzeGs26u
+auto.cz#$#abort-on-property-write vlaztzluzaouzeGs22u
 mobilmania.cz#$#abort-on-property-write gzimbGazzimbluzlszlveRd34h
 e15.cz#$#abort-on-property-write gz1ukaCEuzszveRd20h
 autorevue.cz#$#abort-on-property-write gzuruukaCvoAuzoaCtveRd32h
