@@ -39,8 +39,7 @@ redtube.com#$#abort-on-property-read smpop
 ! #10385
 newser.com#$#abort-on-property-read checkAds
 newser.com#$#abort-on-property-write UAParser
-tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_8ox"]
-tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_sinule"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[class*="wax"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_bix"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_zimule"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[id*="zlp"]
