@@ -85,15 +85,15 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>span:-abp-contains(rеkla ma))
 
 ! #12079
-blesk.cz#$#abort-on-property-write vlazBkluztCazeGs24u
-extra.cz#$#abort-on-property-write vlazEkxuztCazeGs24u
-zive.cz#$#abort-on-property-write vlaztzluzaeuzeGs22u
-ahaonline.cz#$#abort-on-property-write vlaznaCofuzoiilzeGs32u
-reflex.cz#$#abort-on-property-write vlazellfuzRzRzeGs26u
-auto.cz#$#abort-on-property-write vlaztzluzaouzeGs22u
-mobilmania.cz#$#abort-on-property-write vlazmtzmluzlkiozeGs34u
-e15.cz#$#abort-on-property-write vlazaCfuzk1zeGs20u
-autorevue.cz#$#abort-on-property-write vlazraCofuzoivlzeGs32u
+blesk.cz#$#abort-on-property-write vIazBkluztCazeCs24u
+extra.cz#$#abort-on-property-write vIazEkxuztCazeCs24u
+zive.cz#$#abort-on-property-write vIazmivluztkmzeCs28u
+ahaonline.cz#$#abort-on-property-write vIaznaCofuzoiilzeCs32u
+reflex.cz#$#abort-on-property-write vIazellfuzRzRzeCs26u
+auto.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
+mobilmania.cz#$#abort-on-property-write vIazmtzmluzlkiozeCs34u
+e15.cz#$#abort-on-property-write vIazaCfuzk1zeCs20u
+autorevue.cz#$#abort-on-property-write vIazraCofuzoivlzeCs32u
 info.cz#$#abort-on-property-write vlaztzluzaouzeGs22u
 dama.cz#$#abort-on-property-write vlaztzluzaauzeGs22u
 maminka.cz#$#abort-on-property-write vlazmikluzakmzeGs28u
@@ -117,6 +117,7 @@ lidovky.cz#$#abort-on-property-read kapuc7b0de3d912sc55d479dta
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##ad-skycrapper
 novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz##[id*="Adform"]
 karaoketexty.cz,kinobox.cz###stickyWrap
