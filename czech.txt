@@ -16,7 +16,7 @@ mojezdravi.cz#$#abort-on-property-write vIazdtzdluzZkvozeCs34u
 zeny.cz#$#abort-on-property-write vIaztzluzayuzeCs22u
 onetv.cz#$#abort-on-property-write vIazOknuztCazeCs24u
 osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
-osobnosti.cz#$#abort-on-property-read bmofbne2n
+osobnosti.cz#$#abort-on-property-read f7mocc0571ne2n
 tiscali.cz#$#abort-on-property-read bmo3bne2n
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag; abort-on-property-read __adform_onload; abort-on-property-read AdTrack
 idnes.cz,tiscali.cz#$#abort-on-property-read atob
