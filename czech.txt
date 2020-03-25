@@ -1,3 +1,49 @@
+
+! #12079
+blesk.cz#$#abort-on-property-write vIazBkluztCazeCs24u
+extra.cz#$#abort-on-property-write vIazEkxuztCazeCs24u
+zive.cz#$#abort-on-property-write vIazmivluztkmzeCs28u
+ahaonline.cz#$#abort-on-property-write vIaznaCofuzoiilzeCs32u
+reflex.cz#$#abort-on-property-write vIazellfuzRzRzeCs26u
+auto.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
+mobilmania.cz#$#abort-on-property-write vIazmtzmluzlkiozeCs34u
+e15.cz#$#abort-on-property-write vIazaCfuzk1zeCs20u
+autorevue.cz#$#abort-on-property-write vIazraCofuzoivlzeCs32u
+info.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
+dama.cz#$#abort-on-property-write vIaztzluzaauzeCs22u
+maminka.cz#$#abort-on-property-write vIazmikluzakmzeCs28u
+mojezdravi.cz#$#abort-on-property-write vIazdtzdluzZkvozeCs34u
+zeny.cz#$#abort-on-property-write vIaztzluzayuzeCs22u
+onetv.cz#$#abort-on-property-write vIazOknuztCazeCs24u
+osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
+osobnosti.cz#$#abort-on-property-read bmofbne2n
+tiscali.cz#$#abort-on-property-read bmo3bne2n
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag; abort-on-property-read __adform_onload; abort-on-property-read AdTrack
+idnes.cz,tiscali.cz#$#abort-on-property-read atob
+cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
+idnes.cz#$#abort-on-property-write Badsde.loadSAS
+expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
+expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
+super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
+super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
+sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
+expres.cz#$#abort-on-property-read kapu6c058a963eds62e88d39ta
+lidovky.cz#$#abort-on-property-read kapuc7b0de3d912sc55d479dta
+novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+kupi.cz#$#abort-current-inline-script $ Detect
+kupi.cz#$#abort-current-inline-script setTimeout document.write
+
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.ad-skycrapper
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz##[id*="Adform"]
+novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
+karaoketexty.cz,kinobox.cz###stickyWrap
+idnes.cz##.s_branding
+idnes.cz###r-homepage
+idnes.cz##div[class*="banner"]
+
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
 clanky.seznam.cz,search.seznam.cz##.Result-ico:not([class="Result-ico"])
@@ -5,9 +51,6 @@ clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > .Result-ico:not([cl
 clanky.seznam.cz,search.seznam.cz#?#:-abp-has(> .Result--organic .Result-title-link:not([class="Result-title-link"]))
 clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="Result-contentContainer _"])
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
-novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
-kupi.cz#$#abort-current-inline-script $ Detect
-kupi.cz#$#abort-current-inline-script setTimeout document.write
 
 ! MISC
 aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
@@ -83,47 +126,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>span:-abp-contains(MGID))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>span:-abp-contains(reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>span:-abp-contains(rеkla ma))
-
-! #12079
-blesk.cz#$#abort-on-property-write vIazBkluztCazeCs24u
-extra.cz#$#abort-on-property-write vIazEkxuztCazeCs24u
-zive.cz#$#abort-on-property-write vIazmivluztkmzeCs28u
-ahaonline.cz#$#abort-on-property-write vIaznaCofuzoiilzeCs32u
-reflex.cz#$#abort-on-property-write vIazellfuzRzRzeCs26u
-auto.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
-mobilmania.cz#$#abort-on-property-write vIazmtzmluzlkiozeCs34u
-e15.cz#$#abort-on-property-write vIazaCfuzk1zeCs20u
-autorevue.cz#$#abort-on-property-write vIazraCofuzoivlzeCs32u
-info.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
-dama.cz#$#abort-on-property-write vIaztzluzaauzeCs22u
-maminka.cz#$#abort-on-property-write vIazmikluzakmzeCs28u
-mojezdravi.cz#$#abort-on-property-write vIazdtzdluzZkvozeCs34u
-zeny.cz#$#abort-on-property-write vIaztzluzayuzeCs22u
-onetv.cz#$#abort-on-property-write vIazOknuztCazeCs24u
-osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
-osobnosti.cz#$#abort-on-property-read bmofbne2n
-tiscali.cz#$#abort-on-property-read bmo3bne2n
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read Object.prototype._writeStaticTokens; abort-on-property-read __cmp; abort-on-property-read __pmc; abort-on-property-read _SAS; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read cccp; abort-on-property-write Betform; abort-on-property-write __adform_adbox_init; abort-on-property-read adformtag; abort-on-property-read __adform_onload; abort-on-property-read AdTrack
-idnes.cz,tiscali.cz#$#abort-on-property-read atob
-cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
-idnes.cz#$#abort-on-property-write Badsde.loadSAS
-expres.cz,lidovky.cz#$#abort-on-property-read SAS_SERVER
-expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
-super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
-super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
-sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
-expres.cz#$#abort-on-property-read kapu6c058a963eds62e88d39ta
-lidovky.cz#$#abort-on-property-read kapuc7b0de3d912sc55d479dta
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.ad-skycrapper
-novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz##[id*="Adform"]
-karaoketexty.cz,kinobox.cz###stickyWrap
-idnes.cz##.s_branding
-idnes.cz###r-homepage
-idnes.cz##div[class*="banner"]
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
