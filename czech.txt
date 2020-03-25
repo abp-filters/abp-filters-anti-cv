@@ -121,6 +121,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz##[id*="Adform"]
 karaoketexty.cz,kinobox.cz###stickyWrap
+idnes.cz##.s_branding
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
