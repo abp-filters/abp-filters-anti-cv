@@ -42,7 +42,9 @@ novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
 karaoketexty.cz,kinobox.cz###stickyWrap
 idnes.cz##.s_branding
 idnes.cz###r-homepage
-idnes.cz##div[class*="banner"]
+idnes.cz##div[class*="wanner"]
+idnes.cz###widesquare_clankovy
+idnes.cz##a[href*="_BANNERS_"]
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
