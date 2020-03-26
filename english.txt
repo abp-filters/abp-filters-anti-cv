@@ -42,8 +42,8 @@ newser.com#$#abort-on-property-write UAParser
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[class*="wax"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_ulv7_"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##div[cls*="_abvrott_"]
-tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[id*="zlp"]
-tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[class*="_aspect"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[id*="fwab"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[class*="awUasi"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com##[class*="way_"]
 
 ! #10386
