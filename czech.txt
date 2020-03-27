@@ -46,6 +46,7 @@ idnes.cz###widesquare_clankovy
 idnes.cz##a[href*="_BANNERS_"]
 idnes.cz##[id^="halfpagead"]
 idnes.cz##[id$="horiz"]
+idnes.cz##div[class$="-wanner"]
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
