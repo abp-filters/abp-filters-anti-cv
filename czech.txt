@@ -1,15 +1,15 @@
 
 ! #12079
-blesk.cz#$#abort-on-property-write vIazBkluztCazeCs24u
-extra.cz#$#abort-on-property-write vIazEkxuztCazeCs24u
-zive.cz#$#abort-on-property-write vIazmivluztkmzeCs28u
-ahaonline.cz#$#abort-on-property-write vIaznaCofuzoiilzeCs32u
-reflex.cz#$#abort-on-property-write vIazellfuzRzRzeCs26u
-auto.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
-mobilmania.cz#$#abort-on-property-write vIazmtzmluzlkiozeCs34u
-e15.cz#$#abort-on-property-write vIazaCfuzk1zeCs20u
-autorevue.cz#$#abort-on-property-write vIazraCofuzoivlzeCs32u
-info.cz#$#abort-on-property-write vIaztzluzaouzeCs22u
+blesk.cz#$#abort-on-property-write sozBkzBcoronazaeB
+extra.cz#$#abort-on-property-write sozEkzEcoronazaeE
+zive.cz#$#abort-on-property-write vIazteCauzanizeCs25u
+ahaonline.cz#$#abort-on-property-write vIaznateauzoidnzeCs35u
+reflex.cz#$#abort-on-property-write vIazeldfuzRexazeCs29u
+auto.cz#$#abort-on-property-write sozteCacoronazkda
+mobilmania.cz#$#abort-on-property-write vIazmteClauzlkealzeCs37u
+e15.cz#$#abort-on-property-write vIazat5uzkelzeCs23u
+autorevue.cz#$#abort-on-property-write vIazratetuzoidrzeCs35u
+info.cz#$#abort-on-property-write vIazteCauzannzeCs25u
 dama.cz#$#abort-on-property-write vIaztzluzaauzeCs22u
 maminka.cz#$#abort-on-property-write vIazmikluzakmzeCs28u
 mojezdravi.cz#$#abort-on-property-write vIazdtzdluzZkvozeCs34u
