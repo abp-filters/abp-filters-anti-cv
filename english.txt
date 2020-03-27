@@ -206,7 +206,6 @@ uploadmp4.com#$#abort-current-inline-script RegExp zfgloaded
 ! MISC
 projectfreetv.ag,govid.me,vidshare.tv,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
 file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,uploadproper.com,uploadproper.net,novom.ru,europixhd.net,europixhd.com,hdeuropix.io,force-download.com,force-download.fr,force-download.net,force-download.es#$#abort-on-property-read atob
-cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 bagas31.info#$#abort-on-property-write atob
 rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,rarbgmirror.com,rarbgmirror.org,rarbgmirror.xyz,rarbgmirrored.org,rarbgproxy.org,rarbgprx.org,rarbgto.org,rarbgunblock.com,rarbgweb.org#$#abort-on-property-read LieDetector
 onlystream.tv,txxx.com#$#abort-on-property-read BetterJsPop
@@ -272,7 +271,8 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 ! #19788
 
 ! Popup/Popunder
-hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
+xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
+xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 xhamster.com#$#abort-on-property-read wig-popunder
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
