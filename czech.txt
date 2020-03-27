@@ -27,8 +27,8 @@ expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read
 super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
 super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
 sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
-expres.cz#$#abort-on-property-read kapu6c058a963eds62e88d39ta
-lidovky.cz#$#abort-on-property-read kapuc7b0de3d912sc55d479dta
+expres.cz#$#abort-on-property-write kapu66e575eaf94s67e7fcf7ta
+lidovky.cz#$#abort-on-property-write kapu61c9c826d21s6e8c04dbta
 novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
