@@ -1,7 +1,7 @@
 
 ! #12079
-blesk.cz#$#abort-on-property-write sozBkzBcoronazaeB
-extra.cz#$#abort-on-property-write sozEkzEcoronazaeE
+blesk.cz#$#abort-on-property-write vIazBkzBuzttszeCs27u
+extra.cz#$#abort-on-property-write vIazEkzEuzttrzeCs27u
 zive.cz#$#abort-on-property-write vIazteCauzanizeCs25u
 ahaonline.cz#$#abort-on-property-write vIaznateauzoidnzeCs35u
 reflex.cz#$#abort-on-property-write vIazeldfuzRexazeCs29u
@@ -10,11 +10,11 @@ mobilmania.cz#$#abort-on-property-write vIazmteClauzlkealzeCs37u
 e15.cz#$#abort-on-property-write vIazat5uzkelzeCs23u
 autorevue.cz#$#abort-on-property-write vIazratetuzoidrzeCs35u
 info.cz#$#abort-on-property-write vIazteCauzannzeCs25u
-dama.cz#$#abort-on-property-write vIaztzluzaauzeCs22u
-maminka.cz#$#abort-on-property-write vIazmikluzakmzeCs28u
-mojezdravi.cz#$#abort-on-property-write vIazdtzdluzZkvozeCs34u
-zeny.cz#$#abort-on-property-write vIaztzluzayuzeCs22u
-onetv.cz#$#abort-on-property-write vIazOknuztCazeCs24u
+dama.cz#$#abort-on-property-write vIazteCauzanazeCs25u
+maminka.cz#$#abort-on-property-write vIazmienauzakCMzeCs31u
+mojezdravi.cz#$#abort-on-property-write vIazdteCZauzZkerlzeCs37u
+zeny.cz#$#abort-on-property-write vIazteCauzanezeCs25u
+onetv.cz#$#abort-on-property-write vIazOkzOuztttzeCs27u
 osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
 osobnosti.cz#$#abort-on-property-read f7mocc0571ne2n
 tiscali.cz#$#abort-on-property-read bmo3bne2n
