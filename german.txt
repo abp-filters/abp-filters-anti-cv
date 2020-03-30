@@ -5,9 +5,6 @@ autoscout24.de#$#abort-on-property-read tisoomi
 ! #8479
 
 ! #9272
-^*x2edpn.g00.wetteronline.$script,domain=wetteronline.at|wetteronline.de|wetteronline.ch
-^*x2eius.g00.wetteronline.$script,domain=wetteronline.at|wetteronline.de|wetteronline.ch
-^*x2eeqo.g00.wetteronline.$script,domain=wetteronline.at|wetteronline.de|wetteronline.ch
 
 ! #15654
 ||www.t-online.de^$csp=img-src 'self' data: www.t-online.de https://t-online.de iss.t-online.de c.t-online.de bilder.t-online.de stats.t-online.de tipi.stat.t-online.de dlc3.t-online.de cnt2.stroeerdp.de *.taboola.com *.exactag.com img.toi.de *.google-analytics.com ssl-t-online.met.vgwort.de *.scorecardresearch.com *.heatmap.it *.trbo.com *.tchibo.de *.intelliad.de *.nativendo.de *.wetter.info *.gstatic.com *.twitter.com *.twimg.com *.stroeermediabrands.de images-eu.ssl-images-amazon.com m.media-amazon.com cdn.billiger.de i.otto.de partnerprogramm.otto.de thumbs3.ebaystatic.com assets.mmsrg.com picscdn.redblue.de tarifbestellen.t-online.de media.reifen.com adc.xxxlutz.de *.meetrics.net www.tisoomi-adservice.com track.adform.net *.adfarm1.adition.com journey.unicef.de cj.madeleine.de *.refinedads.com ats.otto.de track.adclear.net ad.doubleclick.net pvn.mediamarkt.de
