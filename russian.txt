@@ -92,6 +92,7 @@ fast-fiml.ru,fast-film.org,fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-t
 anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 dyvys.info#$#abort-on-property-read td_ad_background_click_target
+playground.ru#$#abort-on-property-read PG.showAds
 
 ! Popups & Popunders
 xittv.net,assiatv.com,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.ru#$#abort-on-property-read open
