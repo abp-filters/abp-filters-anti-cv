@@ -111,4 +111,4 @@ radikal.ru#$#abort-current-inline-script document.createElement String.fromCharC
 vesti.ua#$#abort-current-inline-script document.createElement atob
 
 ! #20940
-vsetut.su,online.animedia.tv#$#abort-on-property-read zfgformats
+vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
