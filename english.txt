@@ -276,7 +276,7 @@ xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,cmovie.me,biter.tv,byter.t
 xhamster.com#$#abort-on-property-read wig-popunder
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
-realgfporn.com#$#abort-on-property-read encodeURI
+pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
 pstream.net,dlapk4all.com#$#abort-on-property-read decodeURIComponent
 $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
