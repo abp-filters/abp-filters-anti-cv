@@ -1,13 +1,13 @@
 
 ! #12079
-blesk.cz#$#abort-on-property-write vIazBkzBuzttszeCs27u
-extra.cz#$#abort-on-property-write vIazEkzEuzttrzeCs27u
-zive.cz#$#abort-on-property-write vIazteCauzanizeCs25u
-ahaonline.cz#$#abort-on-property-write vIaznateauzoidnzeCs35u
-reflex.cz#$#abort-on-property-write vIazeldfuzRexazeCs29u
-auto.cz#$#abort-on-property-write sozteCacoronazkda
-mobilmania.cz#$#abort-on-property-write vIazmteClauzlkealzeCs37u
-e15.cz#$#abort-on-property-write vIazat5uzkelzeCs23u
+blesk.cz#$#abort-on-property-write sozBsfcoronazdl
+extra.cz#$#abort-on-property-write sozErfcoronazdl
+zive.cz#$#abort-on-property-write soztiscoronazzf
+ahaonline.cz#$#abort-on-property-write sozndllcoronazanl
+reflex.cz#$#abort-on-property-write sozexlcoronazte
+auto.cz#$#abort-on-property-write soztuscoronazzf
+mobilmania.cz#$#abort-on-property-write sozmtnoscoronaziao
+e15.cz#$#abort-on-property-write sozdlcoronazCs
 autorevue.cz#$#abort-on-property-write vIazratetuzoidrzeCs35u
 info.cz#$#abort-on-property-write vIazteCauzannzeCs25u
 dama.cz#$#abort-on-property-write vIazteCauzanazeCs25u
