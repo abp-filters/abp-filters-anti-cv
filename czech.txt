@@ -40,13 +40,13 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz##[id*="Adform"]
 novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
 karaoketexty.cz,kinobox.cz###stickyWrap
-idnes.cz##.s_branding
+idnes.cz###branding
 idnes.cz###r-homepage
 idnes.cz###widesquare_clankovy
 idnes.cz##a[href*="_BANNERS_"]
 idnes.cz##[id^="halfpagead"]
 idnes.cz##[id$="horiz"]
-idnes.cz##div[class$="-wanner"]
+idnes.cz##div[class$="-waner"]
 expres.cz##div[class$="halfpagead"]
 
 ! #9056
