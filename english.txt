@@ -277,7 +277,7 @@ xhamster.com#$#abort-on-property-read wig-popunder
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
 realgfporn.com#$#abort-on-property-read encodeURI
-dlapk4all.com#$#abort-on-property-read decodeURIComponent
+pstream.net,dlapk4all.com#$#abort-on-property-read decodeURIComponent
 $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
 /favicon.ico$popup,domain=vidshare.tv
