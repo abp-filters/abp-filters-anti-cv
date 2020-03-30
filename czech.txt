@@ -1,6 +1,6 @@
 
 ! #12079
-blesk.cz#$#abort-on-property-write sozBsfcoronazdl
+blesk.cz#$#abort-on-property-write sozBFpClcoronazLsC
 extra.cz#$#abort-on-property-write sozErfcoronazdl
 zive.cz#$#abort-on-property-write soztiscoronazzf
 ahaonline.cz#$#abort-on-property-write sozndllcoronazanl
@@ -8,13 +8,13 @@ reflex.cz#$#abort-on-property-write sozexlcoronazte
 auto.cz#$#abort-on-property-write soztuscoronazzf
 mobilmania.cz#$#abort-on-property-write sozmtnoscoronaziao
 e15.cz#$#abort-on-property-write sozdlcoronazCs
-autorevue.cz#$#abort-on-property-write vIazratetuzoidrzeCs35u
-info.cz#$#abort-on-property-write vIazteCauzannzeCs25u
-dama.cz#$#abort-on-property-write vIazteCauzanazeCs25u
-maminka.cz#$#abort-on-property-write vIazmienauzakCMzeCs31u
-mojezdravi.cz#$#abort-on-property-write vIazdteCZauzZkerlzeCs37u
-zeny.cz#$#abort-on-property-write vIazteCauzanezeCs25u
-onetv.cz#$#abort-on-property-write vIazOkzOuztttzeCs27u
+autorevue.cz#$#abort-on-property-write sozrLNvuucoronaztFve
+info.cz#$#abort-on-property-write soztEaocoronazEeo
+dama.cz#$#abort-on-property-write soztEaacoronazEea
+maminka.cz#$#abort-on-property-write sozmGsdicoronazMNda
+mojezdravi.cz#$#abort-on-property-write sozdtEaiecoronazeEaal
+zeny.cz#$#abort-on-property-write soztEaycoronazEey
+onetv.cz#$#abort-on-property-write sozOtfcoronazdl
 nasepenize.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
 osobnosti.cz#$#abort-on-property-read f7mocc0571ne2n
 tiscali.cz#$#abort-on-property-write b4mo65b713ne2n
