@@ -56,6 +56,7 @@ idnes.cz##a[href*="_BANNERS_"]
 idnes.cz##[id$="horiz"]
 idnes.cz##div[class$="-waner"]
 expres.cz,lidovky.cz,idnes.cz###halfpagead
+expres.cz,lidovky.cz,idnes.cz##.combi__ad
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
