@@ -33,9 +33,9 @@ novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
 tiscali.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-write bbkeywords
-expres.cz#$#abort-on-property-write Wranglexrs.occidendum
-lidovky.cz#$#abort-on-property-write Wrangleiok.occidendum
-idnes.cz#$#abort-on-property-write Wranglede.occidendum
+expres.cz#$#abort-on-property-write earLsher.occidendum
+lidovky.cz#$#abort-on-property-write eaoLkher.occidendum
+idnes.cz#$#abort-on-property-write eaeLeher.occidendum
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
