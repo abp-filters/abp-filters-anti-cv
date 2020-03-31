@@ -1,11 +1,11 @@
 
 ! #12079
-blesk.cz#$#abort-on-property-write sozBFpClcoronazLsC
+blesk.cz#$#abort-on-property-write GhzlGzlsecoronazeLFClha
 extra.cz#$#abort-on-property-write sozErfcoronazdl
 zive.cz#$#abort-on-property-write soztiscoronazzf
 ahaonline.cz#$#abort-on-property-write sozndllcoronazanl
 reflex.cz#$#abort-on-property-write sozexlcoronazte
-auto.cz#$#abort-on-property-write soztuscoronazzf
+auto.cz#$#abort-on-property-write GhzAEClpcoronazuEEolee
 mobilmania.cz#$#abort-on-property-write sozmtnoscoronaziao
 e15.cz#$#abort-on-property-write sozdlcoronazCs
 autorevue.cz#$#abort-on-property-write sozrLNvuucoronaztFve
@@ -42,6 +42,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.ad-skycrapper
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz##[id*="Adform"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*="background-image"][style*="_branding_"]
 novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
 karaoketexty.cz,kinobox.cz###stickyWrap
 idnes.cz###branding
