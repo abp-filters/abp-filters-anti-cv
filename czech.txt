@@ -35,7 +35,8 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write
 tiscali.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-write bbkeywords
 expres.cz#$#abort-on-property-write earLsher.occidendum
 lidovky.cz#$#abort-on-property-write eaoLkher.occidendum
-idnes.cz#$#abort-on-property-write eaeLeher.occidendum
+idnes.cz#$#abort-on-property-write EAeLeber.occidendum
+idnes.cz#$#abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
