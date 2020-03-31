@@ -44,7 +44,7 @@ tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,fo
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[cls*="_ulv"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[cls*="vrott_"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[id*="fwab"]
-tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[class*="aUsi"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[class*="vaFsi"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[class*="way_"]
 
 ! #10386
