@@ -1,5 +1,5 @@
 
-! #12079
+! #CV-655
 blesk.cz#$#abort-on-property-write GhzlGzlsecoronazeLFClha
 extra.cz#$#abort-on-property-write sozErfcoronazdl
 zive.cz#$#abort-on-property-write soztiscoronazzf
@@ -26,14 +26,12 @@ expres.cz,lidovky.cz,idnes.cz,sport.cz,super.cz,kupi.cz#$#abort-on-property-read
 super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
 super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
 sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
-expres.cz#$#abort-on-property-write kapu66e575eaf94s67e7fcf7ta
-lidovky.cz#$#abort-on-property-write kapu61c9c826d21s6e8c04dbta
 novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
 tiscali.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
-expres.cz#$#abort-on-property-write EArLsber.occidendum
-lidovky.cz#$#abort-on-property-write EAoLkber.occidendum
+expres.cz#$#abort-on-property-write ellallrLsber.occidendum
+lidovky.cz#$#abort-on-property-write ellalloLkber.occidendum
 idnes.cz#$#abort-on-property-write ellalleLeber.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208
 reflex.cz#$#abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 
