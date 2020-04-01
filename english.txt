@@ -41,7 +41,7 @@ redtube.com#$#abort-on-property-read smpop
 newser.com#$#abort-on-property-read checkAds
 newser.com#$#abort-on-property-write UAParser
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[class*="wax"]
-tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[cls*="_ulv"]
+tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[cls*="_"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[cls*="vrott_"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[id*="fwab"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##[class*="vaFsi"]
