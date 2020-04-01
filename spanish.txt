@@ -1,9 +1,9 @@
-! #8479
+! #CV-660
 
 ! #9272
 mamaslatinas.com##.top-bar-content
 
-! #10385
+! #CV-663
 telexplorer.com.ar#$#abort-current-inline-script MutationObserver compareDocumentPosition
 
 ! #21283

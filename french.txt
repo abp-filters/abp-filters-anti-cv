@@ -1,4 +1,4 @@
-! #8479
+! #CV-660
 
 ! #9274
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
