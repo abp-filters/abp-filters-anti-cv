@@ -30,9 +30,9 @@ novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
 tiscali.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
-expres.cz#$#abort-on-property-write ellallrLsber.occidendum
-lidovky.cz#$#abort-on-property-write ellalloLkber.occidendum
-idnes.cz#$#abort-on-property-write ellalleLeber.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208
+expres.cz#$#abort-on-property-write ealaalrLsber.occidendum
+lidovky.cz#$#abort-on-property-write ealaaloLkber.occidendum
+idnes.cz#$#abort-on-property-write ealaaleLeber.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208
 reflex.cz#$#abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
