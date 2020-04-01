@@ -33,7 +33,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||laprovence.com/fatalistic^
 ||e-sante.fr/responsiblenesses^
 
-! #10531
+! #CV-662
 ||1yv1phk.jaz.sportauto.fr^$script
 ||1v9d7vx.jaz.sportauto.fr^$script
 ||ib3i33.cob.autojournal.fr^$script

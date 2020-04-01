@@ -23,7 +23,7 @@ player.glomex.com##._oasis_video:not([src^="blob:https://player.glomex.com/"])
 ! #26029
 pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 
-! #10531
+! #CV-662
 ||gdqa5p.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de
 ||hmwltp.vqysgzi.com^$script,xmlhttprequest,domain=wetteronline.at
 ||1rjpi15.akvxu.com^$script,xmlhttprequest,domain=wetteronline.ch
