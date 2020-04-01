@@ -1,20 +1,20 @@
 
 ! #CV-655
-blesk.cz#$#abort-on-property-write GhzliCBecoronazeuikBsd
-extra.cz#$#abort-on-property-write sozErfcoronazdl
-zive.cz#$#abort-on-property-write GhzZleascoronaziplvap
-ahaonline.cz#$#abort-on-property-write GhzlAleoascoronaziauienAsd
-reflex.cz#$#abort-on-property-write GhzfpzfhdcoronazltlCfap
-auto.cz#$#abort-on-property-write GhzAloascoronazupltap
-mobilmania.cz#$#abort-on-property-write GhzaoiCmMecoronaznitlCabap
-e15.cz#$#abort-on-property-write Ghzti1scoronazEizEsd
-autorevue.cz#$#abort-on-property-write GhzeAleoascoronazvtuierAsd
-info.cz#$#abort-on-property-write GhzIloascoronaznplfap
-dama.cz#$#abort-on-property-write GhzDlaascoronazaplmap
-maminka.cz#$#abort-on-property-write GhziulnlpcoronaznMiznMsd
-mojezdravi.cz#$#abort-on-property-write GhzroiCdMecoronazaetlCrjap
-zeny.cz#$#abort-on-property-write GhzZlyascoronazeplnap
-onetv.cz#$#abort-on-property-write GhzniCOecoronazeuivOsd
+blesk.cz#$#abort-on-property-write GhzliCBecoronazeuikBsd; abort-on-property-read cpexSkin
+extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
+zive.cz#$#abort-on-property-write GhzZleascoronaziplvap; abort-on-property-read cpexSkin
+ahaonline.cz#$#abort-on-property-write GhzlAleoascoronaziauienAsd; abort-on-property-read cpexSkin
+reflex.cz#$#abort-on-property-write GhzfpzfhdcoronazltlCfap; abort-on-property-read cpexSkin
+auto.cz#$#abort-on-property-write GhzAloascoronazupltap; abort-on-property-read cpexSkin
+mobilmania.cz#$#abort-on-property-write GhzaoiCmMecoronaznitlCabap; abort-on-property-read cpexSkin
+e15.cz#$#abort-on-property-write Ghzti1scoronazEizEsd; abort-on-property-read cpexSkin
+autorevue.cz#$#abort-on-property-write GhzeAleoascoronazvtuierAsd; abort-on-property-read cpexSkin
+info.cz#$#abort-on-property-write GhzIloascoronaznplfap; abort-on-property-read cpexSkin
+dama.cz#$#abort-on-property-write GhzDlaascoronazaplmap; abort-on-property-read cpexSkin
+maminka.cz#$#abort-on-property-write GhziulnlpcoronaznMiznMsd; abort-on-property-read cpexSkin
+mojezdravi.cz#$#abort-on-property-write GhzroiCdMecoronazaetlCrjap; abort-on-property-read cpexSkin
+zeny.cz#$#abort-on-property-write GhzZlyascoronazeplnap; abort-on-property-read cpexSkin
+onetv.cz#$#abort-on-property-write GhzniCOecoronazeuivOsd; abort-on-property-read cpexSkin
 nasepenize.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
 osobnosti.cz#$#abort-on-property-read f7mocc0571ne2n
 tiscali.cz#$#abort-on-property-write b4mo65b713ne2n
