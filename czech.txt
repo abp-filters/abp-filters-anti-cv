@@ -33,6 +33,8 @@ lidovky.cz#$#abort-on-property-write ellalloLkber.occidendum; abort-on-property-
 idnes.cz#$#abort-on-property-write ellalleLeber.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208; abort-on-property-write Badsde.loadSAS; abort-on-property-read sssp
 reflex.cz#$#abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 
+&target=_top$script,domain=nasepenize.cz|tiscali.cz
+
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
@@ -52,6 +54,7 @@ idnes.cz##[id$="horiz"]
 idnes.cz##div[class$="-waner"]
 expres.cz,lidovky.cz,idnes.cz###halfpagead
 expres.cz,lidovky.cz,idnes.cz##.combi__ad
+karaoketexty.cz##.ad_large_square
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
