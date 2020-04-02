@@ -126,7 +126,7 @@ dailymail.co.uk##[name^="google_ads_iframe_"]
 ! #18788
 mediafire.com#$#abort-on-property-read UAParser
 
-! #18836
+! #CV-679
 quora.com##.u-margin-top--lg+div[class="UnifiedAnswerPagedList PagedListFoo unified"][id$="_paged_list"]
 quora.com##.pagedlist_item > div[id$="_paged_list"]
 quora.com##.answer_auto_expanded_comments + div > div.feed_expand
