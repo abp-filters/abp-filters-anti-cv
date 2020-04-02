@@ -134,6 +134,7 @@ quora.com##.feedback_wrapper.hidden:not(.negative_action) + .FeedStory.HyperLink
 quora.com##div[class="question_main_col"]  > div:nth-child(3) > div[class="UnifiedAnswerPagedList PagedListFoo unified"]
 quora.com##div[class="pagedlist_item"]  div[id*="paged_list"]
 www.quora.com#?#[class^="Box-sc"]:-abp-has(> [class^="Box-sc"] > [class*="AdLinkWrapper"])
+www.quora.com#?#div[class^="Box-sc"] :-abp-has(> [class*="q-flex"] > div[class*="ClickWrapper"])
 
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
