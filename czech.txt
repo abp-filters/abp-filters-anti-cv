@@ -25,9 +25,9 @@ nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywor
 
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
 
-novinky.cz#$#abort-on-property-read brukev; abort-on-property-read atob
+novinky.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read HAesssCGpssspd
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob; abort-on-property-read sssp
-super.cz#$#abort-on-property-read sssp; abort-on-property-read brukev; abort-on-property-read atob
+super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
 sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
 
 expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
