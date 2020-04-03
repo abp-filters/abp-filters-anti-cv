@@ -5,7 +5,7 @@
 uk.reuters.com,www.reuters.com##.sticky-1
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class*="slide-image-enclosure"]):not([class*="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class^="slide-image-enclosure"]):not([class*="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="_slide-image-enclosure_ _photo-thumb_"]
+de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="_slide-image-enclosure_ __photo-thumb_"]
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
