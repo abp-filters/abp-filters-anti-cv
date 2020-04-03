@@ -5,7 +5,7 @@ blesk.cz#$#abort-on-property-write df_SASGGG_SASdf; abort-on-property-read cpexS
 extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
 zive.cz#$#abort-on-property-write FdfA_SASaFHac_SASfI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 ahaonline.cz#$#abort-on-property-write Ca_SASJGa_SASIA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-reflex.cz#$#abort-on-property-write CEdA_SASI_SASJA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+reflex.cz#$#abort-on-property-write CEdA_SASI_SASJA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 auto.cz#$#abort-on-property-write HfaC_SASBDBF_SASEc; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 mobilmania.cz#$#abort-on-property-write IJb_SAHGS_SASC; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 e15.cz#$#abort-on-property-write bB_SASeI_SASac; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
@@ -16,6 +16,7 @@ maminka.cz#$#abort-on-property-write Cb_SASb_SASac; abort-on-property-read cpexS
 mojezdravi.cz#$#abort-on-property-write HH_SASHBCb_SASfG; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 zeny.cz#$#abort-on-property-write Ce_SASIB_SASff; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 onetv.cz#$#abort-on-property-write BfeA_SASIcE_SASCcopt; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+
 nasepenize.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
 osobnosti.cz#$#abort-on-property-read f7mocc0571ne2n
 tiscali.cz#$#abort-on-property-write b4mo65b713ne2n
@@ -28,10 +29,10 @@ novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.
 kupi.cz#$#abort-current-inline-script $ Detect
 kupi.cz#$#abort-current-inline-script setTimeout document.write
 tiscali.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
-expres.cz#$#abort-on-property-write IHAAdsFAeaFAdsAdsAdsb.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
-lidovky.cz#$#abort-on-property-write FAdsfffefAdsAdsAdsJ.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
-idnes.cz#$#abort-on-property-write IAdsDJBAdsAdsAdsD.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208; abort-on-property-write Badsde.loadSAS; abort-on-property-read sssp
-reflex.cz#$#abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
+
+expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
+lidovky.cz#$#abort-on-property-write EGcbAdsABdsAdsAdsCI.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
+idnes.cz#$#abort-on-property-write fAdsedbAdsAdsAdsD.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208; abort-on-property-write Badsde.loadSAS; abort-on-property-read sssp
 
 &target=_top$script,domain=nasepenize.cz|tiscali.cz
 
