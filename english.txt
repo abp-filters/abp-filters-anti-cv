@@ -215,6 +215,7 @@ audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 ||ao8rqg.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||9tmzxf.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1lv3gy.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||i4tbf7.$script,xmlhttprequest,domain=ign.com|ignboards.com
 gfycat.com#$#abort-current-inline-script Math
 foreverconscious.com,blwideas.com,ultimateninjablazingx.com,utahsweetsavings.com,usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
 katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script document.head.appendChild
