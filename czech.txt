@@ -25,16 +25,16 @@ nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywor
 
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
 
-novinky.cz#$#abort-on-property-read brukev; abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
-kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob; abort-on-property-read sssp
-super.cz#$#abort-on-property-read sssp; abort-on-property-read brukev; abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
-sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
+novinky.cz#$#abort-on-property-read brukev; abort-on-property-read atob
+kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob; abort-on-property-read sssp
+super.cz#$#abort-on-property-read sssp; abort-on-property-read brukev; abort-on-property-read atob
+sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
 
 expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
 lidovky.cz#$#abort-on-property-write EGcbAdsABdsAdsAdsCI.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
 idnes.cz#$#abort-on-property-write fAdsedbAdsAdsAdsD.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208; abort-on-property-write Badsde.loadSAS; abort-on-property-read sssp
 
-aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
 &target=_top$script,domain=nasepenize.cz|tiscali.cz
 
