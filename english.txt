@@ -306,7 +306,7 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 ! #19788
 
 ! Popup/Popunder
-xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
+mstream.fun,xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
 xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 xhamster.com#$#abort-on-property-read wig-popunder
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
