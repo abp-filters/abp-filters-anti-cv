@@ -1,11 +1,11 @@
 
 ! #CV-655
-blesk.cz#$#abort-on-property-write GhzliCBecoronazeuikBsd; abort-on-property-read cpexSkin
+blesk.cz#$#abort-on-property-write df_SASGGG_SASdf; abort-on-property-read cpexSkin
 extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
-zive.cz#$#abort-on-property-write GhzZleascoronaziplvap; abort-on-property-read cpexSkin
-ahaonline.cz#$#abort-on-property-write GhzlAleoascoronaziauienAsd; abort-on-property-read cpexSkin
-reflex.cz#$#abort-on-property-write GhzfpzfhdcoronazltlCfap; abort-on-property-read cpexSkin
-auto.cz#$#abort-on-property-write GhzAloascoronazupltap; abort-on-property-read cpexSkin
+zive.cz#$#abort-on-property-write FdfA_SASaFHac_SASfI; abort-on-property-read cpexSkin
+ahaonline.cz#$#abort-on-property-write Ca_SASJGa_SASIA; abort-on-property-read cpexSkin
+reflex.cz#$#abort-on-property-write CEdA_SASI_SASJA; abort-on-property-read cpexSkin
+auto.cz#$#abort-on-property-write HfaC_SASBDBF_SASEc; abort-on-property-read cpexSkin
 mobilmania.cz#$#abort-on-property-write GhzaoiCmMecoronaznitlCabap; abort-on-property-read cpexSkin
 e15.cz#$#abort-on-property-write Ghzti1scoronazEizEsd; abort-on-property-read cpexSkin
 autorevue.cz#$#abort-on-property-write GhzeAleoascoronazvtuierAsd; abort-on-property-read cpexSkin
@@ -18,7 +18,7 @@ onetv.cz#$#abort-on-property-write GhzniCOecoronazeuivOsd; abort-on-property-rea
 nasepenize.cz,osobnosti.cz,tiscali.cz,karaoketexty.cz,kinobox.cz#$#abort-on-property-read bmone2n
 osobnosti.cz#$#abort-on-property-read f7mocc0571ne2n
 tiscali.cz#$#abort-on-property-write b4mo65b713ne2n
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack; abort-on-property-read _SAS.ad
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
 sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
 super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
