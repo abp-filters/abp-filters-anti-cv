@@ -52,6 +52,31 @@ tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,fo
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[gls*="-"]
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[shb*="-"]
 
+activistpost.com,allthingsvegas.com,americasfreedomfighters.com,aupetitparieur.com,beforeitsnews.com,bestfunnyjokes4u.com,breakingfirst.com,canadafreepress.com,chicksonright.com,clashdaily.com,codefille.com,concomber.com,conservativefiringline.com,dailylol.com,dcdirtylaundry.com,deneenborelli.com,designbump.com,faithit.com,foreverymom.com,funnyand.com,gamersheroes.com,girlsjustwannahaveguns.com,greatamericanpolitics.com,greatamericanrepublic.com,independentminute.com,ipatriot.com,letocard.fr,lovezin.fr,madworldnews.com,mamieastuce.com,meilleurpronostic.fr,mpolitical.com,naturalblaze.com,newser.com,patriotnationpress.com,publicservicealerts.com,rightwing.news,rightwingtribune.com,sonsoflibertymedia.com,survivalnation.com,telexplorer.com.ar,thedesigninspiration.com,thehayride.com,thepolitistick.com,threepercenternation.com,topminceur.fr,toptenz.net,tosavealife.com,truthuncensored.net,videogamesblogger.com,vitamiiin.com,wakingtimes.com,weaponsmedia.com,yourdailypulse.com#$#abort-on-property-read scriptTag
+
+! Temporary exception CSP filters
+@@||videogamesblogger.com^$csp
+@@||naturalblaze.com^$csp
+@@||thelibertydaily.com^$csp
+@@||americasfreedomfighters.com^$csp
+@@||breakingfirst.com^$csp
+@@||chicksonright.com^$csp
+@@||godfatherpolitics.com^$csp
+@@||freedomoutpost.com^$csp
+@@||allthingsvegas.com^$csp
+@@||clashdaily.com^$csp
+@@||conservativefiringline.com^$csp
+@@||dcdirtylaundry.com^$csp
+@@||survivalnation.com^$csp
+@@||deneenborelli.com^$csp
+@@||greatamericanpolitics.com^$csp
+@@||greatamericanrepublic.com^$csp
+@@||madworldnews.com^$csp
+@@||ipatriot.com^$csp
+@@||rightwingtribune.com^$csp
+@@||faithit.com^$csp
+@@||sonsoflibertymedia.com^$csp
+
 ! #10386
 hotmovs.com##div[class^="vda-closeplay"]
 beeg.com,oral-amateure.com,upornia.com,hotmovs.com,txxx.com,voyeurhit.com,hdzog.com#$#abort-on-property-write ads_priv
