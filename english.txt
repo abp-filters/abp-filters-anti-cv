@@ -316,4 +316,4 @@ hdvid.online,pstream.net,dlapk4all.com#$#abort-on-property-read decodeURICompone
 $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
 /favicon.ico$popup,domain=vidshare.tv
-hdvid.online#$#debug; abort-on-property-read Fingerprint2; abort-on-property-read atob
+hdvid.online#$#abort-on-property-read Fingerprint2; abort-on-property-read atob
