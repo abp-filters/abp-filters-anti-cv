@@ -24,13 +24,11 @@ karaoketexty.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeyw
 nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
 
 cnews.cz,euro.cz#$#abort-on-property-read mfSeznamAds; abort-on-property-write MfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read google_reactive_ads_global_state
-sport.cz,super.cz,kupi.cz#$#abort-on-property-read sssp
-super.cz,sport.cz,novinky.cz#$#abort-on-property-read brukev
-super.cz#$#abort-on-property-read bruzeSsCpaskevzpdCut
-sport.cz#$#abort-on-property-read bruzrSsCoaskevzodCpt
-novinky.cz,kupi.cz,super.cz,sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
-kupi.cz#$#abort-current-inline-script $ Detect
-kupi.cz#$#abort-current-inline-script setTimeout document.write
+
+novinky.cz#$#abort-on-property-read brukev; abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob; abort-on-property-read sssp
+super.cz#$#abort-on-property-read sssp; abort-on-property-read brukev; abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+sport.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
 
 expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
 lidovky.cz#$#abort-on-property-write EGcbAdsABdsAdsAdsCI.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
