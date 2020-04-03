@@ -36,6 +36,8 @@ expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-pro
 lidovky.cz#$#abort-on-property-write EGcbAdsABdsAdsAdsCI.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
 idnes.cz#$#abort-on-property-write fAdsedbAdsAdsAdsD.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208; abort-on-property-write Badsde.loadSAS; abort-on-property-read sssp
 
+aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
+
 &target=_top$script,domain=nasepenize.cz|tiscali.cz
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
@@ -69,7 +71,6 @@ clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="R
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
 
 ! MISC
-aktualne.cz,aktuality.sk,autorevue.cz,vareni.cz,osobnosti.cz,lidovky.cz,cnews.cz#$#abort-on-property-read HTMLIFrameElement.prototype.contentWindow; abort-on-property-read atob
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 iprima.cz#$#abort-current-inline-script setTimeout atob
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
