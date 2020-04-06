@@ -20,7 +20,7 @@ onetv.cz#$#abort-on-property-write Eb_SASfDG_SASec; abort-on-property-read cpexS
 
 kinobox.cz#$#abort-on-property-read bmone2n
 osobnosti.cz#$#abort-on-property-read bmone2n; abort-on-property-read pxd_272549; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
-tiscali.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
+tiscali.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload; abort-on-property-read bbnautLib
 karaoketexty.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
 nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload
 
