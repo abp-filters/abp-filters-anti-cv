@@ -61,8 +61,6 @@ megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-rea
 
 ! MISC
 scrin.org#$#abort-on-property-read Math.random
-rg-mechanics.org#$#abort-on-property-read adska
-xatab-repack.net#$#abort-on-property-read adss
 kinopad.net#$#abort-on-property-read atob
 seasonvar.re#$#abort-current-inline-script String
 amazinghis.ru#$#abort-on-property-read anOptions
