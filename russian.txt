@@ -93,7 +93,7 @@ dyvys.info#$#abort-on-property-read td_ad_background_click_target
 playground.ru#$#abort-on-property-read PG.depecheMode
 
 ! Popups & Popunders
-xittv.net,assiatv.com,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
+xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
 
 ! #20468
 
