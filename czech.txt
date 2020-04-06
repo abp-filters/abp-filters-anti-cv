@@ -2,6 +2,7 @@
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack
 blesk.cz#$#abort-on-property-write df_SASGGG_SASdf; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+iprima.cz#$#abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
 extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
 zive.cz#$#abort-on-property-write FdfA_SASaFHac_SASfI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 ahaonline.cz#$#abort-on-property-write Ca_SASJGa_SASIA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
