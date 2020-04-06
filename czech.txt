@@ -31,7 +31,7 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-i
 super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
 sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DbIsssepssspC
 
-expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
+expres.cz#$#abort-on-property-write aBGAdsJffAdsAdsAdsd.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp; abort-on-property-read pXd_271351; abort-on-property-read pXd_272326; abort-on-property-read pXd_277334; abort-on-property-read pXd_272326; abort-on-property-read pXd_271351; abort-on-property-read pXd_297553; abort-on-property-read pXd_297590; abort-on-property-read pXd_277291
 lidovky.cz#$#abort-on-property-write EGcbAdsABdsAdsAdsCI.occidendum; abort-on-property-read SAS_SERVER; abort-on-property-read sssp
 idnes.cz#$#abort-on-property-write fAdsedbAdsAdsAdsD.occidendum; abort-on-property-read pxd_229546; abort-on-property-read pxd_294656; abort-on-property-read pxd_232105; abort-on-property-read pxd_232114; abort-on-property-read pxd_251715; abort-on-property-read pxd_272164; abort-on-property-read pxd_229543; abort-on-property-read pxd_246647; abort-on-property-read pxd_297024; abort-on-property-read pxd_274114; abort-on-property-read pxd_294662; abort-on-property-read pxd_229555; abort-on-property-read pxd_296151; abort-on-property-read pxd_232111; abort-on-property-read pxd_245208; abort-on-property-write Badsde.loadSAS; abort-on-property-read sssp
 
