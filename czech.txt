@@ -1,14 +1,14 @@
 
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack
-blesk.cz#$#abort-on-property-write df_SASGGG_SASdf; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+blesk.cz#$#abort-on-property-write e_SAabCfbS_SASC; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 iprima.cz#$#abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
 extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
-zive.cz#$#abort-on-property-write FdfA_SASaFHac_SASfI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+zive.cz#$#abort-on-property-write J_SAaBdIES_SASB; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 ahaonline.cz#$#abort-on-property-write Ca_SASJGa_SASIA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-reflex.cz#$#abort-on-property-write CEdA_SASI_SASJA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
-auto.cz#$#abort-on-property-write HfaC_SASBDBF_SASEc; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-mobilmania.cz#$#abort-on-property-write IJb_SAHGS_SASC; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+reflex.cz#$#abort-on-property-write D_SAIECS_SASf; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
+auto.cz#$#abort-on-property-write a_SAdIbbfS_SASA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+mobilmania.cz#$#abort-on-property-write ceF_SAES_SASI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 e15.cz#$#abort-on-property-write bB_SASeI_SASac; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 autorevue.cz#$#abort-on-property-write B_SAbS_SASC; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 info.cz#$#abort-on-property-write aG_SASGEc_SAScD; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
