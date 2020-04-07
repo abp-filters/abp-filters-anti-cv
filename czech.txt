@@ -19,10 +19,10 @@ zeny.cz#$#abort-on-property-write Hc_SASfdCEa_SASAG; abort-on-property-read cpex
 onetv.cz#$#abort-on-property-write edC_SAfES_SASE; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 
 kinobox.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbnautLib
-osobnosti.cz#$#abort-on-property-read bmone2n; abort-on-property-read pxd_272549; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload; abort-on-property-read bbnautLib
-tiscali.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload; abort-on-property-read bbnautLib
-karaoketexty.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload; abort-on-property-read bbnautLib
-nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-write bbkeywords; abort-on-property-write BBECML; abort-on-property-write _bbReload; abort-on-property-read bbnautLib
+osobnosti.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbnautLib
+tiscali.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbnautLib
+karaoketexty.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbnautLib
+nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbnautLib
 
 cnews.cz,euro.cz#$#abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read mfGoogleAdManager
 
