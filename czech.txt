@@ -31,9 +31,9 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-i
 super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read IbdcssspIssspeb
 sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read BCssspBbessspdE
 
-expres.cz#$#abort-on-property-read HbaAdscbHDCAdsAdsAdsb; abort-on-property-read sssp; abort-on-property-read pXd_271351; abort-on-property-read pXd_277334; abort-on-property-read pXd_272326; abort-on-property-read pXd_297553; abort-on-property-read pXd_297590; abort-on-property-read pXd_277291
-lidovky.cz#$#abort-on-property-read JbeaAdsAFIdsAdsAdsbD
-idnes.cz#$#abort-on-property-read abAdsAGJDdsAdsAdsAI; abort-on-property-read pXd_251715; abort-on-property-read pXd_246647; abort-on-property-read pXd_232111; abort-on-property-read pXd_229555; abort-on-property-read pXd_294662; abort-on-property-read pXd_297026; abort-on-property-read pXd_251715; abort-on-property-read pXd_232105; abort-on-property-read pXd_277283; abort-on-property-read pXd_296709; abort-on-property-read pXd_277288; abort-on-property-read pXd_277285; abort-on-property-read pXd_297024
+expres.cz#$#abort-on-property-read aCAdsABdsAdsAdsAa; abort-on-property-read sssp; abort-on-property-read pXd_271351; abort-on-property-read pXd_277334; abort-on-property-read pXd_272326; abort-on-property-read pXd_297553; abort-on-property-read pXd_297590; abort-on-property-read pXd_277291
+lidovky.cz#$#abort-on-property-read BJAdsAIfcdsAdsAdsJA
+idnes.cz#$#abort-on-property-read HHAdsAHdsAdsAdsAH; abort-on-property-read pXd_251715; abort-on-property-read pXd_246647; abort-on-property-read pXd_232111; abort-on-property-read pXd_229555; abort-on-property-read pXd_294662; abort-on-property-read pXd_297026; abort-on-property-read pXd_251715; abort-on-property-read pXd_232105; abort-on-property-read pXd_277283; abort-on-property-read pXd_296709; abort-on-property-read pXd_277288; abort-on-property-read pXd_277285; abort-on-property-read pXd_297024
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
