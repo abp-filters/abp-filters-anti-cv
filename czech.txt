@@ -26,10 +26,10 @@ nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbLibnaut
 
 cnews.cz,euro.cz#$#abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read MfAdSense
 
-novinky.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read EcssspbHecJssspCG
+novinky.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read abesssJpssspB 
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob; abort-on-property-read xxxp
-super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read dIcsssGBAApssspc
-sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read AsssdpssspB
+super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read IbdcssspIssspeb
+sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read BCssspBbessspdE
 
 expres.cz#$#abort-on-property-read HbaAdscbHDCAdsAdsAdsb; abort-on-property-read sssp; abort-on-property-read pXd_271351; abort-on-property-read pXd_277334; abort-on-property-read pXd_272326; abort-on-property-read pXd_297553; abort-on-property-read pXd_297590; abort-on-property-read pXd_277291
 lidovky.cz#$#abort-on-property-read JbeaAdsAFIdsAdsAdsbD
