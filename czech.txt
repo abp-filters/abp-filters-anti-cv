@@ -24,7 +24,7 @@ tiscali.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib
 karaoketexty.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib
 nasepenize.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib
 
-cnews.cz,euro.cz#$#abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read googletag; abort-on-property-read mfGoogleAdManager
+cnews.cz,euro.cz#$#abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read MfAdSense
 
 novinky.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read EcssspbHecJssspCG
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob; abort-on-property-read xxxp
