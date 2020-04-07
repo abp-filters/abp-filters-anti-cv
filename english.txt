@@ -54,31 +54,57 @@ tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,fo
 tosavealife.com,bestfunnyjokes4u.com,deneenborelli.com,sonsoflibertymedia.com,foreverymom.com,clashdaily.com,faithit.com,activistpost.com,naturalblaze.com,allthingsvegas.com,americasfreedomfighters.com##div[shb*="-"]
 activistpost.com,allthingsvegas.com,americasfreedomfighters.com,aupetitparieur.com,beforeitsnews.com,bestfunnyjokes4u.com,breakingfirst.com,canadafreepress.com,chicksonright.com,clashdaily.com,codefille.com,concomber.com,conservativefiringline.com,dailylol.com,dcdirtylaundry.com,deneenborelli.com,designbump.com,faithit.com,foreverymom.com,funnyand.com,gamersheroes.com,girlsjustwannahaveguns.com,greatamericanpolitics.com,greatamericanrepublic.com,independentminute.com,ipatriot.com,letocard.fr,lovezin.fr,madworldnews.com,mamieastuce.com,meilleurpronostic.fr,mpolitical.com,naturalblaze.com,newser.com,patriotnationpress.com,publicservicealerts.com,rightwing.news,rightwingtribune.com,sonsoflibertymedia.com,survivalnation.com,telexplorer.com.ar,thedesigninspiration.com,thehayride.com,thepolitistick.com,threepercenternation.com,topminceur.fr,toptenz.net,tosavealife.com,truthuncensored.net,videogamesblogger.com,vitamiiin.com,wakingtimes.com,weaponsmedia.com,yourdailypulse.com##shb
 
-activistpost.com,allthingsvegas.com,americasfreedomfighters.com,aupetitparieur.com,beforeitsnews.com,bestfunnyjokes4u.com,breakingfirst.com,canadafreepress.com,chicksonright.com,clashdaily.com,codefille.com,concomber.com,conservativefiringline.com,dailylol.com,dcdirtylaundry.com,deneenborelli.com,designbump.com,faithit.com,foreverymom.com,funnyand.com,gamersheroes.com,girlsjustwannahaveguns.com,greatamericanpolitics.com,greatamericanrepublic.com,independentminute.com,ipatriot.com,letocard.fr,lovezin.fr,madworldnews.com,mamieastuce.com,meilleurpronostic.fr,mpolitical.com,naturalblaze.com,newser.com,patriotnationpress.com,publicservicealerts.com,rightwing.news,rightwingtribune.com,sonsoflibertymedia.com,survivalnation.com,telexplorer.com.ar,thedesigninspiration.com,thehayride.com,thepolitistick.com,threepercenternation.com,topminceur.fr,toptenz.net,tosavealife.com,truthuncensored.net,videogamesblogger.com,vitamiiin.com,wakingtimes.com,weaponsmedia.com,yourdailypulse.com#$#abort-on-property-read scriptTag; abort-on-property-read lkt
-/\.jpe?g$/$script,domain=activistpost.com|allthingsvegas.com|americasfreedomfighters.com|aupetitparieur.com|beforeitsnews.com|bestfunnyjokes4u.com|breakingfirst.com|canadafreepress.com|chicksonright.com|clashdaily.com|codefille.com|concomber.com|conservativefiringline.com|dailylol.com|dcdirtylaundry.com|deneenborelli.com|designbump.com|faithit.com|foreverymom.com|funnyand.com|gamersheroes.com|girlsjustwannahaveguns.com|greatamericanpolitics.com|greatamericanrepublic.com|independentminute.com|ipatriot.com|letocard.fr|lovezin.fr|madworldnews.com|mamieastuce.com|meilleurpronostic.fr|mpolitical.com|naturalblaze.com|newser.com|patriotnationpress.com|publicservicealerts.com|rightwing.news|rightwingtribune.com|sonsoflibertymedia.com|survivalnation.com|telexplorer.com.ar|thedesigninspiration.com|thehayride.com|thepolitistick.com|threepercenternation.com|topminceur.fr|toptenz.net|tosavealife.com|truthuncensored.net|videogamesblogger.com|vitamiiin.com|wakingtimes.com|weaponsmedia.com|yourdailypulse.com
+activistpost.com,allthingsvegas.com,americasfreedomfighters.com,aupetitparieur.com,beforeitsnews.com,bestfunnyjokes4u.com,breakingfirst.com,canadafreepress.com,chicksonright.com,clashdaily.com,codefille.com,concomber.com,conservativefiringline.com,dailylol.com,dcdirtylaundry.com,deneenborelli.com,designbump.com,faithit.com,foreverymom.com,funnyand.com,gamersheroes.com,girlsjustwannahaveguns.com,greatamericanpolitics.com,greatamericanrepublic.com,independentminute.com,ipatriot.com,letocard.fr,lovezin.fr,madworldnews.com,mamieastuce.com,meilleurpronostic.fr,mpolitical.com,naturalblaze.com,newser.com,patriotnationpress.com,publicservicealerts.com,rightwing.news,rightwingtribune.com,sonsoflibertymedia.com,survivalnation.com,telexplorer.com.ar,thedesigninspiration.com,thehayride.com,thepolitistick.com,threepercenternation.com,topminceur.fr,toptenz.net,tosavealife.com,truthuncensored.net,videogamesblogger.com,vitamiiin.com,wakingtimes.com,weaponsmedia.com,yourdailypulse.com#$#abort-on-property-read scriptTag; abort-on-property-write document.currentScript.src
 
 ! Temporary exception CSP filters
-@@||videogamesblogger.com^$csp
-@@||naturalblaze.com^$csp
-@@||thelibertydaily.com^$csp
-@@||americasfreedomfighters.com^$csp
-@@||breakingfirst.com^$csp
-@@||chicksonright.com^$csp
-@@||godfatherpolitics.com^$csp
-@@||freedomoutpost.com^$csp
+@@||activistpost.com^$csp
 @@||allthingsvegas.com^$csp
+@@||americasfreedomfighters.com^$csp
+@@||appleeats.com^$csp
+@@||bb4sp.com^$csp
+@@||breakingfirst.com^$csp
+@@||bulletsfirst.net^$csp
+@@||cheatsheet.com^$csp
+@@||chicksonright.com^$csp
 @@||clashdaily.com^$csp
+@@||comicallyincorrect.com^$csp
 @@||conservativefiringline.com^$csp
+@@||constitution.com^$csp
+@@||craigjames.com^$csp
+@@||dailysurge.com^$csp
 @@||dcdirtylaundry.com^$csp
-@@||survivalnation.com^$csp
 @@||deneenborelli.com^$csp
+@@||designbump.com^$csp
+@@||faithit.com^$csp
+@@||firstinfreedomdaily.com^$csp
 @@||greatamericanpolitics.com^$csp
 @@||greatamericanrepublic.com^$csp
-@@||madworldnews.com^$csp
+@@||hispolitica.com^$csp
 @@||ipatriot.com^$csp
+@@||libertyunyielding.com^$csp
+@@||lidblog.com^$csp
+@@||madworldnews.com^$csp
+@@||menrec.com^$csp
+@@||naturalblaze.com^$csp
+@@||naturalsociety.com^$csp
+@@||opednews.com^$csp
+@@||patriotoutdoornews.com^$csp
+@@||politicalcowboy.com^$csp
+@@||politichicks.com^$csp
+@@||realmomsrealreviews.com^$csp
+@@||redmaryland.com^$csp
 @@||rightwingtribune.com^$csp
-@@||faithit.com^$csp
+@@||rollingout.com^$csp
+@@||shark-tank.com^$csp
 @@||sonsoflibertymedia.com^$csp
+@@||supercheats.com^$csp
+@@||survivalnation.com^$csp
+@@||telexplorer.com.ar^$csp
+@@||theblacksphere.net^$csp
+@@||thehayride.com^$csp
+@@||thinkamericana.com^$csp
+@@||truthuncensored.net^$csp
+@@||videogamesblogger.com^$csp
 
 ! #10386
 hotmovs.com##div[class^="vda-closeplay"]
