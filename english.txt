@@ -150,7 +150,7 @@ seekingalpha.com#$#abort-on-property-read atob
 ! #18476
 swatchseries.to#$#abort-on-property-read zfgloadednative
 
-! #18552
+! #CV-661
 marketrealist,kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 9to5mac.com,9to5google.com,9to5toys.com##iframe[data-google-container-id]
 9to5mac.com,9to5google.com,9to5toys.com##iframe[title="Advertisement"]
