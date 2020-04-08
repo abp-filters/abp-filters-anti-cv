@@ -1,5 +1,5 @@
 ! #CV-660
-!/reutersmedia\.net\/resources\/r\/\?.*&r=LYNXMPE[A-Za-z0-9]{6}$/$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
+radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.pt,radio.se#$#abort-on-property-read canRunAds
 ||reutersmedia.net/resources/r/?*&r=LYNXMPF$image,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s3\.reutersmedia\.net\/resources\/r\/\?.*=x&\d\d=\w&r=LYNXMP/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 uk.reuters.com,www.reuters.com##.sticky-1
