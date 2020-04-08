@@ -1,4 +1,3 @@
-
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack
 blesk.cz#$#abort-on-property-read H_SACIaS_SASC; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
@@ -48,6 +47,8 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.article-advertisement
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[id^="cnc-"][class^="cnc-"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##img[class*='-click-']
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz###\39 -31horiz
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz###\39 -21horiz
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,karaoketexty.cz##div[class$="-banner"]
 novinky.cz#?#div:-abp-has(>p:-abp-contains(Reklama))
 karaoketexty.cz,kinobox.cz###stickyWrap
@@ -60,6 +61,7 @@ idnes.cz##div[class$="-waner"]
 expres.cz,lidovky.cz,idnes.cz###halfpagead
 expres.cz,lidovky.cz,idnes.cz##.combi__ad
 karaoketexty.cz##.ad_large_square
+blesk.cz##iframe[src="javascript:window[\"pomecs\"]"]
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
