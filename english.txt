@@ -4,7 +4,7 @@
 /s3\.reutersmedia\.net\/resources\/r\/\?.*=x&\d\d=\w&r=LYNXMP/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 uk.reuters.com,www.reuters.com##.sticky-1
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class*="slide-image-enclosure"]):not([class*="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class^="slide-image-enclosure"]):not([class*="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
+de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class="slide-image-enclosure "]):not([class^="photo-thumb"]):not([class^="slideshowOverlay"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="_slide-image-enclosure_ _____photo-thumb_"]
 
 ! #9276
