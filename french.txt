@@ -66,7 +66,7 @@ streaminfr.com#$#abort-on-property-read pushADs
 1fr1.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumpro.fr,forums-actifs.com,lebonforum.com,lemondedudiagauto.com,open-consoles.com,passionmilitaria.com,superforum.fr,vttpoitou.com##a[onclick^="this.href=atob"]
 1fr1.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumpro.fr,forums-actifs.com,lebonforum.com,lemondedudiagauto.com,open-consoles.com,passionmilitaria.com,superforum.fr,vttpoitou.com#$#abort-on-property-read atob
 
-! #22109
+! #CV-368
 extreme-down.ninja,voiranime.com#$#abort-on-property-read NativeAd
 
 ! #10530

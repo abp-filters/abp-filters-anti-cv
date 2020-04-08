@@ -330,7 +330,7 @@ adpop.me,amyscans.com,anime-extremo.co,anime-extremo.com,apurogol.net,esapurogol
 nyasatimes.com##a[href="http://www.tnm.co.mw/"]
 nyasatimes.com##a[href^="http://www.africa.airtel.com"]
 
-! #22109
+! #CV-368
 kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! #19788

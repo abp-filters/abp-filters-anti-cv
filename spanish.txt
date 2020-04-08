@@ -15,7 +15,7 @@ pelispedia.co,pelispedia.tv,pelispedia.site,pelispedia.stream#$#abort-on-propert
 topflix.tv#$#abort-current-inline-script Math zfgloaded
 peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 
-! #22109
+! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
 
 ! Popup/Popunder
