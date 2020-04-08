@@ -16,6 +16,7 @@ maminka.cz#$#abort-on-property-read H_SAJfS_SASC; abort-on-property-read cpexSki
 mojezdravi.cz#$#abort-on-property-read G_SAdeabFS_SASc; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 zeny.cz#$#abort-on-property-read cGJ_SAIES_SASF; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 onetv.cz#$#abort-on-property-read cdHG_SASbJe_SASca; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+ahaonline.cz#$#abort-on-property-read ecee_SASGIfAG_SASHI
 
 kinobox.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib
 osobnosti.cz#$#abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib
