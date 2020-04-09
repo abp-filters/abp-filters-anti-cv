@@ -3,9 +3,9 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,e
 iprima.cz#$#abort-on-property-read CsssbApssspd; abort-on-property-read bdpxdpBDxdpxdaJ239581; abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
 extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
 ahaonline.cz#$#abort-on-property-read CJB_SAbFaFS_SASI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-autorevue.cz#$#abort-on-property-read aFd_SACdJceS_SASD; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+autorevue.cz#$#abort-on-property-read f_SADGJbDS_SASb; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 info.cz#$#abort-on-property-read eadF_SASC_SASbF; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-mojezdravi.cz#$#abort-on-property-read E_SAdS_SASc; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+mojezdravi.cz#$#abort-on-property-read CIHc_SASFJEaC_SASJf; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 zeny.cz#$#abort-on-property-read FB_SASHFcEd_SASaJ; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 onetv.cz#$#abort-on-property-read cC_SASaHdFG_SASDb; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 e15.cz#$#abort-on-property-read Hc_SASHdEd_SASDH; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
