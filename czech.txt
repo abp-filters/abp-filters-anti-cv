@@ -2,9 +2,7 @@
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack
 iprima.cz#$#abort-on-property-read CsssbApssspd; abort-on-property-read bdpxdpBDxdpxdaJ239581; abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
 extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
-zive.cz#$#abort-on-property-read E_SAEbAS_SASA; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 ahaonline.cz#$#abort-on-property-read CJB_SAbFaFS_SASI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-reflex.cz#$#abort-on-property-read dE_SASAJ_SASAb; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 auto.cz#$#abort-on-property-read DF_SASJJ_SASdI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 mobilmania.cz#$#abort-on-property-read HCD_SADdcbS_SASH; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 autorevue.cz#$#abort-on-property-read aFd_SACdJceS_SASD; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
@@ -16,6 +14,8 @@ e15.cz#$#abort-on-property-read Hc_SASHdEd_SASDH; abort-on-property-read cpexSki
 blesk.cz#$#abort-on-property-read BfEB_SASI_SASCc; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 dama.cz#$#abort-on-property-read G_SAAdfDS_SASb; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 maminka.cz#$#abort-on-property-read CdA_SAfGS_SASE; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+zive.cz#$#abort-on-property-read C_SAJIIS_SASe; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+reflex.cz#$#abort-on-property-read AJ_SASGf_SASbe; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib
 
