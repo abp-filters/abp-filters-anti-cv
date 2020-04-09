@@ -5,6 +5,7 @@ de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class*="slide-image-encl
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class^="slide-image-enclosure"]):not([class^="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="_slide-image-enclosure_ _photo-thumb_"]
 de.reuters.com,uk.reuters.com,www.reuters.com#$#abort-on-property-read uabInject
+de.reuters.com,uk.reuters.com,www.reuters.com#$#abort-on-property-write uabAm
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
