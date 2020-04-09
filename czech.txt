@@ -21,10 +21,10 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-prop
 
 cnews.cz,euro.cz#$#abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert
 
-novinky.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read FfBfssspcAGssspFe
-kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob; abort-on-property-read xxxp
-super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read bsssCCpssspA
-sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read FEIessspafssspeF
+novinky.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read DCssspBCssspeF
+kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob; abort-on-property-read XvrA
+super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read AJssspJEssspDI
+sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read esssHIBpssspA
 
 idnes.cz#$#abort-on-property-read adAdsAEfDACdsAdsAdscJ; abort-on-property-read IaAdsACJdsAdsAdsAG; abort-on-property-read pXd_251715; abort-on-property-read pXd_246647; abort-on-property-read pXd_232111; abort-on-property-read pXd_229555; abort-on-property-read pXd_294662; abort-on-property-read pXd_297026; abort-on-property-read pXd_251715; abort-on-property-read pXd_232105; abort-on-property-read pXd_277283; abort-on-property-read pXd_296709; abort-on-property-read pXd_277288; abort-on-property-read pXd_277285; abort-on-property-read pXd_297024
 lidovky.cz#$#abort-on-property-read AAdsDAdsAdsAdsI; abort-on-property-read IAAdsACGdsAdsAdsDG
