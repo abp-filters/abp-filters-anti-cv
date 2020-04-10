@@ -10,8 +10,8 @@ zeny.cz#$#abort-on-property-read GE_SASbBb_SASGF; abort-on-property-read cpexSki
 onetv.cz#$#abort-on-property-read e_SACS_SASH; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 e15.cz#$#abort-on-property-read fd_SASa_SASFI; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 blesk.cz#$#abort-on-property-read FBDe_SASAI_SASCH; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-dama.cz#$#abort-on-property-read G_SAAdfDS_SASb; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
-maminka.cz#$#abort-on-property-read CdA_SAfGS_SASE; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+dama.cz#$#abort-on-property-read Iaa_SAHS_SASc; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
+maminka.cz#$#abort-on-property-read IFH_SACbaBS_SASC; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 zive.cz#$#abort-on-property-read C_SAJIIS_SASe; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
 reflex.cz#$#abort-on-property-read AJ_SASGf_SASbe; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 auto.cz#$#abort-on-property-read c_SAJJS_SASF; abort-on-property-read cpexSkin; abort-on-property-read _SAS.ad
