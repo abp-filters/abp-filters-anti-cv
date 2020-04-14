@@ -21,7 +21,7 @@ razlozhi.ru#$#abort-on-property-write hasAdvert
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
-echo.msk.ru#$#abort-on-property-read eval
+echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototype.Direct
 otzovik.com#$#abort-on-property-read Ya.Direct; abort-on-property-read Object.prototype.renderDirect; abort-on-property-read Object.prototype.Metrika; abort-on-property-read Object.prototype.loadAd; abort-on-property-read Object.prototype.loadRtb
 it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.AdvManager; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.isAllowedRepeatAds; abort-on-property-read Object.prototype.__confirmBlocks; abort-on-property-read Object.prototype.allowRepeatAds; abort-on-property-read Object.prototype.AdblockCookieMatchingType; abort-on-property-read Object.prototype.getSkipBanner; abort-on-property-read Object.prototype.getAdSessionId; abort-on-property-read Object.prototype.AdvManagerLoaderRender; abort-on-property-read Object.prototype.Direct; abort-on-property-read Object.prototype.isNewLoader; abort-on-property-read Object.prototype.getYaContext
