@@ -26,7 +26,7 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-i
 super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read fABHssspHssspBc
 sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read cJBfssspessspbI
 
-idnes.cz#$#abort-on-property-read fAdsGAdsAdsAdsH; abort-on-property-write fAdsGAdsAdsAdsH
+idnes.cz#$#abort-on-property-read baAdsABdsAdsAdsEb; abort-on-property-write baAdsABdsAdsAdsEb
 lidovky.cz#$#abort-on-property-read IGAdsAEJaDHdsAdsAdsFJ; abort-on-property-write IGAdsAEJaDHdsAdsAdsFJ
 expres.cz#$#abort-on-property-read fdAdsADHdsAdsAdsCE; abort-on-property-write fdAdsADHdsAdsAdsCE
 
