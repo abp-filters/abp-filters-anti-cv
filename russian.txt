@@ -94,6 +94,7 @@ playground.ru#$#abort-on-property-read PG.depecheMode
 
 ! Popups & Popunders
 xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
+xxxtor.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! #20468
 
