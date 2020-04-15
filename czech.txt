@@ -26,9 +26,9 @@ kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-i
 super.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read fABHssspHssspBc
 sport.cz#$#abort-on-property-read atob; abort-on-property-read brukev; abort-on-property-read cJBfssspessspbI
 
-idnes.cz#$#abort-on-property-read baAdsABdsAdsAdsEb; abort-on-property-write baAdsABdsAdsAdsEb
-lidovky.cz#$#abort-on-property-read aAfsssGEdHpssspD; abort-on-property-write aAfsssGEdHpssspD; abort-on-property-read aAfAdsGEAdsAdsAdsD; abort-on-property-write aAfAdsGEAdsAdsAdsD
-expres.cz#$#abort-on-property-read HAdsfAdsAdsAdsI; abort-on-property-write HAdsfAdsAdsAdsI
+idnes.cz#$#abort-on-property-write cAdsaaAeAdsAdsAdsc
+lidovky.cz#$#abort-on-property-write bfGGAdsAceGeadsAdsAdsfb
+expres.cz#$#abort-on-property-write ccAdsAbAcdsAdsAdsDD
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
