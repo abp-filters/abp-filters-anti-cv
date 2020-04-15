@@ -4,4 +4,4 @@
 wp.pl#$#abort-on-property-read aplace
 
 ! MISC
-www.elektroda.pl#$#debug; abort-on-property-read popupStatus
+www.elektroda.pl#$#abort-on-property-read popupStatus
