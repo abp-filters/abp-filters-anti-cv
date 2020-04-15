@@ -2,3 +2,6 @@
 
 ! #8230
 wp.pl#$#abort-on-property-read aplace
+
+! MISC
+www.elektroda.pl#$#debug; abort-on-property-read popupStatus
