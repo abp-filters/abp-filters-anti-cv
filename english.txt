@@ -3,7 +3,7 @@ radio.at,radio.de,radio.dk,radio.es,radio.fr,radio.it,radio.net,radio.pl,radio.p
 uk.reuters.com,www.reuters.com##.sticky-1
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class="slide-image-enclosure "]):not([class^="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class="slide-image-enclosure "]):not([class="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="_slide-image-enclosure_ _photo-thumb_"]
+de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="photo-thumb"]> img:first-child[src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com#$#abort-on-property-read uabInject
 de.reuters.com,uk.reuters.com,www.reuters.com#$#abort-on-property-write uabAm
 de.reuters.com,uk.reuters.com,www.reuters.com#$#abort-on-property-read google_osd_loaded
