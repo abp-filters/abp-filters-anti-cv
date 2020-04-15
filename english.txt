@@ -331,3 +331,6 @@ $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openload
 ||35.194.16.41^$popup
 /favicon.ico$popup,domain=vidshare.tv
 hdvid.online#$#abort-on-property-read Fingerprint2; abort-on-property-read atob
+
+! #CV-691
+ebay.de,ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text /ANZEIGE|SPONSORED/ 'li.s-item' 'li.s-item span[role="text"]'
