@@ -216,14 +216,14 @@ audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 ! #CV-662
 ||1h6jqyt.jba.tribunnews.com^$script,xmlhttprequest,domain=tribunnews.com
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
-||d2kz60b0gq4lg.cloudfront.net^$script
-||d2wlwbnaa4keje.cloudfront.net^$script
-||d31qbv1cthcecs.cloudfront.net^$script
-||d2san7t27xb2pn.cloudfront.net^$script
-||d1htpt0i4k7m8x.cloudfront.net^$script
-||d3awx1l7oivs5m.cloudfront.net^$script
-||d2t7a3zbo166a9.cloudfront.net^$script
-||d3t4q9r0y6a1oz.cloudfront.net^$script
+||d2kz60b0gq4lg.cloudfront.net^$script,image
+||d2wlwbnaa4keje.cloudfront.net^$script,image
+||d31qbv1cthcecs.cloudfront.net^$script,image
+||d2san7t27xb2pn.cloudfront.net^$script,image
+||d1htpt0i4k7m8x.cloudfront.net^$script,image
+||d3awx1l7oivs5m.cloudfront.net^$script,image
+||d2t7a3zbo166a9.cloudfront.net^$script,image
+||d3t4q9r0y6a1oz.cloudfront.net^$script,image
 ||4gtk6i.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||b8n5kh.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
