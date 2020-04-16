@@ -55,15 +55,8 @@ idnes.cz##a[href*="_BANNERS_"]
 expres.cz,lidovky.cz,idnes.cz###halfpagead
 expres.cz,lidovky.cz,idnes.cz##.combi__ad
 karaoketexty.cz##.ad_large_square
-blesk.cz###alBkleBszon
-blesk.cz###elBklaBszno
-blesk.cz###Xetor-1
-auto.cz###alACleAoon
-zive.cz###alZCleZeon
-zive.cz###elZClaZeno
-zive.cz###alVizleVZeon
-zive.cz###elVizlaVZeno
 expres.cz##.r-main.ahead
+novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
