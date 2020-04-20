@@ -28,6 +28,7 @@ kupi.cz#$#abort-on-property-read XvRabsqHfter; abort-current-inline-script setTi
 super.cz#$#abort-on-property-read cssseHJApssspd; abort-on-property-read atob; abort-on-property-read brukev
 sport.cz#$#abort-on-property-read AICfssspHCGJssspCe; abort-on-property-read atob; abort-on-property-read brukev
 
+idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding
 idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
 lidovky.cz#$#abort-on-property-write fHAdsABEEdsAdsAdsIB; abort-on-property-read BDHsssIBeGpssspB
 expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read dssseBdDepssspJ
