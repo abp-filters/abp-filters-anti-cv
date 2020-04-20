@@ -1,11 +1,11 @@
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack
-blesk.cz#$#abort-on-property-read B_SAcAAS_SASC; abort-on-property-read IAssspessspdC; abort-on-property-read pxd_236964; abort-on-property-read pxd_236964; abort-on-property-read pxd_245347; abort-on-property-read pxd_299074; abort-on-property-read pxd_270581; abort-on-property-read pxd_277358; abort-on-property-read pxd_277394; abort-on-property-read pxd_245322; abort-on-property-read pxd_299038; abort-on-property-read pxd_299071
+blesk.cz#$#abort-on-property-read F_SAaDeS_SASa; abort-on-property-read asssbpssspa; abort-on-property-read pxd_236964; abort-on-property-read pxd_236964; abort-on-property-read pxd_245347; abort-on-property-read pxd_299074; abort-on-property-read pxd_270581; abort-on-property-read pxd_277358; abort-on-property-read pxd_277394; abort-on-property-read pxd_245322; abort-on-property-read pxd_299038; abort-on-property-read pxd_299071
 iprima.cz#$#abort-on-property-read JIAsssdIpssspC; abort-on-property-read dEeGpxdpGDxdpxdHC239581;abort-on-property-read dEeGpxdpGDxdpxdHC240085; abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
 ! extra.cz#$#abort-on-property-write sozErfcoronazdl; abort-on-property-read cpexSkin
-zive.cz#$#abort-on-property-read HcF_SADafES_SASB; abort-on-property-read cFFassspafECssspEB
-ahaonline.cz#$#abort-on-property-read e_SAHcDfeS_SASB; abort-on-property-read GFssspcssspJB; abort-on-property-read pxd_277385; abort-on-property-read pxd_298723; abort-on-property-read pxd_230565; abort-on-property-read pxd_271306; abort-on-property-read pxd_277300; abort-on-property-read pxd_262648; abort-on-property-read pxd_277343; abort-on-property-read pxd_297545; abort-on-property-read pxd_153503; abort-on-property-read _adfq
-reflex.cz#$#abort-on-property-read JCGF_SASaGd_SASCJ; abort-on-property-read FassspJdIHssspCJ; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
+zive.cz#$#abort-on-property-read IfBf_SASJFDc_SASAI; abort-on-property-read fBfdssspFDcbessspAI
+ahaonline.cz#$#abort-on-property-read ddG_SAbIIeS_SASC; abort-on-property-read IbbdssspBssspAC; abort-on-property-read pxd_277385; abort-on-property-read pxd_298723; abort-on-property-read pxd_230565; abort-on-property-read pxd_271306; abort-on-property-read pxd_277300; abort-on-property-read pxd_262648; abort-on-property-read pxd_277343; abort-on-property-read pxd_297545; abort-on-property-read pxd_153503; abort-on-property-read _adfq
+reflex.cz#$#abort-on-property-read Ecc_SAAS_SASF; abort-on-property-read csssEDpssspF; abort-on-property-read pxd_234329; abort-on-property-read pxd_152342
 auto.cz#$#abort-on-property-read HAdf_SASDGF_SASDI; abort-on-property-read dfssspFfAFssspDI
 mobilmania.cz#$#abort-on-property-read dfJa_SASb_SAScc; abort-on-property-read fsssGcpssspc
 e15.cz#$#abort-on-property-read ddfG_SASdEEeC_SASDF; abort-on-property-read dsssEEpssspF
@@ -22,13 +22,13 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-prop
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls
 
-novinky.cz#$#abort-on-property-read cssscpssspB; abort-on-property-read atob; abort-on-property-read brukev
+novinky.cz#$#abort-on-property-read ebDsssCIDpssspD; abort-on-property-read atob; abort-on-property-read brukev
 kupi.cz#$#abort-on-property-read XvRabsqHfter; abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
-super.cz#$#abort-on-property-read ABesssBpssspc; abort-on-property-read atob; abort-on-property-read brukev
+super.cz#$#abort-on-property-read cssseHJApssspd; abort-on-property-read atob; abort-on-property-read brukev
 sport.cz#$#abort-on-property-read AICfssspHCGJssspCe; abort-on-property-read atob; abort-on-property-read brukev
 
-idnes.cz#$#abort-on-property-write AEAdsAIHICdsAdsAdsda; abort-on-property-read IBFdssspeAssspda
-lidovky.cz#$#abort-on-property-write GaAdsAeaJGHdsAdsAdsdC; abort-on-property-read dfGassspeEeassspdC
+idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
+lidovky.cz#$#abort-on-property-write fHAdsABEEdsAdsAdsIB; abort-on-property-read BDHsssIBeGpssspB
 expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read dssseBdDepssspJ
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
