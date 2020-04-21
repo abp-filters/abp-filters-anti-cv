@@ -345,3 +345,6 @@ clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movie
 
 ! #CV-691
 ebay.de,ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text /ANZEIGE|SPONSORED/ 'li.s-item' 'li.s-item span[role="text"]'
+
+! #CV-698
+thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq
