@@ -16,6 +16,10 @@ idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on
 idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
 lidovky.cz#$#abort-on-property-write fHAdsABEEdsAdsAdsIB; abort-on-property-read BDHsssIBeGpssspB
 expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read dssseBdDepssspJ
+idnes.cz,lidovky.cz,expres.cz##[id^="kukhal"]
+idnes.cz,lidovky.cz,expres.cz##[id^="lopatka"]
+idnes.cz,lidovky.cz,expres.cz##[id^="widesquare"]
+idnes.cz,lidovky.cz,expres.cz###r-wallpaper
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
