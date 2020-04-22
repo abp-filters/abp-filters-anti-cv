@@ -17,7 +17,7 @@ auto.ru,avito.ru,drive2.ru,fb.ru,kakprosto.ru,razlozhi.ru,yandex.az,yandex.by,ya
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
 razlozhi.ru#$#abort-on-property-write hasAdvert
-24smi.org,liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.adfoxCode
+24smi.org,liveinternet.ru#$#abort-on-property-read String.prototype.charCodeAt
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
