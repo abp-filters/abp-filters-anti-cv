@@ -179,6 +179,7 @@ www.quora.com##.feedback_wrapper.hidden:not(.negative_action) + .FeedStory.Hyper
 www.quora.com##div[class="question_main_col"]  > div:nth-child(3) > div[class="UnifiedAnswerPagedList PagedListFoo unified"]
 www.quora.com##div[class="pagedlist_item"]  div[id*="paged_list"]
 www.quora.com##.q-box.qu-borderAll>.q-box>div>div[class^="Box-sc-"]>div:not(.q-flex):not(.q-box):not(.qu-pb--tiny):not(.qu-py--small)
+www.quora.com##.spacing_log_question_page_ad
 
 ! #13895
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
