@@ -20,9 +20,12 @@ expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read ds
 idnes.cz,lidovky.cz,expres.cz##[id^="strehAke"]
 idnes.cz,lidovky.cz,expres.cz##[id^="r-shp"]
 idnes.cz,lidovky.cz,expres.cz##[id^="rhokeKPnol"]
-idnes.cz,lidovky.cz,expres.cz##[id$="_wallpaper"]
+idnes.cz,lidovky.cz,expres.cz###wallpaper
 idnes.cz,lidovky.cz,expres.cz##[class$="_clankovy"]
 idnes.cz,lidovky.cz,expres.cz##[id^="jedno654nerozec_"]
+idnes.cz,lidovky.cz,expres.cz##iframe.ifr-passback
+idnes.cz,lidovky.cz,expres.cz##[data-cy="ad-content"]
+idnes.cz,lidovky.cz,expres.cz###v_homepage
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
