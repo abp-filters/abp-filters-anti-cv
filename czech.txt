@@ -13,7 +13,7 @@ kupi.cz#$#abort-on-property-read XvRabsuHfter; abort-current-inline-script setTi
 super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
 sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
 
-idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding
+idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-read Misc.odkladFotek; abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding
 idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
 lidovky.cz#$#abort-on-property-write fHAdsABEEdsAdsAdsIB; abort-on-property-read BDHsssIBeGpssspB
 expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read dssseBdDepssspJ
