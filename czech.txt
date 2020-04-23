@@ -26,6 +26,10 @@ idnes.cz,lidovky.cz,expres.cz##[id^="jedno654nerozec_"]
 idnes.cz,lidovky.cz,expres.cz##iframe.ifr-passback
 idnes.cz,lidovky.cz,expres.cz##[data-cy="ad-content"]
 idnes.cz,lidovky.cz,expres.cz###v_homepage
+idnes.cz,lidovky.cz,expres.cz###leaderBox
+idnes.cz,lidovky.cz,expres.cz##.polyfill-sticky
+idnes.cz,lidovky.cz,expres.cz###fix-block-1
+idnes.cz,lidovky.cz,expres.cz###qs_hotepage
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
