@@ -12,7 +12,7 @@ novinky.cz#$#abort-on-property-read IsssEddcHpssspf; abort-on-property-read atob
 kupi.cz#$#abort-on-property-read XvRabsuHfter; abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
 super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
 sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
-novinky.cz,super.cz,sport.cz##.barMan
+
 
 idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding
 idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
@@ -36,6 +36,7 @@ aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
 &target=_top$script,domain=nasepenize.cz|tiscali.cz
 
+novinky.cz,super.cz,sport.cz,idnes.cz,lidovky.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
