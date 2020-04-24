@@ -29,7 +29,7 @@ idnes.cz,lidovky.cz,expres.cz##[data-cy="ad-content"]
 idnes.cz,lidovky.cz,expres.cz###v_homepage
 idnes.cz,lidovky.cz,expres.cz###leaderBox
 idnes.cz,lidovky.cz,expres.cz###fix-block-1
-idnes.cz,lidovky.cz,expres.cz###qs_hotepage
+idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
