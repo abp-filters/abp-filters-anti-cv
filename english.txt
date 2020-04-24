@@ -26,7 +26,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com#$#abort-on-property-read TextDecoder
 humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob TextDecoder
 
-! #9343
+! #CV-706
 tube8.com##.gridBanner_
 tube8.com##.footerBanner
 youporn.com##[data-track="ad-iframe-top"]
