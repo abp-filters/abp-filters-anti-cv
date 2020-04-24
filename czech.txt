@@ -28,7 +28,6 @@ idnes.cz,lidovky.cz,expres.cz##iframe.ifr-passback
 idnes.cz,lidovky.cz,expres.cz##[data-cy="ad-content"]
 idnes.cz,lidovky.cz,expres.cz###v_homepage
 idnes.cz,lidovky.cz,expres.cz###leaderBox
-idnes.cz,lidovky.cz,expres.cz##.polyfill-sticky
 idnes.cz,lidovky.cz,expres.cz###fix-block-1
 idnes.cz,lidovky.cz,expres.cz###qs_hotepage
 
@@ -37,6 +36,7 @@ aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 &target=_top$script,domain=nasepenize.cz|tiscali.cz
 
 novinky.cz,super.cz,sport.cz,idnes.cz,lidovky.cz,expres.cz##.barMan
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,lidovky.cz,expres.cz##.polyfill-sticky
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-properties(content: "rеklama";)
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*='background-image: url("https://www.']
