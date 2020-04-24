@@ -12,6 +12,7 @@ novinky.cz#$#abort-on-property-read IsssEddcHpssspf; abort-on-property-read atob
 kupi.cz#$#abort-on-property-read XvRabsuHfter; abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
 super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
 sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
+novinky.cz,super.cz,sport.cz##.barMan
 
 idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding
 idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
