@@ -20,7 +20,7 @@ lidovky.cz#$#abort-on-property-write fHAdsABEEdsAdsAdsIB; abort-on-property-read
 expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read dssseBdDepssspJ
 idnes.cz,lidovky.cz,expres.cz##[id^="strehAke"]
 idnes.cz,lidovky.cz,expres.cz##[id^="r-shp"]
-idnes.cz,lidovky.cz,expres.cz##[id^="rhokeKPnol"]
+idnes.cz,lidovky.cz,expres.cz##[id*="keKPnol"]
 idnes.cz,lidovky.cz,expres.cz###wallpaper
 idnes.cz,lidovky.cz,expres.cz##[class$="_clankovy"]
 idnes.cz,lidovky.cz,expres.cz##[id^="jedno654nerozec_"]
@@ -30,6 +30,8 @@ idnes.cz,lidovky.cz,expres.cz###v_homepage
 idnes.cz,lidovky.cz,expres.cz###leaderBox
 idnes.cz,lidovky.cz,expres.cz###fix-block-1
 idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage
+idnes.cz,lidovky.cz,expres.cz##a[href*="utm_medium%3Dbanner%"]
+idnes.cz,lidovky.cz,expres.cz###r-clanek
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
