@@ -2,11 +2,12 @@
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _sc_cached_scripts; abort-on-property-read lopatkovymlejn_cmp; abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack; abort-on-property-read C7.createBranding; abort-on-property-read reCelerAds
 iprima.cz#$#abort-on-property-read HAssspIaACBssspFA; abort-on-property-read GGBHpxdpAGEIxdpxdFA239581; abort-on-property-read GGBHpxdpAGEIxdpxdFA240085; abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
 
-tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client
 
-cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls
+cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded
 https://cdn.dopc.cz^$script,domain=euro.cz|cnews.cz
-euro.cz,cnews.cz##.GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id]
+euro.cz,cnews.cz##.GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
+?client=ca-pub-*&*&adsid=$subdocument,domain=euro.cz|cnews.cz
 
 novinky.cz#$#abort-on-property-read IsssEddcHpssspf; abort-on-property-read atob
 kupi.cz#$#abort-on-property-read XvRabsuHfter; abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
@@ -36,6 +37,7 @@ idnes.cz,lidovky.cz,expres.cz###r-clanek
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
 &target=_top$script,domain=nasepenize.cz|tiscali.cz
+
 
 novinky.cz,super.cz,sport.cz,idnes.cz,lidovky.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,extra.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,lidovky.cz,expres.cz##.polyfill-sticky, .hollyfill-quicky
