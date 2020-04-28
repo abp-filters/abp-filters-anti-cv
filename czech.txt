@@ -4,6 +4,7 @@ iprima.cz#$#abort-on-property-read HAssspIaACBssspFA; abort-on-property-read GGB
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client
 
+
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded
 https://cdn.dopc.cz^$script,domain=euro.cz|cnews.cz
 euro.cz,cnews.cz##.GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
@@ -15,7 +16,7 @@ super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
 sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
 
 
-idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding
+idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone
 idnes.cz#$#abort-on-property-write GFBHAdsACJeJdsAdsAdsCd; abort-on-property-read JGFBssspACJessspCd
 lidovky.cz#$#abort-on-property-write fHAdsABEEdsAdsAdsIB; abort-on-property-read BDHsssIBeGpssspB
 expres.cz#$#abort-on-property-write eAdsdDeAdsAdsAdsJ; abort-on-property-read dssseBdDepssspJ
