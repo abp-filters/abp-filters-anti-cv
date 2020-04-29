@@ -32,14 +32,14 @@ idnes.cz,lidovky.cz,expres.cz##[data-cy="ad-content"]
 idnes.cz,lidovky.cz,expres.cz###v_homepage
 idnes.cz,lidovky.cz,expres.cz###leaderBox
 idnes.cz,lidovky.cz,expres.cz###fix-block-1
-idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage
+idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs
 idnes.cz,lidovky.cz,expres.cz##a[href*="utm_medium%3Dbanner%"]
 idnes.cz,lidovky.cz,expres.cz###r-clanek
+idnes.cz,lidovky.cz,expres.cz###pn-cvanel
+idnes.cz,lidovky.cz,expres.cz##iframe[class="ifr-masshack"]
+
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
-
-&target=_top$script,domain=nasepenize.cz|tiscali.cz
-
 
 novinky.cz,super.cz,sport.cz,idnes.cz,lidovky.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,lidovky.cz,expres.cz##.polyfill-sticky, .hollyfill-quicky, .mollyfill-slicky, #leaderBox
