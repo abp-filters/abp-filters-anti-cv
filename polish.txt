@@ -2,6 +2,7 @@
 
 ! #CV-705
 wp.pl#$#abort-on-property-read aplace
+www.wp.pl#$#abort-on-property-read SlotRegistrar
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus
