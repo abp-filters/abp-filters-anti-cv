@@ -21,7 +21,7 @@ super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
 sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
 
 
-idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone
+idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone
 idnes.cz,lidovky.cz,expres.cz##[id^="strehAke"]
 idnes.cz,lidovky.cz,expres.cz##[id^="r-shp"]
 idnes.cz,lidovky.cz,expres.cz##div[id$="nol"]
@@ -31,7 +31,7 @@ idnes.cz,lidovky.cz,expres.cz##[data-cy="ad-content"]
 idnes.cz,lidovky.cz,expres.cz###v_homepage
 idnes.cz,lidovky.cz,expres.cz###leaderBox
 idnes.cz,lidovky.cz,expres.cz##[id^="fix-block-"]
-idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs, div[id$="-ds"]
+idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs, div[id$="-ds"], #hotalf-ds-rage, #qs-walpapier, #sudo-flaqel
 idnes.cz,lidovky.cz,expres.cz##a[href*="utm_medium%3Dbanner%"]
 idnes.cz,lidovky.cz,expres.cz###r-clanek, #WhallMnPaerp
 idnes.cz,lidovky.cz,expres.cz###pn-cvanel, #piqo-channel
