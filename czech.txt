@@ -23,7 +23,7 @@ super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
 sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
 novinky.cz,super.cz,sport.cz##[data-cy="ad-content"], .burRman
 
-idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone
+idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone; abort-on-property-write sasQuicklingDone
 idnes.cz,lidovky.cz,expres.cz##[id^="strehAke"]
 idnes.cz,lidovky.cz,expres.cz##[id^="r-shp"]
 idnes.cz,lidovky.cz,expres.cz##div[id$="nol"]
