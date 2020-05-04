@@ -1,7 +1,7 @@
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read _sc_cached_scripts; abort-on-property-read lopatkovymlejn_cmp; abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack; abort-on-property-read C7.createBranding; abort-on-property-read reCelerAds; abort-on-property-read adfjsonbanners; abort-on-property-read reMrkevAds; abort-on-property-read reMrkevAdsWeb; abort-on-property-read C7; abort-on-property-read CONTROL7; abort-on-property-read CQNTROL7
 iprima.cz#$#abort-on-property-read HAssspIaACBssspFA; abort-on-property-read GGBHpxdpAGEIxdpxdFA239581; abort-on-property-read GGBHpxdpAGEIxdpxdFA240085; abort-on-property-read pxd_252946; abort-on-property-read pxd_239581; abort-on-property-read pxd_240085
-iprima.cz##.sas_center
+iprima.cz##.sas_center, .px-ad, .sas_mone, .mas_fenter
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,lidovky.cz,expres.cz##.polyfill-sticky, .hollyfill-quicky, .mollyfill-slicky, #leaderBox, .leaderboard, .dollyhill-klicky, .veryhill-klicky, .quicky-content
 
