@@ -2,7 +2,7 @@
 
 ! #CV-705
 wp.pl#$#abort-on-property-read aplace
-www.wp.pl#$#abort-on-property-read SlotRegistrar
+www.wp.pl#$#abort-on-property-read SlotRegistrar; abort-current-inline-script PRELOAD randvar
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus
