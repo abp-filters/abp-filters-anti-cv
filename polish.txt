@@ -1,8 +1,13 @@
 ! #CV-660
 
 ! #CV-705
-wp.pl#$#abort-on-property-read aplace
 www.wp.pl#$#abort-on-property-read SlotRegistrar; abort-current-inline-script PRELOAD randvar
+dobreprogramy.pl#$#abort-on-property-read wp_adv_labels
+abczdrowie.pl#$#abort-on-property-read slot.parentElement
+autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#abort-on-property-read __wpApi
+autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#abort-current-inline-script document.getElementsByTagName slParent
+abczdrowie.pl,parenting.pl,nerwica.com,twojeip.wp.pl#$#abort-current-inline-script document.querySelector registerSlot
+wp.pl,pudelek.pl#$#abort-on-property-read wpjscb
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus
