@@ -39,7 +39,7 @@ idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs, div[i
 idnes.cz,lidovky.cz,expres.cz##a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
 idnes.cz,lidovky.cz,expres.cz###r-clanek, #WhallMnPaerp, #WhallMnnqlrp, .s_WhallMnnqlrp
 idnes.cz,lidovky.cz,expres.cz###pn-cvanel, #piqo-channel, #sumo-flaqel, #kowaflawe-ryws
-idnes.cz,lidovky.cz,expres.cz##iframe.ifr-masshack, iframe.ifr-passback, iframe.class-quack-ifrant, iframe.glass-peck-ifrant, iframe.das-gaf-ifrant
+idnes.cz,lidovky.cz,expres.cz##iframe.ifr-masshack, iframe.ifr-passback, iframe[class$="-ifrant"]
 idnes.cz,lidovky.cz,expres.cz##a[href*="tt=Directkrev"][href*="token="]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
