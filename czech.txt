@@ -9,6 +9,8 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-prop
 kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="bbelements.com"]
+kinobox.cz##.box.banner_300
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded
 https://cdn.dopc.cz^$script,domain=euro.cz|cnews.cz
@@ -40,7 +42,9 @@ idnes.cz,lidovky.cz,expres.cz##a[href*="utm_medium%3Dbanner%"], a[href*="leaderb
 idnes.cz,lidovky.cz,expres.cz###r-clanek, #WhallMnPaerp, #WhallMnnqlrp, .s_WhallMnnqlrp
 idnes.cz,lidovky.cz,expres.cz###pn-cvanel, #piqo-channel, #sumo-flaqel, #kowaflawe-ryws
 idnes.cz,lidovky.cz,expres.cz##iframe.ifr-masshack, iframe.ifr-passback, iframe[class$="-ifrant"]
-idnes.cz,lidovky.cz,expres.cz##a[href*="tt=Directkrev"][href*="token="]
+idnes.cz,lidovky.cz,expres.cz##a[target="_blank"][href*="tt=Direct"][href*="token="]
+idnes.cz##a[href^="https://www."][target="_top"]>img[src^="https://www."][title^="www."]
+idnes.cz,lidovky.cz,expres.cz##div[id*="pagead"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
