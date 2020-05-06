@@ -230,6 +230,12 @@ audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 ||d3awx1l7oivs5m.cloudfront.net^$script,image
 ||d2t7a3zbo166a9.cloudfront.net^$script,image
 ||d3t4q9r0y6a1oz.cloudfront.net^$script,image
+||d1oxccu2k3w6jx.cloudfront.net^$script
+||d11a2fzhgzqe7i.cloudfront.net^$script
+||d1lu68kpg9miy0.cloudfront.net^$script
+||dlkfm8bqz0bpx.cloudfront.net^$script
+||d12ysuoljjyfqa.cloudfront.net^$script
+||d3pk579obpqv7b.cloudfront.net^$script
 ||4gtk6i.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||b8n5kh.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
