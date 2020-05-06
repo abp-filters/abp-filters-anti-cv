@@ -225,7 +225,6 @@ audiofanzine.com##ul[class^="audiofanzineProductBanner"]
 ||x2py3z.kgy.pockettactics.com^$domain=pockettactics.com
 ||d2kz60b0gq4lg.cloudfront.net^$script,image
 ||d2wlwbnaa4keje.cloudfront.net^$script,image
-||d31qbv1cthcecs.cloudfront.net^$script,image
 ||d2san7t27xb2pn.cloudfront.net^$script,image
 ||d1htpt0i4k7m8x.cloudfront.net^$script,image
 ||d3awx1l7oivs5m.cloudfront.net^$script,image
