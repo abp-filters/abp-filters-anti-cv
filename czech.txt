@@ -28,6 +28,9 @@ cnews.cz,euro.cz###mobile_branding_ad_container
 cnews.cz,euro.cz##iframe[data-google-query-id]
 cnews.cz,euro.cz##iframe[id][sandbox*="allow-popups"]
 cnews.cz,euro.cz##iframe[id][data-load-complete]:not([src])
+cnews.cz,euro.cz##.widget_skyscraperlower
+cnews.cz,euro.cz##a[target="_blank"][rel="noopener noreferrer"]
+cnews.cz,euro.cz##[data-ad-client][data-ad-slot]
 
 novinky.cz#$#abort-on-property-read IsssEddcHpssspf; abort-on-property-read atob
 kupi.cz#$#abort-on-property-read XvRabsuHfter; abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
