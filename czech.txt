@@ -11,6 +11,8 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="bbelements.com"]
 kinobox.cz##.box.banner_300
+tiscali.cz##a[href*="IdBnrP="][href*="IdCamp="]
+nasepenize.cz##a[target="_blank"][class="tracked-event"]>img:only-child
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded
 https://cdn.dopc.cz^$script,domain=euro.cz|cnews.cz
