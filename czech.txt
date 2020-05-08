@@ -39,6 +39,9 @@ sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
 novinky.cz,super.cz,sport.cz##[data-cy="ad-content"], .burRman
 
 idnes.cz,lidovky.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone; abort-on-property-write sasQuicklingDone
+idnes.cz#$#abort-on-property-write CssscIpssspE
+
+expres.cz#$#abort-on-property-write EsssGbJpssspF
 idnes.cz,lidovky.cz,expres.cz##[id$="Ake13"]
 idnes.cz,lidovky.cz,expres.cz##[id^="r-shp"]
 idnes.cz,lidovky.cz,expres.cz##div[id$="nol"]
@@ -52,11 +55,11 @@ idnes.cz,lidovky.cz,expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs, div[i
 idnes.cz,lidovky.cz,expres.cz##a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
 idnes.cz,lidovky.cz,expres.cz###r-clanek, #WhallMnPaerp, #WhallMnnqlrp, .s_WhallMnnqlrp
 idnes.cz,lidovky.cz,expres.cz###pn-cvanel, #piqo-channel, #sumo-flaqel, #kowaflawe-ryws
-idnes.cz,lidovky.cz,expres.cz##iframe.ifr-masshack, iframe.ifr-passback, iframe[class$="-ifrant"]
+idnes.cz,lidovky.cz,expres.cz##iframe.ifr-masshack, iframe.ifr-passback, iframe[class$="-ifrant"], iframe[class$="ifr-ant"]
 idnes.cz,lidovky.cz,expres.cz##a[target="_blank"][href*="tt=Direct"][href*="token="]
 idnes.cz,lidovky.cz,expres.cz##div[id*="pagead"]
 idnes.cz,lidovky.cz,expres.cz##a[href*="ghits"][target="_blank"]
-idnes.cz##a[href^="https://www."][target="_top"]>img[src^="https://www."][title^="www."], a[target="_top"]>div>img:not([title*="idnes.cz"])
+idnes.cz##a[href^="https://www."][target="_top"]>img[src^="https://www."][title^="www."], a[target="_top"]>div>img:not([title*="idnes.cz"]), img[title^="www."]:not([title*="idnes.cz"])
 expres.cz##a[target="_blank"]>img[width="300"][height="600"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
