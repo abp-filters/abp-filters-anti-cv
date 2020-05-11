@@ -10,4 +10,4 @@ abczdrowie.pl,parenting.pl,nerwica.com,twojeip.wp.pl#$#abort-current-inline-scri
 wp.pl,pudelek.pl#$#abort-on-property-read wpjscb
 
 ! MISC
-www.elektroda.pl#$#abort-on-property-read popupStatus
+www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
