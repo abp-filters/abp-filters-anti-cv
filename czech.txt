@@ -15,7 +15,7 @@ karaoketexty.cz#$#abort-on-property-write fibbAGCmpConsentI
 kinobox.cz#$#abort-on-property-write BeaibbJeCmpConsentF
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
-tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
+tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"], a.tracked-event[href*="tiscali.cz"][target^="_"]:not([target="_blank"])
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="bbelements.com"]
 kinobox.cz##.box.banner_300
 tiscali.cz##a[href*="IdBnrP="][href*="IdCamp="], [id^="pxBanner"]
