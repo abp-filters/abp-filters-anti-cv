@@ -1,14 +1,7 @@
 ! #CV-660
 /s3\.reutersmedia\.net\/resources\/r\/\?.+,\w\w_\w\w&r=LYNXNP/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s3\.reutersmedia\.net\/resources\/r\/\?((?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[&]{1})(?=.*[=]{1}).{70,90})&r=LYNXNP/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
-uk.reuters.com,www.reuters.com##.sticky-1
-de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class="slide-image-enclosure "]):not([class^="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class="slide-image-enclosure "]):not([class="photo-thumb"])> img:only-of-type[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class*="photo-thumb"]> img:first-child[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class="StandardArticleBody_container"] >span
-de.reuters.com,uk.reuters.com,www.reuters.com##div>div[class="photo-thumb"]> img[src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slide-image-enclosure "]> img[src*="s3.reutersmedia.net/resources/r/"]:not([class="slick-loading"]):not([style^="opacity"])
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slide-image-enclosure "]> img[src*="s3.reutersmedia.net/resources/r/"]:not([alt*=" "]):not([style^="opacity"])
+de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slide-image-enclosure "]> img[alt='x y'][src*="s3.reutersmedia.net/resources/r/"]
 
 ! #9276
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
