@@ -1,18 +1,13 @@
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read rubiconTarget; abort-on-property-read _sc_cached_scripts; abort-on-property-read lopatkovymlejn_cmp; abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack; abort-on-property-read C7.createBranding; abort-on-property-read reCelerAds; abort-on-property-read adfjsonbanners; abort-on-property-read reMrkevAds; abort-on-property-read reMrkevAdsWeb; abort-on-property-read C7; abort-on-property-read CONTROL7; abort-on-property-read CQNTROL7; abort-on-property-read catTree; abort-on-property-write catTree; abort-on-property-read jeblinajebliva; abort-on-property-read COLABORATOR7; abort-on-property-read CQLABQRATOR7; abort-on-property-read CQLAbQRATOR7
 iprima.cz#$#abort-on-property-read loadSeznamMones; abort-on-property-write loadSeznamMones
-iprima.cz##.sas_center, .px-ad, .sas_mone, .mas_fenter, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], .mas_fenter_clue, .mas_fatneter_clue, [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack
+iprima.cz##.sas_center, .px-ad, .sas_mone, .mas_fenter, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], .mas_fenter_clue, .mas_fatneter_clue, [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##.polyfill-sticky, .hollyfill-quicky, .mollyfill-slicky, #leaderBox, .leaderboard, .dollyhill-klicky, .veryhill-klicky, .quicky-content, .sturdyhill-klicky, .oldymill-blicky, .quicky-prapper, .somewhat-quicky-content, .moreorless-quicky-content, .stillquite-quicky-content
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz,tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##[id^="pradAbkorn"], [id*="alRT"][id*="Re1"]
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client; abort-on-property-read BbQuingle; abort-on-property-read BbWhipplQe; abort-on-property-read BbWhiqqlpe; abort-on-property-read BbWhiqqlqe
 kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN
-tiscali.cz#$#abort-on-property-write FaibbCcbmpConsentID
-osobnosti.cz#$#abort-on-property-write GaibbCCBmpConsentJb
-nasepenize.cz#$#abort-on-property-write FDJibbeeIHJCmpConsentI
-karaoketexty.cz#$#abort-on-property-write fibbAGCmpConsentI
-kinobox.cz#$#abort-on-property-write BeaibbJeCmpConsentF
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"], a.tracked-event[href*="tiscali.cz"][target^="_"]:not([target="_blank"]), a[class="pe-link tracked-event"][target="_blank"][href*="tiscali.cz"]
@@ -33,15 +28,13 @@ cnews.cz,euro.cz##a[target="_blank"][rel="noopener noreferrer"]
 cnews.cz,euro.cz##[data-ad-client][data-ad-slot]
 
 novinky.cz#$#abort-on-property-read _sspDoNotLoadDOT; abort-on-property-read atob
-kupi.cz#$#abort-on-property-read XvRabsuHfter; abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
-super.cz#$#abort-on-property-read JJAsssbdbpssspH; abort-on-property-read atob
-sport.cz#$#abort-on-property-read GassspGDcadssspIf; abort-on-property-read atob
+kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
+super.cz#$#abort-on-property-read atob
+sport.cz#$#abort-on-property-read atob
 novinky.cz,super.cz,sport.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground
 
 idnes.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone; abort-on-property-write sasQuicklingDone
-idnes.cz#$#abort-on-property-write CssscIpssspE
 
-expres.cz#$#abort-on-property-write EsssGbJpssspF
 idnes.cz,expres.cz##[id$="Ake13"]
 idnes.cz,expres.cz##[id^="r-shp"]
 idnes.cz,expres.cz##div[id$="nol"]
@@ -92,7 +85,6 @@ expres.cz,idnes.cz##.combi__ad
 karaoketexty.cz##.ad_large_square
 expres.cz##.r-main.ahead
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container
-iprima.cz##.px-zone
 
 /r:AdConstructor:contents^$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 ||d49-a.sdn.cz^$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
