@@ -57,7 +57,7 @@ idnes.cz,expres.cz##a[href*="ghits"][target="_blank"]
 idnes.cz##a[href^="https://www."][target="_top"]>img[src^="https://www."][title^="www."], a[target="_top"]>div>img:not([title*="idnes.cz"]), img[title^="www."]:not([title*="idnes.cz"])
 expres.cz##a[target="_blank"]>img[width="300"][height="600"]
 idnes.cz,expres.cz##a[href*="utm_source%3Dseznam%26"], a[target="_top"][href*="Bannery"]
-idnes.cz,expres.cz##a[href*="utm_source%3Dsklik%26"]
+idnes.cz,expres.cz##a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
 idnes.cz,expres.cz##[id$="GmepageIG"], #r-super300, [class$="_spodni"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
