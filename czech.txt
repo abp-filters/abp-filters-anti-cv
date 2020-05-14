@@ -53,7 +53,7 @@ idnes.cz,expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs, div[id$="-ds"], 
 idnes.cz,expres.cz##a[href*="utm_medium%3Dbanner%"], a[href*="leaderboard"]
 idnes.cz,expres.cz###r-clanek, #WhallMnPaerp, #WhallMnnqlrp, .s_WhallMnnqlrp
 idnes.cz,expres.cz###pn-cvanel, #piqo-channel, #sumo-flaqel, #kowaflawe-ryws
-idnes.cz,expres.cz##iframe.ifr-masshack, iframe.ifr-passback, iframe[class$="-ifrant"], iframe[class$="ifr-ant"]
+idnes.cz,expres.cz##iframe.ifr-masshack, iframe[class$="-ifrant"], iframe[class$="ifr-ant"], iframe[class*="ifr-"][class*="passback"]
 idnes.cz,expres.cz##a[target="_blank"][href*="tt=Direct"][href*="token="]
 idnes.cz,expres.cz##div[id*="pagead"], [class*="passbackda-"]
 idnes.cz,expres.cz##a[href*="ghits"][target="_blank"]
@@ -61,7 +61,7 @@ idnes.cz##a[href^="https://www."][target="_top"]>img[src^="https://www."][title^
 expres.cz##a[target="_blank"]>img[width="300"][height="600"]
 idnes.cz,expres.cz##a[href*="utm_source%3Dseznam%26"], a[target="_top"][href*="Bannery"], a[target="_top"][href*="pros_umisteni"]
 idnes.cz,expres.cz##a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
-idnes.cz,expres.cz##[id$="GmepageIG"], #r-super300, [class$="_spodni"]
+idnes.cz,expres.cz##[id$="GmepageIG"], #r-super300, [class$="_spodni"], [id*="omepage"][id*="-h"]
 idnes.cz,expres.cz##a[href*="Banner"][href*="utm_"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
