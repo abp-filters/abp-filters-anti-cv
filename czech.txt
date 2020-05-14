@@ -59,6 +59,7 @@ expres.cz##a[target="_blank"]>img[width="300"][height="600"]
 idnes.cz,expres.cz##a[href*="utm_source%3Dseznam%26"], a[target="_top"][href*="Bannery"], a[target="_top"][href*="pros_umisteni"]
 idnes.cz,expres.cz##a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
 idnes.cz,expres.cz##[id$="GmepageIG"], #r-super300, [class$="_spodni"]
+idnes.cz,expres.cz##a[href*="Banner"][href*="utm_"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
