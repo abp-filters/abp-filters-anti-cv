@@ -25,5 +25,5 @@ pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 
 ! #CV-662
 ||1df6a41.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de
-||hmwltp.vqysgzi.com^$script,xmlhttprequest,domain=wetteronline.at
-||1rjpi15.akvxu.com^$script,xmlhttprequest,domain=wetteronline.ch
+||hmwltp.vqysgzi.com^$script,xmlhttprequest,domain=wetteronline.at|wetteronline.ch
+||1rjpi15.akvxu.com^$script,xmlhttprequest,domain=wetteronline.ch|wetteronline.at
