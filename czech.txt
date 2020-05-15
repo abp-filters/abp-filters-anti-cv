@@ -108,6 +108,11 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expre
 
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,tiscali.cz,zeny.cz,zive.cz##div[style="float: left; width: 200px; margin-right: 5px; height: 225px; overflow: hidden;"]
 
+! Video ads
+&ADFAssetID=$media,domain=expres.cz|idnes.cz
+expres.cz,idnes.cz##[data-io-video-title*="Ad Number"]
+expres.cz,idnes.cz##a[href*="area=preroll"][href*="site=adblock_"]
+
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
 clanky.seznam.cz,search.seznam.cz##.Result-ico:not([class="Result-ico"])
