@@ -355,7 +355,8 @@ hdvid.online#$#abort-on-property-read Fingerprint2; abort-on-property-read atob
 dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movierulz.tv,vidbm.com,vidshare.tv,kshows.to,dramacool.movie,dramacool.video,movies123.xyz,prostream.to,vidlox.me#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-691
-ebay.de,ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text /ANZEIGE|SPONSORED/ 'li.s-item' 'li.s-item span[role="text"]'
+ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
+ebay.de#$#hide-if-contains-visible-text ANZEIGE 'li.s-item' 'li.s-item span[role="text"]'
 
 ! #CV-698
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
