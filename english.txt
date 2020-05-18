@@ -2,7 +2,7 @@
 /s3\.reutersmedia\.net\/resources\/r\/\?.+,\w\w_\w\w&r=LYNXNP/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 /s3\.reutersmedia\.net\/resources\/r\/\?((?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*[&]{1})(?=.*[=]{1}).{70,90})&r=LYNXNP/$image,match-case,domain=de.reuters.com|uk.reuters.com|www.reuters.com
 de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slide-image-enclosure "]> img[alt='x y'][src*="s3.reutersmedia.net/resources/r/"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slick-loading"]> img[alt][src*="s3.reutersmedia.net/resources/r/"]
+de.reuters.com,uk.reuters.com,www.reuters.com##div> img[src*="s3.reutersmedia.net/resources/r/"]:not([alt])
 de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slick-loading"]> img[src*="s3.reutersmedia.net/resources/r/"]
 
 ! #9276
