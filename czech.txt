@@ -40,7 +40,7 @@ novinky.cz#$#abort-on-property-read _sspDoNotLoadDOT; abort-on-property-read ato
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
-novinky.cz,super.cz,sport.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground
+novinky.cz,super.cz,sport.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground, [data-e2e-zoneid], .ads, .Rgheysn
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 
@@ -122,6 +122,7 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expre
 &ADFAssetID=$media,domain=expres.cz|idnes.cz
 expres.cz,idnes.cz##[data-io-video-title*="Ad Number"]
 expres.cz,idnes.cz##a[href*="area=preroll"][href*="site=adblock_"]
+novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
