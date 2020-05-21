@@ -121,6 +121,8 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expre
 
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,tiscali.cz,zeny.cz,zive.cz##div[style="float: left; width: 200px; margin-right: 5px; height: 225px; overflow: hidden;"]
 
+auto.cz##.halfpageAd, [class*="wrapperH-prapper"], [class*="billboard-bottom"], img[width='970'][height="310"], [data-io-article-url] a[target='_top'], video[id^="video-"][preload="auto"][webkit-playsinline="webkit-playsinline"], [class*="ads-leader"], [id="KoqisAoAce"]
+
 ! Video ads
 &ADFAssetID=$media,domain=expres.cz|idnes.cz
 expres.cz,idnes.cz##[data-io-video-title*="Ad Number"]
