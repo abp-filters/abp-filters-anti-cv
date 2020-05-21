@@ -13,6 +13,7 @@ wp.pl,pudelek.pl,dobreprogramy.pl,abczdrowie.pl,parenting.pl,nerwica.com,autokul
 
 ||www.wp.pl/cnV4Lm1lTA83VjpeHhdBGnQObg5BBDwdIlBuQRMzQVR0axMybjM8MQlrEzJuMzwxCWsTMm4zPDEJaxMybjM8MQlrEzJuMzw*$script,domain=wp.pl
 ||www.wp.pl/Y2FjYWNhdlMnCC9kYRN7RmRQezQ-*$script,domain=wp.pl
+||www.wp.pl/Y2JjYWNhdlMrCC9kYRN7RmhQezQ-*$script,domain=wp.pl
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
