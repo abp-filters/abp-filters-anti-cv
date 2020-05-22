@@ -41,11 +41,11 @@ cnews.cz,euro.cz##a[target="_blank"][rel="noopener noreferrer"]
 cnews.cz,euro.cz##[data-ad-client][data-ad-slot]
 cnews.cz,euro.cz##.img_ad, div[id$="-sticky"], [class*="-replaced-content"]
 
-novinky.cz#$#abort-on-property-read _sspDoNotLoadDOT; abort-on-property-read atob
+novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
-novinky.cz,super.cz,sport.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground, [data-e2e-zoneid], .ads, .Rgheysn
+novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground, [data-e2e-zoneid], .ads, .Rgheysn
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz
