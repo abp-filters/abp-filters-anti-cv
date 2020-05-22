@@ -14,6 +14,8 @@ wp.pl,pudelek.pl,dobreprogramy.pl,abczdrowie.pl,parenting.pl,nerwica.com,autokul
 ||www.wp.pl/cnV4Lm1lTA83VjpeHhdBGnQObg5BBDwdIlBuQRMzQVR0axMybjM8MQlrEzJuMzwxCWsTMm4zPDEJaxMybjM8MQlrEzJuMzw*$script,domain=wp.pl
 ||www.wp.pl/Y2NjYWNhdlMvCC9kYRN7RmxQezQ-*$script,domain=wp.pl
 ||www.wp.pl/Y2JjYWNhdlMrCC9kYRN7RmhQezQ-*$script,domain=wp.pl
+||sportowefakty.wp.pl/cnV4Lm1lTA83VjpeHhdBGnQObg5BBDwdIlBuQRMzQVR0axMybjM8MQlrEzJuMzwxCW*$script,domain=sportowefakty.wp.pl
+||pogoda.wp.pl/cnV4Lm1lTA83VjpeHhdBGnQObg5BBDwdIlBuQ*$script,domain=pogoda.wp.pl
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
