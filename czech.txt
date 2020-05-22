@@ -16,6 +16,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[id*="alKk5"][id*="Kie"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.ad-skywrapper
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##img[id*="Ad"][id*="form"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="prad"]
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client; abort-on-property-read BbQuingle; abort-on-property-read BbWhipplQe; abort-on-property-read BbWhiqqlpe; abort-on-property-read BbWhiqqlqe
 kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN; abort-on-property-read sklikProvider
@@ -32,6 +33,8 @@ karaoketexty.cz##.ad_large_square
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[target="_blank"]>img[class*="-click-"]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##.sticky[stickystop]
 karaoketexty.cz##[class$="_rightcolumn"], #sky_right_col
+osobnosti.cz##.hide-screenbot
+nasepenize.cz##div[class$="-rightcJ"]
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded; abort-on-property-read Goog_Osd_UnloadAdBlock; abort-on-property-write Goog_Osd_UnloadAdBlock
 euro.cz,cnews.cz##div[data-google-av-naid], .GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
