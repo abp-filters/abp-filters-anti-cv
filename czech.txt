@@ -29,6 +29,7 @@ tiscali.cz##.btitle-right, a[href*="IdBnrP="][href*="IdCamp="], [id^="pxBanner"]
 nasepenize.cz##a[target="_blank"][class="tracked-event"]>img:only-child
 karaoketexty.cz,kinobox.cz###stickyWrap
 karaoketexty.cz##.ad_large_square
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[target="_blank"]>img[class*="-click-"]
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded; abort-on-property-read Goog_Osd_UnloadAdBlock; abort-on-property-write Goog_Osd_UnloadAdBlock
 euro.cz,cnews.cz##div[data-google-av-naid], .GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
