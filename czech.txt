@@ -104,6 +104,7 @@ expres.cz,idnes.cz,emimino.cz##[data-advert-sticky], #sticky-banner
 expres.cz,idnes.cz,emimino.cz##.r-box
 expres.cz,idnes.cz,emimino.cz##a[href*="&tcid="]
 expres.cz###cr-hcdolepageB
+expres.cz,idnes.cz,emimino.cz##table[id][class][style="margin: auto;"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
