@@ -97,7 +97,11 @@ idnes.cz###widesquare_clankovy
 idnes.cz##a[href*="_BANNERS_"]
 expres.cz,idnes.cz##.combi__ad
 expres.cz##.r-main.ahead
-expres.cz,idnes.cz##table[class*=" ahead "]
+idnes.cz###GHCr-cHeBlanekA, #CJerobBfdBEotadA
+expres.cz,idnes.cz,emimino.cz##table[class*=" ahead "]
+expres.cz,idnes.cz,emimino.cz##[data-advert-sticky], #sticky-banner
+expres.cz,idnes.cz,emimino.cz##.r-box
+expres.cz,idnes.cz,emimino.cz##a[href*="&tcid="]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
