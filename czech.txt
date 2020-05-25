@@ -28,7 +28,7 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"], a.tracked-event[href*="tiscali.cz"][target^="_"]:not([target="_blank"])
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="bbelements.com"]
 kinobox.cz##.box.banner_300, #b300_fixbox
-tiscali.cz##.btitle-right, a[href*="IdBnrP="][href*="IdCamp="], [id^="pxBanner"]
+tiscali.cz##.btitle-right, a[href*="IdBnrP="][href*="IdCamp="], [id^="pxBanner"], a.click-layer#clickLayer
 nasepenize.cz##a[target="_blank"][class="tracked-event"]>img:only-child
 karaoketexty.cz,kinobox.cz###stickyWrap
 karaoketexty.cz##.ad_large_square
@@ -50,6 +50,8 @@ cnews.cz,euro.cz##a[target="_blank"][rel="noopener noreferrer"]
 cnews.cz,euro.cz##[data-ad-client][data-ad-slot]
 cnews.cz,euro.cz##.img_ad, div[id$="-sticky"], [class*="-replaced-content"]
 cnews.cz,euro.cz##div[id^="ad-"], div[id$="-upper"], ins[id$="_expand"]
+cnews.cz,euro.cz##.widget[class*="skycscraper"]
+cnews.cz,euro.cz##[class*="-bannerA"]
 
 novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
@@ -121,7 +123,7 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,idnes.cz,inf
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,kupi.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,sport.cz,super.cz,tiscali.cz,zeny.cz,zive.cz###ads-leader, #ads-leader-board
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,kupi.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,sport.cz,super.cz,tiscali.cz,zeny.cz,zive.cz##.foto-iframe-ads
 
-/r:AdConstructor:contents^$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
+/r:AdMonstructor:contents^$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 ||d49-a.sdn.cz^$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 ||userscontent.com^$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 /FLIGHTID=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
