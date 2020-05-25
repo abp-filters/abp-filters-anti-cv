@@ -43,7 +43,7 @@ nasepenize.cz##div[class$="-rightcJ"]
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded; abort-on-property-read Goog_Osd_UnloadAdBlock; abort-on-property-write Goog_Osd_UnloadAdBlock
 euro.cz,cnews.cz##div[data-google-av-naid], .GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
 .cz/*?client=ca-pub-$subdocument,domain=euro.cz|cnews.cz
-cnews.cz,euro.cz###mobile_branding_ad_container, #google_image_div, [id^="google_"][id$="_div"]
+cnews.cz,euro.cz###mobile_branding_ad_container, #google_image_div, [id^="google_"][id$="_div"], [data-google-av-rs]
 cnews.cz,euro.cz##iframe[data-google-query-id], iframe[id][name][srcdoc=""]
 cnews.cz,euro.cz##iframe[id][sandbox*="allow-popups"]
 cnews.cz,euro.cz##iframe[id][data-load-complete]:not([src])
@@ -53,7 +53,7 @@ cnews.cz,euro.cz##[data-ad-client][data-ad-slot]
 cnews.cz,euro.cz##.img_ad, div[id$="-sticky"], [class*="-replaced-content"]
 cnews.cz,euro.cz##div[id^="ad-"], div[id$="-upper"], ins[id$="_expand"]
 cnews.cz,euro.cz##.widget[class*="skycscraper"]
-cnews.cz,euro.cz##[class*="-bannerA"]
+cnews.cz,euro.cz##[class*="-bannerA"], #bannerB
 
 novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
