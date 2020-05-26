@@ -1,11 +1,11 @@
 ! #CV-660
 
-! #9274
+! #CV-741
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
 ||sobusygirls.fr^$csp=script-src 'self' * 'unsafe-eval'
 pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 
-! #16030
+! #CV-170
 lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterval
 ||1ic92yd.mdbgbcskjj.com^$script
 ||greenlawnmantador.com^$third-party
@@ -69,12 +69,12 @@ streaminfr.com#$#abort-on-property-read pushADs
 ! #CV-368
 extreme-down.ninja,voiranime.com#$#abort-on-property-read NativeAd
 
-! #10530
+! #CV-667
 jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
 streaming-vostfr.com#$#abort-current-inline-script document.dispatchEvent String.fromCharCode
 libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com#$#abort-current-inline-script Math zfgloaded
 
-! #20940
+! #CV-685
 streaming-vostfr.com#$#abort-on-property-read decodeURIComponent
 
 ! MISC
