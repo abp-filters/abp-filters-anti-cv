@@ -5,12 +5,13 @@ iprima.cz##.sas_center, .px-ad, .sas_mone, .mas_fenter, .mone_box, .ifr-passback
 /section=adblock_desktop^$domain=iprima.cz
 iprima.cz#?#div:-abp-has(>.mone_header)
 
+blesk.cz###apKcl5eCceKcl5eCfdKcl5eCaf, #alKicezleKcl5eCon, #elKicezlaKcl5eCno, #uftKkBCfeKicezle
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz###bodyWrapper[style*='background-color: rgb'][style*='background-image: url("/']
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[id$="-prapper"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a:not([target="_blank"])[style*="block;margin:0 auto;"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="xetVi5"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="uftVi5"]
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##.polyfill-sticky, .hollyfill-quicky, .mollyfill-slicky, #leaderBox, .leaderboard, .dollyhill-klicky, .veryhill-klicky, .quicky-content, .sturdyhill-klicky, .oldymill-blicky, .quicky-prapper, .somewhat-quicky-content, .moreorless-quicky-content, .stillquite-quicky-content, .still-quicky-content, .stilo-triky-content, .stilo-hwiky-content
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##.polyfill-sticky, .hollyfill-quicky, .mollyfill-slicky, #leaderBox, .leaderboard, .dollyhill-klicky, .veryhill-klicky, .quicky-content, .sturdyhill-klicky, .oldymill-blicky, .quicky-prapper, .somewhat-quicky-content, .moreorless-quicky-content, .stillquite-quicky-content, .still-quicky-content, .stilo-triky-content, .stilo-hwiky-content, .stylu-hwiky-content
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz,tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##[id^="sas_"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz,tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="reklama"][target="_top"], a[href*="sklik"][target="_top"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class^="stickyContentBottom_"]
@@ -156,6 +157,7 @@ iprima.cz##[class="sas-sidebar-container"]
 expres.cz,idnes.cz##[data-io-video-title*="Ad Number"]
 expres.cz,idnes.cz##a[href*="area=preroll"][href*="site=adblock_"]
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##video[preload="auto"][loop]
 
 ! #9056
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
