@@ -1,7 +1,7 @@
 ! #CV-660
 
 ! #CV-705
-www.wp.pl#$#abort-on-property-read SlotRegistrar; abort-current-inline-script PRELOAD randvar
+www.wp.pl#$#abort-on-property-read SlotRegistrar; abort-current-inline-script PRELOAD randvar; abort-on-property-read Object.prototype.bodies
 dobreprogramy.pl#$#abort-on-property-read wp_adv_labels
 abczdrowie.pl#$#abort-on-property-read slot.parentElement
 autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#abort-on-property-read __wpApi
