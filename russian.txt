@@ -92,6 +92,7 @@ erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 ! Popups & Popunders
 zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
 xxxtor.com#$#abort-current-inline-script document.querySelectorAll popMagic
+hdkinoteatr.com#$#abort-on-property-read cuec
 
 ! #20468
 
