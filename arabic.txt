@@ -13,9 +13,8 @@ egybest2.com,egybest4.com#$#abort-on-property-read adcashMacros; abort-on-proper
 arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-property-read atob; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent
 hawak.tv,rotana.video,almstba.tv#$#abort-on-property-read atob
 
-! #10530
-mvs4u.co,hawak.tv,rotana.video#$#abort-on-property-read decodeURIComponent
-movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,cima4u.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
+! #CV-667
+jaewinter.co,movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,cima4u.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
 
 ! Popup/Popunder
-almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
+mvs4u.co,hawak.tv,rotana.video,almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
