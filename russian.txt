@@ -73,7 +73,6 @@ sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 facenews.ua#$#abort-on-property-read XMLHttpRequest
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
-spcs.me,spac1.me#$#abort-on-property-read SpacesClickunder
 naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement octob; abort-current-inline-script String.fromCharCode directadvert
 vestivrn.ru#$#abort-on-property-read video.preroll
