@@ -3,9 +3,9 @@ de.reuters.com,uk.reuters.com,www.reuters.com##div > img[alt='ay'][src*="s3.reut
 de.reuters.com,uk.reuters.com,www.reuters.com##div> img[src*="s3.reutersmedia.net/resources/r/"]:not([alt])
 de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slick-loading"]> img[src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div>img[alt="."]:only-child
-de.reuters.com,uk.reuters.com,www.reuters.com##div[id]:not([class]) img[src^="https://s3.reutersmedia.net/resources/r/?"]:not([alt*=" "])
-||reutersmedia.net/resources/r/?*&fh=&fw=&ll=&pl=&sq=&rbm=$image,domain=www.reuters.com|de.reuters.com|uk.reuters.com
-||reutersmedia.net/resources/r/?*=LYYNXMP$image,domain=www.reuters.com|de.reuters.com|uk.reuters.com
+de.reuters.com,uk.reuters.com,www.reuters.com##div[id]:not([class]) img[src^="https://s3.reutersmedia.net/resources/r/?"][alt="x y"]
+||reutersmedia.net/resources/r/?*&fh=&fw=&ll=&pl=&sq=&rtm=$image,domain=www.reuters.com|de.reuters.com|uk.reuters.com
+||reutersmedia.net/resources/r/?*=LYNNXMP*=LYIXPP$image,domain=www.reuters.com|de.reuters.com|uk.reuters.com
 
 ! #CV-717
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
