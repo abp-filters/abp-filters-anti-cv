@@ -69,7 +69,7 @@ novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
-novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground, [data-e2e-zoneid], .ads, .Rggheysn, .combi__ad
+novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy="ad-content"], .burRman, #main_body_top[data-impressionurl], #adCommercialBackground, [data-e2e-zoneid], .ads, .Rggheysn, .combi__ad, .dynamic_Rggheysn
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container, iframe[data-cy-loaded]
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz
