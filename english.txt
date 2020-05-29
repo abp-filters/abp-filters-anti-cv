@@ -73,7 +73,6 @@ kiss-anime.ws,animeland.us#$#hide-if-contains-image-hash c6c915d59f60153e,878e2c
 ! #CV-659
 filmxy.one##.promo-contents
 y2mate.com#$#abort-on-property-read dispatchEvent
-2gomovies.to#$#abort-on-property-write _0x287f
 
 ! #15096
 facebook.com#?#.ego_section:-abp-has(a:-abp-contains(/贊助|赞助内容|Sponsorlu|Sponsored|Gesponsert|Publicidad|Patrocinado|Sponsorisé|Sponsorizzato|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|ממומן|Bersponsor|Ditaja|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে/))
@@ -308,3 +307,7 @@ thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write a
 
 ! #CV-667
 dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movierulz.tv,vidbm.com,vidshare.tv,kshows.to,dramacool.movie,dramacool.video,movies123.xyz,prostream.to,vidlox.me#$#abort-current-inline-script Math zfgloaded
+
+! #CV-754
+2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4
+topwwnews.com#$#abort-on-property-read localStorage
