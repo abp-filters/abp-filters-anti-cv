@@ -1,7 +1,7 @@
 ! #CV-655
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read rubiconTarget; abort-on-property-read _sc_cached_scripts; abort-on-property-read lopatkovymlejn_cmp; abort-on-property-read _SAS.ad2Ad; abort-on-property-read __cmp; abort-on-property-read Adform; abort-on-property-read refreshAds; abort-on-property-read adformtag; abort-on-property-read AdTrack; abort-on-property-read C7.createBranding; abort-on-property-read reCelerAds; abort-on-property-read adfjsonbanners; abort-on-property-read reMrkevAds; abort-on-property-read reMrkevAdsWeb; abort-on-property-read C7; abort-on-property-read CONTROL7; abort-on-property-read CQNTROL7; abort-on-property-read catTree; abort-on-property-write catTree; abort-on-property-read jeblinajebliva; abort-on-property-read COLABORATOR7; abort-on-property-read CQLABQRATOR7; abort-on-property-read CQLAbQRATOR7; abort-on-property-write $sf
 iprima.cz#$#abort-on-property-read loadSeznamMones; abort-on-property-write loadSeznamMones; abort-on-property-write SeznamSSP
-iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-d-area="leaderboardpremium-1"], [data-d-area="boardbottom-1"], [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid
+iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-d-area="leaderboardpremium-1"], [data-d-area="boardbottom-1"], [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, .masEsaYs_ceQnterY_clue
 /section=adblock_desktop^$domain=iprima.cz
 iprima.cz#?#div:-abp-has(>.mone_header)
 
@@ -74,6 +74,7 @@ novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy="ad-content"], .burRman, #main_bo
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container, iframe[data-cy-loaded]
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz
+novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 
 idnes.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone; abort-on-property-write sasQuicklingDone; abort-on-property-write $sf; abort-on-property-write e3_n1; abort-on-property-read e3_test_data_js; abort-on-property-write e3_n2
 
@@ -116,7 +117,7 @@ expres.cz,idnes.cz,emimino.cz##a[href*="&tcid="]
 expres.cz###cr-hcdolepageB
 expres.cz,idnes.cz,emimino.cz##table[id][class][style="margin: auto;"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
-idnes.cz##[id^="jedno656nerozec_"], #BrhoFlepaTgeT, #BbErandCingLpepik, [id^="OOrclaYnekI"], #BwaCllpaEperI
+idnes.cz##[id^="jedno656nerozec_"], #BrhoFlepaTgeT, #BbErandCingLpepik, [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwideIsquaXreK
 expres.cz###VroXbotaHdW, #BbArandTingFpepik, [class*="s_VwidEesquVareB"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
