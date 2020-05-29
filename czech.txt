@@ -29,7 +29,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
-blesk.cz##[class^="pickyLentBot_"]
+blesk.cz##[class^="pickyLentBot_"], #hrdfXormBAHdforUmH1531yloc8uk, #olaKU7cezleKbXkclkon
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client; abort-on-property-read BbQuingle; abort-on-property-read BbWhipplQe; abort-on-property-read BbWhiqqlpe; abort-on-property-read BbWhiqqlqe
 kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN; abort-on-property-read sklikProvider
@@ -116,7 +116,8 @@ expres.cz,idnes.cz,emimino.cz##a[href*="&tcid="]
 expres.cz###cr-hcdolepageB
 expres.cz,idnes.cz,emimino.cz##table[id][class][style="margin: auto;"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
-idnes.cz##[id^="jedno656nerozec_"], #BrhoFlepaTgeT, #BbErandCingLpepik
+idnes.cz##[id^="jedno656nerozec_"], #BrhoFlepaTgeT, #BbErandCingLpepik, [id^="OOrclaYnekI"], #BwaCllpaEperI
+expres.cz###VroXbotaHdW, #BbArandTingFpepik, [class*="s_VwidEesquVareB"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
