@@ -240,7 +240,7 @@ jawcloud.co,kimcartoon.to,europixhd.net,europixhd.com,gledajonline.net,hdeuropix
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
 upload4earn.org,uploadbyte.com#$#abort-on-property-read localStorage
-strip2.xxx#$#abort-on-property-read SpacesClickunder
+spac1.com,spac1.me,spac1.net,spcs.me,strip2.xxx#$#abort-on-property-write SpacesClickunder
 mrpornx.com#$#abort-current-inline-script eval String.fromCharCode
 gounlimited.to#$#abort-on-property-read atob
 0xxx.ws#$#abort-current-inline-script decodeURI decodeURIComponent
