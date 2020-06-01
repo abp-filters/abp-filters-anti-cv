@@ -164,6 +164,8 @@ www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], [id="sticky
 sport.cz##div#page > .combi, #adSklikUnderArticle
 iprima.cz##[class="sas-sidebar-container"]
 
+auto.cz###uftKclufeKU7ctle
+
 ! Video ads
 &ADFAssetID=$media,domain=expres.cz|idnes.cz
 expres.cz,idnes.cz##[data-io-video-title*="Ad Number"]
