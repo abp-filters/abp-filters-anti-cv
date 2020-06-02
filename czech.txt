@@ -111,7 +111,7 @@ idnes.cz###widesquare_clankovy
 idnes.cz##a[href*="_BANNERS_"]
 expres.cz,idnes.cz##.combi__ad
 expres.cz##.r-main.ahead
-idnes.cz###GHCr-cHeBlanekA, #CJerobBfdBEotadA
+idnes.cz###NbrPandiEngOpepik, #BBrhomIepagBeQ, #FrcSlaneMkI
 expres.cz,idnes.cz,emimino.cz##table[class*=" ahead "]
 expres.cz,idnes.cz,emimino.cz##[data-advert-sticky], #sticky-banner
 expres.cz,idnes.cz,emimino.cz##.r-box
