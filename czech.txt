@@ -247,6 +247,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 maminka.cz##div[class*="bx-sky "]
 dama.cz##div[class^="sky-wrap"]
 maminka.cz,blesk.cz,reflex.cz,e15.cz##a[class*="-combined"]
+autorevue.cz,blesk.cz##div[style="margin-top: 12px; position: relative;"]
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
