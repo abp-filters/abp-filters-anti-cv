@@ -28,16 +28,15 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class^="ad "]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[data-tid][data-role][target="_blank"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="body"][id$="Wrapper"][style*="background-color: rgb"]
-ahaonline.cz###vetKAlzcorK5onock-1, #anaK5onocklaKchnnzbXkno, #aoeK5onockleKchnnzbXkon
-mobilmania.cz###aoeK5inzU7leKcolnC3c7on, #uptKMmCUkfeK5inzU7le, #anaK5inzU7laKcolnC3c7no
-autorevue.cz###uptKAezcfeK5ouockle, #anaK5ouocklaKcuruzbXkno, #aoeK5ouockleKcuruzbXkon
-info.cz###vetKIzcorK5o3X-1
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="vet"][id$="-1"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="ana"][id$="no"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="upt"][id$="le"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="aoe"][id$="on"]
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
 blesk.cz##[class^="pickyPentRot_"], #apKbXkclkceKbXkclkfdKbXkclkaf, #xetKcllzorKU7cez-1, #uftKcllzfeKU7cezle, #uptKBCUkfeK5sockle
 zive.cz###olaKU7cvleKbXkciCon, #apKbXkciCceKbXkciCfdKbXkciCaf, #xetKcliorKU7cv-1, #uftKclifeKU7cvle, #apKciC3c7ceKciC3c7fdKciC3c7af, #aoeK5e3XleKciC3c7on, #vetKZzcorK5e3X-1, #uptKZzcfeK5e3Xle
-reflex.cz###uftKcleCfeKU7cfCle, #uptKRxb7feK5lzU7le, #vetKRxb7orK5lzU7-1
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client; abort-on-property-read BbQuingle; abort-on-property-read BbWhipplQe; abort-on-property-read BbWhiqqlpe; abort-on-property-read BbWhiqqlqe
 kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN; abort-on-property-read sklikProvider
