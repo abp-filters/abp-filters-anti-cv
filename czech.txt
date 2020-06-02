@@ -50,8 +50,9 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##.sticky[sticky
 karaoketexty.cz##[class$="_rightcolumn"], #sky_right_col
 osobnosti.cz##.hide-screenbot
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##div[class$="-rightcJ"]
-tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##.SC_TBlock, .pe-link, .wrap-advert
-tiscali.cz###PsOtickDyBanVnerN
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.SC_TBlock, .pe-link, .wrap-advert, .quaquaquakva
+tiscali.cz###PsOtickDyBanVnerN, #BstiDckyBPanneUrX, .KbtKitleXrighGtW
+nasepenize.cz###BstMickyUBannAerK
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded; abort-on-property-read Goog_Osd_UnloadAdBlock; abort-on-property-write Goog_Osd_UnloadAdBlock
 euro.cz,cnews.cz##div[data-google-av-naid], .GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
