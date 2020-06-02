@@ -122,6 +122,7 @@ idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
 idnes.cz##[id^="nerozec656jedno_"], #BrhDomepRageQ, #BbErandCingLpepik, [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwideIsquaXreK
 expres.cz###VroXbotaHdW, #BbArandTingFpepik, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
+expres.cz###BbYrandXingNpepik, #FrThomeYpageH, #YrclTanekX
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
