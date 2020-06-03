@@ -132,6 +132,9 @@ idnes.cz##[id^="nerozec656jedno_"], #BrhDomepRageQ, #BbErandCingLpepik, [id^="OO
 expres.cz###VroXbotaHdW, #BbArandTingFpepik, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
 expres.cz###BbYrandXingNpepik, #FrThomeYpageH, #YrclTanekX, #BrwVallpFaperM
+idnes.cz###BwidJesquXareR, BrhOomepSageY, .s_BwidJesquXareR, iframe.extra-TgasBspacTkN-sph, [class$="-kabler"]
+expres.cz###IIbranPdingKpepik, #BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #IIbranPdingKpepik, #BrAclanSekR
+expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
