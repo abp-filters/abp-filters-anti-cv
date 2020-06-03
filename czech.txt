@@ -128,13 +128,18 @@ expres.cz,idnes.cz,emimino.cz##a[href*="&tcid="]
 expres.cz###cr-hcdolepageB
 expres.cz,idnes.cz,emimino.cz##table[id][class][style="margin: auto;"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
-idnes.cz##[id^="nerozec656jedno_"], #BrhDomepRageQ, #BbErandCingLpepik, [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwideIsquaXreK, #JroNbotaCdA, #FrcSlaneMkIws, .extra-PgaWsspaPckA-sph, #BwaTllpaTperC, #NbrPandiEngOpepik, #BBrhomIepagBeQ, #FrcSlaneMkI
-expres.cz###VroXbotaHdW, #BbArandTingFpepik, [class*="s_VwidEesquVareB"]
+idnes.cz##[id^="medorozec656jedno_"], [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwideIsquaXreK, #JroNbotaCdA, #FrcSlaneMkIws, #BwaTllpaTperC, #BBrhomIepagBeQ, #FrcSlaneMkI
+expres.cz###VroXbotaHdW, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
-expres.cz###BbYrandXingNpepik, #FrThomeYpageH, #YrclTanekX, #BrwVallpFaperM
-idnes.cz###BwidJesquXareR, BrhOomepSageY, .s_BwidJesquXareR, iframe.extra-TgasBspacTkN-sph, [class$="-kabler"]
-expres.cz###IIbranPdingKpepik, #BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #IIbranPdingKpepik, #BrAclanSekR
+expres.cz###YrclTanekX, #BroPbotaZdY
+idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-kabler"]
+idnes.cz###BrEobotUadF, #WwidMesquMareF_pakovy
+expres.cz###BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
+expres.cz,idnes.cz,emimino.cz##iframe[class^="extra-"][class$="-sph"]
+expres.cz,idnes.cz,emimino.cz##div[id$="pepik"]
+expres.cz,idnes.cz,emimino.cz##div[id*="all"][id*="aper"]
+expres.cz,idnes.cz,emimino.cz##div[id*="ome"][id*="age"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
