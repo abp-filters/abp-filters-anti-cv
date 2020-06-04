@@ -1,5 +1,5 @@
 ! #CV-660
-de.reuters.com,uk.reuters.com,www.reuters.com##div > img[alt='yy'][src*="s3.reutersmedia.net/resources/r/"]
+de.reuters.com,uk.reuters.com,www.reuters.com##div[class="photo-thumb"] > img:not([border="0"])[alt][src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div> img[src*="s3.reutersmedia.net/resources/r/"]:not([alt])
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class^="slide"]):not([class="photo-thumb"])> img[alt][src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div>img[alt="."]:only-child
