@@ -36,6 +36,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="ana"][id$="no"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="upt"][id$="le"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="aoe"][id$="on"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[style*="float: left;"][style*="overflow: hidden;"]
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz#?#div:-abp-has(>small:-abp-contains(Reklamy))
@@ -48,7 +49,8 @@ zive.cz###olaKU7cvleKbXkciCon, #apKbXkciCceKbXkciCfdKbXkciCaf, #xetKcliorKU7cv-1
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz#$#abort-on-property-read BbSingleton; abort-on-property-read ibbCmpConsent; abort-on-property-read bmone2n; abort-on-property-read bbLibnautLib; abort-on-property-write BBCookie; abort-on-property-write bbBanner; abort-on-property-read BbSingle; abort-on-property-write google_ad_client; abort-on-property-read BbQuingle; abort-on-property-read BbWhipplQe; abort-on-property-read BbWhiqqlpe; abort-on-property-read BbWhiqqlqe
 kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN; abort-on-property-read sklikProvider
 osobnosti.cz#$#abort-on-property-read sc_adv_out
-tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##[id$=".1.1.9"]
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.9"]
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.1"]
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"], a.tracked-event[href*="tiscali.cz"][target^="_"]:not([target="_blank"])
@@ -63,10 +65,17 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##.sticky[sticky
 karaoketexty.cz##[class$="_rightcolumn"], #sky_right_col
 osobnosti.cz##.hide-screenbot
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##div[class$="-rightcJ"]
-tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.SC_TBlock, .pe-link, .wrap-advert, .quaquaquakva
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.SC_TBlock
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.pe-link
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.wrap-advert
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.quaquaquakva
 tiscali.cz###PsOtickDyBanVnerN, #BstiDckyBPanneUrX, .KbtKitleXrighGtW
 nasepenize.cz###BstMickyUBannAerK
 tiscali.cz##.bs-hp
+fights.cz###desktop-square-top
+fights.cz##.banner-add
+fights.cz###desktop-leader-top
+nasepenize.cz###side-offer-wrap
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded; abort-on-property-read Goog_Osd_UnloadAdBlock; abort-on-property-write Goog_Osd_UnloadAdBlock
 euro.cz,cnews.cz##div[data-google-av-naid], .GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
