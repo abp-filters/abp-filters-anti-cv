@@ -35,6 +35,8 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="ana"][id$="no"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="upt"][id$="le"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="aoe"][id$="on"]
+reflex.cz###gl-nat
+e15.cz##.mys-wrapper
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
@@ -62,6 +64,7 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##div[class$="-r
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.SC_TBlock, .pe-link, .wrap-advert, .quaquaquakva
 tiscali.cz###PsOtickDyBanVnerN, #BstiDckyBPanneUrX, .KbtKitleXrighGtW
 nasepenize.cz###BstMickyUBannAerK
+tiscali.cz##.bs-hp
 
 cnews.cz,euro.cz#$#abort-on-property-read AdTrack; abort-on-property-read processGoogleToken; abort-on-property-read MfGoogleAdManager; abort-on-property-read MfSeznamAds; abort-on-property-write mfAds; abort-on-property-read Ads; abort-on-property-read mfGoogleAdManager; abort-on-property-read mfAdSense; abort-on-property-write mfSeznamAdvert; abort-on-property-read __google_ad_urls; abort-on-property-read google_ad_modifications; abort-on-property-read google_osd_loaded; abort-on-property-read Goog_Osd_UnloadAdBlock; abort-on-property-write Goog_Osd_UnloadAdBlock
 euro.cz,cnews.cz##div[data-google-av-naid], .GoogleActiveViewElement, #ad-inarticle-upper, #google_center_div, div[data-google-av-aid], div[data-google-av-adk], iframe[data-google-container-id], .GoogleActiveViewInnerContainer, #ads, #ad-sticky-banner, #ad-skyscraper-lower
