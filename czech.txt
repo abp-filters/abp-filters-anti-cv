@@ -45,6 +45,7 @@ e15.cz##.mys-wrapper
 blesk.cz#?#div:-abp-has(>small:-abp-contains(Reklamy))
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
 dama.cz##[class*="ads-"]
+blesk.cz##[style^="dlewid:"]
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
@@ -219,8 +220,6 @@ auto.cz##.halfpageAd, [class*="wrapperH-prapper"], [class*="billboard-bottom"], 
 www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], [id="stickyBottomRightAbsolute"], [class="lol__out"], img[width='970'][height="310"], a[style*="blewid: 970px; height: 310px"], div[id*="-hor"]
 sport.cz##div#page > .combi, #adSklikUnderArticle
 iprima.cz##[class="sas-sidebar-container"]
-
-auto.cz###uftKclufeKU7ctle
 
 ! Video ads
 &ADFAssetID=$media,domain=expres.cz|idnes.cz
