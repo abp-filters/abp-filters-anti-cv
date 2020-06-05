@@ -47,7 +47,6 @@ e15.cz##.mys-wrapper
 blesk.cz#?#div:-abp-has(>small:-abp-contains(Reklamy))
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
 dama.cz##[class*="ads-"]
-blesk.cz##[style^="dlewid:"]
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
