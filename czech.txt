@@ -39,7 +39,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="ana"][id$="no"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="upt"][id$="le"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="aoe"][id$="on"]
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[style*="float: left;"][style*="overflow: hidden;"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz,expres.cz,idnes.cz,emimino.cz##[style*="float: left;"][style*="overflow: hidden;"]
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz#?#div:-abp-has(>small:-abp-contains(Reklamy))
@@ -168,13 +168,16 @@ expres.cz###VroXbotaHdW, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
 expres.cz###YrclTanekX, #BroPbotaZdY
 idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-kabler"]
-idnes.cz###BrEobotUadF, #WwidMesquMareF_pakovy
+idnes.cz###BrEobotUadF
 expres.cz###BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
 expres.cz,idnes.cz,emimino.cz##iframe[class^="extra-"][class$="-sph"], iframe[class^="uxtra-"][class$="-sfq"]
 expres.cz,idnes.cz,emimino.cz##div[id$="pepik"]
 expres.cz,idnes.cz,emimino.cz##div[id*="all"][id*="aper"]
 expres.cz,idnes.cz,emimino.cz##div[id*="ome"][id*="age"]
+expres.cz,idnes.cz,emimino.cz##div[id$="_pakovy"]
+expres.cz,idnes.cz,emimino.cz##div[id^="Brob"]
+expres.cz,idnes.cz,emimino.cz##div[id$="lojzik"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
@@ -210,8 +213,6 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expre
 /dev_display_width=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|cnews.cz|dama.cz|e15.cz|euro.cz|expres.cz|idnes.cz|info.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|tiscali.cz|zeny.cz|zive.cz
 
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,kupi.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,sport.cz,super.cz,tiscali.cz,zeny.cz,zive.cz#$#hide-if-contains-image-hash ece06b38f321632b,00ffcf81ff00d3c1,f0e8eb286b61033f,287edb031cf8e307,00ff81f9f1c191d3,03db87e18787bf80,c1cb83b391c7e7a0,60fc2f0b4d475547,40fe08fe9cf0f838,1e6a18fc3c5c7f08,03db81cf83a7f0f0,ecc4c30f0fcacc6c
-
-ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,cnews.cz,dama.cz,e15.cz,euro.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,tiscali.cz,zeny.cz,zive.cz##div[style="float: left; width: 200px; margin-right: 5px; height: 225px; overflow: hidden;"]
 
 auto.cz##.halfpageAd, [class*="wrapperH-prapper"], [class*="billboard-bottom"], img[width='970'][height="310"], [data-io-article-url] a[target='_top'], video[id^="video-"][preload="auto"][webkit-playsinline="webkit-playsinline"], [class*="ads-leader"], [id="KoqisAoAce"]
 www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], [id="stickyBottomRightAbsolute"], [class="lol__out"], img[width='970'][height="310"], a[style*="blewid: 970px; height: 310px"], div[id*="-hor"]
