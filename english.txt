@@ -28,7 +28,6 @@ humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob Te
 tube8.com##.gridBanner_
 tube8.com##.footerBanner
 youporn.com##[data-track="ad-iframe-top"]
-xhamster.com#$#abort-on-property-write wit-popunder
 xhamster.com##.wit-sponsor-banner
 xhamster.com##.xplayer-banner-bottom
 spankwire.com#$#abort-on-property-write ppAb
@@ -290,7 +289,8 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 ! Popup/Popunder
 txxx.com,hclips.com,pornhat.com,dood.watch,vidstreaming.io,mstream.fun,xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
 xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
-xhamster.com#$#abort-on-property-read wig-popunder
+xhamster.com#$#abort-on-property-read wig-popunder; abort-on-property-write wit-popunder
+xhamster.one#$#abort-on-property-read wih-popunder; abort-on-property-write dataPopUnder
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
