@@ -4,7 +4,7 @@ de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slide_ photo-thumb"] >
 de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class^="slide"]):not([class="photo-thumb"])> img[alt][src*="s3.reutersmedia.net/resources/r/"]
 de.reuters.com,uk.reuters.com,www.reuters.com##div>img[alt="."]:only-child
 de.reuters.com,uk.reuters.com,www.reuters.com##div[id]:not([class]) img[src^="https://s3.reutersmedia.net/resources/r/?"][alt="x y"]
-de.reuters.com,uk.reuters.com,www.reuters.com##div:not([class="photo-thumb"]):not([class="slide-image-enclosure "])> img[alt][src*="s3.reutersmedia.net/resources/r/"]
+de.reuters.com,uk.reuters.com,www.reuters.com##div[class="slide-image-enclosure "] > img[alt][src*="s3.reutersmedia.net/resources/r/"]:not([style*="opacity"]):not([class="slick-loading"])
 ||reutersmedia.net/resources/r/?*&fh=&fw=&ll=&pl=&sq=&rtm=$image,domain=www.reuters.com|de.reuters.com|uk.reuters.com
 ||reutersmedia.net/resources/r/?*=LYNNXMP*=LYIXPP$image,domain=www.reuters.com|de.reuters.com|uk.reuters.com
 
