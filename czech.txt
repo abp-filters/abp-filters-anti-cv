@@ -184,6 +184,8 @@ expres.cz,idnes.cz,emimino.cz##div[id*="ome"][id*="age"]
 expres.cz,idnes.cz,emimino.cz##div[id$="_pakovy"]
 expres.cz,idnes.cz,emimino.cz##div[id^="Brob"]
 expres.cz,idnes.cz,emimino.cz##div[id$="lojzik"]
+idnes.cz##iframe[class^="uraaaa-"]
+expres.cz,idnes.cz,emimino.cz##a[href*="papky="]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
