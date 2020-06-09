@@ -7,7 +7,7 @@ iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz##.px-type-banner
 iprima.cz##[class$="_cule"]
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id$="Prapper"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id$="Plapper"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="px-"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>p:-abp-contains(REKLAMA))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklamy))
@@ -189,6 +189,7 @@ expres.cz,idnes.cz,emimino.cz##div[id^="Brob"]
 expres.cz,idnes.cz,emimino.cz##div[id$="lojzik"]
 idnes.cz##iframe[class^="uraaaa-"]
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="]
+idnes.cz###BrhRolepVageO, #HrclXanekL
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
