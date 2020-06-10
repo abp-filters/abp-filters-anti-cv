@@ -190,6 +190,7 @@ expres.cz,idnes.cz,emimino.cz##div[id$="lojzik"]
 idnes.cz##iframe[class^="uraaaa-"]
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="]
 idnes.cz###BrhRolepVageO, #HrclXanekL, #BrKholeLpageN
+idnes.cz##img[title$=".cz"]:not([title*="idnes.cz"])
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
