@@ -178,7 +178,7 @@ expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
 expres.cz###YrclTanekX, #BroPbotaZdY, #BroSbotaCdI
 idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-bahler"]
 idnes.cz###BrEobotUadF
-expres.cz###BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR
+expres.cz###BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR, #BBrholNepagYeQ
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
 expres.cz,idnes.cz,emimino.cz##iframe[class^="extra-"][class$="-sph"], iframe[class^="uxtra-"][class$="-sfq"]
 expres.cz,idnes.cz,emimino.cz##div[id$="pepik"]
