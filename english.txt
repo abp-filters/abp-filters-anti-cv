@@ -231,7 +231,6 @@ onlystream.tv,txxx.com#$#abort-on-property-read BetterJsPop
 onvid.website,thevidhd.xyz,thevidhd.online,thehdvid.website,vidhd.site,vidhd.space,thehdvid.xyz,vidhd.host,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read atob; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
 gaobook.review,mavplayer.xyz,svpri.xyz,vaplayer.xyz,xstreamcdn.com,flashx.pw,flashx.tv,embed.media,fembed.com,vidplayer.cz#$#abort-on-property-read AaDetector
 9xupload.me,mysembed.net,mystream.to#$#abort-on-property-read eval
-pandamovies.pw,adultvideoz.net,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
 novom.ru#$#abort-on-property-read zoneNativeSett
 govid.me,9xupload.me#$#abort-on-property-read atop
 file-up.org,zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
@@ -295,7 +294,7 @@ xhamster.one#$#abort-on-property-read wih-popunder; abort-on-property-write data
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
-extramovies.casa,hdvid.online,pstream.net,dlapk4all.com#$#abort-on-property-read decodeURIComponent
+abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,adultvideoz.net,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
 $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
 /favicon.ico$popup,domain=vidshare.tv
@@ -309,7 +308,7 @@ ebay.de#$#hide-if-contains-visible-text ANZEIGE 'li.s-item' 'li.s-item span[role
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
 
 ! #CV-667
-dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movierulz.tv,vidbm.com,vidshare.tv,kshows.to,dramacool.movie,dramacool.video,movies123.xyz,prostream.to,vidlox.me#$#abort-current-inline-script Math zfgloaded
+abcvideo.cc,dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movierulz.tv,vidbm.com,vidshare.tv,kshows.to,dramacool.movie,dramacool.video,movies123.xyz,prostream.to,vidlox.me#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-754
 2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4
