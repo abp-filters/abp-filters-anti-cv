@@ -175,8 +175,8 @@ idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
 idnes.cz##[id^="medorozec656jedno_"], [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwideIsquaXreK, #JroNbotaCdA, #FrcSlaneMkIws, #BwaTllpaTperC, #BBrhomIepagBeQ, #FrcSlaneMkI
 expres.cz###VroXbotaHdW, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
-expres.cz###YrclTanekX, #BroPbotaZdY
-idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-kabler"]
+expres.cz###YrclTanekX, #BroPbotaZdY, #BroSbotaCdI
+idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-bahler"]
 idnes.cz###BrEobotUadF
 expres.cz###BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
@@ -189,7 +189,7 @@ expres.cz,idnes.cz,emimino.cz##div[id^="Brob"]
 expres.cz,idnes.cz,emimino.cz##div[id$="lojzik"]
 idnes.cz##iframe[class^="uraaaa-"]
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="]
-idnes.cz###BrhRolepVageO, #HrclXanekL
+idnes.cz###BrhRolepVageO, #HrclXanekL, #BrKholeLpageN
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
