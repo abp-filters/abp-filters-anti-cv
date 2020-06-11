@@ -163,6 +163,7 @@ idnes.cz###space-g-add
 idnes.cz###r-homepage
 idnes.cz###widesquare_clankovy
 idnes.cz##a[href*="_BANNERS_"]
+idnes.cz##div[class="fixi-m11"], .s_XwPidesBquarPeZ, #YbraLndinGgVlojzyk, #OrOholeZpageN
 expres.cz,idnes.cz##.combi__ad
 expres.cz##.r-main.ahead
 expres.cz,idnes.cz,emimino.cz##table[class*=" ahead "]
