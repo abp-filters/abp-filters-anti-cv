@@ -1,5 +1,3 @@
-! #17095
-walla.co.il#$#abort-on-property-read jorLoad20a
-
-! #9274
+! #CV-741
 yad2.co.il#$#abort-current-inline-script TextDecoder
+walla.co.il#$#abort-on-property-read jorLoad20a

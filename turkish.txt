@@ -1,6 +1,4 @@
-! #CV-660
-
-! #9276
+! #CV-717
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
 
 ! #CV-662

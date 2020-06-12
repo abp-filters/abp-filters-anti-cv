@@ -1,9 +1,9 @@
 ! #CV-660
 
-! #9274
+! #CV-741
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
 
-! #10644
+! #CV-692
 anitube.cz,anitubebr.com#$#abort-on-property-write _pop
 
 ! MISC
@@ -11,5 +11,5 @@ anitube.cz,anitubebr.com#$#abort-on-property-write _pop
 kastream.biz#$#abort-on-property-write open
 filmesonlinegratis.com#$#abort-on-property-read atob
 
-! #10530
+! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded

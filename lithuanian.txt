@@ -1,4 +1,4 @@
-! #20543
+! #CV-766
 delfi.lt#@#.banner
 delfi.lt#$#abort-on-property-read __dabd
 ||adform.net/banners/scripts/adx.js$domain=delfi.lt,rewrite=abp-resource:blank-js
