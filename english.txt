@@ -310,3 +310,6 @@ abcvideo.cc,dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net
 ! #CV-754
 2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4
 topwwnews.com#$#abort-on-property-read localStorage
+
+! #CV-697
+thetrendspotter.net,theavtimes.com#$#abort-on-property-read advads_passive_ads
