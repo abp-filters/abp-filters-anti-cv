@@ -162,6 +162,7 @@ justjared.com,pockettactics.com#$#abort-on-property-read PerformanceLongTaskTimi
 ||grlnpmbc.goar.justjared.com^$domain=justjared.com
 ||audiofanzine.com/sorrier^$script
 audiofanzine.com##ul[class^="audiofanzineProductBanner"]
+audiofanzine.com##li[class$="-products"], li[class$="-offer"] , div[class$="-img"], div[class$="-label"]
 
 ! #CV-662
 ||1h6jqyt.jba.tribunnews.com^$script,xmlhttprequest,domain=tribunnews.com
