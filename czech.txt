@@ -192,6 +192,8 @@ idnes.cz##iframe[class^="uraaaa-"]
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="]
 idnes.cz###BrhRolepVageO, #HrclXanekL, #BrhoXlepaAgeR, #BBrclaInekU, #FFrwalNpapeHrI
 idnes.cz##img[title$=".cz"]:not([title*="idnes.cz"])
+idnes.cz###BrhKolepAageG, #BrcFlaneVkK, #RRbranDdingIlojzyk
+expres.cz###BroKbotaNdY, #BrhoGlepaPgeZ, #UUrwalIpapeErM, .s_BBwallQpapeJrW, #ErWclanUekP
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
