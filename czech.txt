@@ -178,11 +178,10 @@ idnes.cz##[id^="medorozec656jedno_"], [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwi
 expres.cz###VroXbotaHdW, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
 expres.cz###YrclTanekX, #BroPbotaZdY, #BroSbotaCdI
-idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-bahler"]
-idnes.cz###BrEobotUadF
-expres.cz###BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR, #BBrholNepagYeQ
+idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-bahler"], [class$="-wahler"]
+expres.cz###KKroboOtadU, #BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR, #BBrholNepagYeQ
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
-expres.cz,idnes.cz,emimino.cz##iframe[class^="extra-"][class$="-sph"], iframe[class^="uxtra-"][class$="-sfq"]
+expres.cz,idnes.cz,emimino.cz##iframe[class^="extra-"][class$="-sph"], iframe[class^="uxtra-"][class$="-sfq"], iframe[class^="ur-"][class$="-sfdc"]
 expres.cz,idnes.cz,emimino.cz##div[id$="pepik"]
 expres.cz,idnes.cz,emimino.cz##div[id*="all"][id*="aper"]
 expres.cz,idnes.cz,emimino.cz##div[id*="ome"][id*="age"]
@@ -191,7 +190,7 @@ expres.cz,idnes.cz,emimino.cz##div[id^="Brob"]
 expres.cz,idnes.cz,emimino.cz##div[id$="lojzik"]
 idnes.cz##iframe[class^="uraaaa-"]
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="]
-idnes.cz###BrhRolepVageO, #HrclXanekL, #BrKholeLpageN
+idnes.cz###BrhRolepVageO, #HrclXanekL, #BrhoXlepaAgeR, #BBrclaInekU, #FFrwalNpapeHrI
 idnes.cz##img[title$=".cz"]:not([title*="idnes.cz"])
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
