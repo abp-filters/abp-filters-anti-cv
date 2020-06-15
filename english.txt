@@ -200,7 +200,8 @@ audiofanzine.com##li[class$="-products"], li[class$="-offer"] , div[class$="-img
 ||15d9agq.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||w3q0pz.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||1squiq2.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||c7khac.g02.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||c7khac.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||yi14vh.$script,xmlhttprequest,domain=ign.com|ignboards.com
 gfycat.com#$#abort-current-inline-script Math
 foreverconscious.com,blwideas.com,ultimateninjablazingx.com,utahsweetsavings.com,usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
 katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script document.head.appendChild
