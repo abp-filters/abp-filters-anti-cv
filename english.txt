@@ -128,6 +128,7 @@ www.quora.com##.q-box.qu-borderAll>.q-box>div>div[class^="Box-sc-"]>div:not([cla
 www.quora.com##.spacing_log_question_page_ad
 www.quora.com##.q-box.qu-borderTop>[class^="Box-sc-"]>div:not([class])
 www.quora.com##div > [class^="Box-"] > div > .q-box.qu-pb--tiny.qu-pt--medium.qu-px--medium
+www.quora.com##.qu-bg--white>[class^="Box-"] .qu-pt--medium
 
 ! #CV-669
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
