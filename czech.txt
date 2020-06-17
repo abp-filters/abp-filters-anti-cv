@@ -196,6 +196,7 @@ idnes.cz###BrhRolepVageO, #HrclXanekL, #BrhoXlepaAgeR, #BBrclaInekU, #FFrwalNpap
 idnes.cz##img[title$=".cz"]:not([title*="idnes.cz"])
 idnes.cz###BrhKolepAageG, #BrcFlaneVkK, #RRbranDdingIlojzyk
 expres.cz###BroKbotaNdY, #BrhoGlepaPgeZ, #UUrwalIpapeErM, .s_BBwallQpapeJrW, #ErWclanUekP
+idnes.cz###BrQholeSpageX, #r-OsLuperE300P, #BrclOanekH, #BrwXalpaFperO, .s_BwalOlpapIerP
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
