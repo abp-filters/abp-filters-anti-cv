@@ -15,7 +15,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#?#div:-abp-has(>small:-abp-contains(Reklamy))
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##div[style*="position: relative; transform: translate("][style*="background: url("]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="hrdfXorm"]
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class^="pirkyPentRot_"], [class^="pirkyScentRot_"]
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class^="pirkyPentRot_"], [class^="pirkyScentRot_"], [class^="pirkyFlentRot_"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="body"][id$="Wrapper"]:not([id="bodyWrapper"])
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id*="C3c7e"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*=";adfibeg="]
@@ -54,6 +54,7 @@ e15.cz##.mys-wrapper
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
 dama.cz##[class*="ads-"]
 mobilmania.cz##.bx-rectangle-article
+blesk.cz###rofnakALAkoflnak, eKezavypixaKlklaomn, xKezavymixeKlklaomnna, [style*="calc(50% + 0px); top: 0px;"]
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
@@ -180,7 +181,7 @@ idnes.cz##[id^="medorozec656jedno_"], [id^="OOrclaYnekI"], #BwaCllpaEperI, #BBwi
 expres.cz###VroXbotaHdW, [class*="s_VwidEesquVareB"]
 expres.cz,idnes.cz,emimino.cz##[id^="r-ws480"]
 expres.cz###YrclTanekX, #BroPbotaZdY, #BroSbotaCdI
-idnes.cz###BwidJesquXareR, .s_BwidJesquXareR, [class$="-bahler"], [class$="-wahler"]
+idnes.cz###IrBobotPadZ, #BrcQlaneNkO, [class$="-bahler"], [class$="-wahler"], [class$="-fahler"]
 expres.cz###KKroboOtadU, #BwiBdesqTuareO, .s_BwiBdesqTuareO, #UrTobotNadJ, #BrAclanSekR, #BBrholNepagYeQ
 expres.cz,idnes.cz,emimino.cz##a[href*="papky="], a[href*="/area=branding"]
 expres.cz,idnes.cz,emimino.cz##iframe[class^="extra-"][class$="-sph"], iframe[class^="uxtra-"][class$="-sfq"], iframe[class^="ur-"][class$="-sfdc"]
