@@ -5,7 +5,7 @@ iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_s
 /section=adblock_desktop^$domain=iprima.cz
 iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz##.px-type-banner
-iprima.cz##[class$="_sule"]
+iprima.cz##[class$="_vule"]
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[style*="background: url"]:not([style*=".cz"])
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz###rofnakALAkoflnak
@@ -204,7 +204,10 @@ idnes.cz##img[title$=".cz"]:not([title*="idnes.cz"])
 idnes.cz###BrhKolepAageG, #BrcFlaneVkK, #RRbranDdingIlojzyk
 expres.cz###BroKbotaNdY, #BrhoGlepaPgeZ, #UUrwalIpapeErM, .s_BBwallQpapeJrW, #ErWclanUekP
 idnes.cz###BrQholeSpageX, #r-OsLuperE300P, #BrclOanekH, #BrwXalpaFperO, .s_BwalOlpapIerP
-idnes.cz###DDrclaMnekS, #QQroboQtadO
+idnes.cz###JrcBlaneUkK, #BrVholeKpageZ, .s_BBwidePsquaJreQ
+expres.cz###BrhMolepRageG, #BrclCanekP, #BrwPalpaZperY
+expres.cz,idnes.cz,emimino.cz##[style*="background-position: center top; background-color: #FAEEF0; background-repeat: no-repeat;"]
+expres.cz,idnes.cz,emimino.cz##.m65
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
