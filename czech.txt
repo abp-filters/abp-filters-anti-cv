@@ -128,6 +128,9 @@ kupi.cz##[data-sssp]
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
+sport.cz##.combi_text__ad
+novinky.cz,kupi.cz,sport.cz,super.cz##[id^="tetrahedron"], .tetrahedron
+novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-fw-loaded], [data-e3e-advert]
 
 idnes.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone; abort-on-property-write sasQuicklingDone; abort-on-property-write $sf; abort-on-property-write e3_n1; abort-on-property-read e3_test_data_js; abort-on-property-write e3_n2
 idnes.cz#$#abort-on-property-read NNAdsAEdsAdGsAdsK.BoccGidenMdumT; abort-on-property-write NNAdsAEdsAdGsAdsK.BoccGidenMdumT
@@ -197,6 +200,8 @@ idnes.cz###JrcBlaneUkK, #BrVholeKpageZ, .s_BBwidePsquaJreQ
 expres.cz###BrhMolepRageG, #BrclCanekP, #BrwPalpaZperY
 expres.cz,idnes.cz,emimino.cz##[style*="background-position: center top; background-color: #FAEEF0; background-repeat: no-repeat;"]
 expres.cz,idnes.cz,emimino.cz##.m65
+idnes.cz###NbrUandiGngQlojzyk, #BrhoOlepaQgeN, #BrwaIlpapJerL, #HrcZlaneXkI, [id^="prasorozec656jedno_"], .s_BBwallLpapeVrQ
+expres.cz###SrhMolepXageI, #CrcBlaneKkY, #PPrwalUpapeLrK, .s_BwaJllpaLperW
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
