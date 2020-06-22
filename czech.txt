@@ -61,8 +61,7 @@ dama.cz##[class*="ads-"]
 mobilmania.cz##.bx-rectangle-article
 blesk.cz###eKezavypixaKlklaomn, #xKezavymixeKlklaomnna, [style*="calc(50% + 0px); top: 0px;"]
 reflex.cz###eKfCpolpixaKeezpkyy, #vxwaKCayciK5okm-4
-zeny.cz##[data-track-ad]
-
+zeny.cz,auto.cz##[data-track-ad]
 
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
