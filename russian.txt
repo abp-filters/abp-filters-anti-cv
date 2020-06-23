@@ -29,6 +29,9 @@ gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.renderDirect
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
+yandex.uz,yandex.kz,yandex.by,yandex.kg,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua##[class^="sticky"][class*="__container"].sticky_visible.sticky_js_inited
+yandex.uz,yandex.kz,yandex.by,yandex.kg,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua##.rubric-stories.rubric-stories_js_inited > div[id^="uniq"][class$="_js_inited"]
+
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
