@@ -65,8 +65,13 @@ mobilmania.cz##.bx-rectangle-article
 blesk.cz###eKezavypixaKlklaomn, #xKezavymixeKlklaomnna, [style*="calc(50% + 0px); top: 0px;"]
 reflex.cz###eKfCpolpixaKeezpkyy, #vxwaKCayciK5okm-4
 zeny.cz,auto.cz##[data-track-ad]
-
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
+auto.cz##.halfpageAd, [class*="wrapperH-prapper"], [class*="billboard-bottom"], img[width='970'][height="310"], [data-io-article-url] a[target='_top'], video[id^="video-"][preload="auto"][webkit-playsinline="webkit-playsinline"], [class*="ads-leader"], [id="KoqisAoAce"]
+www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], [id="stickyBottomRightAbsolute"], [class="lol__out"], img[width='970'][height="310"], a[style*="blewid: 970px; height: 310px"], div[id*="-hor"]
+sport.cz##div#page > .combi, #adSklikUnderArticle
+iprima.cz##[class="sas-sidebar-container"]
+autorevue.cz##.bx-sky, .bx-rectangle-article 
+
 idnes.cz##img[title$=".cz"][src^="https://www.idnes.cz/"]
 blesk.cz###uKsooybixeKezavyla, #vKsooycixeKezavy-3, #xetKcllzorKU7cez-1, #kolikratDva, #rofnakACAklofnak
 zive.cz###olaKU7cvleKbXkciCon, #apKbXkciCceKbXkciCfdKbXkciCaf, #xetKcliorKU7cv-1, #uftKclifeKU7cvle, #apKciC3c7ceKciC3c7fdKciC3c7af, #aoeK5e3XleKciC3c7on, #vetKZzcorK5e3X-1, #uptKZzcfeK5e3Xle
@@ -247,14 +252,6 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,idnes.cz,inf
 /pos=$script,image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|iprima.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ;adfxid=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|tiscali.cz|zeny.cz|zive.cz
 /dev_display_width=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|tiscali.cz|zeny.cz|zive.cz
-
-ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,kupi.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,sport.cz,super.cz,tiscali.cz,zeny.cz,zive.cz#$#hide-if-contains-image-hash ece06b38f321632b,00ffcf81ff00d3c1,f0e8eb286b61033f,287edb031cf8e307,00ff81f9f1c191d3,03db87e18787bf80,c1cb83b391c7e7a0,60fc2f0b4d475547,40fe08fe9cf0f838,1e6a18fc3c5c7f08,03db81cf83a7f0f0,ecc4c30f0fcacc6c
-
-auto.cz##.halfpageAd, [class*="wrapperH-prapper"], [class*="billboard-bottom"], img[width='970'][height="310"], [data-io-article-url] a[target='_top'], video[id^="video-"][preload="auto"][webkit-playsinline="webkit-playsinline"], [class*="ads-leader"], [id="KoqisAoAce"]
-www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], [id="stickyBottomRightAbsolute"], [class="lol__out"], img[width='970'][height="310"], a[style*="blewid: 970px; height: 310px"], div[id*="-hor"]
-sport.cz##div#page > .combi, #adSklikUnderArticle
-iprima.cz##[class="sas-sidebar-container"]
-autorevue.cz##.bx-sky, .bx-rectangle-article 
 
 ! Video ads
 &ADFAssetID=$media,domain=expres.cz|idnes.cz
