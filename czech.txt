@@ -208,17 +208,16 @@ idnes.cz###BrQholeSpageX, #r-OsLuperE300P, #BrclOanekH, #BrwXalpaFperO, .s_BwalO
 idnes.cz###JrcBlaneUkK, #BrVholeKpageZ, .s_BBwidePsquaJreQ
 expres.cz###BrhMolepRageG, #BrclCanekP, #BrwPalpaZperY
 expres.cz,idnes.cz,emimino.cz##[style*="background-position: center top; background-color: #FAEEF0; background-repeat: no-repeat;"]
-expres.cz,idnes.cz,emimino.cz##.m65
 idnes.cz###CrAwalpSaperL, #QQrclaAnekEws, #LbrBandiMngGlojzyk, [id^="prasorozec656jedno_"], .s_BBwallLpapeVrQ
 expres.cz###VVrwalHpapeIrG, #CrcBlaneKkY, #PPrwalUpapeLrK, .s_BwaJllpaLperW
 expres.cz,idnes.cz,emimino.cz##[id^="r-hpa"]
 idnes.cz##[id^="OrGobotAadD"]
 expres.cz##[id^="BroRbotaTdU"]
-idnes.cz###QbVrandEingValojzyk, [id^="WrobXotadV"], #BwaCllpaLperY
 idnes.cz,expres.cz##body > div[style*="background-color: #FAEDEF0; background-repeat: no-repeat;"]
-expres.cz###YYbranBdingQalojzyk
 &userLimits=&pesid=&breaktime=$script,domain=idnes.cz|expres.cz
-idnes.cz###BbQrandNingPalojzyk, [id^="WrobOotadD"], .dar-BgaLsspaEckQ-smkqs
+idnes.cz###HHroboAtadG, [id^="WrobOotadD"], [id^="HHroboAtadG_"], .dar-BgaLsspaEckQ-smkqs
+expres.cz,idnes.cz,emimino.cz##[id$="alojzyk"], [class$="_mlakovy"]
+expres.cz###BbQrandQingDalojzyk
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
