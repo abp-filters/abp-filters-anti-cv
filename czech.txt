@@ -7,7 +7,7 @@ iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz##.px-type-banner
 iprima.cz##[class$="_vulea"], [id^="px-id-"]
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, #roflakARAkolinak
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##bra-nding, #poflakAPAkolinak
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class$="-pranahadr"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##body>div[style*="background: url"], #rofnakALAkofilnak
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##canvas#canvas
@@ -212,7 +212,7 @@ idnes.cz###QbVrandEingValojzyk, [id^="WrobXotadV"], #BwaCllpaLperY
 idnes.cz,expres.cz##body > div[style*="background-color: #FAEDEF0; background-repeat: no-repeat;"]
 expres.cz###YYbranBdingQalojzyk
 &userLimits=&pesid=&breaktime=$script,domain=idnes.cz|expres.cz
-idnes.cz###BbraBndinIgBalojzyk, #VVroboZtadS, .dar-BgaLsspaEckQ-smkqs
+idnes.cz###BbQrandNingPalojzyk, [id^="WrobOotadD"], .dar-BgaLsspaEckQ-smkqs
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
