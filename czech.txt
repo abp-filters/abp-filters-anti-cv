@@ -7,6 +7,7 @@ iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz##.px-type-banner
 iprima.cz##[class$="_value"], [id^="px-id-"]
 iprima.cz##[class$="_fcid"], [data-mashiatus]
+iprima.cz##div[data-d-area]
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, bradi-ng, #pofakAPAkolofnak
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class$="-pranahadr"]
