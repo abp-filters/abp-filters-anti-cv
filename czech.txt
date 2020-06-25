@@ -221,6 +221,8 @@ expres.cz,idnes.cz,emimino.cz##[id$="alojzyk"], [class$="_mlakovy"]
 expres.cz###BbQrandQingDalojzyk
 expres.cz,idnes.cz,emimino.cz#?#div:-abp-has(>span:-abp-contains(reklama))
 expres.cz,idnes.cz,emimino.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
+idnes.cz###BwaRllpaRperY, [id$="_DspQodniK"], [id^="bramborozec656jedno_"], #HrBobotEadF
+expres.cz##body>[style*="background:"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
