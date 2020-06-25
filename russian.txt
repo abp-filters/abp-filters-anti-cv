@@ -17,7 +17,7 @@ avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
 razlozhi.ru#$#abort-on-property-write hasAdvert
 24smi.org#$#abort-on-property-read String.fromCharCode
-liveinternet.ru#$#abort-on-property-read atob
+liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.Direct
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
@@ -39,8 +39,6 @@ woman.rambler.ru##[class*="article__plista"][style*="flex-direction"]
 rambler.ru##.g-sticky-banner > .banner--container
 rambler.ru##.j-sticky-banner[class*="article__right-sticky"]>:first-child, .j-sticky-banner[class*="article__right-sticky"]>:nth-child(2)
 rambler.ru##[style^="flex-direction: row;"]
-rambler.ru##div>[style="float: none; height: auto; left: auto; margin: 0px; right: auto; width: auto;"]
-rambler.ru##div[style="float: none; left: auto; margin: 0px; right: auto; width: 300px;"]
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
