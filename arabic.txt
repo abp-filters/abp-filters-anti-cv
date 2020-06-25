@@ -14,7 +14,7 @@ arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-propert
 hawak.tv,rotana.video,almstba.tv#$#abort-on-property-read atob
 
 ! #CV-667
-brstej.com,jaewinter.co,movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,cima4u.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
+actionz.tv,brstej.com,jaewinter.co,movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,cima4u.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
 
 ! Popup/Popunder
-mvs4u.co,hawak.tv,rotana.video,almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
+actionz.tv,mvs4u.co,hawak.tv,rotana.video,almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
