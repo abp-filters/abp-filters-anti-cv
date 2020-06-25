@@ -39,6 +39,8 @@ woman.rambler.ru##[class*="article__plista"][style*="flex-direction"]
 rambler.ru##.g-sticky-banner > .banner--container
 rambler.ru##.j-sticky-banner[class*="article__right-sticky"]>:first-child, .j-sticky-banner[class*="article__right-sticky"]>:nth-child(2)
 rambler.ru##[style^="flex-direction: row;"]
+rambler.ru##div>[style="float: none; height: auto; left: auto; margin: 0px; right: auto; width: auto;"]
+rambler.ru##div[style="float: none; left: auto; margin: 0px; right: auto; width: 300px;"]
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
