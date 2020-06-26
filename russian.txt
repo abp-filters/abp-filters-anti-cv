@@ -31,6 +31,8 @@ auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
 yandex.uz,yandex.kz,yandex.by,yandex.kg,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua##[class^="sticky"][class*="__container"].sticky_visible.sticky_js_inited
 yandex.uz,yandex.kz,yandex.by,yandex.kg,yandex.md,yandex.az,yandex.fr,yandex.ru,yandex.ua##.rubric-stories.rubric-stories_js_inited > div[id^="uniq"][class$="_js_inited"]
+yandex.uz,yandex.kz,yandex.by,yandex.fr,yandex.ru,yandex.ua##div[class$="-wrap"] div[class*="_js_inited"]:not([aria-label])
+yandex.uz,yandex.kz,yandex.by,yandex.fr,yandex.ru,yandex.ua##div[id^="uniq"][class$="_js_inited"]
 kinopoisk.ru##[class*="_theme_default"].media-article__adfox > div[class$="__container"]
 kinopoisk.ru##div[class$="no_padds"]> div:not([class="inviteFriends"]):not([class="subscribe"]):not([class="social-teasers"]):not([class="randomMovie"])
 woman.rambler.ru##.g-sticky-banner.g-woman > .banner--container
