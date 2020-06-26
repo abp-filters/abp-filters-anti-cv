@@ -8,6 +8,7 @@ iprima.cz##.px-type-banner
 iprima.cz##[class$="_value"], [id^="px-id-"]
 iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
+iprima.cz##[data-masparabus]
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, bradi-ng, bradi-ng, brad-ing, #ofakAPAkolofnak, .c038xc09f3moh
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class$="-pranahadr"]
@@ -146,6 +147,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[data-e4e-advert], .basafoxy
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e5e-advert], [data-e5e-zoneid], [data-bflm-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e6e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e7f-loaded]
+novinky.cz,kupi.cz,sport.cz,super.cz##.oktagram_image
 
 idnes.cz,expres.cz#$#abort-on-property-write sasBiddingDone; abort-on-property-write sasBidding; abort-on-property-write sasBiding; abort-on-property-write sasBidingDone; abort-on-property-write sasBiling; abort-on-property-write sasBilingDone; abort-on-property-write sasQuillingDone; abort-on-property-write sasKiplingDone; abort-on-property-write sasSiblingDone; abort-on-property-write sasQuicklingDone; abort-on-property-write $sf; abort-on-property-write e3_n1; abort-on-property-read e3_test_data_js; abort-on-property-write e3_n2
 
@@ -229,6 +231,7 @@ expres.cz##body>[style*="background:"]
 idnes.cz##[id$="_vidlakovy"], [id^="hrochec365blivno_"], #alojzBBbranCdingWyk
 expres.cz,idnes.cz,emimino.cz##a[href*="tapky"]
 idnes.cz##[class$="-mududlikeke"], [id$="_rubrika"]
+idnes.cz###rmegovka-sph
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
