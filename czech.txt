@@ -227,6 +227,7 @@ idnes.cz###BwaRllpaRperY, [id$="_DspQodniK"], [id^="bramborozec656jedno_"], #HrB
 expres.cz##body>[style*="background:"]
 idnes.cz##[id$="_vidlakovy"], [id^="hrochec365blivno_"], #alojzBBbranCdingWyk
 expres.cz,idnes.cz,emimino.cz##a[href*="tapky"]
+idnes.cz##[class$="-mududlikeke"], [id$="_rubrika"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
