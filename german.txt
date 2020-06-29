@@ -26,3 +26,4 @@ pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 ||1df6a41.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ||hmwltp.vqysgzi.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ||1rjpi15.akvxu.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
+||1ytyc67.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
