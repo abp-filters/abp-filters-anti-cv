@@ -155,9 +155,10 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[data-e8f-zoneid]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e8f-advert]
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e8e-loaded]
 
-expres.cz#$#abort-on-property-write OkoJlobeYzkaU; abort-on-property-read OkoJlobeYzkaU
-idnes.cz#$#abort-on-property-write CkoRlobeQzkaE; abort-on-property-read CkoRlobeQzkaE
+expres.cz#$#abort-on-property-write QkolMobezFkaR; abort-on-property-read QkolMobezFkaR
+idnes.cz#$#abort-on-property-write BkolEobezUkaF; abort-on-property-read BkolEobezUkaF
 
+idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
 idnes.cz,expres.cz##[id*="allpaper"]
 idnes.cz,expres.cz##[id$="Ake13"]
