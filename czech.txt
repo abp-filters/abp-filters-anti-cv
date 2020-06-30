@@ -8,9 +8,10 @@ iprima.cz##.px-type-banner
 iprima.cz##[class$="_value"], [id^="px-id-"]
 iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
-iprima.cz##[data-masparabus], [class$="_vuvuzela"]
+iprima.cz##[data-masparabus], [class$="_bubuzela"]
+iprima.cz##[class*="sas"]
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, bradi-ng, bradi-ng, brad-ing, bradin-g, brand-ing, bran-ding, #HkofaLETISEMCVedf, .c03n83u17k0gq
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, bradi-ng, bradi-ng, brad-ing, bradin-g, brand-ing, bran-ding, brandi-ng, #HkofaLETIJINAMCVedf
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class$="-pranahadr"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##body>[style*="background-color: rgb"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##canvas#canvas
@@ -149,8 +150,8 @@ novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e6e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e7f-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.oktagram_image
 
-expres.cz#$#abort-on-property-write CkAolobUezkaL; abort-on-property-read CkAolobUezkaL
-idnes.cz#$#abort-on-property-write NkolQobezVkaT; abort-on-property-read NkolQobezVkaT
+expres.cz#$#abort-on-property-write OkoJlobeYzkaU; abort-on-property-read OkoJlobeYzkaU
+idnes.cz#$#abort-on-property-write CkoRlobeQzkaE; abort-on-property-read CkoRlobeQzkaE
 
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
 idnes.cz,expres.cz##[id*="allpaper"]
