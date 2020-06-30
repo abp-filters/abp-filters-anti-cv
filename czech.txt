@@ -290,6 +290,8 @@ onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
 centrum.cz#$#abort-on-property-read _sashec.filterPositions
+horoskopy.cz#$#abort-on-property-read sssp
+
 
 ! #CV-659
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
