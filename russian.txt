@@ -29,17 +29,6 @@ gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.renderDirect
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
-kinopoisk.ru##[class*="_theme_default"].media-article__adfox > div[class$="__container"]
-kinopoisk.ru##div[class$="__sidebar-content"]>[class*="_theme_default"]
-woman.rambler.ru##.g-sticky-banner.g-woman > .banner--container
-woman.rambler.ru##.j-sticky-banner[class*="article__right-sticky"]>div:first-child
-woman.rambler.ru##[class*="article__plista"][style*="flex-direction"]
-rambler.ru##.g-sticky-banner > .banner--container
-rambler.ru##.j-sticky-banner[class*="article__right-sticky"]>:first-child, .j-sticky-banner[class*="article__right-sticky"]>:nth-child(2)
-rambler.ru##[style^="flex-direction: row;"]
-rambler.ru##[style="float: none; height: auto; left: auto; margin: 0px; right: auto; width: auto;"]
-rambler.ru##[style="float: none; left: auto; margin: 0px; right: auto; width: 300px;"]
-
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
