@@ -133,6 +133,7 @@ www.quora.com##.q-box.qu-borderTop>[class^="Box-"] .q-box.qu-pt--medium.qu-pb--t
 www.quora.com##.q-box.qu-borderAll>.q-box>div:not([class="q-box"])>[class^="Box-"]
 www.quora.com##.q-box.qu-borderAll.qu-bg--white>.q-box>div>[class="q-box "]>[class="q-box"]
 www.quora.com##[class="q-box qu-borderTop"]>[class="q-box "]
+www.quora.com##[class="q-box qu-bg--white"]>[class="q-box "]>[class="q-box"]
 
 ! #CV-669
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
