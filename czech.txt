@@ -11,7 +11,7 @@ iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, bradi-ng, bradi-ng, brad-ing, bradin-g, brand-ing, bran-ding, brandi-ng, brandi-ing, brand-ding, #HkofaLETIJINAMCVedf
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##br-anding, bradi-ng, bradi-ng, brad-ing, bradin-g, brand-ing, bran-ding, brandi-ng, brandi-ing, brand-ding, bran-nding, #JtaXhaciAkaceZrA
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class$="-pranahadr"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##body>[style*="background-color: rgb"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##canvas#canvas
@@ -267,6 +267,8 @@ ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,idnes.cz,inf
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,kupi.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,sport.cz,super.cz,tiscali.cz,zeny.cz,zive.cz###ads-leader, #ads-leader-board
 ahaonline.cz,auto.cz,autorevue.cz,blesk.cz,dama.cz,e15.cz,expres.cz,idnes.cz,info.cz,karaoketexty.cz,kinobox.cz,kupi.cz,maminka.cz,mobilmania.cz,mojezdravi.cz,nasepenize.cz,novinky.cz,onetv.cz,osobnosti.cz,reflex.cz,sport.cz,super.cz,tiscali.cz,zeny.cz,zive.cz##.foto-iframe-ads
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz,idnes.cz,emimino.cz#?#div:-abp-has(>small:-abp-contains(Reklama))
+
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#debug; abort-on-property-read uniEtarget; abort-on-property-write uniEtarget
 
 /r:AdMonstructor:contents^$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
 ||d49-a.sdn.cz^$image,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|sport.cz|super.cz|tiscali.cz|zeny.cz|zive.cz
