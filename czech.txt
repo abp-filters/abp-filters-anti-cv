@@ -279,12 +279,13 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 ;adfxid=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|tiscali.cz|zeny.cz|zive.cz
 /dev_display_width=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|idnes.cz|info.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|tiscali.cz|zeny.cz|zive.cz
 
-! Video ads
-&ADFAssetID=$media,domain=expres.cz|idnes.cz
+! CV-780
+&ADFAssetID=$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
+||videos-fms.jwpsrv.com/*/content/conversions/*.mp4|$media,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
+/vast.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 expres.cz,idnes.cz##[data-io-video-title*="Ad Number"]
 expres.cz,idnes.cz##a[href*="area=preroll"][href*="site=adblock_"]
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##video[preload="auto"][loop]
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
@@ -305,7 +306,6 @@ centrum.cz#$#abort-on-property-read _sashec.filterPositions
 ! #CV-659
 .cz/*.webp|$image,domain=auto.cz|blesk.cz|mojezdravi.cz|dama.cz|autorevue.cz|tiscali.cz|maminka.cz
 ||domnovrek.com^$third-party
-/vast.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /partnerJsApi/v3?previousZHashes=&hash=*&clbk=sklik$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &uid=ssp-$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 .cz/*/js/a.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
