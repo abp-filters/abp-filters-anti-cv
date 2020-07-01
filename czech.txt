@@ -154,6 +154,9 @@ novinky.cz,kupi.cz,sport.cz,super.cz##.oktapoid, [id^="oktapoid"]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e8f-zoneid]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e8f-advert]
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e8e-loaded]
+novinky.cz,kupi.cz,sport.cz,super.cz##a[title="R_eklama"]
+novinky.cz,kupi.cz,sport.cz,super.cz##[data-e9g-zoneid]
+novinky.cz,kupi.cz,sport.cz,super.cz##[data-e9g-zoneid]
 
 expres.cz#$#abort-on-property-write BkoDlobeWzkaQ; abort-on-property-read BkoDlobeWzkaQ
 idnes.cz#$#abort-on-property-write ZZkoloZbezkEaY; abort-on-property-read ZZkoloZbezkEaY
