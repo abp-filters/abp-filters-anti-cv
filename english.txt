@@ -319,6 +319,3 @@ topwwnews.com#$#abort-on-property-read localStorage
 
 ! #CV-697
 thetrendspotter.net,theavtimes.com#$#abort-on-property-read advads_passive_ads
-
-! #CV-782
-youtube.com#$#json-prune 'playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds'
