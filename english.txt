@@ -124,6 +124,8 @@ www.quora.com##.q-box.qu-borderAll>.q-box>div:not([class="q-box"])>[class^="Box-
 www.quora.com##.q-box.qu-borderAll.qu-bg--white>.q-box>div>[class="q-box "]>[class="q-box"]
 www.quora.com##[class="q-box qu-borderTop"]>[class="q-box "]
 www.quora.com##[class="q-box qu-bg--white"]>[class="q-box "]>[class="q-box"]
+www.quora.com##.q-box.qu-bg--white > span[data-nosnippet="true"] > .q-box
+www.quora.com##.qu-mb--small.qu-bg--white > .q-box > div > span[data-nosnippet="true"] > .q-box
 
 ! #CV-669
 adageindia.in#?#div:-abp-has(> h2:-abp-contains(From the WEB))
