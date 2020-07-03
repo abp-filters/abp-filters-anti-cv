@@ -157,6 +157,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e8e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="R_eklama"]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e9g-zoneid], [data-e9g-advert]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e10h-advert], .HexagrAmmo-id, iframe[data-e9e-loaded]
+novinky.cz,kupi.cz,sport.cz,super.cz##.PentazkvgaHexFix, .rtbsnip-placeholder, iframe[data-e10e-loaded]
 
 expres.cz#$#abort-on-property-write BkoDlobeWzkaQ; abort-on-property-read BkoDlobeWzkaQ
 idnes.cz#$#abort-on-property-write ZZkoloZbezkEaY; abort-on-property-read ZZkoloZbezkEaY
