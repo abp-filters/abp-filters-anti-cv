@@ -82,7 +82,7 @@ city.ogo.ua#$#abort-on-property-read myatu_bgm
 fast-fiml.ru,fast-film.org,fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru#$#abort-current-inline-script document.createElement initb
 anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
-fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
+housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 
 ! Popups & Popunders
 zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
