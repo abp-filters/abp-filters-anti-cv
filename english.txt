@@ -260,6 +260,7 @@ igg-games.com#$#abort-on-property-write btoa
 searchenginereports.net#$#abort-on-property-read adsbygoogle
 amyscans.com##div[class*="code-block"]
 megagames.com#$#abort-on-property-write $jscomp
+dailyuploads.net#$#abort-on-property-read btoa
 
 ! #CV-667
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.me,ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,tv-onlinehd.com,revivelink.com#$#abort-on-property-read atob
@@ -311,7 +312,7 @@ ebay.de#$#hide-if-contains-visible-text ANZEIGE 'li.s-item' 'li.s-item span[role
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
 
 ! #CV-667
-thevideobee.to,extreme-down.video,vidbem.com,abcvideo.cc,dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movierulz.tv,vidbm.com,vidshare.tv,kshows.to,dramacool.movie,dramacool.video,movies123.xyz,prostream.to,vidlox.me#$#abort-current-inline-script Math zfgloaded
+dailyuploads.net,thevideobee.to,extreme-down.video,vidbem.com,abcvideo.cc,dood.watch,vidstreaming.io,clipwatching.com,vostfrserie.biz,7-up.net,sandup.co,uqload.com,vidfast.co,3movierulz.tv,vidbm.com,vidshare.tv,kshows.to,dramacool.movie,dramacool.video,movies123.xyz,prostream.to,vidlox.me#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-754
 2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4
