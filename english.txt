@@ -247,7 +247,7 @@ bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
 strip2.in,spac1.com,spac1.me,spac1.net,strip2.xxx#$#abort-on-property-write SpacesClickunder
 mrpornx.com#$#abort-current-inline-script eval String.fromCharCode
-gounlimited.to#$#abort-on-property-read atob
+gounlimited.to,clicknupload.co#$#abort-on-property-read atob
 0xxx.ws#$#abort-current-inline-script decodeURI decodeURIComponent
 ianimes.co,ianimes.top#$#abort-on-property-read _0x522e
 upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
@@ -260,7 +260,8 @@ igg-games.com#$#abort-on-property-write btoa
 searchenginereports.net#$#abort-on-property-read adsbygoogle
 amyscans.com##div[class*="code-block"]
 megagames.com#$#abort-on-property-write $jscomp
-dailyuploads.net#$#abort-on-property-read btoa
+dailyuploads.net,clicknupload.co#$#abort-on-property-read btoa
+clicknupload.co#$#abort-on-property-read _qwprvw
 
 ! #CV-667
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.one,extreme-down.pro,extreme-download.me,ffmovies.ru,123movies2019.com,gomovies.film,gomovies.sc,gomovies.pl,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,vidsrc.me,serieslatinoamerica.com,movies123.xyz,bonstreams.net,txcmp3.com,streamcloud.eu,yifyddl.movie,yts.am,keeplinks.co,hdonline.video,convert2mp3.net,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,tv-onlinehd.com,revivelink.com#$#abort-on-property-read atob
