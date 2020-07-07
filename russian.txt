@@ -13,7 +13,6 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 ! #CV-244
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
-razlozhi.ru#$#abort-on-property-write hasAdvert
 24smi.org#$#abort-on-property-read String.fromCharCode
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.Direct
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
@@ -24,7 +23,7 @@ otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockRenderInit
 it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.__confirmBlocks; abort-on-property-read Object.prototype.adfoxCode; abort-on-property-read Object.prototype.adUsageStorageVars; abort-on-property-read Object.prototype.Direct; abort-on-property-read Object.prototype.isAllowedRepeatAds; abort-on-property-read Object.prototype.pcodeWindowData; abort-on-property-read YaHeaderBiddingSettings; abort-on-property-read Object.prototype.getAdUsageStorage; abort-on-property-read Object.prototype.renderTo; abort-on-property-read Object.prototype.isNewLoader; abort-on-property-read Object.prototype.blockId; abort-on-property-read Object.prototype.BlockRenderSteps; abort-on-property-read Object.prototype.loadAd; abort-on-property-read Object.prototype.AdvManagerInit; abort-on-property-read Ya; abort-on-property-read Object.prototype.props.adv; abort-on-property-read Object.prototype.renderBlock; abort-on-property-read Object.prototype.AdvManagerLoaderRender
-www.kinopoisk.ru#$#abort-on-property-read Object.prototype.renderDirect
+razlozhi.ru,www.kinopoisk.ru#$#abort-on-property-read Object.prototype.renderDirect
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
 ! #CV-659
