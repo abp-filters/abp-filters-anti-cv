@@ -14,7 +14,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
 24smi.org#$#abort-on-property-read String.fromCharCode
-liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.adUnitsStorage
+liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.__confirmBlocks
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
