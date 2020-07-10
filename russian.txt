@@ -14,7 +14,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
 24smi.org#$#abort-on-property-read String.fromCharCode
-liveinternet.ru#$#abort-on-property-read atob
+liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.loadDirectScript
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
@@ -22,7 +22,7 @@ echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototy
 otzovik.com#$#abort-on-property-read Object.prototype.detect
 it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
-liveinternet.ru,gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru,razlozhi.ru,www.kinopoisk.ru#$#abort-on-property-read Object.prototype.getAdbBits
+gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru,razlozhi.ru,www.kinopoisk.ru#$#abort-on-property-read Object.prototype.getAdbBits
 auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
 ! #CV-659
