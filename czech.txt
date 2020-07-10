@@ -163,6 +163,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[data-e12j-zoneid], [data-e12j-advert], [d
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e13e-loaded], [class$="Flax"]
 novinky.cz,kupi.cz,sport.cz,super.cz##[id$="-ad-container"], [data-e14e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz###sf0
+novinky.cz,kupi.cz,sport.cz,super.cz##[data-c8105e198-advert]
 
 expres.cz#$#abort-on-property-write BkoDlobeWzkaQ; abort-on-property-read BkoDlobeWzkaQ
 idnes.cz#$#abort-on-property-write ZZkoloZbezkEaY; abort-on-property-read ZZkoloZbezkEaY
