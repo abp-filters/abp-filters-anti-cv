@@ -19,7 +19,7 @@ championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Objec
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
 echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototype.Direct
-otzovik.com#$#abort-on-property-read Object.prototype.__confirmBlocks
+otzovik.com#$#abort-on-property-read Object.prototype.detect
 it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 liveinternet.ru,gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru,razlozhi.ru,www.kinopoisk.ru#$#abort-on-property-read Object.prototype.getAdbBits
