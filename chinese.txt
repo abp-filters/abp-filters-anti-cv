@@ -7,6 +7,7 @@ torrentkitty.tv#$#abort-on-property-read _fupfgk;abort-on-property-read _nyjdy
 178.com,nga.cn#$#abort-on-property-write __LOAD_BBS_ADS_12
 cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
 2345.com#$#abort-current-inline-script setDefaultTheme
+ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! Popups & Popunders
 ohmanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
