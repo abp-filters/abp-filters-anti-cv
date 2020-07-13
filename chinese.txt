@@ -9,4 +9,4 @@ cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
 2345.com#$#abort-current-inline-script setDefaultTheme
 
 ! Popups & Popunders
-onemanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
+ohmanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
