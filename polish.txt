@@ -13,3 +13,8 @@ wp.pl,pudelek.pl,dobreprogramy.pl,abczdrowie.pl,parenting.pl,nerwica.com,autokul
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
+
+! #WEBSITE SPECIFIC
+
+finanse.wp.pl#$#abort-on-property-write window.habahaba
+finanse.wp.pl#$#abort-on-property-read window.prebidConfig
