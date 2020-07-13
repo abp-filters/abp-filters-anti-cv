@@ -300,7 +300,7 @@ xhamster.one#$#abort-on-property-read wih-popunder; abort-on-property-write data
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
 pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
-abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,adultvideoz.net,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
+vidlo.us,abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,adultvideoz.net,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io#$#abort-on-property-read decodeURIComponent
 $popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
 ||35.194.16.41^$popup
 /favicon.ico$popup,domain=vidshare.tv
