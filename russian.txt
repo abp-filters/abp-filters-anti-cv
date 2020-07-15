@@ -82,7 +82,7 @@ anime.anidub.life,online.anidub.com#$#abort-on-property-read brrand
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,megaresheba.com,megaresheba.ru,resheba.me,spishi.fun,zoobrilka.net#$#abort-on-property-write app.book.external
-playground.ru#$#abort-current-inline-script window.addEventListener adNewIframe
+playground.ru#$#abort-current-inline-script window.addEventListener blc
 dfiles.ru#$#abort-on-property-read ads_script
 
 ! Popups & Popunders
