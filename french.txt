@@ -40,7 +40,6 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||1v9d7vx.cob.autojournal.fr^$script
 ||mssjxgfk.gos.autoplus.fr^$script
 ||ovtyvnei.g00.closermag.fr^$script
-ledauphine.com,leprogres.fr,republicain-lorrain.fr#$#abort-current-inline-script document.head.appendChild
 ||artimwapo.com^$script
 ||suqerc.com^$script
 ||rdqgllmny.com^$script
