@@ -86,3 +86,4 @@ french-streams.com#$#abort-on-property-read open
 
 ! Popup/Popunder
 batporno.com#$#abort-on-property-read decodeURI
+jetanimes.co#$#abort-on-property-read atob
