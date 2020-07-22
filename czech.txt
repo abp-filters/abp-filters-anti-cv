@@ -255,6 +255,7 @@ idnes.cz##[id$="_vidlakovy"], [id^="hrochec365blivno_"], #alojzBBbranCdingWyk
 expres.cz,idnes.cz,emimino.cz##a[href*="tapky"]
 idnes.cz##[class$="-mududlikeke"], [id$="_rubrika"]
 idnes.cz###rmegovka-sph
+expres.cz,idnes.cz#?#a:-abp-has(img[src$="ip"])
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
