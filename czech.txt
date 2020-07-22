@@ -304,6 +304,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 /size=preroll^$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &adblock=true^$xmlhttprequest,domain=televizeseznam.cz
 /?bn=*&v=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
+ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 
 ! #CV-764
