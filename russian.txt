@@ -17,14 +17,13 @@ kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCha
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.renderBanner
 championat.com,gazeta.ru,lenta.ru,rambler.ru#$#abort-current-inline-script Object Anti-AdBlock-url-cache
 ||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
-drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
+auto.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Object.prototype.AdblockCookieMatchingType
 echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototype.Direct
 otzovik.com#$#abort-on-property-read Object.prototype.detect
 it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
-gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru,razlozhi.ru#$#abort-on-property-read Object.prototype.showRTB
+gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
-auto.ru#$#abort-on-property-write Object.prototype.AdblockCookieMatchingType
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
