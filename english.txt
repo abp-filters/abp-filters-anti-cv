@@ -296,7 +296,7 @@ kimcartoon.to,ayefiles.com#$#abort-on-property-read NativeAd
 
 ! Popup/Popunder
 streamtape.com,rlslog.net,txxx.com,hclips.com,pornhat.com,dood.watch,vidstreaming.io,mstream.fun,xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,mystream.to,iframe-secure.com,iframe-secure.net,iframe-secured.com,pandamovies.pw,adultvideoz.net,configspc.com#$#abort-on-property-read open
-streamtape.com,youdbox.com,projectfreetv.ag,govid.me,vidshare.tv,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
+javjunkies.com,streamtape.com,youdbox.com,projectfreetv.ag,govid.me,vidshare.tv,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net,fileflares.com,fflares.com#$#abort-on-property-write _pop
 xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
 xhamster.com#$#abort-on-property-read wig-popunder; abort-on-property-write wit-popunder
 xhamster.one#$#abort-on-property-read wih-popunder; abort-on-property-write dataPopUnder
