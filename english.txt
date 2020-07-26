@@ -313,6 +313,7 @@ vidbem.com,upload4earn.org,uploadbyte.com#$#abort-on-property-read localStorage
 doodstream.com,dood.to,dood.watch#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
 ||gadsims.com^$popup
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
+filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
