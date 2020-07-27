@@ -128,7 +128,8 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id*
 fights.cz##body>a[class="tracked-event"][target="_blank"]
 tiscali.cz#$#abort-on-property-read BBibbCUmpCoFnsenWtY; abort-on-property-write llVater
 
-&spps1=$xmlhttprequest,subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+&spspq=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+&spps1=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 horoskopy.cz#$#abort-on-property-read sssp
 novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
