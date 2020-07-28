@@ -1,4 +1,5 @@
-! #CV-660
+! #CV-667
+envivotv.net,lucenpop.com.es,pokefanleoretrogames.com,topflix.tv#$#abort-current-inline-script Math zfgloaded
 
 ! #9272
 mamaslatinas.com##.top-bar-content
@@ -12,7 +13,6 @@ rojadirecta.fr,rojadirectatv.live,planetatvonlinehd.com#$#abort-on-property-read
 ! MISC
 planetatvonlinehd.com#$#abort-on-property-read atob
 pelispedia.co,pelispedia.tv,pelispedia.site,pelispedia.stream#$#abort-on-property-read AaDetector
-topflix.tv#$#abort-current-inline-script Math zfgloaded
 peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 
 ! #CV-368
