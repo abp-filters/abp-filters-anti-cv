@@ -181,9 +181,6 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[data-c8105e198-advert]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="Rekᥣama"]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="/clickthru?"]
 
-expres.cz#$#abort-on-property-write BkoDlobeWzkaQ; abort-on-property-read BkoDlobeWzkaQ
-idnes.cz#$#abort-on-property-write ZZkoloZbezkEaY; abort-on-property-read ZZkoloZbezkEaY
-
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
 idnes.cz,expres.cz##[id*="allpaper"]
@@ -266,6 +263,7 @@ idnes.cz##[class$="-mududlikeke"], [id$="_rubrika"]
 idnes.cz###rmegovka-sph
 expres.cz,idnes.cz#?#a:-abp-has(img[src$="ip"])
 expres.cz,idnes.cz##a[href*="bot="]
+expres.cz,idnes.cz##a[target="_blank"][href*="cpm="]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
