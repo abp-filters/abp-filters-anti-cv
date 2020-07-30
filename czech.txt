@@ -151,6 +151,7 @@ novinky.cz,super.cz,sport.cz,kupi.cz##.dynamic_Rggheysn
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container
 novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
+novinky.cz,kupi.cz,sport.cz,super.cz##img[class^="wyzmak"]
 sport.cz##.ronawenokapu
 super.cz##.cuqagahi
 kupi.cz##[data-sssp]
