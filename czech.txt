@@ -182,6 +182,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[id$="-ad-container"], [data-e14e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz###sf0
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="Rekᥣama"]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="/clickthru?"]
+novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="__CLICKTHRU__"]
 
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
