@@ -134,6 +134,9 @@ fights.cz##body>a[class="tracked-event"][target="_blank"]
 &bbtarget=$subdocument,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 
 &sp*sq=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+&pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+?url=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 horoskopy.cz#$#abort-on-property-read sssp
 novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
 kupi.cz#$#abort-current-inline-script setTimeout document.write; abort-current-inline-script $ Detect; abort-on-property-read atob
@@ -151,38 +154,28 @@ novinky.cz,super.cz,sport.cz,kupi.cz##.dynamic_Rggheysn
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container
 novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
-novinky.cz,kupi.cz,sport.cz,super.cz##img[class^="wyzmak"]
-sport.cz##.ronawenokapu
-super.cz##.cuqagahi
 kupi.cz##[data-sssp]
-&pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
-;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
 sport.cz##.combi_text__ad
 novinky.cz,kupi.cz,sport.cz,super.cz##[id^="tetrahedron"], .tetrahedron
-novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-fw-loaded], [data-e3e-advert]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e4e-advert], .basafoxy
-novinky.cz,kupi.cz,sport.cz,super.cz##[data-e5e-advert], [data-e5e-zoneid], [data-bflm-loaded]
-novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e6e-loaded]
-novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e7f-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.oktagram_image
 novinky.cz,kupi.cz,sport.cz,super.cz##.oktapoid, [id^="oktapoid"]
-novinky.cz,kupi.cz,sport.cz,super.cz##[data-e8f-zoneid], [data-e8f-advert]
-novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-e8e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="R_eklama"]
-novinky.cz,kupi.cz,sport.cz,super.cz##[data-e9g-zoneid], [data-e9g-advert]
-novinky.cz,kupi.cz,sport.cz,super.cz##[data-e10h-advert], .HexagrAmmo-id, iframe[data-e9e-loaded]
-novinky.cz,kupi.cz,sport.cz,super.cz##.PentazkvgaHexFix, .rtbsnip-placeholder, iframe[data-e10e-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e11i="ogm-branding-advert"], [class="combi"]
-novinky.cz,kupi.cz,sport.cz,super.cz##[data-e12j-zoneid], [data-e12j-advert], [data-e12e-loaded]
-novinky.cz,kupi.cz,sport.cz,super.cz##[data-e13e-loaded], [class$="Flax"]
-novinky.cz,kupi.cz,sport.cz,super.cz##[id$="-ad-container"], [data-e14e-loaded]
+novinky.cz,kupi.cz,sport.cz,super.cz##[class$="Flax"]
+novinky.cz,kupi.cz,sport.cz,super.cz##[id$="-ad-container"]
 novinky.cz,kupi.cz,sport.cz,super.cz###sf0
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="Rekᥣama"]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="/clickthru?"]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="__CLICKTHRU__"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?spotId="]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[class$="ad-wrapper"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adfibeg="]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adcurl="]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?adurl="]
 
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
