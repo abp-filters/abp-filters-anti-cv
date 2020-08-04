@@ -103,7 +103,7 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"], a.tracked-event[href*="tiscali.cz"][target^="_"]:not([target="_blank"])
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##a[href*="bbelements.com"]
 kinobox.cz##.box.banner_300, #b300_fixbox
-tiscali.cz##.btitle-right, a[href*="IdBnrP="][href*="IdCamp="], [id^="pxBanner"], a.click-layer#clickLayer
+tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz##.btitle-right, a[href*="IdBnrP="][href*="IdCamp="], [id^="pxBanner"], a.click-layer#clickLayer
 nasepenize.cz##a[target="_blank"][class="tracked-event"]>img:only-child
 karaoketexty.cz,kinobox.cz###stickyWrap
 karaoketexty.cz##.ad_large_square
@@ -177,6 +177,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[class$="ad-wrapper"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adfibeg="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adcurl="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?adurl="]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adblock"]
 
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
