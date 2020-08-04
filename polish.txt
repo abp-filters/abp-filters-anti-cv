@@ -9,7 +9,8 @@ wp.pl,pudelek.pl#$#abort-on-property-read wpjscb
 money.pl,sportowefakty.wp.pl#$#abort-on-property-read prebidConfig.config.bidTargets
 money.pl#?#div:-abp-has(> img[src$="/bg.png"])
 finanse.wp.pl#$#abort-on-property-read prebidConfig.hbA
-gwiazdy.wp.pl,o2.pl,film.wp.pl,teleshow.wp.pl#$#abort-on-property-read prebidConfig.hb
+gwiazdy.wp.pl,o2.pl,film.wp.pl,teleshow.wp.pl,wawalove.wp.pl#$#abort-on-property-read prebidConfig.hb
+pogoda.wp.pl#$#abort-on-property-read prebidConfig.config.floorprices
 autokult.pl#?#figure[class^="insert"]:-abp-has(var + script)
 kardiolo.pl#$#abort-on-property-write rekid
 
