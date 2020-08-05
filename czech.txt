@@ -11,7 +11,7 @@ iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##blackchimn-ey, fi-rechimney, fire-ball
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##blackchimn-ey, fi-rechimney, fire-ball, fir-eball
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*="&pattern="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*="?adurl="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[data-tid][data-role][title][target="_blank"]
@@ -137,6 +137,7 @@ fights.cz##body>a[class="tracked-event"][target="_blank"]
 &sp*sq=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 ?url=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+_goes_through_the_woods=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 ;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 horoskopy.cz#$#abort-on-property-read sssp
 novinky.cz#$#abort-on-property-write _sspDoNotInit; abort-on-property-read atob
@@ -178,6 +179,8 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adfibeg="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adcurl="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?adurl="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adblock"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?adocurl"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="_goes_through_the_woods="]
 
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
