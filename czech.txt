@@ -135,6 +135,10 @@ fights.cz##body>a[class="tracked-event"][target="_blank"]
 &bbtarget=$subdocument,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 fights.cz#$#abort-on-property-read VbIalonG2nN; abort-on-property-write VbIalonG2nN
 kinobox.cz#$#abort-on-property-read BBbaloTn2nE; abort-on-property-write BBbaloTn2nE
+tiscali.cz#$#abort-on-property-read VbBalonW2nJ; abort-on-property-write VbBalonW2nJ
+osobnosti.cz#$#abort-on-property-read VbXalonM2nF; abort-on-property-write VbXalonM2nF
+karaoketexty.cz#$#abort-on-property-read bmonO189fd1606171aff08031fa3cee2200b3n; abort-on-property-write bmonO189fd1606171aff08031fa3cee2200b3n
+nasepenize.cz#$#abort-on-property-read UbaYlon2KnO; abort-on-property-write UbaYlon2KnO
 
 &sp*sq=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
