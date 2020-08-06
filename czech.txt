@@ -265,6 +265,7 @@ idnes.cz###rmegovka-sph
 expres.cz,idnes.cz#?#a:-abp-has(img[src$="ip"])
 expres.cz,idnes.cz##a[href*="bot="]
 expres.cz,idnes.cz##a[target="_blank"][href*="cpm="]
+expres.cz,idnes.cz##a[href*="&rid="]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
