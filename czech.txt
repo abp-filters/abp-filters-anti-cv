@@ -323,6 +323,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 /random=*/bledule2=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /random=*/homer$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /vast?*adblock$xmlhttprequest,domain=televizeseznam.cz
+?pvid=sznp_pvid_$xmlhttprequest,domain=televizeseznam.cz
 /?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 /doubleclick_dmm/*/file.mp4|$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
