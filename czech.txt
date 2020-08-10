@@ -134,6 +134,7 @@ fights.cz##body>a[class="tracked-event"][target="_blank"]
 /?typ*kodu=js*=pop_$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &ibbid=BBID$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &bbtarget=$subdocument,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
+?bn=*;click=$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 fights.cz#$#abort-on-property-read VbIalonG2nN; abort-on-property-write VbIalonG2nN
 kinobox.cz#$#abort-on-property-read BBbaloTn2nE; abort-on-property-write BBbaloTn2nE
 tiscali.cz#$#abort-on-property-read VbBalonW2nJ; abort-on-property-write VbBalonW2nJ
