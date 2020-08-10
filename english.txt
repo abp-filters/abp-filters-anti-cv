@@ -338,3 +338,4 @@ thetrendspotter.net,theavtimes.com#$#abort-on-property-read advads_passive_ads
 
 ! #CV-782
 youtube.com#$#json-prune 'playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds'
+youtube.com#$#override-property-read playerResponse.adPlacements undefined; override-property-read ytInitialPlayerResponse.adPlacements undefined
