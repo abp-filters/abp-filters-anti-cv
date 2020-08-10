@@ -140,6 +140,8 @@ osobnosti.cz#$#abort-on-property-read VbXalonM2nF; abort-on-property-write VbXal
 karaoketexty.cz#$#abort-on-property-read bmonO189fd1606171aff08031fa3cee2200b3n; abort-on-property-write bmonO189fd1606171aff08031fa3cee2200b3n
 nasepenize.cz#$#abort-on-property-read UbaYlon2KnO; abort-on-property-write UbaYlon2KnO
 
+/bimbu$script,subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
+?BBcat_LdogE=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 ?klik*truu=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 &sp*sq=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
