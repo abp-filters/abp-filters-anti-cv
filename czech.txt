@@ -194,6 +194,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?adocurl"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="_goes_through_the_woods="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="klik"][href*="truu"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="/bimbu?"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="adb"][href*="collocation="]
 
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
