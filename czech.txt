@@ -142,6 +142,8 @@ osobnosti.cz#$#abort-on-property-read VbXalonM2nF; abort-on-property-write VbXal
 karaoketexty.cz#$#abort-on-property-read bmonO189fd1606171aff08031fa3cee2200b3n; abort-on-property-write bmonO189fd1606171aff08031fa3cee2200b3n
 nasepenize.cz#$#abort-on-property-read UbaYlon2KnO; abort-on-property-write UbaYlon2KnO
 
+/sklik/imp^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
+cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /bimbu$script,subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 ?BBcat_LdogE=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 ?klik*truu=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
@@ -195,6 +197,8 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="_g
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="klik"][href*="truu"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="/bimbu?"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##a[href*="adb"][href*="collocation="]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[id^="adPrClanek_"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="herm"][href*="seznam"]
 
 idnes.cz,expres.cz##body>div>[style*="background: url"]
 idnes.cz,expres.cz##[id*="mepage"][id*="-"]
