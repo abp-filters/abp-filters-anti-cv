@@ -14,7 +14,7 @@ pogoda.wp.pl#$#abort-on-property-read prebidConfig.config.floorprices
 autokult.pl#?#figure[class^="insert"]:-abp-has(var + script)
 kardiolo.pl,autocentrum.pl,horoskop.wp.pl#$#abort-on-property-write rekid
 dom.wp.pl#$#abort-on-property-read rekid
-facet.wp.pl,ksiazka.wp.pl#$#abort-on-property-read pbjs.bidderSettings
+facet.wp.pl,ksiazki.wp.pl#$#abort-on-property-read pbjs.bidderSettings
 kuchnia.wp.pl#$#abort-on-property-read pbjs.libLoaded
 dom.wp.pl,facet.wp.pl#?#.view-first:-abp-has(a[onclick*="var img = document.createElement('img');"])
 
