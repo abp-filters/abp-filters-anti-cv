@@ -1,0 +1,2 @@
+! #CV-741
+jvpnews.com#$#abort-current-inline-script atob TextDecoder
