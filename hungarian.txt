@@ -1,0 +1,8 @@
+totalcar.hu,totalbike.hu,divany.hu#$#abort-on-property-write document.head currentScript.remove
+
+magyarhang.org,hang.hu#$#abort-current-inline-script atob
+
+karpathir.com#$#abort-on-property-write getComputedStyle
+
+
+
