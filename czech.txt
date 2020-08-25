@@ -246,6 +246,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##.ssp_top
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="Seznam_"][href*="adb"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="/pimpu?"]
 
+expres.cz#$#abort-on-property-write CPExSkinObject;
 &userLimits=&pesid=&breaktime=$script,domain=expres.cz
 expres.cz##body>div>[style*="background: url"]
 expres.cz##[id*="mepage"][id*="-"]
