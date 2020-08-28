@@ -114,4 +114,4 @@ itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.ua,uanew
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
-autorambler.ru,championat.com,gazeta.ru,lenta.ru,motor.ru,passion.ru,rambler.ru,rns.online#$#abort-current-inline-script document.querySelectorAll getRandomValues
+autorambler.ru,championat.com,gazeta.ru,lenta.ru,motor.ru,passion.ru,rambler.ru,rns.online#$#abort-current-inline-script document.querySelectorAll Math.random
