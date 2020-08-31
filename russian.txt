@@ -15,7 +15,6 @@ avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
 24smi.org#$#abort-on-property-read String.fromCharCode
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.renderBanner
-||paracesquare.rambler.ru^$domain=championat.com|gazeta.ru|lenta.ru|rambler.ru
 auto.ru,razlozhi.ru,drive2.ru#$#abort-on-property-read Object.prototype.AdList
 echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototype.Direct
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
