@@ -15,6 +15,7 @@ planetatvonlinehd.com#$#abort-on-property-read atob
 pelispedia.co,pelispedia.tv,pelispedia.site,pelispedia.stream#$#abort-on-property-read AaDetector
 peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 pctnew.org#$#abort-current-inline-script _cpp
+animeflv.cc#$#abort-current-inline-script JSON.parse
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
