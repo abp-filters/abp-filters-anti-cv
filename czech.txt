@@ -368,6 +368,7 @@ novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 expres.cz##a[href*="click?xai="]
 expres.cz##a[href*="=adblock_"]
 expres.cz,idnes.cz##[data-io-video-title*="Rek&#8205;lama"]
+expres.cz,idnes.cz##a[href*="/site=adblock_"]
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
