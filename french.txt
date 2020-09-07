@@ -2,7 +2,6 @@
 
 ! #CV-741
 ||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
-||sobusygirls.fr^$csp=script-src 'self' * 'unsafe-eval'
 pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 
 ! #CV-170
