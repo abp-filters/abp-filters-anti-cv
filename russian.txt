@@ -115,3 +115,6 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
 ~comments.rambler.ru,autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#abort-on-property-read Object.prototype.getUrls
 ||myqualification.rambler.ru^$domain=autorambler.ru|championat.com|eda.ru|gazeta.ru|lenta.ru|letidor.ru|motor.ru|passion.ru|quto.ru|rambler.ru|rns.online|wmj.ru
+
+! #CV-694
+www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
