@@ -107,7 +107,7 @@ vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
 volynpost.com,uanews.org.ua,newsone.ua,dialogs.org.ua,technoportal.com.ua,pingvin.pro,112.ua,fakty.ua,zik.ua,cikavosti.com,versii.if.ua#$#abort-on-property-read weekCallbacks
 
 ! #CV-716
-itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.ua,uanews.org.ua,fraza.com,uainfo.org,economistua.com,odessa-life.od.ua,autotheme.info,volnorez.com.ua,newsone.ua,expert.in.ua,pg11.ru,tverisport.ru,novavlada.info,zik.ua,rusjev.net,uatv.ua,dyvys.info,cheline.com.ua,sud.ua,asiaplustj.info,wpristav.ru,poltava365.com,unn.com.ua,1news.com.ua,365news.biz,4mama.ua,7days-ua.com,cikavosti.com,comments.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,fedpress.ru,glavnoe.ua,glavnoe24.ru,inforpost.com,kurskcity.ru,liga.net,narodna-pravda.ua,pingvin.pro,pl.com.ua,real-vin.com,russianshowbiz.info,semobile.com.ua,vchaspik.ua,versii.if.ua,volyninfo.com,womo.ua,volynpost.com#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
+mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.ua,uanews.org.ua,fraza.com,uainfo.org,economistua.com,odessa-life.od.ua,autotheme.info,volnorez.com.ua,newsone.ua,expert.in.ua,pg11.ru,tverisport.ru,novavlada.info,zik.ua,rusjev.net,uatv.ua,dyvys.info,cheline.com.ua,sud.ua,asiaplustj.info,wpristav.ru,poltava365.com,unn.com.ua,1news.com.ua,365news.biz,4mama.ua,7days-ua.com,cikavosti.com,comments.ua,depo.ua,dnews.dn.ua,dv-gazeta.info,fedpress.ru,glavnoe.ua,glavnoe24.ru,inforpost.com,kurskcity.ru,liga.net,narodna-pravda.ua,pingvin.pro,pl.com.ua,real-vin.com,russianshowbiz.info,semobile.com.ua,vchaspik.ua,versii.if.ua,volyninfo.com,womo.ua,volynpost.com#$#abort-current-inline-script document.createElement /ru-n4p|ua-n4p|загрузка.../
 
 ! #CV-667
 empireg.ru#$#abort-current-inline-script Math zfgloaded
@@ -115,3 +115,7 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
 ~comments.rambler.ru,autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#abort-on-property-read Object.prototype.getUrls
 ||myqualification.rambler.ru^$domain=autorambler.ru|championat.com|eda.ru|gazeta.ru|lenta.ru|letidor.ru|motor.ru|passion.ru|quto.ru|rambler.ru|rns.online|wmj.ru
+www.rambler.ru#$#override-property-read App.state.runtime.disableAds true
+
+! #CV-694
+www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
