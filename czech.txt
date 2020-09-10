@@ -204,9 +204,11 @@ kupi.cz#$#abort-on-property-read atob; abort-on-property-read advFlag; abort-on-
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
 novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-on-property-read arschmitoeren
+novinky.cz##.ogm-branding
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
-novinky.cz,super.cz,sport.cz,kupi.cz###main_body_top[data-impressionurl]
+novinky.cz,super.cz,sport.cz,horoskopy.cz##.sssp-posCont
+novinky.cz,super.cz,sport.cz,horoskopy.cz##div[data-impressionurl]
 novinky.cz,super.cz,sport.cz,kupi.cz###adCommercialBackground
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-e2e-zoneid]
 novinky.cz,super.cz,sport.cz,kupi.cz##.ads
@@ -252,7 +254,6 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="Sez
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="/pimpu?"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="_Branding"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="_leaderboard"]
-novinky.cz##a[title="Rekɭama"]
 
 expres.cz#$#abort-on-property-write CPExSkinObject;
 &userLimits=&pesid=&breaktime=$script,domain=expres.cz
