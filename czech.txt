@@ -253,6 +253,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="/pi
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="_Branding"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz##[href*="_leaderboard"]
 novinky.cz##a[title="Rekɭama"]
+televizeseznam.cz##img[alt="Reklama"]
 
 expres.cz#$#abort-on-property-write CPExSkinObject;
 &userLimits=&pesid=&breaktime=$script,domain=expres.cz
