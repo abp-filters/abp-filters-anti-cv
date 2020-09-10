@@ -337,3 +337,6 @@ thetrendspotter.net,theavtimes.com#$#abort-on-property-read advads_passive_ads
 ! #CV-782
 youtube.com,youtube-nocookie.com#$#json-prune 'playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds'
 youtube.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined; override-property-read ytInitialPlayerResponse.adPlacements undefined
+
+! #CV-776
+bing.com#$#freeze-element ol#b_results
