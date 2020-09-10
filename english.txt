@@ -28,10 +28,7 @@ pornhub.com#$#abort-on-property-read tj_ads
 redtube.com#$#abort-on-property-read smpop
 
 ! #CV-663
-breakingfirst.com#$#freeze-element .evo-right-sidebar '' aside; freeze-element article
-activistpost.com#$#freeze-element aside subtree .clearfix h4; freeze-element .pagination '' a span; freeze-element #main-content subtree
 deneenborelli.com#$#freeze-element .wpb_wrapper subtree
-americasfreedomfighters.com#$#freeze-element #sidebar abort; freeze-element .entry
 naturalblaze.com#$#freeze-element .content-sidebar-wrap abort; freeze-element article abort
 newser.com#$#freeze-element #voteDivContentAuto subtree+abort; freeze-element #divRightRailContent subtree+abort
 foreverymom.com#$#freeze-element .post subtree+abort
