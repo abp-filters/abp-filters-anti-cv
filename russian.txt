@@ -113,8 +113,6 @@ mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopillive.com.ua,te.
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
-~comments.rambler.ru,autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#abort-on-property-read Object.prototype.getUrls
-||myqualification.rambler.ru^$domain=autorambler.ru|championat.com|eda.ru|gazeta.ru|lenta.ru|letidor.ru|motor.ru|passion.ru|quto.ru|rambler.ru|rns.online|wmj.ru
 www.rambler.ru#$#override-property-read App.state.runtime.disableAds true
 rambler.ru#$#freeze-element .j-sticky-banner; freeze-element .article__center; freeze-element .top-now; freeze-element .top-main__inner; freeze-element .top__right; freeze-element .j-scrollback-anchor subtree .button__inner--blue; freeze-element .level__content subtree; freeze-element .top-glossy__right; freeze-element .top-glossy-inside__inner; freeze-element .article__right; freeze-element .top-glossy; freeze-element .index__levels; freeze-element .topic__levels
 rambler.ru##.top-topic__coins
