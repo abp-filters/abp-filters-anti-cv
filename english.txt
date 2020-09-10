@@ -179,50 +179,8 @@ audiofanzine.com##li[class$="-products"], li[class$="-offer"] , div[class$="-img
 ||dlkfm8bqz0bpx.cloudfront.net^$script
 ||d12ysuoljjyfqa.cloudfront.net^$script
 ||d3pk579obpqv7b.cloudfront.net^$script
-||4gtk6i.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||b8n5kh.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1ecfkts.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||gggxnu.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||vxq18c.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1rsbtjt.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1k56pfl.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||io8ftp.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||3wvfzn.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||ao8rqg.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||9tmzxf.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1lv3gy.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||i4tbf7.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||8poyay.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||y2opn2.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||13ijhbf.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||15d9agq.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||w3q0pz.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1squiq2.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||c7khac.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||yi14vh.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||15ixvv9.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||7fge03.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1syww8i.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||pdwf6g.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||5edy9.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||icft0s.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1g9roks.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||q5zvbh.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||7ovegv.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||cel52u.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||mdb6p7.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||1907o7u.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||2wfuya.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||dtw8sp.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||wzfllm.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||e6emco.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||fohumu.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||qlfi79.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||15qjwjm.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||5xx0pj.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||rpe8kj.$script,xmlhttprequest,domain=ign.com|ignboards.com
-||10mhlly.$script,xmlhttprequest,domain=ign.com|ignboards.com
+ignboards.com#$#abort-current-inline-script JSON.stringify
+ign.com#$#abort-current-inline-script clearTimeout load
 gfycat.com#$#abort-current-inline-script Math
 foreverconscious.com,blwideas.com,ultimateninjablazingx.com,utahsweetsavings.com,usersub.com,thechroniclesofhome.com,theavtimes.com,tastefullyeclectic.com,stevivor.com,redcarpet-fashionawards.com,prepared-housewives.com,mjsbigblog.com,lizs-early-learning-spot.com,knowyourphrase.com,hodgepodgehippie.com,yummytummyaarthi.com,spring.org.uk,greenarrowtv.com,tamaratattles.com,goodnewsnetwork.org,entertainment-focus.com,bike-urious.com,alifeinbalance.net#$#abort-on-property-read g00gletag
 katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script document.head.appendChild
