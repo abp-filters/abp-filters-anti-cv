@@ -120,6 +120,7 @@ rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
 rambler.ru##.banner--container
+rambler.ru##div[data-ad-marker]
 
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
