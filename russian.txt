@@ -128,6 +128,9 @@ autorambler.ru#$#freeze-element #block-id-5-container; freeze-element #block-id-
 motor.ru#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
 motor.ru#$#freeze-element #block-id-2-container; freeze-element #block-id-3-container; freeze-element #block-id-4-container; freeze-element #block-id-5-container; freeze-element #block-id-6-container; freeze-element #block-id-18-container; freeze-element #block-id-20-container; freeze-element #block-id-21-container; freeze-element #block-id-26-container; freeze-element #block-id-27-container; freeze-element #block-id-29-container
 motor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
+quto.ru#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
+quto.ru##div[id^="block-id-"][style^="min-width"]
+quto.ru#$#freeze-element #block-id-6-container; freeze-element #block-id-7-container; freeze-element #block-id-24-container; freeze-element #block-id-25-container
 
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
