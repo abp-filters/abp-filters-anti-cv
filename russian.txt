@@ -22,7 +22,7 @@ it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
-razlozhi.ru#$#abort-on-property-read Object.prototype.getAdditionalBanners
+razlozhi.ru#$#abort-on-property-read Object.prototype.RtbTesttag
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
 
 ! #CV-659
