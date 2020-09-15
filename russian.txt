@@ -122,6 +122,9 @@ rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
 rambler.ru##.banner--container
 rambler.ru##div[data-ad-marker]
+autorambler.ru#?#:-abp-has(>a[style^="background-image: url('//loqacfhkpmdxutw.rambler.ru/"])
+autorambler.ru#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
+autorambler.ru#$#freeze-element #block-id-5-container; freeze-element #block-id-8-container; freeze-element #block-id-9-container; freeze-element #block-id-10-container; freeze-element #block-id-17-container; freeze-element #block-id-18-container; freeze-element #block-id-19-container; freeze-element #block-id-20-container; freeze-element .adf-wrapper-main-page-native2 subtree
 
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
