@@ -125,6 +125,7 @@ rambler.ru##.banner--container
 rambler.ru##div[data-ad-marker]
 autorambler.ru#?#:-abp-has(>a[style^="background-image: url('//loqacfhkpmdxutw.rambler.ru/"])
 autorambler.ru#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
+autorambler.ru##a[href^="https://suizlhwebq.rambler.ru/"]
 autorambler.ru#$#freeze-element #block-id-5-container; freeze-element #block-id-8-container; freeze-element #block-id-9-container; freeze-element #block-id-10-container; freeze-element #block-id-17-container; freeze-element #block-id-18-container; freeze-element #block-id-19-container; freeze-element #block-id-20-container; freeze-element .adf-wrapper-main-page-native2 subtree
 motor.ru#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
 motor.ru#$#freeze-element #block-id-2-container; freeze-element #block-id-3-container; freeze-element #block-id-4-container; freeze-element #block-id-5-container; freeze-element #block-id-6-container; freeze-element #block-id-18-container; freeze-element #block-id-20-container; freeze-element #block-id-21-container; freeze-element #block-id-26-container; freeze-element #block-id-27-container; freeze-element #block-id-29-container
