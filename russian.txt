@@ -132,7 +132,7 @@ motor.ru#$#freeze-element #block-id-2-container; freeze-element #block-id-3-cont
 motor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
 quto.ru##div[id^="block-id-"][style^="min-width"]
 quto.ru#$#freeze-element #block-id-6-container; freeze-element #block-id-7-container; freeze-element #block-id-24-container; freeze-element #block-id-25-container
-rambler.r,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
+rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com#?#:-abp-has(>a[style^="background-image: url('//zoomdecorate.rambler.ru/"])
 passion.ru,motor.ru,letidor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
 autorambler.ru,quto.ru##[style^="padding-bottom: 30px; transform: translateZ(0px);"]
 championat.com#$#freeze-element .js-sticky-vertical; freeze-element .sticky-block
