@@ -91,6 +91,7 @@ hdkinoteatr.com#$#abort-on-property-read cuec
 fapreactor.com,pornreactor.cc#$#abort-current-inline-script Math decodeURIComponent
 budport.com.ua#$#abort-current-inline-script $ open
 agronews.ua#$#abort-on-property-read wpsite_clickable_data
+aces.gg#$#abort-current-inline-script $ window.open
 
 ! #CV-547
 auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
