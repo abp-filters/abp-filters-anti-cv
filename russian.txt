@@ -136,6 +136,7 @@ rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru
 passion.ru,motor.ru,letidor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
 autorambler.ru,quto.ru##[style^="padding-bottom: 30px; transform: translateZ(0px);"]
 championat.com#$#freeze-element .js-sticky-vertical; freeze-element .sticky-block
+passion.ru#$#freeze-element .sideColumn.block subtree #vkwidget1
 
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
