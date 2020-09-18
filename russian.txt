@@ -84,6 +84,7 @@ gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,mega
 dfiles.ru#$#abort-on-property-read ads_script
 sports.ru,tribuna.com#$#abort-on-property-read Object.prototype.branding
 volynpost.com#$#abort-on-property-read trek_shownow
+ati.su#$#abort-on-property-read Object.prototype.advApiClient
 
 ! Popup/popunder/clickunder
 prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
