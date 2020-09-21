@@ -121,7 +121,6 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
 www.rambler.ru#$#override-property-read App.state.runtime.disableAds true
-rambler.ru#$#freeze-element .j-sticky-banner; freeze-element .article__center; freeze-element .top-now; freeze-element .top-main__inner; freeze-element .top__right; freeze-element .j-scrollback-anchor subtree .button__inner--blue; freeze-element .level__content subtree; freeze-element .top-glossy__right; freeze-element .top-glossy-inside__inner; freeze-element .article__right; freeze-element .top-glossy; freeze-element .index__levels; freeze-element .topic__levels
 rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
