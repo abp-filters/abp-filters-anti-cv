@@ -324,6 +324,7 @@ adblock$xmlhttprequest,domain=televizeseznam.cz
 =sznp_pv$xmlhttprequest,domain=televizeseznam.cz
 preroll$xmlhttprequest,domain=televizeseznam.cz
 &collocation-$xmlhttprequest,domain=televizeseznam.cz
+&schmollocation-$xmlhttprequest,domain=televizeseznam.cz
 /?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 /doubleclick_dmm/*/file.mp4|$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
