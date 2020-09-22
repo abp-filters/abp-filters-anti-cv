@@ -126,7 +126,6 @@ rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
 rambler.ru##.banner--container
 rambler.ru##div[data-ad-marker]
-autorambler.ru#$#freeze-element #block-id-5-container; freeze-element #block-id-8-container; freeze-element #block-id-9-container; freeze-element #block-id-10-container; freeze-element #block-id-17-container; freeze-element #block-id-18-container; freeze-element #block-id-19-container; freeze-element #block-id-20-container; freeze-element .adf-wrapper-main-page-native2 subtree
 motor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
 passion.ru,motor.ru,letidor.ru##[style^="float: none; left: 0px; margin: 0px; right: 0px; width:"]
 autorambler.ru,quto.ru##[style^="padding-bottom: 30px; transform: translateZ(0px);"]
