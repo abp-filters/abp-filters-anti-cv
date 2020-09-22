@@ -260,59 +260,7 @@ televizeseznam.cz##img[alt="Reklama"]
 novinky.cz##[class*="feed-item-advert"]
 novinky.cz#$#freeze-element .ogm-branding
 
-expres.cz#$#abort-on-property-write CPExSkinObject;
-&userLimits=&pesid=&breaktime=$script,domain=expres.cz
-expres.cz##body>div>[style*="background: url"]
-expres.cz##[id*="mepage"][id*="-"]
-expres.cz##[id*="allpaper"]
-expres.cz##[id$="Ake13"]
-expres.cz##[id^="r-shp"]
-expres.cz##div[id$="nol"]
-expres.cz##[class$="_clankovy"]
-expres.cz##[data-cy="ad-content"]
-expres.cz###v_homepage
-expres.cz###qs_hotepage, #qs-hotelfage, #hotelfage-qs, div[id$="-ds"], #hotalf-ds-rage, #qs-walpapier, #sudo-flaqel, #hotalf-dq-page, #qs-walsafier
-expres.cz##a[href*="banner"], a[href*="leaderboard"]
-expres.cz###r-clanek, #WhallMnPaerp, #WhallMnnqlrp, .s_WhallMnnqlrp
-expres.cz###pn-cvanel, #piqo-channel, #sumo-flaqel, #kowaflawe-ryws
-expres.cz##iframe.ifr-masshack, iframe[class$="-ifrant"], iframe[class$="ifr-ant"], iframe[class*="ifr-"][class*="passback"]
-expres.cz##a[target="_blank"][href*="tt=Direct"][href*="token="]
-expres.cz##div[id*="pagead"], [class*="passbackda-"]
-expres.cz##a[href*="ghits"][target="_blank"]
-expres.cz##a[target="_blank"]>img[width="300"][height="600"]
-expres.cz##a[href*="utm_source%3Dseznam%26"], a[target="_top"][href*="Bannery"], a[target="_top"][href*="pros_umisteni"]
-expres.cz##a[href*="utm_source%3Dsklik%26"], a[href*="partId="]
-expres.cz##[id$="GmepageIG"], #r-super300, [class$="_spodni"], [id*="omepage"][id*="-h"]
-expres.cz##a[href*="Banner"]
-expres.cz##.combi__ad
-expres.cz##.r-main.ahead
-expres.cz##table[class*=" ahead "]
-expres.cz##[data-advert-sticky], #sticky-banner
-expres.cz##.r-box
-expres.cz##a[href*="&tcid="]
-expres.cz##table[id][class][style="margin: auto;"]
-expres.cz##[id^="r-ws480"]
-expres.cz##a[href*="/area=branding"]
-expres.cz##iframe[class^="extra-"][class$="-sph"], iframe[class^="uxtra-"][class$="-sfq"], iframe[class^="ur-"][class$="-sfdc"]
-expres.cz##div[id$="pepik"]
-expres.cz##div[id*="all"][id*="aper"]
-expres.cz##div[id*="ome"][id*="age"]
-expres.cz##div[id$="_pakovy"]
-expres.cz##div[id^="Brob"]
-expres.cz##div[id$="lojzik"]
-expres.cz##a[href*="papky="]
-expres.cz##[style*="background-position: center top; background-color: #FAEEF0; background-repeat: no-repeat;"]
-expres.cz##[id^="r-hpa"]
-expres.cz##body > div[style*="background-color: #FAEDEF0; background-repeat: no-repeat;"]
-expres.cz##[id$="alojzyk"], [class$="_mlakovy"]
-expres.cz#?#div:-abp-has(>span:-abp-contains(reklama))
-expres.cz##body>[style*="background:"]
-expres.cz##a[href*="tapky"]
-expres.cz#?#a:-abp-has(img[src$="ip"])
-expres.cz##a[href*="bot="]
-expres.cz##a[target="_blank"][href*="cpm="]
-expres.cz##a[href*="&rid="]
-expres.cz##.krf-l-g-h
+=&pesid=id$script,domain=expres.cz
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
