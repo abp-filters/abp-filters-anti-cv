@@ -303,6 +303,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 /rexlocate=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
 ! CV-780
+/trumevli=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /hlavo132nozec=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /kedlubna21=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /random=*^samplate=autoplay^$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
@@ -310,6 +311,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 /balaklva$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /banana$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /past.js|$script,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
+/pasta.js|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &ADFAssetID=$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 ||videos-fms.jwpsrv.com/*/content/conversions/*.mp4|$media,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 ||jwpsrv.com/content/conversions/*/videos/*.mp4?token=$media,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
