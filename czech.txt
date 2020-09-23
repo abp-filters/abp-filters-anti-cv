@@ -263,7 +263,7 @@ televizeseznam.cz##img[alt="Reklama"]
 novinky.cz##[class*="feed-item-advert"]
 novinky.cz#$#freeze-element .ogm-branding
 
-=&pesid=id$script,domain=expres.cz
+&absolutelyNoLimits=$script,domain=expres.cz|idnes.cz
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
