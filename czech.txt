@@ -333,8 +333,8 @@ preroll$xmlhttprequest,domain=televizeseznam.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 /doubleclick_dmm/*/file.mp4|$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
-expres.cz#$#override-property-read WaRARARAsEpkaaTusparEkinv undefined
-idnes.cz#$#override-property-read WaRARARAsvnAikaTusdTeIAuki undefined
+expres.cz#$#override-property-read WasparEkinvRARARAsEpka undefined
+idnes.cz#$#override-property-read WasdTeIAukiRARARAsvnAik undefined
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
