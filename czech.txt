@@ -263,7 +263,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[frameborder="no"][scro
 novinky.cz##a[title="Rekɭama"]
 televizeseznam.cz##img[alt="Reklama"]
 novinky.cz##[class*="feed-item-advert"]
-novinky.cz#$#freeze-element .ogm-branding
+novinky.cz#$#freeze-element .omg-barnding
 
 &coolWhitis=$script,domain=expres.cz|idnes.cz
 
