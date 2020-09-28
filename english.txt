@@ -339,4 +339,4 @@ youtube.com,youtube-nocookie.com#$#json-prune 'playerResponse.adPlacements playe
 youtube.com,youtube-nocookie.com#$#override-property-read playerResponse.adPlacements undefined; override-property-read ytInitialPlayerResponse.adPlacements undefined
 
 ! #CV-776
-bing.com#$#freeze-element ol#b_results
+bing.com#$#freeze-element ol#b_results '' .b_bfb_mainline
