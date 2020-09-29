@@ -229,7 +229,6 @@ softonic.com##.ad-content-wrapper
 thegatewaypundit.com##a[href="#"]
 thegatewaypundit.com##a[href*="cloudfront.net"]
 ||cloudfront.net^$domain=thegatewaypundit.com
-||yyjvimo.com^$domain=tinyhousetalk.com
 
 ! #CV-666
 biter.tv,byter.tv#$#abort-on-property-write adcashMacros
