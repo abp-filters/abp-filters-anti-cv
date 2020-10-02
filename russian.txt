@@ -120,7 +120,7 @@ ekovolga.com,mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopilli
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
-autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#override-property-read Object.prototype.placeNode undefined
+autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#override-property-read Object.prototype.createBanner noopFunc
 rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
