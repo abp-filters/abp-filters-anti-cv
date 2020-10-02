@@ -269,7 +269,7 @@ novinky.cz##[class*="feed-item-advert"]
 novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 
-&coolWhitis=$script,domain=expres.cz|idnes.cz
+&async=1&format=js$script,domain=expres.cz|idnes.cz
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
