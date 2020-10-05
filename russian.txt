@@ -86,6 +86,7 @@ dfiles.ru#$#abort-on-property-read ads_script
 sports.ru,tribuna.com#$#abort-on-property-read Object.prototype.branding; override-property-read Object.prototype.attachShadowStyleToElement undefined
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
+playground.ru#$#abort-on-property-read document.body.dataset.settings
 
 ! Popup/popunder/clickunder
 oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
