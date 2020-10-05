@@ -212,6 +212,7 @@ kupi.cz#$#abort-on-property-read atob; abort-on-property-read advFlag; abort-on-
 super.cz#$#abort-on-property-read atob
 sport.cz#$#abort-on-property-read atob
 novinky.cz,super.cz,sport.cz,kupi.cz#$#abort-on-property-read arschmitoeren
+kupi.cz#$#abort-on-property-read AdsHelper
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
 novinky.cz,super.cz,sport.cz,horoskopy.cz##div[data-impressionurl]
@@ -268,6 +269,7 @@ televizeseznam.cz##img[alt="Reklama"]
 novinky.cz##[class*="feed-item-advert"]
 novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 
 &async=1&format=js$script,domain=expres.cz|idnes.cz
 
