@@ -16,7 +16,7 @@ kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCha
 24smi.org#$#abort-on-property-read String.fromCharCode
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.renderBanner
 drive2.ru#$#abort-on-property-read Object.prototype.AdList
-auto.ru#$#abort-on-property-read Object.prototype.getAdditionalBanners
+auto.ru#$#abort-on-property-read Object.prototype.AdvLoadDone
 echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototype.Direct
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 it-here.ru#$#abort-on-property-read pum
