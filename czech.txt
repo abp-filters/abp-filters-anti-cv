@@ -275,7 +275,7 @@ novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 
-&dula$script,domain=expres.cz|idnes.cz
+&cmpState=$script,domain=expres.cz|idnes.cz
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
