@@ -83,7 +83,7 @@ erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 mediasat.info,housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,megaresheba.com,megaresheba.ru,resheba.me,spishi.fun,zoobrilka.net#$#abort-on-property-write app.book.external
 dfiles.ru#$#abort-on-property-read ads_script
-sports.ru,tribuna.com#$#abort-on-property-read Object.prototype.branding; override-property-read Object.prototype.attachShadowStyleToElement undefined
+sports.ru,tribuna.com#$#abort-on-property-read Object.prototype.branding; override-property-read Object.prototype.attachShadowStyleToEl undefined
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
 
