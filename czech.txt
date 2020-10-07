@@ -133,6 +133,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 .cz/*/area=adblock$script,popup,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 .cz/*?action=ppc&cid=$popup,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 &pssp1=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
+&cmpState=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|expres.cz|idnes.cz
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -274,8 +275,7 @@ novinky.cz##[class*="feed-item-advert"]
 novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
-
-&cmpState=$script,domain=expres.cz|idnes.cz
+novinky.cz##iframe[frafra="no"][scroscro="no"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
