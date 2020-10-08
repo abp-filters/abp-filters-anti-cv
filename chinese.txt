@@ -10,7 +10,7 @@ cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
 ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! Popups & Popunders
-ohmanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
+cocomanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 
 ! #CV-667
 hdzone.org#$#abort-current-inline-script Math zfgloaded
