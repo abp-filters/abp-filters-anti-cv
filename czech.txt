@@ -137,7 +137,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 &cmpState=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|expres.cz|idnes.cz
 /exlocate2=$subdocument,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|extra.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
-&dula$script,domain=idnes.cz|expres.cz
+&mulA78=$script,domain=idnes.cz|expres.cz
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
