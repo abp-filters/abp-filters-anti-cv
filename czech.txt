@@ -219,6 +219,8 @@ _goes_through_the_woods=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ;encodedclick=$script,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 /xhr|$xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 /cmp?zoneId=$xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+?k=$subdocument,domain=novinky.cz
+=?$subdocument,domain=horoskopy.cz
 
 horoskopy.cz#$#abort-on-property-read _sspDoNotInit
 
