@@ -366,10 +366,12 @@ midroll$xmlhttprequest,domain=televizeseznam.cz
 bubak$xmlhttprequest,domain=televizeseznam.cz
 /?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
-/doubleclick_dmm/*/file.mp4|$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
+/doubleclick_dmm^*/file.mp4|$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|idnes.cz|expres.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
-expres.cz,idnes.cz##a[href*="area=preroll_"], a[href*="click?xai="]
+expres.cz,idnes.cz##a[href*="area=preroll_"]
+expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##video[data-io-video-title*="Re&#8205;klama"]
+expres.cz,idnes.cz##video[data-io-video-title*="R&#8205;ek1&#8205;ama"]
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
