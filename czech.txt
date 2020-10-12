@@ -142,6 +142,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 &ifr=0|$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
 &mula$script,domain=idnes.cz|expres.cz
+&rula$script,domain=idnes.cz|expres.cz
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -288,7 +289,7 @@ novinky.cz##[class*="feed-item-advert"]
 novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
-novinky.cz##iframe[frafra="no"][scroscro="no"]
+novinky.cz##iframe[frofro="no"][scrascra="no"]
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
