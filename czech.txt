@@ -10,6 +10,7 @@ iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
+/posid=sas_$subdocument,xmlhttprequest,domain=iprima.cz
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##ball-hole, dr-ivehole
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iframe[frameborder="0"][scrolling="no"][src^="javascript:window"]
