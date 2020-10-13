@@ -122,7 +122,6 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
 quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//body//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow") and not(contains(@href,"help.rambler.ru")) and not(contains(@href,"prime.rambler.ru"))]'
-autorambler.ru,championat.com,eda.ru,gazeta.ru,lenta.ru,letidor.ru,motor.ru,passion.ru,quto.ru,rambler.ru,rns.online,wmj.ru#$#override-property-read Object.prototype.createBanner noopFunc
 rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
