@@ -25,7 +25,7 @@ gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
 razlozhi.ru#$#abort-on-property-read Object.prototype.setBlockData
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
-auto.ru#$#hide-if-matches-xpath '//div[@id="LayoutIndex"]//div[@class="Index"]//*[count(preceding-sibling::div[@class="Index__block"]) > 0]/child::*[last()]/self::*'; hide-if-matches-xpath '//div[@class="sidebar2__blocks"]/child::*[last()]/self::*'
+auto.ru#$#hide-if-matches-xpath '//div[@id="LayoutIndex"]//div[@class="Index"]//*[count(preceding-sibling::div[@class="Index__block"]) > 0]/child::*[last()]/self::*'; hide-if-matches-xpath '//div[@class="sidebar2__blocks"]/child::*[last()]/self::*'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," services-crosslinks ")]/following-sibling::*[1]/self::*'
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
