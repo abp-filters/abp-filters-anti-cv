@@ -291,6 +291,7 @@ novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 novinky.cz##iframe[frofro="no"][scrascra="no"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
 
 aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 
