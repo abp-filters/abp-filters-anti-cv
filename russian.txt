@@ -122,7 +122,7 @@ ekovolga.com,mind.ua,itechua.com,argumentiru.com,forpost.media,gov.ua,ternopilli
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
-quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//body//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow") and not(contains(@href,"help.rambler.ru")) and not(contains(@href,"prime.rambler.ru"))]'
+rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru#$#hide-if-matches-xpath '//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow") and not(contains(@href,"help.rambler.ru")) and not(contains(@href,"prime.rambler.ru")) and not(contains(@href,"campaign=self_promo")) and not(contains(@href,"id.rambler.ru")) and not(contains(@href,"utm_content")) and not(contains(@href,"recommendations")) and not(contains(@href,"utm_campaign")) and not(contains(@href,"news.rambler.ru"))]'
 rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
