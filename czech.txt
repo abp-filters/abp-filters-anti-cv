@@ -380,8 +380,7 @@ ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
-expres.cz,idnes.cz##video[data-io-video-title*="Re&#8205;klama"]
-expres.cz,idnes.cz##video[data-io-video-title*="R&#8205;ek1&#8205;ama"]
+expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
