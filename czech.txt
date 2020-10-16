@@ -381,6 +381,8 @@ novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
+idnes.cz#$#override-property-read BBkolDobeVzkaU undefined
+expres.cz#$#override-property-read BkoElobMezkUaC undefined
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
