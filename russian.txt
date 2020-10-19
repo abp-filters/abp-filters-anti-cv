@@ -13,7 +13,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 ! #CV-244
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
-24smi.org#$#abort-on-property-read String.fromCharCode
+24smi.org#$#abort-current-inline-script String
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.renderBanner
 drive2.ru#$#abort-on-property-read Object.prototype.AdList
 auto.ru#$#abort-on-property-read Object.prototype.AdvLoadDone
