@@ -146,6 +146,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 
 _cz?format=js&async=1|$domain=idnes.cz
+expres.cz,idnes.cz#$#freeze-element fable subtree :not(script) /.*/
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
