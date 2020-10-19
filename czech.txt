@@ -384,6 +384,7 @@ expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
 idnes.cz#$#override-property-read BBkolDobeVzkaU undefined
 expres.cz#$#override-property-read BkoElobMezkUaC undefined
+expres.cz,idnes.cz#$#hide-if-matches-xpath '//videoplayer[count(.//a[contains(@href,"area=preroll_")]) > 0]/video'
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
