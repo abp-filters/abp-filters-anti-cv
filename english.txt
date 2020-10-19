@@ -318,6 +318,7 @@ doodstream.com,dood.to,dood.watch#$#abort-on-property-read DoodPop; abort-on-pro
 ||gadsims.com^$popup
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
+txxx.com#$#abort-on-property-read adver
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
