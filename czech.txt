@@ -1,5 +1,5 @@
 ! #CV-655
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-write looph_ole; abort-on-property-read document.px_write; abort-on-property-write document.px_write
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-write war_phole; abort-on-property-read document.px_write; abort-on-property-write document.px_write
 iprima.cz#$#abort-on-property-read loadSeznamMones; abort-on-property-write loadSeznamMones; abort-on-property-write SeznamSSP
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 /section=adblock_desktop^$domain=iprima.cz
@@ -14,7 +14,7 @@ iprima.cz##a[href*="/area=branding"]
 /posid=sas_$subdocument,xmlhttprequest,script,domain=iprima.cz
 ?format=js|$script,domain=iprima.cz
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##icechim-ney, black-chimney, wormh-ole, loopho-le, ch-imney, b-lackchimney, icechi-mney
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##icechim-ney, black-chimney, wormh-ole, loopho-le, ch-imney, b-lackchimney, icechi-mney, firebal-l
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iframe[frameborder="0"][scrolling="no"][src^="javascript:window"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##div[style*="baackground-repeat: no-no;"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##leaderBoard
@@ -146,8 +146,8 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 
 _cz?format=js&async=1|$domain=idnes.cz
-expres.cz#$#freeze-element btsabwleq subtree :not(script) /.*/; abort-on-property-read ZkJolHobSezGkaP; abort-on-property-write ZkJolHobSezGkaP;
-idnes.cz#$#freeze-element kktafblfer subtree :not(script) /.*/; abort-on-property-read CBkoGloVbeEzkXaZ; abort-on-property-write CBkoGloVbeEzkXaZ;
+expres.cz#$#freeze-element xtnabsleg subtree :not(script) /.*/; abort-on-property-read JkEolJobVezBkaQ; abort-on-property-write JkEolJobVezBkaQ;
+idnes.cz#$#freeze-element httablley subtree :not(script) /.*/; abort-on-property-read EKkoRloMbeEzkAaM; abort-on-property-write EKkoRloMbeEzkAaM;
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -383,8 +383,6 @@ novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
-idnes.cz#$#override-property-read BBkolDobeVzkaU undefined
-expres.cz#$#override-property-read BkoElobMezkUaC undefined
 expres.cz,idnes.cz#$#hide-if-matches-xpath '//videoplayer[count(.//a[contains(@href,"area=preroll_")]) > 0]/video'
 
 ! #CV-764
