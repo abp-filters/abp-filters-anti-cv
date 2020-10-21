@@ -90,6 +90,7 @@ sports.ru,tribuna.com#$#abort-on-property-read Object.prototype.branding; overri
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
 app2top.ru#$#abort-on-property-read tingle
+allboxing.ru#$#abort-current-inline-script document.querySelector open
 
 ! Popup/popunder/clickunder
 oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
