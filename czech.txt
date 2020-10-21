@@ -268,7 +268,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[class$="Flax"]
 novinky.cz,kupi.cz,sport.cz,super.cz##[id$="-ad-container"]
 novinky.cz,kupi.cz,sport.cz,super.cz###sf0
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="Rekᥣama"]
-novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="/clickthru?"]
+novinky.cz,kupi.cz,sport.cz,super.cz,televizeseznam.cz##a[href*="/clickthru?"]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="__CLICKTHRU__"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?spotId="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[class$="ad-wrapper"]
@@ -373,6 +373,7 @@ preroll$xmlhttprequest,domain=televizeseznam.cz
 =undefined&baharasa$xmlhttprequest,domain=televizeseznam.cz
 midroll$xmlhttprequest,domain=televizeseznam.cz
 bubak$xmlhttprequest,domain=televizeseznam.cz
+&source=tvseznam*&zoneId-$xmlhttprequest,domain=televizeseznam.cz
 /?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 /doubleclick_dmm^*/file.mp4$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
