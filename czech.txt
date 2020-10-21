@@ -148,8 +148,8 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 
 _cz?format=js&async=1|$domain=idnes.cz
-expres.cz#$#abort-on-property-read SBkoWloYbeYzkMaL; abort-on-property-write SBkoWloYbeYzkMaL;
-idnes.cz#$#abort-on-property-read VkColAobHezIkaZ; abort-on-property-write VkColAobHezIkaZ; abort-on-property-write RkNolBobHezGkaP; abort-on-property-read RkNolBobHezGkaP;
+expres.cz#$#abort-on-property-read JkColSobRezSkaJ; abort-on-property-write JkColSobRezSkaJ;
+idnes.cz#$#abort-on-property-read KIkoUloFbeOzkIaI; abort-on-property-write KIkoUloFbeOzkIaI; abort-on-property-write QPkoGloGbeEzkLaN; abort-on-property-read QPkoGloGbeEzkLaN;
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
