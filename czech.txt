@@ -146,8 +146,8 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 
 _cz?format=js&async=1|$domain=idnes.cz
-expres.cz#$#freeze-element xtnabsleg subtree :not(script) /.*/; abort-on-property-read JkEolJobVezBkaQ; abort-on-property-write JkEolJobVezBkaQ;
-idnes.cz#$#freeze-element httablley subtree :not(script) /.*/; abort-on-property-read EKkoRloMbeEzkAaM; abort-on-property-write EKkoRloMbeEzkAaM;
+expres.cz#$#abort-on-property-read GYkoGloFbeRzkQaX; abort-on-property-write GYkoGloFbeRzkQaX;
+idnes.cz#$#abort-on-property-read FkQolWobLezEkaE; abort-on-property-write FkQolWobLezEkaE; abort-on-property-write FkEolYobKezAkaO; abort-on-property-read FkEolYobKezAkaO;
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -339,7 +339,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 /dev_display_width=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|info.cz|karaoketexty.cz|kinobox.cz|kupi.cz|lidovky.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|tiscali.cz|zeny.cz|zive.cz
 /rexlocate=$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
-! CV-780
+! #CV-780
 =kotvvdo/konina$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 autoplay/safety=^$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 /trumevli=$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
