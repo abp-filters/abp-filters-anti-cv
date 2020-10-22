@@ -129,6 +129,7 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow")]'
 kino.rambler.ru,sport.rambler.ru,auto.rambler.ru,horoscopes.rambler.ru,finance.rambler.ru,woman.rambler.ru,doctor.rambler.ru,travel.rambler.ru,weekend.rambler.ru,games.rambler.ru,news.rambler.ru#$#hide-if-matches-xpath '//div//*[not(div[@class])]//a[contains(@href,".rambler.ru") and (@target="_blank") and not(@rel="nofollow") and not(@rel="noopener noreferrer") and not(@data-cerber-topline) and not(@class)]'
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
+rambler.ru##div a[href="/"]:not([class])
 rambler.ru##.top-topic__coins
 rambler.ru##.top-main__banner--context
 rambler.ru##.article__right-middle
