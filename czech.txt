@@ -1,5 +1,5 @@
 ! #CV-655
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-write firec_himney
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-write bl_ackhole
 iprima.cz#$#abort-on-property-read loadSeznamMones; abort-on-property-write loadSeznamMones; abort-on-property-write SeznamSSP
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 /section=adblock_desktop^$domain=iprima.cz
@@ -14,7 +14,7 @@ iprima.cz##a[href*="/area=branding"]
 /posid=sas_$subdocument,xmlhttprequest,script,domain=iprima.cz
 ?format=js|$script,domain=iprima.cz
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iceb-all, form-nose, fo-rmnose, for-mnose
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iceb-all, form-nose, fo-rmnose, for-mnose, blackba-ll
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[data-track-ad]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iframe[frameborder="0"][scrolling="no"][src^="javascript:window"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,idnes.cz,expres.cz##div[style*="baackground-repeat: no-no;"]
@@ -148,8 +148,8 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 
 _cz?format=js&async=1|$domain=idnes.cz
-expres.cz#$#abort-on-property-read TkAolUobYezHkaU; abort-on-property-write TkAolUobYezHkaU;
-idnes.cz#$#abort-on-property-read UMkoWloPbeXzkXaQ; abort-on-property-write UMkoWloPbeXzkXaQ;
+expres.cz#$#abort-on-property-read TkJolLobHezUkaQ; abort-on-property-write TkJolLobHezUkaQ;
+idnes.cz#$#abort-on-property-read XkZolSobLezIkaG; abort-on-property-write XkZolSobLezIkaG;
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
