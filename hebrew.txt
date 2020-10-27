@@ -3,4 +3,4 @@ yad2.co.il#$#abort-current-inline-script TextDecoder
 walla.co.il#$#abort-on-property-read jorLoad20a
 
 ! MISC
-walla.co.il##iframe[scrolling="no"][frameborder="0"]:not([id^="twitter-widget"]):not([src*="facebook.com"]):not([src*="twitter.com"]):not(#rufous-sandbox)
+walla.co.il##iframe:not([src]):not([class])[scrolling="no"][frameborder="0"]:not(#rufous-sandbox)
