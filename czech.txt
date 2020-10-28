@@ -154,8 +154,8 @@ _c7.scptBan-$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e1
 =js&lst=$script,domain=idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 
 _cz?format=js&async=1|$domain=idnes.cz
-expres.cz#$#abort-on-property-read IBkoCloObeLzkSaP; abort-on-property-write IBkoCloObeLzkSaP;
-idnes.cz#$#abort-on-property-read UBkoEloLbeVzkIaC; abort-on-property-write UBkoEloLbeVzkIaC;
+expres.cz#$#abort-on-property-read BkBolIobDezYkaG; abort-on-property-write BkBolIobDezYkaG;
+idnes.cz#$#abort-on-property-read MBkoYloQbeYzkXaD; abort-on-property-write MBkoYloQbeYzkXaD;
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
