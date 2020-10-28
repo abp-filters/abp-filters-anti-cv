@@ -391,7 +391,7 @@ expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
 expres.cz,idnes.cz#$#hide-if-matches-xpath '//videoplayer[count(.//a[contains(@href,"area=preroll_")]) > 0]/video'
-idnes.cz#$#abort-on-property-write UBkoYloIbeBzkAaI; abort-on-property-read UBkoYloIbeBzkAaI;
+idnes.cz#$#abort-on-property-write RkJolQobJezJkaW; abort-on-property-read RkJolQobJezJkaW;
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
