@@ -224,6 +224,7 @@ azdab|$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepeni
 &border=0&bust=$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &jaden$subdocument,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 /satelliteLib-$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
+&ubl=$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 
 ?wimvu=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /static/html^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
