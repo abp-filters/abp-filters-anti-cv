@@ -14,7 +14,7 @@ iprima.cz##a[href*="/area=branding"]
 /posid=sas_$subdocument,xmlhttprequest,script,domain=iprima.cz
 ?format=js|$script,domain=iprima.cz
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iceb-all, form-nose, fo-rmnose, for-mnose, blackba-ll, wa-rmchimney, icechim-ney, leftha-nd, worm-hole, fir-eball, wormho-le, dr-ivehole, firechi_mney, loopho-le, blackch-imney, i-ceball, drive-hole, w-arphole, fireb-all, b-lackchimney, ice-ball, ballh-ole, warmchimne-y, blackc-himney, firechimne-y
+auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iceb-all, form-nose, fo-rmnose, for-mnose, blackba-ll, wa-rmchimney, icechim-ney, leftha-nd, worm-hole, fir-eball, wormho-le, dr-ivehole, firechi_mney, loopho-le, blackch-imney, i-ceball, drive-hole, w-arphole, fireb-all, b-lackchimney, ice-ball, ballh-ole, warmchimne-y, blackc-himney, firechimne-y, bla-ckball
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="ad-"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[data-track-ad]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##iframe[frameborder="0"][scrolling="no"][src^="javascript:window"]
