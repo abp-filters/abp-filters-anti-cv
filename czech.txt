@@ -396,8 +396,7 @@ novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
 expres.cz,idnes.cz##a[href*="area=preroll_"]
 expres.cz,idnes.cz##a[href*="click?xai="]
 expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
-expres.cz,idnes.cz#$#hide-if-matches-xpath '//videoplayer[count(.//a[contains(@href,"area=preroll_")]) > 0]/video'
-idnes.cz#$#abort-on-property-write NkYolZobKezNkaY; abort-on-property-read NkYolZobKezNkaY;
+expres.cz,idnes.cz##a[href*="preroll"]
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
