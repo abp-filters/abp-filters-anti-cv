@@ -11,6 +11,7 @@ iprima.cz##div[data-d-area]
 iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
 iprima.cz##a[href*="/area=branding"]
+iprima.cz##[id*="-ad-"], .ifr-claassflak, a[href*="/posid=sas_"]
 /posid=sas_$subdocument,xmlhttprequest,script,domain=iprima.cz
 ?format=js|$script,domain=iprima.cz
 
