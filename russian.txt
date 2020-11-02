@@ -128,6 +128,7 @@ tverigrad.ru,novynarnia.com,apnews.com.ua,cn.ua,podpricelom.com.ua,begemot.media
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
+rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//*[not(self::node()[@class])][contains(normalize-space(),".ru") or contains(normalize-space(),".com") or contains(normalize-space(),".net") or contains(normalize-space(),"Реклама")]/ancestor::*[2][not(div)][not(p)][not(article)][not(head)][not(font)][not(li)][not(ul)]'
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru#$#hide-if-matches-xpath '//div//a[contains(@href,".rambler.ru") and @target="_blank" and not(@rel="nofollow")]'
 kino.rambler.ru,sport.rambler.ru,auto.rambler.ru,horoscopes.rambler.ru,finance.rambler.ru,woman.rambler.ru,doctor.rambler.ru,travel.rambler.ru,weekend.rambler.ru,games.rambler.ru,news.rambler.ru#$#hide-if-matches-xpath '//div//*[not(div[@class])]//a[contains(@href,".rambler.ru") and (@target="_blank") and not(@rel="nofollow") and not(@rel="noopener noreferrer") and not(@data-cerber-topline) and not(@class)]'
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
