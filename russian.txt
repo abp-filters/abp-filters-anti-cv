@@ -102,6 +102,7 @@ fapreactor.com,pornreactor.cc#$#abort-current-inline-script Math decodeURICompon
 budport.com.ua#$#abort-current-inline-script $ open
 agronews.ua#$#abort-on-property-read wpsite_clickable_data
 aces.gg#$#abort-current-inline-script $ window.open
+penzainform.ru#$#abort-current-inline-script $ divWrapper
 
 ! #CV-547
 auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
