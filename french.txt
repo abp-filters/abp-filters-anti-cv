@@ -79,7 +79,7 @@ extreme-down.ninja,voiranime.com#$#abort-on-property-read NativeAd
 ! #CV-667
 jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
 streaming-vostfr.com#$#abort-current-inline-script document.dispatchEvent String.fromCharCode
-flystream.fr,filmtelecharger.net,jetanimes.co,libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com#$#abort-current-inline-script Math zfgloaded
+extreme-down.video,flystream.fr,filmtelecharger.net,jetanimes.co,libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-685
 streaming-vostfr.com#$#abort-on-property-read decodeURIComponent
@@ -90,3 +90,4 @@ french-streams.com#$#abort-on-property-read open
 ! Popup/Popunder
 batporno.com#$#abort-on-property-read decodeURI
 jetanimes.co#$#abort-on-property-read atob
+extreme-down.video#$#abort-current-inline-script String.fromCharCode btoa
