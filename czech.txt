@@ -232,7 +232,7 @@ azdab|$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepeni
 /satelliteLib-$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 &ubl=$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz
 
-?wimvu=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
+?wimvr=$subdocument,script,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /static/html^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /imp^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
@@ -248,6 +248,7 @@ _goes_through_the_woods=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 ?k=$subdocument,domain=novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 =?$subdocument,domain=horoskopy.cz
 /fallbacks^$subdocument,domain=novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+/dynamic^$image,domain=kupi.cz
 
 novinky.cz,super.cz,sport.cz,kupi.cz,aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 novinky.cz#$#abort-on-property-read ZsLssVpsEssJpS
@@ -314,6 +315,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 novinky.cz##iframe[frofro="no"][scrascra="no"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
 novinky.cz##a[href*="&partId="]
+novinky.cz##div[style*="background-image: url"]
 
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
