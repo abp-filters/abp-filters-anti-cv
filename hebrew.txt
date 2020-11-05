@@ -2,5 +2,5 @@
 yad2.co.il#$#abort-current-inline-script TextDecoder
 walla.co.il#$#abort-on-property-read jorLoad20a
 
-! MISC
-walla.co.il##iframe:not([src]):not([class])[scrolling="no"][frameborder="0"]:not(#rufous-sandbox)
+! #CV-890
+walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
