@@ -90,4 +90,4 @@ french-streams.com#$#abort-on-property-read open
 ! Popup/Popunder
 batporno.com#$#abort-on-property-read decodeURI
 jetanimes.co#$#abort-on-property-read atob
-streaming-vostfr.net,hdss.to,extreme-down.video#$#abort-current-inline-script String.fromCharCode btoa
+wawacity.co,wawacity.ec,wawacity.ninja,wawacity.vip,streaming-vostfr.net,hdss.to,extreme-down.video#$#abort-current-inline-script String.fromCharCode btoa
