@@ -4,3 +4,4 @@ walla.co.il#$#abort-on-property-read jorLoad20a
 
 ! #CV-890
 walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
+walla.co.il##div[data-slot-name]
