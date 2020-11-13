@@ -2,7 +2,6 @@
 3sk.io,3sk.co,33sk.tv#$#abort-on-property-read atob; abort-on-property-write Fingerprint2; abort-on-property-read decodeURIComponent; abort-on-property-read RegExp
 egydead.net,egydead.com#$#abort-on-property-read _pop; abort-on-property-read atob; abort-on-property-write Fingerprint2
 cimaclub.com#$#abort-on-property-read atob; abort-on-property-read decodeURIComponent; abort-current-inline-script document.createElement String.fromCharCode
-$popup,third-party,domain=egybest2.com|egybest4.com|egydead.net|egydead.com|arabseed.me
 
 egybest2.com,egybest4.com#$#abort-on-property-read adcashMacros; abort-on-property-write adcashMacros; abort-current-inline-script _0xbc13 
 
@@ -18,3 +17,7 @@ beinconnect.us,coroot.blogspot.com,ktarab.com,shofnow.com,actionz.tv,brstej.com,
 
 ! Popup/Popunder
 lodynet.co,lodynet.tv,actionz.tv,mvs4u.co,hawak.tv,rotana.video,almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
+*$popup,third-party,domain=egybest2.com|egybest4.com|egydead.net|egydead.com|arabseed.me
+
+! #CV-754
+akoam.com,akoam.net,akwam.co,akwam.net,akwam.org,gocoo.co#$#abort-on-property-read String.fromCharCode
