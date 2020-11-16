@@ -6,3 +6,5 @@ walla.co.il#$#abort-on-property-read jorLoad20a
 walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
 walla.co.il,sheee.co.il##div[data-slot-name]
 walla.co.il,sheee.co.il##a[href^="https://www.www.walla.co.il/c.php?"]
+walla.co.il,sheee.co.il##a[href^="https://kvdhzjfrudaxrleb."]
+walla.co.il,sheee.co.il##[data-google-av-flags]
