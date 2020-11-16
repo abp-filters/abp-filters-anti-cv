@@ -320,6 +320,7 @@ youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpR
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
 downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
+frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
