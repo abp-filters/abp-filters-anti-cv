@@ -29,13 +29,14 @@ redtube.com#$#abort-on-property-read smpop
 youporn.com#$#abort-on-property-read zone_underplayer; abort-on-property-read zone_2545
 
 ! #CV-663
+newser.com#$#freeze-element #divVote; freeze-element #divRightRail '' #divRightRailContent
+foreverymom.com#$#freeze-element .post abort .facebook_comment_post #fb-root
+grammarist.com#$#freeze-element #content-sidebar-wrap abort
+canadafreepress.com#$#freeze-element .col-md-8 '' [data-spotim-default-areas] [data-post-url]; freeze-element .col-md-4 '' .row
+
 deneenborelli.com#$#freeze-element .wpb_wrapper subtree
 naturalblaze.com#$#freeze-element .content-sidebar-wrap abort; freeze-element article abort
-newser.com#$#freeze-element #voteDivContentAuto subtree+abort; freeze-element #divRightRailContent subtree+abort
-foreverymom.com#$#freeze-element .post subtree+abort
-grammarist.com#$#freeze-element #sidebar abort
 beforeitsnews.com#$#freeze-element .widget-area abort; freeze-element #story_column abort
-canadafreepress.com#$#freeze-element .col-md-8 '' [data-spotim-default-areas] [data-post-url]
 videogamesblogger.com#$#freeze-element .listedArticle abort; freeze-element #sideBarContent abort+subtree
 gamersheroes.com#$#freeze-element .sc_section abort .sc_blogger
 rightwingtribune.com#$#freeze-element .mh-sidebar abort; freeze-element .entry-content abort
