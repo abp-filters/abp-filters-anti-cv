@@ -319,7 +319,7 @@ doodstream.com,dood.to,dood.watch#$#abort-on-property-read DoodPop; abort-on-pro
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
-downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
+animepahe.com,downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
 frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! #CV-691
