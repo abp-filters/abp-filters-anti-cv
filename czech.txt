@@ -175,7 +175,7 @@ orcie178nohy$image,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
 ?fl=res,$image,domain=www.idnes.cz|expres.cz
-www.idnes.cz,expres.cz#$#abort-on-property-read document.currentScript.insertAdjacentElement
+www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
