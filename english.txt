@@ -33,6 +33,12 @@ newser.com#$#freeze-element #divVote; freeze-element #divRightRail '' #divRightR
 foreverymom.com#$#freeze-element .post abort .facebook_comment_post #fb-root
 grammarist.com#$#freeze-element #content-sidebar-wrap abort
 canadafreepress.com#$#freeze-element .col-md-8 '' [data-spotim-default-areas] [data-post-url]; freeze-element .col-md-4 '' .row
+independentminute.com#$#freeze-element #content-main '' .twitter-tweet twitter-tweet-rendered; freeze-element .side-widget subtree
+conservativefiringline.com#$#freeze-element #revere-report-widget abort; freeze-element .post
+dcdirtylaundry.com#$#freeze-element .textwidget abort+subtree
+designbump.com#$#freeze-element .cb-entry-content; freeze-element .cb-sidebar '' .banner
+ipatriot.com#$#freeze-element .article-content abort; freeze-element .revere-report-logo abort
+breakingfirst.com#$#freeze-element .evo-right-sidebar abort .theiaStickySidebar; freeze-element .evo-post abort
 
 deneenborelli.com#$#freeze-element .wpb_wrapper subtree
 naturalblaze.com#$#freeze-element .content-sidebar-wrap abort; freeze-element article abort
@@ -40,25 +46,19 @@ beforeitsnews.com#$#freeze-element .widget-area abort; freeze-element #story_col
 videogamesblogger.com#$#freeze-element .listedArticle abort; freeze-element #sideBarContent abort+subtree
 gamersheroes.com#$#freeze-element .sc_section abort .sc_blogger
 rightwingtribune.com#$#freeze-element .mh-sidebar abort; freeze-element .entry-content abort
-dcdirtylaundry.com#$#freeze-element .fb-page abort+subtree
 dcclothesline.com#$#freeze-element #td_social_sharing_article_bottom abort
-independentminute.com#$#freeze-element #archive-list-wrap abort; freeze-element .post-cont-in abort
 madworldnews.com#$#freeze-element .post abort
 clashdaily.com#$#freeze-element .td-post-content abort .twitter-tweet .essb_links
-conservativefiringline.com#$#freeze-element .td-post-content abort .twitter-tweet .essb_links
 tosavealife.com#$#freeze-element .post abort
 allthingsvegas.com#$#freeze-element .vw-page-navigation abort
 bestfunnyjokes4u.com#$#freeze-element .post-bodycopy abort
-designbump.com#$#freeze-element .cb-entry-content abort
 dailylol.com#$#freeze-element .post abort
 patriotnationpress.com#$#freeze-element .widget_recent_entries abort .cb-sidebar-widget-title
 thedesigninspiration.com#$#freeze-element .article-body abort
 wakingtimes.com#$#freeze-element .widget-area abort
 threepercenternation.com#$#freeze-element .widget_text abort
 survivalnation.com#$#freeze-element .vw-post-tabed-content abort; freeze-element .post abort
-ipatriot.com#$#freeze-element .article-content abort
 greatamericanpolitics.com#$#freeze-element .td-ss-main-content abort'; freeze-element .post abort
-breakingfirst.com#$#freeze-element .evo-right-sidebar abort; freeze-element .evo-post abort
 vitamiiin.com#$#freeze-element .prev-next-nav abort
 americasfreedomfighters.com#$#freeze-element #sidebar abort; freeze-element .entry abort
 steadfastherald.com#$#freeze-element .page-content abort; freeze-element .nav-wrapper abort
