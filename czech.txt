@@ -174,7 +174,7 @@ orcie178nohy$image,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz
 
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
-?fl=res,$image,domain=www.idnes.cz|expres.cz
+?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|televizeseznam.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
 
 reflex.cz###gl-nat
@@ -333,6 +333,7 @@ novinky.cz##iframe[frofro="no"][scrascra="no"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
 novinky.cz##a[href*="&partId="]
 novinky.cz##div[style*="background-image: url"]
+novinky.cz##a[title][target="_blank"][href^="//www.novinky.cz/"]
 
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
