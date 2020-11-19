@@ -178,6 +178,7 @@ _cz?format=js&async=1|$domain=www.idnes.cz
 www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
 ||www.expres.cz/*mafra/*$image,domain=www.expres.cz
 ||www.idnes.cz/*mafra/*$image,domain=www.idnes.cz
+www.idnes.cz,expres.cz##a[href*="mor_sto874ileti"]
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -406,7 +407,7 @@ preroll$xmlhttprequest,domain=televizeseznam.cz
 midroll$xmlhttprequest,domain=televizeseznam.cz
 bubak$xmlhttprequest,domain=televizeseznam.cz
 &source=tvseznam*&zoneId-$xmlhttprequest,domain=televizeseznam.cz
-/?bn=*&ord=$xmlhttprequest,domain=expres.cz|idnes.cz
+/?bn=*&ord=$xmlhttprequest,script,domain=expres.cz|idnes.cz
 ad0R$xmlhttprequest,domain=expres.cz|idnes.cz
 /doubleclick_dmm^*/file.mp4$media,domain=expres.cz|idnes.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 novinky.cz,super.cz,sport.cz##[class*="ClickThrough"]
