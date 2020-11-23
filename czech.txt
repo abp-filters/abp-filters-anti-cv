@@ -198,7 +198,7 @@ branding$image,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|ref
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
 ?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
-www.idnes.cz,expres.cz#$#abort-on-property-write document.currentScript
+www.idnes.cz,expres.cz#?#div:-abp-has(>a[href$="/personalizovana-reklama/"])
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
