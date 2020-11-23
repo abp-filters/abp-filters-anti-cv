@@ -89,7 +89,7 @@ dfiles.ru#$#abort-on-property-read ads_script
 sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayElement noopFunc
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
-app2top.ru,fssp.gov.ru#$#abort-on-property-read tingle
+fssp.gov.ru#$#abort-on-property-read tingle
 allboxing.ru#$#abort-current-inline-script document.querySelector open
 www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
 kurs.com.ua#$#abort-current-inline-script document.documentElement.clientWidth
