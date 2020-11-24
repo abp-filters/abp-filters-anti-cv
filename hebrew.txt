@@ -7,3 +7,5 @@ walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#
 walla.co.il,sheee.co.il##div[data-slot-name]
 walla.co.il,sheee.co.il##[data-google-av-flags]
 walla.co.il,sheee.co.il##a[href*=".php?doc=aHR0"]
+walla.co.il,sheee.co.il##a[href*=".php?tromb=aHR0"]
+walla.co.il,sheee.co.il##amp-img
