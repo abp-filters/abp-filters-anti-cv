@@ -28,7 +28,7 @@ yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"
 auto.ru#$#hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::*/*//*[starts-with(@class,"Index__block")]'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," LazyComponent LazyComponent_empty ")]/following-sibling::*[1]/self::*'; hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::div[starts-with(@class,"Index__block")]'
 razlozhi.ru##[class="_an_"]
 razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
-razlozhi.ru#$#abort-on-property-write Object.prototype.unconfirmAds
+razlozhi.ru#$#abort-on-property-write Object.prototype.getUnusableAds
 auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.abuseAd
 gorodrabot.ru#$#abort-on-property-write Object.prototype.getFreeAds
 
