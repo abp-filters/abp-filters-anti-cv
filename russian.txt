@@ -29,7 +29,7 @@ auto.ru#$#hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling:
 razlozhi.ru##[class="_an_"]
 razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
 razlozhi.ru#$#abort-on-property-write Object.prototype.getFreeAds
-auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.prepareAds
+auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.getAdsByLimit
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
