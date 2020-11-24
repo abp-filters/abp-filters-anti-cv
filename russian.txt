@@ -30,6 +30,7 @@ razlozhi.ru##[class="_an_"]
 razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
 razlozhi.ru#$#abort-on-property-write Object.prototype.getAdsByLimit
 auto.ru#$#abort-on-property-write Object.prototype.prepareAds
+drive2.ru#$#abort-on-property-write Object.prototype.prepareAds
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
