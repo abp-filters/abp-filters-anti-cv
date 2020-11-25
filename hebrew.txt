@@ -3,12 +3,10 @@ yad2.co.il#$#abort-current-inline-script TextDecoder
 walla.co.il#$#abort-on-property-read jorLoad20a
 
 ! #CV-890
-walla.co.il##iframe[class][id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
+walla.co.il,sheee.co.il##iframe[id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
 walla.co.il,sheee.co.il##div[data-slot-name]
 walla.co.il,sheee.co.il##[data-google-av-flags]
-walla.co.il,sheee.co.il##a[href*=".php?doc=aHR0"]
-walla.co.il,sheee.co.il##a[href*=".php?tromb=aHR0"]
 walla.co.il,sheee.co.il##[src^="https://tpc.googlesyndication.com/simgad/"]
 walla.co.il,sheee.co.il##a[on^="tap:exit-api.exit(target='landingPage',_googClickLocation="]
-walla.co.il,sheee.co.il##a[href^="https://umhknsxfggfqhvqk.walla.co.il/"]
-walla.co.il,sheee.co.il##a[href*="m.php?ozon=aHR0c"]
+walla.co.il,sheee.co.il##a[href^="https://zydckjqyxturvsse.walla.co.il/"]
+walla.co.il,sheee.co.il##a[href*="=aHR0c"]
