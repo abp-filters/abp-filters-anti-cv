@@ -96,7 +96,7 @@ fssp.gov.ru#$#abort-on-property-read tingle
 allboxing.ru#$#abort-current-inline-script document.querySelector open
 www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
 kurs.com.ua#$#abort-current-inline-script document.documentElement.clientWidth
-gamebomb.ru#$#abort-current-inline-script jQuery /EventPosition/
+gamebomb.ru#$#abort-current-inline-script jQuery /Position/
 
 ! Popup/popunder/clickunder
 oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
