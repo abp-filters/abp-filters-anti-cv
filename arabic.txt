@@ -20,6 +20,7 @@ beinconnect.us,coroot.blogspot.com,ktarab.com,shofnow.com,actionz.tv,brstej.com,
 ! Popup/Popunder
 lodynet.co,lodynet.tv,actionz.tv,mvs4u.co,hawak.tv,rotana.video,almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
 *$popup,third-party,domain=egybest2.com|egybest4.com|egydead.net|egydead.com|arabseed.me
+iegy.best,egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.com,egybest.cool,egybest.life,egybest.ltd,egybest.ist,egybest.name,egybest.net,egybest.network,egybest.ninja,egybest.nl,egybest.online,egybest.org,egybest.pw,egybest.rocks,egybest.site,egybest.xyz,egybest.zone#$#abort-on-property-read open
 
 ! #CV-754
 akoam.com,akoam.net,akwam.co,akwam.net,akwam.org,gocoo.co#$#abort-on-property-read String.fromCharCode
