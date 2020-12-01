@@ -319,7 +319,7 @@ youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpR
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
 babeporn.net,vudeo.net,animepahe.com,downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
-tubexo.tv,frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
+wonporn.com,bobolike.com,tubexo.tv,frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
 xhamster2.com,xhamster.one#$#abort-current-inline-script document.createElement initTabUnder
 
 *$popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
