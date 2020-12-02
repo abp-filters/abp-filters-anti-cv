@@ -235,7 +235,7 @@ thegatewaypundit.com##a[href*="cloudfront.net"]
 ||cloudfront.net^$domain=thegatewaypundit.com
 
 ! #CV-666
-biter.tv,byter.tv#$#abort-on-property-write adcashMacros
+pstream.net,biter.tv,byter.tv#$#abort-on-property-write adcashMacros
 onvid.website,mkvcage.com,pastehere.xyz,thevidhd.xyz,thevidhd.online,thehdvid.website,vidhd.site,vidhd.space,thehdvid.xyz,vidhd.host,vidshare.tv,govid.me,vidhd.pro,vidhd.world,vidhd.online,ovid.live,ovid.pw,ovid.space,hdvid.life,hdvid.tv,hdvid.xyz,onvid.club,onvid.fun,onvid.host,onvid.icu,onvid.online,onvid.pw,onvid.xyz,ovid.icu,ovid.pro,ovid.site,ovid.world,vidhd.club,vidhd.fun,vidhd.pw#$#abort-on-property-read adcashMacros
 
 ! MISC
