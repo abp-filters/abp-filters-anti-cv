@@ -318,7 +318,7 @@ doodstream.com,dood.to,dood.watch#$#abort-on-property-read DoodPop; abort-on-pro
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 txxx.com,hclips.com#$#abort-on-property-read adver
-babeporn.net,vudeo.net,animepahe.com,downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
+uqload.com,babeporn.net,vudeo.net,animepahe.com,downloadgameps3.com,letsupload.co,letsupload.io#$#abort-current-inline-script String.fromCharCode btoa
 wonporn.com,bobolike.com,tubexo.tv,frprn.com#$#abort-current-inline-script document.querySelectorAll popMagic
 xhamster2.com,xhamster.one#$#abort-current-inline-script document.createElement initTabUnder
 
