@@ -25,12 +25,7 @@ gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
 razlozhi.ru#$#abort-on-property-read Rzlzh.ymParams; abort-on-property-read Object.prototype.createHostAsserter
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
-auto.ru#$#hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::*/*//*[starts-with(@class,"Index__block")]'; hide-if-matches-xpath '//*[contains(concat(" ",normalize-space(@class)," ")," LazyComponent LazyComponent_empty ")]/following-sibling::*[1]/self::*'; hide-if-matches-xpath '//div[@class="Index__block"]/following-sibling::*[1]/self::div[starts-with(@class,"Index__block")]'
-razlozhi.ru##[class="_an_"]
-razlozhi.ru#$#hide-if-matches-xpath '//div[not(@data-id)]/span/following-sibling::div'
 razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.allowRepeatAds
-auto.ru,drive2.ru#$#abort-on-property-write Object.prototype.abuseAd
-gorodrabot.ru#$#abort-on-property-write Object.prototype.getFreeAds
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
