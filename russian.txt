@@ -25,7 +25,7 @@ gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
 razlozhi.ru#$#abort-on-property-read Rzlzh.ymParams; abort-on-property-read Object.prototype.createHostAsserter
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
-razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.allowRepeatAds
+razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.getEmptyAdFilter
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
