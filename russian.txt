@@ -22,7 +22,7 @@ gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
-razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.AdvManagerLoader
+razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.AdvManagerLoader; abort-on-property-write Object.prototype.AdvManagerRender
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
