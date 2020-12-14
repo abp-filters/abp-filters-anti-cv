@@ -62,8 +62,7 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read _pop
-japscan.cc,japscan.to#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode
-japscan.co,japscan.com#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode; abort-current-inline-script Object.defineProperty XMLHttpRequest; abort-on-property-read String.fromCharCode
+japscan.cc,japscan.com,japscan.se,japscan.to#$#abort-on-property-read atob; abort-current-inline-script document.createElement String.fromCharCode; abort-current-inline-script Object.defineProperty XMLHttpRequest; abort-current-inline-script String.fromCharCode /btoa|break/
 streaminfr.com#$#abort-on-property-read pushADs
 linfoweb.com#$#abort-on-property-write num
 down-paradise.com#$#abort-on-property-read open
