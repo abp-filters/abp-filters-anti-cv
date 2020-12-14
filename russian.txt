@@ -72,7 +72,7 @@ vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
 paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 dota2.ru#$#abort-on-property-read helpUsImproveSite
-fastpic.ru#$#abort-current-inline-script document.createElement Math.random; abort-on-property-read document.getElementsByTagName
+fastpic.ru,~new.fastpic.ru#$#abort-current-inline-script document.createElement Math.random; abort-on-property-read document.getElementsByTagName
 softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-read Object.prototype.str_replace
 www.ixbt.com#$#abort-on-property-read adv_obj; abort-current-inline-script document.getElementById branding
 city.ogo.ua#$#abort-on-property-read myatu_bgm
