@@ -404,7 +404,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-vide
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[data-blahakvaka]
 novinky.cz##a[href*="&partId="]
 novinky.cz##a[title][target="_blank"][href^="//www.novinky.cz/"]
-novinky.cz##div[style^="background-Image:"], [style^="bAckgroUnd-imAge:"]
+novinky.cz##div[style^="background-Image:"], [style^="backgrounD-Image:"]
 sport.cz##iframe[frameborder][scrolling][src^="https://www.sport.cz/"]
 super.cz##iframe[frameborder][scrolling][src^="https://www.super.cz/"]
 novinky.cz##iframe[frameborder][scrolling][src^="https://www.novinky.cz/"]
