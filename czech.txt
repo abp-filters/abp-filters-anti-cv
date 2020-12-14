@@ -408,10 +408,12 @@ novinky.cz##a[title][target="_blank"][href^="//www.novinky.cz/"]
 novinky.cz##div[style^="background-Image:"], [style^="bAckGround-ImAGe:"]
 sport.cz##iframe[frameborder][scrolling][src^="https://www.sport.cz/"]
 super.cz##iframe[frameborder][scrolling][src^="https://www.super.cz/"]
-novinky.cz##iframe[frameporder][src^="https://www.novinky.cz/"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[frameporder]
 kupi.cz##iframe[frameborder][scrolling][src^="https://www.kupi.cz/"]
 kupi.cz##[class$="_ssp"], [class^="ssp_"]
 novinky.cz,sport.cz,super.cz##[class$="_main__ad"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="branding-"]
+showad.js$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
