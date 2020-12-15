@@ -133,7 +133,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[href*="name=https:"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,www.idnes.cz,expres.cz#?#div:-abp-has(>a[href$="/personalizovana-reklama/"])
 
-;attelKaling=^$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
+;impenegaKatuess=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ?dek=opin&$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ?v=1.006|$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ?user=ps4&$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
@@ -141,7 +141,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 ?friend=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 pedistifbate=$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 /area=Ostatni$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
-/poho4rozec=$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
+/n5aho5zenice=$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 /domar26nice=$domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ?format=js&$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 .cz-hb-settings-sas.js$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
