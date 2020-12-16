@@ -413,6 +413,8 @@ kupi.cz##iframe[frameborder][scrolling][src^="https://www.kupi.cz/"]
 kupi.cz##[class$="_ssp"], [class^="ssp_"]
 novinky.cz,sport.cz,super.cz##[class$="_main__ad"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="branding-"]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[data-oblohakava]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[ramenoerderx]
 showad.js$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 @@||pocitadlolibise.seznam.cz^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 .cz/*ps*sp*=$subdocument,domain=super.cz|sport.cz|novinky.cz|kupi.cz
