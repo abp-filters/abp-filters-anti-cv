@@ -341,9 +341,7 @@ _goes_through_the_woods=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz
 
 novinky.cz,super.cz,sport.cz,kupi.cz,aktualne.cz,aktuality.sk,vareni.cz#$#abort-on-property-read atob
 novinky.cz#$#abort-on-property-read ZsLssVpsEssJpS
-kupi.cz#$#abort-on-property-read AdsHelper; abort-on-property-read XvRabsaftHfter
-super.cz#$#abort-on-property-read BsGssIpsPssYpN
-sport.cz#$#abort-on-property-read TsIssJpsCssEpE
+kupi.cz#$#abort-on-property-read AdsHelper;
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
 novinky.cz,super.cz,sport.cz,horoskopy.cz##div[data-impressionurl]
@@ -414,7 +412,7 @@ kupi.cz##[class$="_ssp"], [class^="ssp_"]
 novinky.cz,sport.cz,super.cz##[class$="_main__ad"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="branding-"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[data-oblohakava]
-novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[frameborederx]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[ramenordeerx]
 showad.js$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 @@||pocitadlolibise.seznam.cz^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 .cz/*ps*sp*=$subdocument,domain=super.cz|sport.cz|novinky.cz|kupi.cz
