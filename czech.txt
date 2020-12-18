@@ -329,7 +329,6 @@ azdab|$script,domain=tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepeni
 cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 /bimbu$script,subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
 ?klik*truu=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
-&sp*sq=$subdocument,xmlhttprequest,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 &pssp1=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 ?url=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 _goes_through_the_woods=$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|televizeseznam.cz
@@ -416,7 +415,6 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[data-oblohakava]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[rameenorderx]
 showad.js$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 @@||pocitadlolibise.seznam.cz^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
-.cz/*ps*sp*=$subdocument,domain=super.cz|sport.cz|novinky.cz|kupi.cz
 
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
