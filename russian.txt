@@ -13,16 +13,14 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 ! #CV-244
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
-24smi.org#$#abort-current-inline-script document.createElement onload
 liveinternet.ru#$#abort-on-property-read atob; abort-on-property-read Object.prototype.adfoxDomain
 echo.msk.ru#$#abort-on-property-read eval; abort-on-property-read Object.prototype.render
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 it-here.ru#$#abort-on-property-read pum
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
-www.kinopoisk.ru#$#abort-on-property-read Object.prototype.RTB
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
-razlozhi.ru,auto.ru,drive2.ru,gorodrabot.ru#$#abort-on-property-write Object.prototype.AdvManagerLoader; abort-on-property-write Object.prototype.AdvManagerRender; abort-on-property-write Object.prototype.initAdvManager
+razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
