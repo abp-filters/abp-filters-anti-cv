@@ -21,12 +21,12 @@ youporn.com##[data-track="ad-iframe-top"]
 xhamster.com##.wit-sponsor-banner
 xhamster.com##.xplayer-banner-bottom
 spankwire.com#$#abort-on-property-write ppAb
-tube8.com,pornhub.com#$#abort-on-property-write AdDelivery
+tube8.com#$#abort-on-property-write AdDelivery
 youporn.com,redtube.com#$#abort-on-property-write rAb
 donk69.com,wankflix.com,mofosex.com,keezmovies.com,extremetube.com,spankwire.com,pornxt.com,crazyshit.com,fantasti.cc,gfjizz.com,smutr.com,yuvutu.com#$#abort-on-property-read phtData
-pornhub.com#$#abort-on-property-read tj_ads
 redtube.com#$#abort-on-property-read smpop
 youporn.com#$#abort-on-property-read zone_underplayer; abort-on-property-read zone_2545
+pornhub.com#$#abort-on-property-read HTMLElement.prototype.attachShadow
 
 ! #CV-663
 newser.com#$#freeze-element #divVote; freeze-element #divRightRail '' #divRightRailContent
