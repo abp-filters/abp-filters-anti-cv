@@ -101,6 +101,9 @@ budport.com.ua#$#abort-current-inline-script $ append
 aces.gg#$#abort-current-inline-script $ window.open
 penzainform.ru#$#abort-current-inline-script $ divWrapper
 
+! Video ads
+yastatic.net#$#abort-on-property-read Object.prototype.vast
+
 ! #CV-547
 auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-write _mimic
 horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-read MrgContext
