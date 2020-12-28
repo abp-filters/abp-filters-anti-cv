@@ -3,8 +3,6 @@
 egydead.net,egydead.com#$#abort-on-property-read _pop; abort-on-property-read atob; abort-on-property-write Fingerprint2
 cimaclub.com#$#abort-on-property-read atob; abort-on-property-read decodeURIComponent; abort-current-inline-script document.createElement String.fromCharCode
 
-egybest2.com,egybest4.com#$#abort-on-property-read adcashMacros; abort-on-property-write adcashMacros; abort-current-inline-script _0xbc13 
-
 3oloum.com,7olm.org,ahladalil.com,syriaforums.net,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,gid3an.com,jordanforum.net,yoo7.com,forumalgerie.net,own0.com##a[onclick^="this.href=atob"]
 3oloum.com,7olm.org,ahladalil.com,syriaforums.net,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,gid3an.com,jordanforum.net,yoo7.com,forumalgerie.net,own0.com#$#abort-on-property-read atob
 
@@ -19,7 +17,7 @@ beinconnect.us,coroot.blogspot.com,ktarab.com,shofnow.com,actionz.tv,brstej.com,
 
 ! Popup/Popunder
 lodynet.co,lodynet.tv,actionz.tv,mvs4u.co,hawak.tv,rotana.video,almstbatv.com,elmstba.com,elmstba.tv#$#abort-on-property-read decodeURIComponent
-*$popup,third-party,domain=egybest2.com|egybest4.com|egydead.net|egydead.com|arabseed.me
+*$popup,third-party,domain=egydead.net|egydead.com|arabseed.me
 iegy.best,egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.com,egybest.cool,egybest.life,egybest.ltd,egybest.ist,egybest.name,egybest.net,egybest.network,egybest.ninja,egybest.nl,egybest.online,egybest.org,egybest.pw,egybest.rocks,egybest.site,egybest.xyz,egybest.zone#$#abort-on-property-read open
 
 ! #CV-754
