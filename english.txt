@@ -288,7 +288,7 @@ kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURICompo
 123putlocker.club#$#abort-current-inline-script _0xbc13
 
 ! #CV-692
-yuudrive.me,hdhub4u.pw,hdhub4u.website,thevid.net,thevid.tv,biter.tv,byter.tv,flashx.pw,flashx.tv,serieslatinoamerica.com#$#abort-on-property-read _pop
+yuudrive.me,hdhub4u.pw,hdhub4u.website,thevid.net,thevid.tv,biter.tv,byter.tv,flashx.pw,flashx.tv#$#abort-on-property-read _pop
 flashx.pw,flashx.tv#$#abort-on-property-read affLink
 2ddl.ms,thevideobee.to,dropapk.com,2ddl.vg,tv-onlinehd.com,fastplay.to#$#abort-on-property-write _pop
 
