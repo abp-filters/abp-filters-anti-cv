@@ -22,4 +22,4 @@ rainanime.net#$#abort-on-property-read NativeAd
 
 ! Popup/Popunder
 gamestorrents.com,gamestorrents.nu,perfectgirls.es#$#abort-on-property-read open
-gnula.nu#$#abort-current-inline-script String.fromCharCode /btoa|break/
+gnula.nu,xpaja.net#$#abort-current-inline-script String.fromCharCode /atob|btoa|break/
