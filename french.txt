@@ -77,7 +77,7 @@ easyplayer.cc###layer1
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extreme-down.xyz,extreme-download.cc,extreme-download.ch,extreme-download.im,extreme-download.me,extreme-download.ninja,extrem-down.vip,extreme-down.video,extreme-download.xyz,voiranime.com#$#abort-on-property-read NativeAd
 
 ! #CV-667
-jetanime.co,jetanime.com,jetanime.to,voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
+voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
 flystream.fr,filmtelecharger.net,jetanimes.co,libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com,extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extrem-down.vip,extreme-down.video,extreme-down.xyz,extreme-download.cc,extreme-download.ch,extreme-download.im,extreme-download.me,extreme-download.ninja,extreme-download.xyz#$#abort-current-inline-script Math zfgloaded
 
 ! MISC
