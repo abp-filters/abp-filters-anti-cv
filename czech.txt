@@ -424,6 +424,7 @@ novinky.cz,sport.cz,super.cz##[class$="_main__ad"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="branding-"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[data-oblohakava]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[moekasinax]
+novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##._ad_branding_positioner
 showad.js$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 @@||pocitadlolibise.seznam.cz^$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 
