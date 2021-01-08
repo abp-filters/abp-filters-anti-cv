@@ -1,0 +1,2 @@
+gamereactor.dk#$#abort-on-property-write banner_video
+tvsporten.dk#$#abort-on-property-write onload
