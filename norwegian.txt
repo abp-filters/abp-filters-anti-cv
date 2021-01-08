@@ -1,0 +1,6 @@
+gamer.no,tu.no#$#abort-current-inline-script dfpConfig loadAds
+nakenprat.com#$#abort-on-property-read document.dispatchEvent
+tvkampen.com#$#abort-on-property-write onload
+vg.no#$#abort-current-inline-script Math.floor g00
+vg.no,e24.no,gamer.no,tek.no,digi.no#$#abort-on-property-write __AB__
+gamereactor.no#$#abort-on-property-write banner_video
