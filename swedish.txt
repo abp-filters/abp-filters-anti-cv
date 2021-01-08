@@ -1,0 +1,64 @@
+adlanda.se,babyhjalp.se,omnihalsa.com#$#abort-current-inline-script document.oncontextmenu
+alpresor.se#$#abort-current-inline-script snowMax
+arvikanyheter.se,dalslanningen.se,filipstadstidning.se,fryksdalsbygden.se,hjotidning.se,karlskogatidning.se,kt.se,mariestadstidningen.se,nkp.se,nlt.se,nwt.se,provinstidningen.se,saffletidningen.se,sla.se,varmlandsaffarer.se,vf.se#$#abort-current-inline-script nwtThirdParties
+betting.se#$#abort-on-property-write Fingerprint2
+borsvarlden.com#$#abort-current-inline-script setREVStartSize
+breakit.se#$#abort-current-inline-script brktloadfs
+breakit.se#$#abort-current-inline-script twttr trackPid
+buzzter.se#$#abort-current-inline-script Optins inc_opt
+byggipedia.se#$#abort-current-inline-script ai_insert
+byggipedia.se#$#abort-current-inline-script ai_insert_2
+byggipedia.se#$#abort-current-inline-script document.onkeypress
+byggipedia.se#$#abort-current-inline-script jQuery contextmenu
+byggipedia.se#$#abort-current-inline-script jQuery wizard_accordion
+byggvarlden.se,hotellorestaurang.se#$#abort-current-inline-script m3_r Math.floor
+dagensjuridik.se#$#abort-current-inline-script ox_u
+dagensknep.se,djursidan.se,mysigast.se#$#abort-current-inline-script mashvipo
+dagensps.se,nyheteridag.se#$#abort-current-inline-script googletag
+datormagazin.se,enkelteknik.se,ettgottskratt.se,handbollskanalen.se,humorbibeln.se,kimura.se,newsner.com,samnytt.se,sportbibeln.se,styrkelabbet.se,villalivet.se#$#abort-current-inline-script advads_placement_tests
+datormagazin.se,skanesport.se,villalivet.se#$#abort-on-property-read advads
+di.se#$#abort-current-inline-script Di initAds
+digital.di.se#$#abort-current-inline-script diConf
+emmagreen.se,fokis.se,fredagskocken.se,frureinhold.se,gynning.net,hormonerhemorrojder.se,magnusnorman.com,sannafischer.se,sannalundell.se,teresagrundin.se#$#abort-current-inline-script ga
+emmagreen.se,fokis.se,fredagskocken.se,frureinhold.se,gynning.net,hormonerhemorrojder.se,magnusnorman.com,sannafischer.se,sannalundell.se,teresagrundin.se#$#abort-current-inline-script jQuery .dfp
+enkelteknik.se,fysikstugan.se,hamnen.se#$#abort-current-inline-script ai_front
+finansliv.se,lararnastidning.se,lektion.se,scanaktier.se,sulkysport.se,tidningenridsport.se#$#abort-on-property-read OA_show
+fuska.se#$#abort-current-inline-script $ .modal
+handbollskanalen.se,villalivet.se#$#abort-current-inline-script advads_has_ads
+handbollskanalen.se,villalivet.se#$#abort-current-inline-script advadsTracking
+hangotidningen.fi,hbl.fi,ostnyland.fi,vastranyland.fi#$#abort-current-inline-script adfBrand
+happypancake.se#$#abort-on-property-read Object.prototype.adUnits
+himlentv7.se#$#abort-current-inline-script fbq
+hippson.se#$#abort-current-inline-script sayHi shown
+improveme.se#$#abort-current-inline-script n_pbt
+jaktplay.se,svenskjakt.se#$#abort-current-inline-script desktop_random_ad_id
+lchfarkivet.se#$#abort-on-property-write lepopup_resize
+magasinetparagraf.se,omnihalsa.com,plazakvinna.com,senses.se#$#abort-current-inline-script _stq
+missatsamtal.se#$#abort-on-property-write _gaq
+nasdaqomxnordic.com#$#abort-current-inline-script $ shuffle
+netflixguiden.se#$#abort-on-property-read apstag
+nordichardware.se#$#abort-current-inline-script message
+nyadagbladet.se,senses.se#$#abort-current-inline-script anOptions
+nyheteridag.se#$#abort-current-inline-script sc type
+opulens.se#$#abort-current-inline-script jQuery themifyPopup
+polestarclubsweden.se,sjofart.net,svensktgolfforum.se#$#abort-current-inline-script setTimeout test
+professionalsecrets.se#$#abort-current-inline-script $ fancybox
+realtid.se#$#abort-current-inline-script sas
+skrattsajten.com#$#abort-current-inline-script $ e.preventDefault
+spela.se#$#abort-current-inline-script $jscomp
+spela.se#$#abort-current-inline-script AdPortal
+spela.se#$#abort-current-inline-script trackEvidonEvent
+sportpanelen.se#$#abort-on-property-write SG_POPUPS_QUEUE
+swehockey.se#$#abort-current-inline-script jQuery adscript
+themoviefreak.se#$#abort-current-inline-script animate
+travprat.se#$#abort-on-property-write bizpanda
+uppsalanyheter.se#$#abort-current-inline-script uri Math.random
+villalivet.se#$#abort-current-inline-script SGPB_POPUP_PARAMS
+villalivet.se#$#abort-current-inline-script sgpbPublicUrl
+www.dn.se#$#abort-current-inline-script DN initAds
+www.expressen.se#$#abort-current-inline-script Bau preloadAds
+www.svd.se#$#abort-current-inline-script SvD preDefineAd
+www.svd.se#$#abort-on-property-read navigator.sendBeacon
+bastad.se,brpsystems.se,fysikstugan.se,gdpr.se,heleneholmsif.se,historiskahem.se,melodifestivalklubben.se,newsvoice.se,nyadagbladet.se,pppress.se,thorengruppen.se,trafikskola.se,utslappsratt.se#$#abort-current-inline-script exactmetrics_frontend
+nyadagbladet.se#$#abort-current-inline-script exactmetrics_scroll_tracking_load
+bandyfeber.com,binero.se,boktugg.se,carup.se,dagensanalys.se,dinbyggare.se,ettgottskratt.se,humorbibeln.se,i-chalmers.se,kvalitetsmagasinet.se,kvartal.se,ladok.se,lchfarkivet.se,miljo-utveckling.se,mobilanyheter.net,newsner.com,rikatillsammans.se,sportbibeln.se,sportpanelen.se,telekomidag.se,trafiksakerhet.se,vdtidningen.se,zeinaskitchen.se#$#abort-current-inline-script monsterinsights_frontend
