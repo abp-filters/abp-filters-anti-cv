@@ -89,6 +89,7 @@ kurs.com.ua#$#abort-current-inline-script document.documentElement.clientWidth
 gamebomb.ru#$#abort-current-inline-script jQuery /Position/
 sound-park.rocks,sound-park.world,soundpark.rocks#$#abort-current-inline-script $ open
 shaiba.kz#$#abort-current-inline-script $ show1xbetFullScreen
+liveforums.ru#$#abort-on-property-read tnAdditionalParams
 
 ! Popup/popunder/clickunder
 zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,ontivi.net,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
