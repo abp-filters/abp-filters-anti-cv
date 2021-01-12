@@ -18,7 +18,8 @@ facet.wp.pl,ksiazki.wp.pl,tech.wp.pl,money.pl,moneyv.wp.pl#$#abort-on-property-r
 kuchnia.wp.pl#$#abort-on-property-read pbjs.libLoaded
 turystyka.wp.pl#$#abort-on-property-read pbjsChunk
 dom.wp.pl,facet.wp.pl#?#.view-first:-abp-has(a[onclick*="var img = document.createElement('img');"])
-wp.pl#?#div:-abp-has(> script:-abp-contains(adsFirstRegisterSlot))
+o2.pl,wp.pl#?#div:-abp-has(> script:-abp-contains(adsFirstRegisterSlot))
+money.pl#?#div:-abp-has(> div > script:-abp-contains(registerPlaceholder))
 parenting.pl#$#abort-on-property-read slot
 wiadomosci.wp.pl,wawalove.wp.pl,turystyka.wp.pl,teleshow.wp.pl,opinie.wp.pl,gwiazdy.wp.pl,ksiazki.wp.pl,film.wp.pl,facet.wp.pl,kobieta.wp.pl,kuchnia.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,finanse.wp.pl#$#abort-on-property-write window.INITIAL_STATE.ui
 wp.pl#$#override-property-read rekid 0
