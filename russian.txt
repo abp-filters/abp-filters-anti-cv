@@ -128,6 +128,9 @@ risu.ua,telekritika.ua,day.kyiv.ua,vsviti.com.ua,praktika-vlasti.com.ua,westnews
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
+/^https:\/\/zoomdecorate\.rambler\.ru\/.{100,300}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
+/^https:\/\/zoomdecorate\.rambler\.ru\/.*&amp;.*&amp;.*$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
+
 nova.rambler.ru#$#abort-on-property-write Object.prototype.getUnusableAds
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
 rambler.ru##div a[href="/"]:not([class])
