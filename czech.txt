@@ -3,8 +3,6 @@
 /vCAv.IAAAAAoAA$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|fights.cz|horoskopy.cz|idnes.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|spisovatele.cz|sport.cz|super.cz|televizeseznam.cz|tiscali.cz|zeny.cz|zive.cz
 /r:*$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|fights.cz|horoskopy.cz|idnes.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|spisovatele.cz|sport.cz|super.cz|televizeseznam.cz|tiscali.cz|zeny.cz|zive.cz
 
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz#$#abort-on-property-read document.px_write
-iprima.cz#$#abort-on-property-read loadSeznamMones; abort-on-property-write loadSeznamMones; abort-on-property-write SeznamSSP
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 iprima.cz#?#div:-abp-has(>.mone_header)
 iprima.cz##.px-type-banner
@@ -142,7 +140,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.ga-click--js[data-elabel="add_sky2"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[href*="name=https:"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,www.idnes.cz,expres.cz#?#div:-abp-has(>a[href$="/personalizovana-reklama/"])
-auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[id^="etarget"]
 
 /XO00\d$/$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
 ?deb=$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|reflex.cz|zeny.cz|zive.cz
@@ -280,8 +277,6 @@ dama.cz##div[class^="sky-wrap"]
 maminka.cz,blesk.cz,reflex.cz,e15.cz##a[class*="-combined"]
 autorevue.cz,blesk.cz##div[style="margin-top: 12px; position: relative;"]
 
-kinobox.cz#$#abort-on-property-read bbdata; abort-on-property-write ADFDomainCDN; abort-on-property-read sklikProvider; abort-on-property-write Arbo; abort-on-property-write KBX
-osobnosti.cz#$#abort-on-property-read sc_adv_out
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.9"]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.1"]
 
@@ -362,7 +357,6 @@ cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|te
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
 
-kupi.cz#$#abort-on-property-read AdsHelper;
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
 novinky.cz,super.cz,sport.cz,horoskopy.cz##div[data-impressionurl]
@@ -417,7 +411,6 @@ novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[hehehe="no"][scrolling
 novinky.cz##a[title="Rekɭama"]
 televizeseznam.cz##img[alt="Reklama"]
 novinky.cz##[class*="feed-item-advert"]
-novinky.cz#$#freeze-element .omg-barnding
 novinky.cz##a[href*=";CREFURL="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[id^="outstream_container_"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz,televizeseznam.cz###sznad-video-takeover
@@ -549,7 +542,6 @@ clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-tit
 
 ! MISC
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
-iprima.cz#$#abort-current-inline-script setTimeout atob
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
 csfd.cz#$#abort-current-inline-script $ completeAdsObject
