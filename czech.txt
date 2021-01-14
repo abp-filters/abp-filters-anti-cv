@@ -253,6 +253,7 @@ N3L00Ax6T00V$image,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz
 /480x300_$image,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 YU30M0xW60A0O$image,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
+idnes.cz#$#json-prune ads
 _cz?format=js&async=1|$domain=www.idnes.cz
 /kyblik^$image,domain=www.idnes.cz|expres.cz
 ?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
