@@ -12,7 +12,7 @@ finanse.wp.pl#$#abort-on-property-read prebidConfig.hbA
 gwiazdy.wp.pl,film.wp.pl,teleshow.wp.pl,wawalove.wp.pl,opinie.wp.pl,moto.wp.pl,finanse.wp.pl#$#abort-on-property-read prebidConfig.hb
 pogoda.wp.pl#$#abort-on-property-read prebidConfig.config.floorprices
 autokult.pl#?#figure[class^="insert"]:-abp-has(var + script)
-autokult.pl#$#debug; abort-on-property-write scriptTag
+autokult.pl#$#abort-on-property-write scriptTag
 autokult.pl,kardiolo.pl,autocentrum.pl,horoskop.wp.pl#$#abort-on-property-write rekid
 dom.wp.pl,twojeip.wp.pl#$#abort-on-property-read rekid
 facet.wp.pl,ksiazki.wp.pl,tech.wp.pl,money.pl,moneyv.wp.pl#$#abort-on-property-read pbjs.bidderSettings
