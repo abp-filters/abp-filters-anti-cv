@@ -13,6 +13,7 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 ! #CV-244
 yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua#$#freeze-element .feed__item._size_big>div:not([class^=card-wrapper]) subtree
 yandex.az,yandex.md,yandex.fr,yandex.kg##.feed__item._size_small[id^=ad]
+yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
