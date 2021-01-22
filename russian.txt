@@ -57,7 +57,6 @@ megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-rea
 
 ! MISC
 scrin.org#$#abort-on-property-read Math.random
-kinopad.net#$#abort-on-property-read atob
 seasonvar.re#$#abort-current-inline-script String
 amazinghis.ru#$#abort-on-property-read anOptions
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
