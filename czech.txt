@@ -281,9 +281,9 @@ dama.cz##div[class^="sky-wrap"]
 maminka.cz,blesk.cz,reflex.cz,e15.cz##a[class*="-combined"]
 autorevue.cz,blesk.cz##div[style="margin-top: 12px; position: relative;"]
 
+/\.cz\/([a-zA-Z][a-rA-Rt-zT-Z]|[a-iA-Ik-zK-Z][a-zA-Z]).{60,}\1$/$script,match-case,domain=tiscali.cz|karaoketexty.cz|osobnosti.cz|fights.cz|nasepenize.cz|spisovatele.cz|kinobox.cz
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.9"]
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id$=".1.1.1"]
-
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
 kinobox.cz##.box.banner_300, #b300_fixbox
