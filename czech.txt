@@ -365,6 +365,7 @@ cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|te
 ||super.cz/*&*=$subdocument,domain=super.cz
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
+/^https:\/\/www\.(kupi|super|sport|novinky)\.cz\/[A-Za-z0-9\/_-]{140,}/$subdocument,domain=kupi.cz|super.cz|sport.cz|novinky.cz
 
 novinky.cz,super.cz,sport.cz,kupi.cz##[data-cy]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
