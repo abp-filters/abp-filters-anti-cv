@@ -11,26 +11,13 @@ pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 
 ! #CV-170
 lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterval
-||1ic92yd.mdbgbcskjj.com^$script
-||greenlawnmantador.com^$third-party
-||dajwf4bbz9xqa.cloudfront.net^$script
-||kernvilleuniontown.com^$third-party
-||doyondeville.com^$third-party
 ||polaccafaison.com^$third-party
 ||wyacondahamptonville.com^$third-party
-||mecostasenath.com^$third-party
 ||smithersworonoco.com^$third-party
 ||potterpetrey.com^$third-party
 ||craddockvillearnett.com^$third-party
 ||artaslangdon.com^$third-party
 ||xeniawyalusing.com^$third-party
-||shutesburyconstable.com^$third-party
-||lycomingorson.com^$third-party
-||otiscogrosvenordale.com^$third-party
-||elberonoakdale.com^$third-party
-||scottsburgpescadero.com^$third-party
-||fruitlandmesaverde.com^$third-party
-||owlsheadcoalwood.com^$third-party
 ||www.planet.fr/foretimes^
 ||viedemerde.fr/cuckolding^
 ||ladepeche.fr/taffrail^
@@ -55,7 +42,6 @@ lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterva
 ||hoaiig.com^$script
 ||jcavis.com^$script,xmlhttprequest
 ||ugeolf.com^$script
-||jkajunrtzql.com^$script
 ||qlwgkw.com^$script
 ||bfxxcram.com^$script
 
@@ -70,8 +56,6 @@ down-paradise.com#$#abort-on-property-read open
 
 1fr1.net,forum-gratuit.net,forum2jeux.com,forumactif.com,forumactif.fr,forumactif.org,forumpro.fr,forums-actifs.com,lebonforum.com,lemondedudiagauto.com,open-consoles.com,passionmilitaria.com,superforum.fr,vttpoitou.com##a[onclick^="this.href=atob"]
 1fr1.net,forum-gratuit.net,forum2jeux.com,forumactif.fr,forumpro.fr,forums-actifs.com,lebonforum.com,lemondedudiagauto.com,open-consoles.com,passionmilitaria.com,superforum.fr,vttpoitou.com#$#abort-on-property-read atob
-||video-on-demand.link^$popup
-easyplayer.cc###layer1
 
 ! #CV-368
 extreme-d0wn.com,extreme-d0wn.net,extreme-down.in,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extreme-down.xyz,extreme-download.cc,extreme-download.ch,extreme-download.im,extreme-download.me,extreme-download.ninja,extrem-down.vip,extreme-down.video,extreme-download.xyz,voiranime.com#$#abort-on-property-read NativeAd

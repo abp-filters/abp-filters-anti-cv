@@ -16,7 +16,7 @@ hawak.tv,rotana.video#$#abort-on-property-read atob
 beinconnect.us,coroot.blogspot.com,ktarab.com,shofnow.com,actionz.tv,brstej.com,jaewinter.co,movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,cima4u.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
 
 ! Popup/Popunder
-lodynet.co,lodynet.tv,actionz.tv,mvs4u.co,hawak.tv,rotana.video,elmstba.com#$#abort-on-property-read decodeURIComponent
+lodynet.co,lodynet.tv,actionz.tv,hawak.tv,rotana.video,elmstba.com#$#abort-on-property-read decodeURIComponent
 *$popup,third-party,domain=egydead.net|egydead.com|arabseed.me
 iegy.best,egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.com,egybest.cool,egybest.life,egybest.ltd,egybest.ist,egybest.name,egybest.net,egybest.network,egybest.ninja,egybest.nl,egybest.online,egybest.org,egybest.pw,egybest.rocks,egybest.site,egybest.xyz,egybest.zone#$#abort-on-property-read open
 
