@@ -3,8 +3,6 @@ news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7f
 autoscout24.de#$#abort-on-property-read tisoomi
 
 ! #CV-749
-||glomex.com^$media,rewrite=abp-resource:blank-mp3,domain=player.glomex.com
-player.glomex.com##._oasis_video:not([src^="blob:https://player.glomex.com/"])
 
 ! #CV-765
 pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
