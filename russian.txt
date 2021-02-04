@@ -26,7 +26,7 @@ gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
 razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
-24smi.org#$#abort-current-inline-script document.createElementNS
+24smi.org#$#abort-current-inline-script document.createElement appendChild
 /^https:\/\/st2\.razlozhi\.ru\/\w{9}\/.{100,300}$/$script,domain=razlozhi.ru
 
 ! #CV-659
