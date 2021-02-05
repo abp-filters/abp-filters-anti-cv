@@ -10,7 +10,7 @@ aupetitparieur.com#$#freeze-element .widget-area abort
 pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
 
 ! #CV-170
-lephoceen.fr,supertoinette.com,viedemerde.fr#$#abort-on-property-read setInterval
+lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
 ||1ic92yd.mdbgbcskjj.com^$script
 ||greenlawnmantador.com^$third-party
 ||dajwf4bbz9xqa.cloudfront.net^$script
