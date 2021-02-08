@@ -139,7 +139,6 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 /^https:\/\/zoomdecorate\.rambler\.ru\/.{100,300}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
 /^https:\/\/zoomdecorate\.rambler\.ru\/.*&amp;.*&amp;.*$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
 /^https:\/\/zoomdecorate\.rambler\.ru\/\w{7,9}\/.{100,370}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
-~mail.rambler.ru,rambler.ru,autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div:not(div[class])>div:not(div a):not(empty):not(div[class]):not(div[id]):not(div[style]):not(div[data-rambler-share])
 
 nova.rambler.ru#$#abort-on-property-write Object.prototype.getUnusableAds
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
