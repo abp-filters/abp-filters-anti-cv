@@ -1,9 +1,5 @@
 ! #CV-717
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
 
-! #CV-662
-||d1quho2us9g95p.cloudfront.net^$script
-||d2zjlj1vewrxcj.cloudfront.net^$script
-
 ! #CV-667
 asksiirleri.org#$#abort-current-inline-script Math zfgloaded
