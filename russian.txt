@@ -13,6 +13,8 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 ! #CV-244
 yandex.az,yandex.md,yandex.fr,yandex.kg##.feed__item._size_small[id^=ad]
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
+~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#abort-on-property-read window.yaads.renderBlock
+yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class="feed__item _size_big"]>[class^="card-wrapper_smthing"]
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
@@ -24,7 +26,7 @@ gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
 razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
-24smi.org#$#abort-current-inline-script document.createElementNS
+24smi.org#$#abort-current-inline-script document.createElement appendChild
 /^https:\/\/st2\.razlozhi\.ru\/\w{9}\/.{100,300}$/$script,domain=razlozhi.ru
 
 ! #CV-659
@@ -86,7 +88,7 @@ volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype.advApiClient
 fssp.gov.ru#$#abort-on-property-read tingle
 allboxing.ru#$#abort-current-inline-script document.querySelector open
-epravda.com.ua,pravda.com.ua,www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
+liga.net,epravda.com.ua,pravda.com.ua,www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
 kurs.com.ua#$#abort-current-inline-script document.documentElement.clientWidth
 gamebomb.ru#$#abort-current-inline-script jQuery /Position/
 sound-park.rocks,sound-park.world,soundpark.rocks#$#abort-current-inline-script $ open
@@ -134,6 +136,7 @@ empireg.ru#$#abort-current-inline-script Math zfgloaded
 ! #CV-747
 /^https:\/\/zoomdecorate\.rambler\.ru\/.{100,300}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
 /^https:\/\/zoomdecorate\.rambler\.ru\/.*&amp;.*&amp;.*$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
+/^https:\/\/zoomdecorate\.rambler\.ru\/\w{7,9}\/.{100,370}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
 
 nova.rambler.ru#$#abort-on-property-write Object.prototype.getUnusableAds
 autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
@@ -149,4 +152,4 @@ rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru
 
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
-112.ua,24boxing.com.ua,4mama.ua,avtovod.com.ua,avtovod.org.ua,besplatka.ua,bigmir.net,bilshe.com,buhgalter.com.ua,buhgalter911.com,businessua.com,censor.net,dengi.ua,enovosty.com,epravda.com.ua,eurointegration.com.ua,f1analytic.com,facenews.ua,finance.liga.net,football-ukraine.com,football24.ua,footballtransfer.com.ua,forumodua.com,gismeteo.ua,gorod.dp.ua,hvylya.net,inforesist.org,internetua.com,kolobok.ua,kp.ua,kriminal.tv,lifedon.com.ua,liga.net,mport.ua,nashamama.com,newsyou.info,nnovosti.info,okino.ua,ostro.org,perevod.i.ua,real-vin.com,segodnya.ua,sinoptik.ua,smak.ua,sportanalytic.com,toneto.net,tv.ua,tvgid.ua,u-news.com.ua,udoktora.net,vsetv.com,zdorovia.com.ua#$#override-property-read String.prototype.charCodeAt trueFunc
+112.ua,24boxing.com.ua,4mama.ua,avtovod.com.ua,avtovod.org.ua,besplatka.ua,bigmir.net,bilshe.com,buhgalter.com.ua,buhgalter911.com,businessua.com,censor.net,dengi.ua,enovosty.com,epravda.com.ua,eurointegration.com.ua,f1analytic.com,facenews.ua,football-ukraine.com,football24.ua,footballtransfer.com.ua,forumodua.com,gismeteo.ua,gorod.dp.ua,hvylya.net,inforesist.org,internetua.com,kolobok.ua,kp.ua,kriminal.tv,lifedon.com.ua,mport.ua,nashamama.com,newsyou.info,nnovosti.info,okino.ua,ostro.org,perevod.i.ua,real-vin.com,segodnya.ua,sinoptik.ua,smak.ua,sportanalytic.com,toneto.net,tv.ua,tvgid.ua,u-news.com.ua,udoktora.net,vsetv.com,zdorovia.com.ua#$#override-property-read String.prototype.charCodeAt trueFunc

@@ -27,6 +27,7 @@ donk69.com,wankflix.com,mofosex.com,keezmovies.com,extremetube.com,spankwire.com
 redtube.com#$#abort-on-property-read smpop
 youporn.com#$#abort-on-property-read zone_underplayer; abort-on-property-read zone_2545
 pornhub.com#$#abort-on-property-read HTMLElement.prototype.attachShadow
+theyarehuge.com#$#abort-on-property-read Element.prototype.attachShadow
 
 ! #CV-663
 newser.com#$#freeze-element #divVote; freeze-element #divRightRail '' #divRightRailContent
