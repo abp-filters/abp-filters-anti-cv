@@ -265,7 +265,7 @@ igg-games.com#$#abort-on-property-write btoa
 searchenginereports.net#$#abort-on-property-read adsbygoogle
 amyscans.com##div[class*="code-block"]
 megagames.com#$#abort-on-property-write $jscomp
-indishare.org,dailyuploads.net#$#abort-on-property-read btoa
+indishare.org#$#abort-current-inline-script String.fromCharCode btoa
 clicknupload.co#$#abort-on-property-read _qwprvw; abort-current-inline-script Object.defineProperty XMLHttpRequest; abort-current-inline-script String.fromCharCode shift
 revivelink.com#$#abort-on-property-read btoa; abort-current-inline-script Object.defineProperty XMLHttpRequest
 youdbox.com#$#abort-on-property-read encodeURIComponent
