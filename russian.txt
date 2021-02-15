@@ -77,7 +77,6 @@ fastpic.ru,~new.fastpic.ru#$#abort-current-inline-script Math.random; abort-on-p
 softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-read Object.prototype.str_replace
 www.ixbt.com#$#abort-on-property-read adv_obj; abort-current-inline-script document.getElementById branding
 city.ogo.ua#$#abort-on-property-read myatu_bgm
-fast-fiml.ru,fast-film.org,fast-film.ru,fast-torrent.club,fast-torrent.ru,fast-torrent.su,fasttorent.su,filmopotok.ru,filmpotok.ru,kinomaniac.ru,pickfilm.ru,veleto.ru#$#abort-current-inline-script document.createElement initb
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 mediasat.info,housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,megaresheba.com,megaresheba.ru,resheba.me,spishi.fun,zoobrilka.net#$#abort-on-property-write app.book.external
