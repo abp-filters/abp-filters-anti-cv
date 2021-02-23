@@ -13,9 +13,6 @@ yandex.uz,yandex.kz,yandex.by,yandex.ee,yandex.kg,yandex.lt,yandex.lv,yandex.md,
 ! #CV-244
 zen.yandex.ru##div[class*="is-parent-size_undefined"]
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class*="item_type_"][class*="item_rendered"]
-~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#freeze-element .feed__item._size_big>div[class^="card-wrapper_any"] abort+subtree
-~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#freeze-element div[id^="u-"]
-~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#freeze-element [class*="news-feed__"][class*="__item_type_card"] subtree
 
 yandex.az,yandex.md,yandex.fr,yandex.kg##.feed__item._size_small[id^=ad]
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
