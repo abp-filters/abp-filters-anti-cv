@@ -109,6 +109,7 @@ fapreactor.com,pornreactor.cc#$#abort-current-inline-script Math decodeURICompon
 budport.com.ua#$#abort-current-inline-script $ append
 aces.gg#$#abort-current-inline-script $ window.open
 penzainform.ru#$#abort-current-inline-script $ divWrapper
+drlink.online#$#abort-current-inline-script Math.random toString
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
