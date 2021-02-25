@@ -24,7 +24,7 @@ kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCha
 liveinternet.ru#$#abort-on-property-read Object.prototype.adblock; abort-on-property-read Object.prototype.ADFOX
 echo.msk.ru#$#abort-on-property-read Object.prototype.renderTo
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
-gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.getYa
+gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.PRODUCT_MARKERS
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
 razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
