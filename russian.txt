@@ -21,10 +21,10 @@ yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class="feed__it
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
-liveinternet.ru#$#abort-on-property-read Object.prototype.isPreservedBlockRender
+liveinternet.ru#$#abort-on-property-read Object.prototype.AdReload; abort-on-property-read Object.prototype.initAutoRefreshment
 echo.msk.ru#$#abort-on-property-read Object.prototype.renderTo
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
-sdamgia.ru#$#abort-on-property-read Object.prototype.PRODUCT_MARKERS
+sdamgia.ru#$#abort-on-property-read Object.prototype.adSessionId
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 yandex.by,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
 razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
