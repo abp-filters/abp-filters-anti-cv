@@ -21,7 +21,7 @@ yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class="feed__it
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy
-liveinternet.ru#$#abort-on-property-read Object.prototype.setBlockData
+liveinternet.ru#$#abort-on-property-read Object.prototype.doNotMatch
 echo.msk.ru#$#abort-on-property-read Object.prototype.renderTo
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 gorodrabot.ru,sdamgia.ru#$#abort-on-property-read Object.prototype.PRODUCT_MARKERS
