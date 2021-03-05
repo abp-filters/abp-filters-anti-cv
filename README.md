@@ -17,8 +17,6 @@ The ABP anti-circumvention filter list is a supplementary list; it's not related
 ## Authors
 
 * [**arsykan**](https://github.com/arsykan)
-* [**mile-ne**](https://github.com/mile-ne)
-* [**monzta**](https://github.com/monzta)
 * [**wizmak**](https://github.com/wizmak)
 
 
