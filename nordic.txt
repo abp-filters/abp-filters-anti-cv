@@ -1,1 +1,3 @@
 
+! MISC
+tivi.fi#$#hide-if-matches-xpath '//div[contains(text(),"Kaupallinen")]/../../..'
