@@ -1,3 +1,4 @@
 
 ! MISC
-tivi.fi#$#hide-if-matches-xpath '//div[contains(text(),"Kaupallinen")]/../../..'
+tivi.fi#$#hide-if-matches-xpath '//div[contains(text(),"Kaupallinen yhteistyö")]/../../..'
+iltalehti.fi#$#hide-if-matches-xpath '//span[contains(text(),"Kaupallinen yhteistyö")]/../../../..'
