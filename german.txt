@@ -39,3 +39,4 @@ pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 privacy-mgmt.com#@#.consent-content	
 finanzen.ch#@##cookie-overlay	
 finanzen.ch#@#.cookie-overlay
+@@||analytics.jst.ai/api/session^$domain=emarketer.com
