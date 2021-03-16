@@ -353,4 +353,3 @@ agronews.ua,aegeanews.gr,batterypoweronline.com,brezovycukr.cz,centrocommerciale
 crunchyroll.com#$#json-prune 'value.media.ad_breaks'
 
 ! #CV-776
-bing.com#?#.b_algo:-abp-has(p[class])
