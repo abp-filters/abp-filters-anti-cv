@@ -5,6 +5,7 @@ abczdrowie.pl#$#abort-on-property-read slot.parentElement
 autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#abort-on-property-read __wpApi
 autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblogi.pl,gadzetomania.pl#$#abort-current-inline-script document.getElementsByTagName slParent
 abczdrowie.pl,parenting.pl,nerwica.com,twojeip.wp.pl,echirurgia.pl#$#abort-current-inline-script document.querySelector registerSlot
+money.pl#$#abort-current-inline-script document.querySelector querySelector
 wp.pl,pudelek.pl#$#abort-on-property-read wpjscb
 money.pl,sportowefakty.wp.pl#$#abort-on-property-read prebidConfig.config.bidTargets
 money.pl#?#div:-abp-has(> img[src$="/bg.png"])
