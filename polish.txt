@@ -26,7 +26,7 @@ gadzetomania.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl,kafeteria.pl#?#.inse
 gadzetomania.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl,kafeteria.pl#?#div:-abp-has(> script:-abp-contains(registerPlaceholder))
 gadzetomania.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl,kafeteria.pl#?#figure:-abp-has(> script:-abp-contains(registerPlaceholder))
 gadzetomania.pl,fotoblogia.pl,komorkomania.pl,medycyna24.pl,kafeteria.pl#?#article:-abp-has(> script:-abp-contains(registerPlaceholder))
-money.pl#?#div:-abp-has(> div > script:-abp-contains(registerPlaceholder))
+pudelek.pl,money.pl#?#div:-abp-has(> div > script:-abp-contains(registerPlaceholder))
 parenting.pl#$#abort-on-property-read slot
 dom.wp.pl,wiadomosci.wp.pl,wawalove.wp.pl,turystyka.wp.pl,teleshow.wp.pl,opinie.wp.pl,gwiazdy.wp.pl,ksiazki.wp.pl,film.wp.pl,facet.wp.pl,kobieta.wp.pl,kuchnia.wp.pl,moto.wp.pl,tech.wp.pl,gry.wp.pl,finanse.wp.pl#$#abort-on-property-write window.INITIAL_STATE.ui
 parenting.pl,echirurgia.pl,dobreprogramy.pl,abczdrowie.pl,wp.pl#$#override-property-read rekid 0
