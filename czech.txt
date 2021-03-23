@@ -365,6 +365,8 @@ cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|te
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
 /^https:\/\/www\.(kupi|super|sport|novinky)\.cz\/[A-Za-z0-9\/_!=-]{140,}/$subdocument,domain=kupi.cz|super.cz|sport.cz|novinky.cz
+/^https:\/\/www\.seznamzpravy\.cz\/[A-Za-z0-9\/_!=-]{100,}/$subdocument,domain=seznamzpravy.cz
+/^https:\/\/www\.seznamzpravy\.cz\/[A-Za-z0-9\/_!=-]{100,}/$xmlhttprequest,domain=seznamzpravy.cz
 
 novinky.cz,super.cz,sport.cz,seznamzpravy.cz,kupi.cz##[data-cy], [data-e2e-advert], a[href*="adurl="]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
