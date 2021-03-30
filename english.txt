@@ -244,7 +244,7 @@ rarbg.to,rarbg2019.org,rarbgaccess.org,rarbgdata.org,rarbgget.org,rarbggo.org,ra
 onlystream.tv#$#abort-on-property-read BetterJsPop
 hdvid.tv,ovid.pro#$#abort-on-property-read atob; abort-on-property-read encodeURIComponent; abort-on-property-write _pop
 gaobook.review,mavplayer.xyz,vaplayer.xyz,xstreamcdn.com,flashx.pw,flashx.tv,embed.media,fembed.com,myyouporn.com,vidplayer.cz#$#abort-on-property-read AaDetector
-9xupload.me,mystream.to#$#abort-on-property-read eval
+9xupload.me#$#abort-on-property-read eval
 novom.ru#$#abort-on-property-read zoneNativeSett
 govid.me,9xupload.me#$#abort-on-property-read atop
 file-up.org,zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-write Fingerprint2
@@ -297,7 +297,7 @@ adpop.me,amyscans.com,apurogol.net,aquipelis.net,arenavision.in,arenavision.us,a
 kimcartoon.to#$#abort-on-property-read NativeAd
 
 ! Popup/Popunder/Clickunder
-streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com,rlslog.net,hclips.com,pornhat.com,dood.so,dood.to,dood.video,dood.watch,doodstream.com,vidstreaming.io,mstream.fun,xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.icu,mstream.rocks,mstream.xyz,mystream.io,iframe-secured.com,pandamovies.pw,configspc.com#$#abort-on-property-read open
+streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com,rlslog.net,hclips.com,pornhat.com,dood.so,dood.to,dood.video,dood.watch,doodstream.com,vidstreaming.io,mstream.fun,xnxxvideo.pro,xvideosxporn.com,porndollz.com,hd-analporn.com,bigtitsxxxfree.com,perfectgirls.net,realgfporn.com,porn.com,hotmovs.com,rule34hentai.net,govid.me,mstream.best,mstream.fun,mstream.icu,mstream.press,mstream.space,mstream.tech,mstream.website,mstream.xyz,mystream.io,mystream.to,iframe-secured.com,pandamovies.pw,configspc.com#$#abort-on-property-read open
 baytorrent.eu.org,dood.so,dood.to,dood.video,dood.watch,doodstream.com,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,isohunt.lol,isohuntz.net,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,projectfreetv.ag,streamtape.cc,streamtape.com,streamtape.net,streamtape.to,streamtape.xyz,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidshare.tv,youdbox.com#$#abort-on-property-write _pop
 streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com#$#abort-on-property-write _pao
 xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,cmovie.me,biter.tv,byter.tv#$#abort-on-property-read decodeURI
@@ -318,7 +318,7 @@ hclips.com#$#abort-on-property-read adver
 xhamster2.com,xhamster.one#$#abort-current-inline-script document.createElement initTabUnder
 txxx.com#$#override-property-read skpPop true; abort-on-property-read ExoLoader; abort-on-property-read open
 
-*$popup,third-party,domain=streamega.com|123putlocker.club|mstream.rocks|openloadmovies.bz
+*$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
 about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com
 /favicon.ico$popup,domain=vidshare.tv|vudeo.net
 ||35.194.16.41^$popup
