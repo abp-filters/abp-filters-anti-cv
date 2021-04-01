@@ -89,7 +89,6 @@ mp3spy.cc#$#abort-current-inline-script JSON.parse atob
 tagaev.com#$#abort-on-property-read PUM
 l2top.ru#$#abort-current-inline-script $ cleanAndEval
 rsload.net#$#abort-current-inline-script window.addEventListener load
-mmo13.ru#$#abort-on-property-read Math.floor
 
 ! Popup/popunder/clickunder
 freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
