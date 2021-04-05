@@ -99,6 +99,7 @@ budport.com.ua#$#abort-current-inline-script $ append
 aces.gg#$#abort-current-inline-script $ window.open
 penzainform.ru#$#abort-current-inline-script $ divWrapper
 drlink.online#$#abort-current-inline-script Math.random toString
+freehat.cc#$#abort-on-property-read advFirstClickOpenNewTab
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
