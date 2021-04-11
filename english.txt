@@ -353,5 +353,8 @@ agronews.ua,aegeanews.gr,batterypoweronline.com,brezovycukr.cz,centrocommerciale
 ! #CV-899
 crunchyroll.com#$#json-prune 'value.media.ad_breaks'
 
+! Fix FloC checks on Chrome https://amifloced.org/
+*#$#override-property-read Document.prototype.interestCohort undefined
+
 ! #CV-776
 bing.com##[id$="adsMvCarousel"]
