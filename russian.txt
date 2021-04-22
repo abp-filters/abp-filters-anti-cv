@@ -75,7 +75,7 @@ gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,mega
 dfiles.ru#$#abort-on-property-read ads_script
 sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayElement noopFunc
 volynpost.com#$#abort-on-property-read trek_shownow
-ati.su#$#abort-on-property-read Object.prototype.advApiClient
+ati.su#$#abort-on-property-read Object.prototype._bannerOrderAttr
 fssp.gov.ru#$#abort-on-property-read tingle
 allboxing.ru#$#abort-current-inline-script document.querySelector open
 dynamo.kiev.ua,liga.net,epravda.com.ua,pravda.com.ua,www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
