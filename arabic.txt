@@ -18,4 +18,4 @@ egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.c
 arabseed.me,baramjak.com,hawak.net,movizland.com,movizland.online,egyanime.com,egydead.com#$#abort-current-inline-script String.fromCharCode /btoa|break/
 
 ! #CV-754
-akwam.cc,akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,gocoo.co#$#abort-on-property-read String.fromCharCode
+akwam.cc,akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,gateanime.com,gocoo.co#$#abort-on-property-read String.fromCharCode
