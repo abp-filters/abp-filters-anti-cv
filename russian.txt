@@ -145,7 +145,7 @@ rambler.ru##div[data-ad-marker]
 rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com#?#:-abp-has(>a[style*="//zoomdecorate.rambler.ru/"])
 wmj.ru,letidor.ru,passion.ru,motor.ru,quto.ru,autorambler.ru##div[id^="block-id-"][style^="min-width"]
 rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru##span a[href*=".rambler.ru"][target="_blank"]
-rambler.ru,~kassa.rambler.ru,~top100.rambler.ru,~class.rambler.ru,~dating.rambler.ru,~images.rambler.ru,~rabota.rambler.ru,~help.rambler.ru,~org.rambler.ru,~developers.rambler.ru,~soft.rambler.ru,~nova.rambler.ru#$#hide-if-matches-xpath './/div[not(@class)][not(@id)][not(@style)][not(*) and not(normalize-space())][string-length(text())=5]/ancestor::div[@class][3]'
+rambler.ru,~kassa.rambler.ru,~top100.rambler.ru,~class.rambler.ru,~dating.rambler.ru,~images.rambler.ru,~rabota.rambler.ru,~help.rambler.ru,~org.rambler.ru,~developers.rambler.ru,~soft.rambler.ru,~nova.rambler.ru,motor.ru,rns.online,lenta.ru,motor.ru,gazeta.ru,championat.com,passion.ru,quto.ru,eda.ru,letidor.ru,wmj.ru#$#hide-if-matches-xpath './/div[not(@class)][not(@id)][not(@style)][not(*) and not(normalize-space())][string-length(text())=5]/ancestor::div[@class][3]'
 
 ! #CV-694
 www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
