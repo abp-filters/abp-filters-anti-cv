@@ -545,6 +545,9 @@ expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
 expres.cz,idnes.cz##a[href*="preroll"]
 idnes.cz,expres.cz##a[href*=";cdata="]
 idnes.cz,expres.cz##a[href*="/supertag=InstreamVideo/"]
+/area=preroll-$xmlhttprequest,domain=iprima.cz
+/area=midroll-$xmlhttprequest,domain=iprima.cz
+/area=postroll-$xmlhttprequest,domain=iprima.cz
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
