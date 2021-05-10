@@ -20,6 +20,7 @@ iprima.cz##[class*="sas"]
 iprima.cz##a[href*="/area=branding"]
 iprima.cz##[id*="-ad-"], .ifr-claassflak, a[href*="/posid=sas_"]
 iprima.cz##.meht_burbuzela
+iprima.cz##.dekes_reblika
 /area=*/posid=*$subdocument,xmlhttprequest,script,domain=iprima.cz
 /keyword*/area=$xmlhttprequest,domain=iprima.cz
 /section=adblock_desktop^$domain=iprima.cz
