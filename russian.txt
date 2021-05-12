@@ -9,7 +9,7 @@ yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class="feed__it
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
-liveinternet.ru#$#abort-on-property-read Object.prototype.onAdStart
+liveinternet.ru#$#abort-on-property-read Object.prototype.loadData
 echo.msk.ru#$#abort-on-property-read Object.prototype.onRender
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 sdamgia.ru#$#abort-on-property-read Object.prototype.adSessionId
