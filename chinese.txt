@@ -12,5 +12,8 @@ ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 ! Popups & Popunders
 cocomanhua.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 
+! Video ads
+iyingshi9.tv#$#override-property-read YZM.ads.state false
+
 ! #CV-667
 hdzone.org#$#abort-current-inline-script Math zfgloaded
