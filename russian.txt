@@ -10,7 +10,7 @@ yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class="feed__it
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
 liveinternet.ru#$#abort-on-property-read Object.prototype.getRenderTo; abort-on-property-write Object.defineProperty; abort-on-property-read window.parse; abort-on-property-read Object.prototype._bid
-echo.msk.ru#$#abort-on-property-read Object.prototype.onRender
+echo.msk.ru#$#abort-on-property-read Object.prototype.onRender; abort-on-property-read Object.prototype.loadData
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 sdamgia.ru#$#abort-on-property-read Object.prototype.adSessionId
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
