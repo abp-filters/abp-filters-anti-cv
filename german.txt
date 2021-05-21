@@ -2,8 +2,6 @@
 news.de#$#hide-if-contains-image-hash ffffffffffff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff7fff * 0 16 777x0x800x23; hide-if-contains-image-hash 3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fff3fffbfffbfff * 0 16 279x0x300x21
 autoscout24.de#$#abort-on-property-read tisoomi
 
-! #CV-749
-
 ! #CV-765
 pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 
@@ -12,3 +10,6 @@ pietsmiet.de,morgenpost.de,moviepilot.de##.videoAdUi
 ||hmwltp.vqysgzi.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ||1rjpi15.akvxu.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
 ||1ytyc67.ytwkco.com^$script,xmlhttprequest,domain=wetteronline.de|wetteronline.at|wetteronline.ch
+
+! #CV-691
+ebay.de#$#hide-if-contains-visible-text /Anzeige|ANZEIGE/ 'li.s-item' 'li.s-item span[role="text"]'
