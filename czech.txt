@@ -529,7 +529,6 @@ hlouhopAes=no5$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|a
 adblock$xmlhttprequest,domain=televizeseznam.cz
 ?pvId=$xmlhttprequest,domain=televizeseznam.cz
 =sznp_pv$xmlhttprequest,domain=televizeseznam.cz
-preroll$xmlhttprequest,domain=televizeseznam.cz
 &collocation-$xmlhttprequest,domain=televizeseznam.cz
 &schmollocation-$xmlhttprequest,domain=televizeseznam.cz
 ?kruchkehl=undefined&$xmlhttprequest,domain=televizeseznam.cz
@@ -550,9 +549,9 @@ expres.cz,idnes.cz##videoplayer>video[data-io-video-title*="_idnestv_"]
 expres.cz,idnes.cz##a[href*="preroll"]
 idnes.cz,expres.cz##a[href*=";cdata="]
 idnes.cz,expres.cz##a[href*="/supertag=InstreamVideo/"]
-/area=preroll-$xmlhttprequest,domain=iprima.cz
-/area=midroll-$xmlhttprequest,domain=iprima.cz
-/area=postroll-$xmlhttprequest,domain=iprima.cz
+preroll$xmlhttprequest,domain=iprima.cz|televizeseznam.cz
+midroll$xmlhttprequest,domain=iprima.cz
+postroll$xmlhttprequest,domain=iprima.cz
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
