@@ -27,6 +27,8 @@ iprima.cz##.dekes_reblika
 ?format=js|$script,domain=iprima.cz
 ?guci=$subdocument,domain=iprima.cz
 ?v127|$script,domain=iprima.cz
+/area=halfpagead$xmlhttprequest,domain=iprima.cz
+/area=branding$xmlhttprequest,domain=iprima.cz
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##.inserted_rtb
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mobilmania.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##[class^="stylu-"]
