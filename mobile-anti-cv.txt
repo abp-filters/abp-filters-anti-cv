@@ -1,0 +1,7 @@
+! List of rules that work on mobile
+
+! #CV-782
+||googlevideo.com/videoplayback?*&ctier=*$xmlhttprequest,domain=youtube.com|~tv.youtube.com
+@@||googlevideo.com/videoplayback?*&pfa=*$xmlhttprequest,domain=youtube.com|~tv.youtube.com
+@@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=youtube.com|~tv.youtube.com
+@@||googlevideo.com/videoplayback?*yt_premiere_broadcast&$xmlhttprequest,domain=youtube.com|~tv.youtube.com
