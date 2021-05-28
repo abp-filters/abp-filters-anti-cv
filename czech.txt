@@ -552,7 +552,7 @@ idnes.cz,expres.cz##a[href*="/supertag=InstreamVideo/"]
 preroll$xmlhttprequest,domain=iprima.cz|televizeseznam.cz
 midroll$xmlhttprequest,domain=iprima.cz
 postroll$xmlhttprequest,domain=iprima.cz
-iprima.cz##.vjs-ad-link
+iprima.cz##.vjs-ad-link, .vjs-ad-clickthru
 
 ! #CV-764
 clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > :not(.Result-contentContainer):not(.Result-ico):not(.Result-title)
