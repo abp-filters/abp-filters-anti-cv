@@ -1,4 +1,7 @@
 ! #CV-655
+idnes.cz#$#hide-if-matches-xpath '//div/a[string-length(@href) > 500]//img[string-length(@src) > 80]/ancestor::div[@class][2]'
+idnes.cz#$#hide-if-matches-xpath '//div[@id="main"]/*[string-length(@id) > 30][string-length(@class) > 90]'
+
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[ramefamorderx], iframe[mfookasinyx]
 
 /vCAv.IAAAAAoAA$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|fights.cz|horoskopy.cz|idnes.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|spisovatele.cz|sport.cz|super.cz|televizeseznam.cz|tiscali.cz|zeny.cz|zive.cz
