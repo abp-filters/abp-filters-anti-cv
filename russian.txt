@@ -23,7 +23,6 @@ gorodrabot.ru#$#abort-on-property-read Object.prototype.storeBlockSettings
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
 sinoptik.ua,dynamo.kiev.ua#$#abort-on-property-read document.documentElement.createShadowRoot
-gismeteo.ua#$#abort-on-property-read eval
 newsyou.info#$#abort-on-property-read localStorage
 24tv.ua##.b_reklama
 azov-sea.info##[valign="middle"]
