@@ -1,0 +1,2 @@
+! #CV-900
+lb.topphimhd.info#$#override-property-read adsData_ar true
