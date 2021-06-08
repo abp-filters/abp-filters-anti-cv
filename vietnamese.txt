@@ -1,2 +1,2 @@
-! #CV-900
+! MISC
 lb.topphimhd.info#$#override-property-read adsData_ar true
