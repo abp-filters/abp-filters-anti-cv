@@ -3,3 +3,6 @@ jvpnews.com#$#abort-current-inline-script atob TextDecoder
 
 ! #CV-669
 newstm.in,3pm.in##a[href*="/click.htm?"][target="_blank"]
+
+! Popup/Popunder/Clickunder
+xxx-indian-porn.com#$#abort-current-inline-script popunder
