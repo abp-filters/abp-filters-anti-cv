@@ -1,2 +1,3 @@
 ! MISC
 lb.topphimhd.info#$#override-property-read adsData_ar true
+motphimmoi.net#$#abort-on-property-read open; abort-on-property-write window.location.href
