@@ -131,21 +131,8 @@ marieclaire.ua#$#abort-current-inline-script redram /загрузка.../
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
-/^https:\/\/zoomdecorate\.rambler\.ru\/.{100,300}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
-/^https:\/\/zoomdecorate\.rambler\.ru\/.*&amp;.*&amp;.*$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
-/^https:\/\/zoomdecorate\.rambler\.ru\/\w{7,9}\/.{100,370}$/$image,domain=~mail.rambler.ru|rambler.ru|autorambler.ru|eda.ru|quto.ru|letidor.ru|championat.com|lenta.ru|wmj.ru|passion.ru|motor.ru|rns.online|gazeta.ru
-
-nova.rambler.ru#$#abort-on-property-write Object.prototype.getUnusableAds
-autorambler.ru,eda.ru,quto.ru,letidor.ru,championat.com,lenta.ru,wmj.ru,passion.ru,motor.ru,rns.online,gazeta.ru##div a[href="/"]:not([class])
-rambler.ru##div a[href="/"]:not([class])
-rambler.ru##.top-topic__coins
-rambler.ru##.top-main__banner--context
-rambler.ru##.article__right-middle
-rambler.ru##.banner--container
-rambler.ru##div[data-ad-marker]
-rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com#?#:-abp-has(>a[style*="//zoomdecorate.rambler.ru/"])
-wmj.ru,letidor.ru,passion.ru,motor.ru,quto.ru,autorambler.ru##div[id^="block-id-"][style^="min-width"]
-rambler.ru,autorambler.ru,lenta.ru,motor.ru,quto.ru,wmj.ru,passion.ru,letidor.ru,rns.online,championat.com,gazeta.ru##span a[href*=".rambler.ru"][target="_blank"]
+rambler.ru,~vp.rambler.ru,~kassa.rambler.ru,~top100.rambler.ru,~class.rambler.ru,~dating.rambler.ru,~images.rambler.ru,~rabota.rambler.ru,~help.rambler.ru,~org.rambler.ru,~developers.rambler.ru,~soft.rambler.ru,~nova.rambler.ru,motor.ru,rns.online,lenta.ru,motor.ru,gazeta.ru,championat.com,passion.ru,quto.ru,eda.ru,letidor.ru,wmj.ru#$#hide-if-matches-xpath './/div[count(div[@class])=1]/following-sibling::div[@class][count(div[@class])=3][child::div[1][string-length(text())=7]/div][child::div[2]/div][child::div[3]/div]/ancestor::div[@class][2]'
+rambler.ru,~vp.rambler.ru,~kassa.rambler.ru,~top100.rambler.ru,~class.rambler.ru,~dating.rambler.ru,~images.rambler.ru,~rabota.rambler.ru,~help.rambler.ru,~org.rambler.ru,~developers.rambler.ru,~soft.rambler.ru,~nova.rambler.ru,motor.ru,rns.online,lenta.ru,motor.ru,gazeta.ru,championat.com,passion.ru,quto.ru,eda.ru,letidor.ru,wmj.ru#$#hide-if-matches-xpath './/div[count(div[@class])<=2]/following-sibling::div[@class][count(div[@class])=4][child::div[1][string-length(text())=7]/div][child::div[2]/div][child::div[3][string-length(text())=7]/div][child::div[4][string-length(text())=7]/div]/ancestor::div[@class][2]'
 rambler.ru,~kassa.rambler.ru,~top100.rambler.ru,~class.rambler.ru,~dating.rambler.ru,~images.rambler.ru,~rabota.rambler.ru,~help.rambler.ru,~org.rambler.ru,~developers.rambler.ru,~soft.rambler.ru,~nova.rambler.ru,motor.ru,rns.online,lenta.ru,motor.ru,gazeta.ru,passion.ru,quto.ru,eda.ru,letidor.ru,wmj.ru#$#hide-if-matches-xpath './/div[not(@class)][not(@id)][not(@style)][string-length(text())=7]/ancestor::div[@class][4]'
 
 ! #CV-694
