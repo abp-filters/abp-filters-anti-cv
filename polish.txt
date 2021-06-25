@@ -34,6 +34,7 @@ wp.pl#$#abort-on-property-write gafReady
 o2.pl,wp.pl#?#div:-abp-has(> script:-abp-contains(=== 'function'))
 
 echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl#$#hide-if-matches-xpath './/div[@class]//a[string-length(@href)>500]/div[@class]/div[@class]//img[@class][string-length(@src)>70]/ancestor::div[@class and not(@id)][5]'
+echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl#$#hide-if-matches-xpath '//div/a[string-length(@href) > 1510]/div[@class]/img[@class][string-length(@src) > 100]/ancestor::div[@class and not(@id)][2]'
 
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
