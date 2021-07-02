@@ -2,6 +2,6 @@
 lb.topphimhd.info#$#override-property-read adsData_ar true
 
 ! Popup/Popunder/Clickunder
-phimgiz.net#$#abort-current-inline-script jQuery /.preload-11bet-pc/
+xemphimgi.net#$#abort-current-inline-script jQuery /.preload-11bet-pc/
 motphimmoi.net#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com#$#abort-on-property-read open
