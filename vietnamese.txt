@@ -6,4 +6,8 @@ fancoiphim.net#$#override-property-read time_load_ads_1 0
 xemphimgi.net#$#abort-current-inline-script jQuery /.preload-11bet-pc/
 motphimmoi.net#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com#$#abort-on-property-read open
+<<<<<<< HEAD
 fancoiphim.net#$#abort-current-inline-script JSON.parse /atob/
+=======
+tapmoi.net#$#abort-on-property-read SmartPopunder
+>>>>>>> a28d8631cf87ab19e457c7fcf80c8396f6a464c8
