@@ -56,7 +56,7 @@ megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-rea
 ! MISC
 scrin.org#$#abort-on-property-read Math.random
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
-3dnews.ru#$#abort-on-property-read Ya
+www.goha.ru,3dnews.ru#$#abort-on-property-read Ya
 myjane.ru,omskpress.ru,artfile.me,artfile.ru,astrakhan.ru,gorodche.ru,informpskov.ru,tambovnet.org#$#abort-on-property-read kav_cn
 krolik.biz#$#abort-current-inline-script document.createElement
 www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCharCode
