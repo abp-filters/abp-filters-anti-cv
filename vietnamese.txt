@@ -8,3 +8,4 @@ motphimmoi.net#$#abort-on-property-read open; abort-on-property-write window.loc
 fembed.com,femax20.com#$#abort-on-property-read open
 fancoiphim.net#$#abort-current-inline-script JSON.parse /atob/
 tapmoi.net#$#abort-on-property-read SmartPopunder
+lxhentai.com#$#abort-current-inline-script document.cookie
