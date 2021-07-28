@@ -12,4 +12,4 @@ kastream.biz#$#abort-on-property-write open
 filmesonlinegratis.com#$#abort-on-property-read atob
 
 ! #CV-667
-filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
+!filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded

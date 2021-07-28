@@ -567,10 +567,10 @@ clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="R
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url):not(.Result-dw-wrapper):not(.Result-image) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
 
 ! MISC
-info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
-onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
-titulky.com#$#abort-current-inline-script adblfetected
-csfd.cz#$#abort-current-inline-script $ completeAdsObject
+! info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
+! onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
+! titulky.com#$#abort-current-inline-script adblfetected
+! csfd.cz#$#abort-current-inline-script $ completeAdsObject
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
