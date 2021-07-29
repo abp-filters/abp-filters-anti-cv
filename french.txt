@@ -70,3 +70,4 @@ batporno.com#$#abort-on-property-read decodeURI
 jetanimes.co#$#abort-on-property-read atob
 vostfree.com#$#abort-on-property-write _pop
 *$popup,domain=strtapeadblock.me
+strtapeadblock.me#$#abort-on-property-write _pao
