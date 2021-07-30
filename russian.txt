@@ -78,6 +78,7 @@ fssp.gov.ru#$#abort-on-property-read tingle
 liveforums.ru#$#abort-on-property-read tnAdditionalParams
 tagaev.com#$#abort-on-property-read PUM
 web-shpargalka.ru#$#abort-on-property-read Date.prototype.toUTCString
+musify.club#$#abort-on-property-read get_ya_browser
 
 ! Popup/popunder/clickunder
 serialfilm.ru,freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
