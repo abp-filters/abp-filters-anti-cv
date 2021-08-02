@@ -115,9 +115,6 @@ y2mate.com#$#abort-on-property-read dispatchEvent
 ! #CV-761
 facebook.com#?#.ego_section:-abp-has(a:-abp-contains(/贊助|赞助内容|Sponsorlu|Sponsored|Gesponsert|Publicidad|Patrocinado|Sponsorisé|Sponsorizzato|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|ממומן|Bersponsor|Ditaja|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে/))
 
-! #CV-240
-seekingalpha.com#$#abort-on-property-read atob
-
 ! #CV-241
 swatchseries.to#$#abort-on-property-read zfgloadednative
 
