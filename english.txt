@@ -227,6 +227,7 @@ foreverconscious.com,blwideas.com,ultimateninjablazingx.com,utahsweetsavings.com
 ||1r7efqo.tjfmd.com^$script,xmlhttprequest,domain=pch.com
 ||1qboss9.ejuslehq.com^$script,xmlhttprequest,domain=pch.com
 ||1ov2pp0.$script,xmlhttprequest,domain=ign.com|ignboards.com
+||1htpkw6.$script,xmlhttprequest,domain=ign.com|ignboards.com
 ||zk8n5o.oaqjwapqdho.com^$script,xmlhttprequest
 ||volstqkwmth.com^$script,xmlhttprequest
 ||dgnepemukk.com^$script,xmlhttprequest
