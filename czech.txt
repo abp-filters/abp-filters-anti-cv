@@ -577,3 +577,4 @@ clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-tit
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
+*$popup,third-party,domain=expres.cz,idnes.cz
