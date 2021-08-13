@@ -273,7 +273,7 @@ clicknupload.co#$#abort-on-property-read _qwprvw;
 revivelink.com#$#abort-on-property-read btoa;
 youdbox.com#$#abort-on-property-read encodeURIComponent
 nosteam.ro#$#abort-on-property-write jsPop21
-ww2.manganelo.tv#$#abort-on-property-read document.createElement _qtyitfcq
+manganelo.tv#$#abort-on-property-read document.createElement
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
