@@ -278,7 +278,7 @@ manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read document.getElementsByTagName
 
 ! #CV-667
-gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
+gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
 getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw#$#abort-on-property-write Fingerprint2
 gogoanimes.tv#$#abort-on-property-write atob
 holavid.com,liivideo.com#$#abort-on-property-read Math.sin
