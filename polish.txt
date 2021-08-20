@@ -29,16 +29,12 @@ parenting.pl,echirurgia.pl,dobreprogramy.pl,abczdrowie.pl,wp.pl#$#override-prope
 wp.pl#$#abort-on-property-write gafReady
 o2.pl,wp.pl#?#div:-abp-has(> script:-abp-contains(=== 'function'))
 
+echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl,~poczta.wp.pl#$#hide-if-matches-xpath './/div[@class and @* and not (@id)]//a[@class and @* and not (@id)][string-length(@href)>1000]//div[@class]//img[@class and @* and not (@id)][string-length(@src)>100]/ancestor::div[@class and @* and not(@id)][3]'
+echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl,~poczta.wp.pl#$#hide-if-matches-xpath '//a[string-length(@href)>1000]/img[@class and @*[not(name() = "class")]][string-length(@src)>125]'
+
 echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl,~poczta.wp.pl#$#hide-if-matches-xpath '//div[@class and @*[not(@class)]=""]/div[not(*) and not(normalize-space())][@class and @*[not(@class)]=""]/ancestor::div[@class and @*[not(@class)]=""][contains(@class," ")][contains(@*[not(@class)]," ")][string-length(@*[not(@class)]) > 25]'
-
-echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl,~poczta.wp.pl#$#hide-if-matches-xpath './/div[@class]//a[string-length(@href)>500]/div[@class]/div[@class]//img[@class][string-length(@src)>70]/ancestor::div[@class and not(@id)][5]'
-echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl,~poczta.wp.pl#$#hide-if-matches-xpath '//div/a[string-length(@href) > 1510]/div[@class]/img[@class][string-length(@src) > 100]/ancestor::div[@class and not(@id)][2]'
-echirurgia.pl,kardiolo.pl,dobreprogramy.pl,o2.pl,kafeteria.pl,parenting.pl,autokult.pl,pudelek.pl,nerwica.com,medycyna24.pl,money.pl,smaczneblogi.pl,komorkomania.pl,gadzetomania.pl,open.fm,fotoblogia.pl,abczdrowie.pl,autocentrum.pl,wp.pl,~poczta.wp.pl#$#hide-if-matches-xpath '//a[@class and @* and not (@id)][string-length(@href) > 1000]/img[@class and @* and not (@id)][string-length(@src) > 100]/ancestor::div[@class and @* and not(@id)][5]'
-
 echirurgia.pl,dobreprogramy.pl,o2.pl,autokult.pl,pudelek.pl,money.pl,wp.pl#$#hide-if-matches-xpath '//div[@id]/a[@id]/img[string-length(@src) < 120][contains(normalize-space()," ")][@class="img-full show"]/ancestor::div[1]'
-
 kafeteria.pl,medycyna24.pl,komorkomania.pl,gadzetomania.pl,fotoblogia.pl,echirurgia.pl,dobreprogramy.pl,o2.pl,autokult.pl,pudelek.pl,money.pl,wp.pl#$#hide-if-matches-xpath '//div[@*]/div[@class][contains(normalize-space()," ")]/iframe[@*][string-length(@src) < 150] /ancestor::div[3][@*]'
-
 kafeteria.pl,medycyna24.pl,komorkomania.pl,gadzetomania.pl,fotoblogia.pl,echirurgia.pl,dobreprogramy.pl,o2.pl,autokult.pl,pudelek.pl,money.pl,wp.pl#$#hide-if-matches-xpath '//div[@*]/p[contains(normalize-space(), " ")][@*]/preceding-sibling::label[1][@class]/ancestor::div[2]'
 
 ! MISC
