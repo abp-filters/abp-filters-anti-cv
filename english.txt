@@ -77,7 +77,7 @@ y2mate.com#$#abort-on-property-read dispatchEvent
 
 ! #CV-761
 facebook.com#$#hide-if-matches-xpath './/a[@aria-label="Sponsorlu" or @aria-label="Sponsored" or @aria-label="Gesponsert" or @aria-label="Patrocinado" or @aria-label="Sponsorisé" or @aria-label="Commandité" or @aria-label="Gesponsord" or @aria-label="Sponsorowane" or @aria-label="Реклама" or @aria-label="Sponsa" or @aria-label="Sponset" or @aria-label="Sponsorizat" or @aria-label="Bersponsor" or @aria-label="Ditaja" or @aria-label="Sponsorizzato" or @aria-label="贊助" or @aria-label="赞助内容" or @aria-label="ได้รับการสนับสนุน" or @aria-label="प्रायोजित" or @aria-label="সৌজন্যে" or @aria-label="مُموَّل" or @aria-label="ממומן" or @aria-label="سپانسرڈ" or @aria-label="تمويل شوي" or @aria-label="دارای پشتیبانی مالی"]/ancestor::div[@data-pagelet[starts-with(normalize-space(),"FeedUnit_")]]'
-facebook.com#$#hide-if-labelled-by /^Sponsorlu|Sponsored|Gesponsert|Patrocinado|Sponsorisé|Commandité|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato|贊助|赞助内容|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে|مُموَّل|سپانسرڈ|ממומן$/ a>span [data-pagelet^="FeedUnit_"]
+facebook.com#$#hide-if-labelled-by /^Sponsorlu|Sponsored|Gesponsert|Patrocinado|Sponsorisé|Commandité|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato|贊助|赞助内容|ได้รับการสนับสนุน|प्रायोजित|'دارای پشتیبانی مالی'|'تمويل شوي'|সৌজন্যে|مُموَّل|سپانسرڈ|ממומן$/ a>span [data-pagelet^="FeedUnit_"]
 
 facebook.com#?#.ego_section:-abp-has(a:-abp-contains(/贊助|赞助内容|Sponsorlu|Sponsored|Gesponsert|Publicidad|Patrocinado|Sponsorisé|Sponsorizzato|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|ממומן|Bersponsor|Ditaja|ได้รับการสนับสนุน|प्रायोजित|সৌজন্যে/))
 
