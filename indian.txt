@@ -1,3 +1,6 @@
+! #CV-761
+facebook.com#$#hide-if-matches-xpath './/a[@aria-label]/span/span/b[text()="प्रायोजित"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+
 ! #CV-741
 ! jvpnews.com#$#abort-current-inline-script atob TextDecoder
 
