@@ -1,5 +1,5 @@
 ! #CV-761
-facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Iscriviti" or text()="Richiedi subito" or text()="Invia un messaggio" or text()="Guarda di più" or text()="Scopri di più" or text()="Prenota subito" or text()="Scarica" or text()="Ottieni i biglietti" or text()="Acquista ora"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Iscriviti" or text()="Richiedi subito" or text()="Guarda di più" or text()="Scopri di più" or text()="Prenota subito" or text()="Scarica" or text()="Ottieni i biglietti" or text()="Acquista ora"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
 
 ! #CV-667
 ! mp3-gratis.it#$#abort-current-inline-script Math zfgloaded
