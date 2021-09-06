@@ -378,6 +378,7 @@ cat_*dog$subdocument,domain=novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz|te
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
 /^https:\/\/www\.(kupi|super|sport|novinky|sreality)\.cz\/[A-Za-z0-9\/_!=-]{140,}/$subdocument,domain=kupi.cz|super.cz|sport.cz|novinky.cz|sreality.cz
 /^https:\/\/www\.seznamzpravy\.cz\/[A-Za-z0-9\/_!=-]{100,}/$subdocument,xmlhttprequest,domain=seznamzpravy.cz
+seznamzpravy.cz/*seznamzpravy.cz$subdocument
 
 novinky.cz,super.cz,sport.cz,seznamzpravy.cz,kupi.cz##[data-cy], [data-e2e-advert], a[href*="adurl="]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
@@ -396,6 +397,8 @@ novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 kupi.cz##[data-sssp]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
+seznamzpravy.cz#?#body[class*="baner"]
+seznamzpravy.cz#?#iframe[src*="sklik/imp"]
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
