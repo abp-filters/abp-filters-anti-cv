@@ -1,5 +1,5 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Teklifi Al" or text()="Sayfayı Beğen" or text()="Daha Fazla Bilgi Al" or text()="Şimdi Başvur" or text()="Kaydol" or text()="Şimdi Alışveriş Yap"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Teklifi Al" or text()="Sayfayı Beğen" or text()="Daha Fazla Bilgi Al" or text()="Şimdi Başvur" or text()="Kaydol" or text()="Şimdi Alışveriş Yap" or text()="Takip Et" or text()="Şimdi Bağışta Bulun" or text()="Oyna" or text()="Şimdi Rezervasyon Yap" or text()="Bilet Al" or text()="Bizimle İletişime Geç"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
 
 ! #CV-717
 yandex.com.tr#$#hide-if-contains reklam li.serp-item 'li.serp-item div.label'
