@@ -88,6 +88,7 @@ serialfilm.ru,freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.
 hdkinoteatr.com#$#abort-on-property-read cuec
 freehat.cc#$#abort-on-property-read advFirstClickOpenNewTab
 anitokyo.tv,hcdn.online,kinofilm.co,anipoisk.org#$#abort-on-property-read ClickUndercookie
+cosplay-porn.one#$#abort-on-property-read biads
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
