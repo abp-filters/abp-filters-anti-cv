@@ -1,5 +1,5 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Berlangganan" or text()="Penawaran" or text()="Bersponsor" or text()="Daftar" or text()="Selengkapnya" or text()="Daftar Sekarang" or text()="Pesan Sekarang" or text()="Tonton Lainnya" or text()="Hubungi Kami" or text()="Unduh" or text()="Sukai Halaman"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Berlangganan" or text()="Penawaran" or text()="Daftar" or text()="Selengkapnya" or text()="Daftar Sekarang" or text()="Pesan Sekarang" or text()="Tonton Lainnya" or text()="Hubungi Kami" or text()="Unduh" or text()="Sukai Halaman"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
 
 ! #CV-667
 ! citpekalongan.com,designmyhomee.com,mangacanblog.com,marthamatika.com,tokusatsuindo.com,unbrick.id#$#abort-current-inline-script Math zfgloaded
