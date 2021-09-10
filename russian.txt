@@ -1,3 +1,6 @@
+! #CV-761
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Подать заявку" or text()="Подробнее" or text()="Скачать" or text()="В магазин" or text()="Связаться с нами" or text()="Регистрация" or text()="Играть" or text()="Пожертвовать" or text()="Забронировать" or text()="Меню"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+
 ! #CV-244
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,~telephony.yandex.ru,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#hide-if-matches-xpath '//div[@class="feed__item _size_small"][@id]/div[string-length(@class) > 200][contains(@class," ")]'
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,~telephony.yandex.ru,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#hide-if-matches-xpath '//div[@class="feed__item _size_big"][@id]/div[string-length(@class) > 200][contains(@class," ")]'
@@ -68,7 +71,7 @@ fastpic.org,~new.fastpic.org,fastpic.ru,~new.fastpic.ru#$#abort-on-property-read
 softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-read Object.prototype.str_replace
 city.ogo.ua#$#abort-on-property-read myatu_bgm
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
-agronom.com.ua,mediasat.info,housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
+itech.co.ua,agronom.com.ua,mediasat.info,housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,megaresheba.com,megaresheba.ru,resheba.me,spishi.fun,zoobrilka.net#$#abort-on-property-write app.book.external
 dfiles.ru#$#abort-on-property-read ads_script
 sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayElement noopFunc
@@ -85,6 +88,7 @@ serialfilm.ru,freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.
 hdkinoteatr.com#$#abort-on-property-read cuec
 freehat.cc#$#abort-on-property-read advFirstClickOpenNewTab
 anitokyo.tv,hcdn.online,kinofilm.co,anipoisk.org#$#abort-on-property-read ClickUndercookie
+cosplay-porn.one#$#abort-on-property-read biads
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast

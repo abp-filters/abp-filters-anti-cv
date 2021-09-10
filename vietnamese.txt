@@ -1,3 +1,6 @@
+! #CV-761
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Tìm hiểu thêm" or text()="Đăng ký ngay" or text()="Đăng ký" or text()="Đăng ký dài hạn" or text()="Liên hệ với chúng tôi" or text()="Mua ngay" or text()="Tải xuống" or text()="Đặt ngay"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+
 ! MISC
 lb.topphimhd.info#$#override-property-read adsData_ar true
 fancoiphim.net#$#override-property-read time_load_ads_1 0

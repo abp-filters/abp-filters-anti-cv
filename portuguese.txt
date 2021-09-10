@@ -1,4 +1,5 @@
-! #CV-660
+! #CV-761
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Saber mais" or text()="Saiba mais" or text()="Gostar da Página" or text()="Curtir Página" or text()="Baixar" or text()="Cadastre-se" or text()="Solicitar agora" or text()="Assistir mais" or text()="Comprar agora" or text()="Obter oferta" or text()="Obter ingressos" or text()="Reservar agora"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
 
 ! #CV-741
 diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder

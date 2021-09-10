@@ -19,3 +19,6 @@ egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.c
 
 ! #CV-754
 akwam.cc,akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,gateanime.com,gocoo.co#$#abort-on-property-read String.fromCharCode
+
+A: #CV-761
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="تعرف على المزيد" or text()="تقديم طلب الآن" or text()="إرسال رسالة" or text()="تسوق الآن" or text()="الحصول على العرض" or text()="تبرّع الآن" or text()="تسجيل"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'

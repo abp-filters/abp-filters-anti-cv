@@ -1,0 +1,2 @@
+! CV-761
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Hirdetés" or text()="További információ" or text()="Letöltés" or text()="Játék indítása" or text()="Regisztráció" or text()="Jelentkezés most" or text()="Tetszik az oldal" or text()="Érdekel" or text()="Üzenet küldése" or text()="Bolt felkeresése" or text()="Foglalás most" or text()="Jegyek"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
