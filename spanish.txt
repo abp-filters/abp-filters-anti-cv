@@ -1,5 +1,4 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Obtener acceso" or text()="Más información" or text()="Comprar" or text()="Postularte" or text()="Descargar" or text()="Ver boletos" or text()="Registrarte" or text()="Reservar" or text()="Contactarnos" or text()="Patrocinado" or text()="Ver más" or text()="Me gusta esta página" or text()="Publicidad" or text()="Jugar" or text()="Enviar solicitud" or text()="Ver horarios" or text()="Seguir" or text()="Vender ahora" or text()="Donar" or text()="Ver funciones" or text()="Suscribirte"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
 
 ! #CV-667
 !envivotv.net,lucenpop.com.es,pokefanleoretrogames.com,topflix.tv#$#abort-current-inline-script Math zfgloaded
