@@ -8,7 +8,7 @@ truyen4u.net#$#abort-on-property-read document.body
 
 ! Popup/Popunder/Clickunder
 !xemphimgi.net#$#abort-current-inline-script jQuery /.preload-11bet-pc/
-motphimmoi.net#$#abort-on-property-read open; abort-on-property-write window.location.href
+motphimmoi.net,biphimtv.net#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.com,mrdhan.com,xemphimgi.net,lxhentai.com#$#abort-on-property-read open
 !fancoiphim.net#$#abort-current-inline-script JSON.parse /atob/
 tapmoi.net#$#abort-on-property-read SmartPopunder
