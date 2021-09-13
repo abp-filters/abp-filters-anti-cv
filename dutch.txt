@@ -3,4 +3,4 @@ ajaxshowtime.com#?#div:-abp-properties(content: "Advertentie";)
 ajaxshowtime.com##div.leaderboard_ad + div
 
 ! #CV-761
-facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Gesponsord" or text()="Shoppen" or text()="Nu luisteren" or text()="Nu boeken" or text()="Meer informatie" or text()="Pagina leuk vinden" or text()="Nu aanvragen" or text()="Volgen" or text()="Geïnteresseerd" or text()="Registreren"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Gesponsord" or text()="Shoppen" or text()="Nu luisteren" or text()="Nu boeken" or text()="Meer informatie" or text()="Pagina leuk vinden" or text()="Nu aanvragen" or text()="Volgen" or text()="Geïnteresseerd" or text()="Registreren"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
