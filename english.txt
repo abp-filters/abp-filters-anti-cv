@@ -88,6 +88,10 @@ www.facebook.com#$#hide-if-matches-xpath './/div[@id="watch_feed"]//div[@data-pa
 www.facebook.com##div[data-pagelet="RightRail"] a[aria-labelledby][role="link"][target="_blank"][tabindex="0"]
 www.facebook.com#$#hide-if-matches-xpath '//a[@aria-label][@href][@role="link"][@tabindex="0"]//div[@class]/span[@class][contains(normalize-space(),"Sponsored")]/ancestor::a[@aria-label][1]'
 
+! experimental
+www.facebook.com#$#hide-if-matches-xpath '//span[count(child::span) >= 29][count(child::span) <= 35]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]//*[contains(@aria-label," ")]//div[@class]//span[@class][contains(text()," ")]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
+
+
 ! #CV-241
 swatchseries.to#$#abort-on-property-read zfgloadednative
 
