@@ -1,5 +1,5 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Подать заявку" or text()="Подробнее" or text()="Скачать" or text()="В магазин" or text()="Связаться с нами" or text()="Регистрация" or text()="Играть" or text()="Пожертвовать" or text()="Забронировать" or text()="Меню"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/div[@data-visualcompletion="ignore-late-mutation" or starts-with(@data-pagelet,"FeedUnit_")]//span[@class][not(@style) and not(@id)][text()="Подать заявку" or text()="Подробнее" or text()="Скачать" or text()="В магазин" or text()="Связаться с нами" or text()="Регистрация" or text()="Играть" or text()="Пожертвовать" or text()="Забронировать" or text()="Меню"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
 
 ! #CV-244
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,~telephony.yandex.ru,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr#$#hide-if-matches-xpath '//div[@class="feed__item _size_small"][@id]/div[string-length(@class) > 200][contains(@class," ")]'

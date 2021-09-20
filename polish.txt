@@ -1,5 +1,5 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Zainteresowany(a)" or text()="Wyślij wniosek" or text()="Pobierz" or text()="Polub stronę" or text()="Zarejestruj się" or text()="Kup teraz" or text()="Więcej informacji" or text()="Zdobądź bilety" or text()="Zarezerwuj teraz"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/div[@data-visualcompletion="ignore-late-mutation" or starts-with(@data-pagelet,"FeedUnit_")]//span[@class][not(@style) and not(@id)][text()="Zainteresowany(a)" or text()="Wyślij wniosek" or text()="Pobierz" or text()="Polub stronę" or text()="Zarejestruj się" or text()="Kup teraz" or text()="Więcej informacji" or text()="Zdobądź bilety" or text()="Zarezerwuj teraz"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
 
 ! #CV-705
 !www.wp.pl#$#abort-on-property-read SlotRegistrar; abort-current-inline-script PRELOAD randvar

@@ -1,5 +1,5 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="Sponzorováno" or text()="Stáhnout" or text()="Přihlásit odběr"  or text()="Požádat" or text()="Další informace" or text()="Získat nabídku" or text()="Získat cenovou nabídku" or text()="Zaregistrovat se" or text()="Hrát hru" or text()="Rezervovat"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/div[@data-visualcompletion="ignore-late-mutation" or starts-with(@data-pagelet,"FeedUnit_")]//span[@class][not(@style) and not(@id)][text()="Sponzorováno" or text()="Stáhnout" or text()="Přihlásit odběr"  or text()="Požádat" or text()="Další informace" or text()="Získat nabídku" or text()="Získat cenovou nabídku" or text()="Zaregistrovat se" or text()="Hrát hru" or text()="Rezervovat"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
 
 ! #CV-655
 idnes.cz,expres.cz#$#hide-if-matches-xpath './/*[string-length(@class) < 50]/following-sibling::div[@class]/div[string-length(@id) > 30]/ancestor::div[string-length(@class) > 43]|.//*[string-length(@class) < 50][@style="margin: auto;"]/div[2]/ancestor::*[1]'

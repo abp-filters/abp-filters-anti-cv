@@ -1,6 +1,6 @@
 ! #CV-761
-www.facebook.com#$#hide-if-matches-xpath './/a[@aria-label]/span/span//b[text()="प्रायोजित"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
-www.facebook.com#$#hide-if-matches-xpath './/span[@class][@dir="auto"]/span[@class][not(@style) and not(@id)][text()="ਸੁਨੇਹਾ ਭੇਜੋ" or text()="ਸਾਈਨ ਅੱਪ ਕਰੋ" or text()="ਹੁਣੇ ਖਰੀਦੋ" or text()="ਹੋਰ ਜਾਣੋ" or text()="ਡਾਉਨਲੋਡ ਕਰੋ" or text()="ਉਧਾਰਣ ਲਓ" or text()="ਹੁਣ ਸੁਣੋ"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
+www.facebook.com#$#hide-if-matches-xpath './/div[@data-visualcompletion="ignore-late-mutation" or starts-with(@data-pagelet,"FeedUnit_")]//a[@aria-label]/span/span//b[text()="प्रायोजित"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
+www.facebook.com#$#hide-if-matches-xpath './/div[@data-visualcompletion="ignore-late-mutation" or starts-with(@data-pagelet,"FeedUnit_")]//span[@class][not(@style) and not(@id)][text()="ਸੁਨੇਹਾ ਭੇਜੋ" or text()="ਸਾਈਨ ਅੱਪ ਕਰੋ" or text()="ਹੁਣੇ ਖਰੀਦੋ" or text()="ਹੋਰ ਜਾਣੋ" or text()="ਡਾਉਨਲੋਡ ਕਰੋ" or text()="ਉਧਾਰਣ ਲਓ" or text()="ਹੁਣ ਸੁਣੋ"]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
 
 ! #CV-741
 ! jvpnews.com#$#abort-current-inline-script atob TextDecoder
