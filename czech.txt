@@ -584,4 +584,4 @@ zoznam.sk#$#hide-if-matches-xpath './/div[@class]/iframe[@id][@title][string-len
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
-*$popup,third-party,domain=expres.cz,idnes.cz
+*$popup,third-party,domain=expres.cz|idnes.cz
