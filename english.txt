@@ -286,6 +286,7 @@ hclips.com#$#abort-on-property-read adver
 txxx.com#$#override-property-read skpPop true; abort-on-property-read ExoLoader; abort-on-property-read open
 protonvideo.to#$#abort-on-property-read PlayerjsEvents
 srsone.top#$#override-property-read googlecx noopFunc
+animepahe.ru,animepahe.org,animepahe.com#$#abort-on-property-read document.querySelector
 
 *$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
 about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com|strtapeadblock.me
