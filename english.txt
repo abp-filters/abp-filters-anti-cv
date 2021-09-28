@@ -76,7 +76,7 @@ y2mate.com#$#abort-on-property-read dispatchEvent
 ||connect.facebook.net^*/fbds.js$third-party
 
 ! #CV-761
-www.facebook.com#$#simulate-event-poc pointerover xpath(.//a[@role="link"][@href="#"]) 100; hide-if-matches-xpath './/a[@role="link"][contains(@href,"/ads/")]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'; simulate-event-poc pointerup xpath(.//a[@role="link"]) 200
+www.facebook.com#$#simulate-event-poc pointerover xpath(.//a[@role="link"][@href="#"]) 100; hide-if-matches-xpath './/a[@role="link"][contains(@href,"/ads/")]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or @aria-posinset or @aria-describedby or @aria-labelledby]'; simulate-event-poc pointerup xpath(.//a[@role="link"]) 200
 
 www.facebook.com#$#hide-if-matches-xpath './/span[@class]/a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Patrocinado" or .="Publicidad" or .="Sponsa" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ"]]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
 
