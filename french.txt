@@ -63,7 +63,7 @@ down-paradise.com#$#abort-on-property-read open
 extreme-down.in,extreme-down.link,extreme-down.live,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extreme-down.work,extreme-down.xyz,extreme-download.im,extreme-download.ninja,extreme-down.video,extreme-download.xyz,voiranime.com#$#abort-on-property-read NativeAd
 
 ! #CV-667
-! voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
+voiranime.com#$#abort-current-inline-script document.createElement String.fromCharCode
 flystream.fr,filmtelecharger.net,jetanimes.co,libertyvf.co,libertyvf.tv,libertyvf.com,streaming-one.com,extreme-down.in,extreme-down.link,extreme-down.live,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extreme-down.work,extreme-down.video,extreme-down.xyz,extreme-download.im,extreme-download.ninja,extreme-download.xyz#$#abort-current-inline-script Math zfgloaded
 
 ! MISC
