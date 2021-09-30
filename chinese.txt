@@ -6,8 +6,8 @@ ipv6.baidu.com,xueshu.baidu.com,www.baidu.com,www1.baidu.com#$#hide-if-contains 
 torrentkitty.tv#$#abort-on-property-read _fupfgk;abort-on-property-read _nyjdy
 178.com,nga.cn#$#abort-on-property-write __LOAD_BBS_ADS_12
 cn.bing.com#$#hide-if-contains 360 #b_results>li .b_adProvider
-! 2345.com#$#abort-current-inline-script setDefaultTheme
-! ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
+2345.com#$#abort-current-inline-script setDefaultTheme
+ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! Popups & Popunders
 cocomanga.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
@@ -16,4 +16,4 @@ cocomanga.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-rea
 iyingshi9.tv#$#override-property-read YZM.ads.state false
 
 ! #CV-667
-! hdzone.org#$#abort-current-inline-script Math zfgloaded
+hdzone.org#$#abort-current-inline-script Math zfgloaded

@@ -14,7 +14,7 @@ zen.yandex.ru##div[class*="is-parent-size_undefined"]
 ~market.yandex.ru,~market.yandex.kz,~market.yandex.by,~market.yandex.ua,~telephony.yandex.ru,yandex.ru,yandex.kz,yandex.uz,yandex.by,yandex.ua,yandex.fr##div[class*="item_type_"][class*="item_rendered"]
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
-kakprosto.ru#$#abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
+kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
 liveinternet.ru#$#abort-on-property-read Object.prototype.parseResponseData
 echo.msk.ru#$#abort-on-property-read Object.prototype.onRender; abort-on-property-read Object.prototype.banner
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
@@ -58,14 +58,21 @@ scrin.org#$#abort-on-property-read Math.random
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 www.goha.ru,3dnews.ru#$#abort-on-property-read Ya
 myjane.ru,omskpress.ru,artfile.me,artfile.ru,astrakhan.ru,gorodche.ru,informpskov.ru,tambovnet.org#$#abort-on-property-read kav_cn
+krolik.biz#$#abort-current-inline-script document.createElement
+www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCharCode
 sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 facenews.ua,molitvy.guru,nizhny.ru,svadba.expert#$#abort-on-property-read XMLHttpRequest
+kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 naruto-base.su#$#abort-on-property-read njranu
+nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script Math.random
 vestivrn.ru#$#abort-on-property-read video.preroll
+rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
+paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 dota2.ru#$#abort-on-property-read helpUsImproveSite
-fastpic.org,~new.fastpic.org,fastpic.ru,~new.fastpic.ru#$#abort-on-property-read document.getElementsByTagName; abort-on-property-read Math.floor
+fastpic.org,~new.fastpic.org,fastpic.ru,~new.fastpic.ru#$#abort-current-inline-script Math.random; abort-on-property-read document.getElementsByTagName; abort-on-property-read Math.floor
 softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-read Object.prototype.str_replace
+www.ixbt.com#$#abort-on-property-read adv_obj; abort-current-inline-script document.getElementById branding
 city.ogo.ua#$#abort-on-property-read myatu_bgm
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 itech.co.ua,agronom.com.ua,mediasat.info,housechief.ru,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
@@ -75,15 +82,31 @@ sports.ru,tribuna.com#$#override-property-read Object.prototype.getRandomArrayEl
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype._bannerOrderAttr
 fssp.gov.ru#$#abort-on-property-read tingle
+allboxing.ru#$#abort-current-inline-script document.querySelector open
+dynamo.kiev.ua,liga.net,epravda.com.ua,pravda.com.ua,www.i.ua,isport.ua,football.ua#$#abort-current-inline-script decodeURIComponent getAdBlockStatus; abort-current-inline-script document.querySelector /banner/
+kurs.com.ua#$#abort-current-inline-script document.documentElement.clientWidth
+gamebomb.ru#$#abort-current-inline-script jQuery /Position/
+sound-park.rocks,sound-park.world,soundpark.rocks#$#abort-current-inline-script $ open
+shaiba.kz#$#abort-current-inline-script $ 1xbet
 liveforums.ru#$#abort-on-property-read tnAdditionalParams
+musify.club#$#abort-current-inline-script $ get_ya_browser
+mp3spy.cc#$#abort-current-inline-script JSON.parse atob
 tagaev.com#$#abort-on-property-read PUM
+l2top.ru#$#abort-current-inline-script $ cleanAndEval
+rsload.net#$#abort-current-inline-script window.addEventListener load
 web-shpargalka.ru#$#abort-on-property-read Date.prototype.toUTCString
 musify.club#$#abort-on-property-read get_ya_browser
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
 
 ! Popup/popunder/clickunder
 serialfilm.ru,freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
+piratam.net,piratca.net,sexitorrent.com,sextor.org,xtorrent.net,xxxrip.net,torrent-pirat.com,pornoakt.vip,porn720.biz,huyamba.tv,xxxtor.com#$#abort-current-inline-script document.querySelectorAll popMagic
 hdkinoteatr.com#$#abort-on-property-read cuec
+fapreactor.com,pornreactor.cc#$#abort-current-inline-script Math decodeURIComponent
+budport.com.ua#$#abort-current-inline-script $ append
+aces.gg#$#abort-current-inline-script $ window.open
+penzainform.ru#$#abort-current-inline-script $ divWrapper
+drlink.online#$#abort-current-inline-script Math.random toString
 freehat.cc#$#abort-on-property-read advFirstClickOpenNewTab
 anitokyo.tv,hcdn.online,kinofilm.co,anipoisk.org#$#abort-on-property-read ClickUndercookie
 cosplay-porn.one#$#abort-on-property-read biads
@@ -96,11 +119,12 @@ auto.mail.ru,hi-tech.mail.ru,cloud.mail.ru,horo.mail.ru,pogoda.mail.ru,tv.mail.r
 horo.mail.ru,pogoda.mail.ru,tv.mail.ru#$#abort-on-property-read MrgContext
 
 ! #CV-713
-ucoz.club,yaminecraft.ru,dva-kolesa.my1.ru,nintendo.moy.su,kino-v-dome.net,psxworld.ru,others.name,pidru4nik.com,sobhd.ru,krolmen.ru,tes-game.ru,usite.pro,gamesdendy.ru,torm-egan.ru,gals.md,kinovego.ru,project-ss.ru,stranded-deep.ru,chernobyl-soul.com,3dn.ru,addfiles.ru,asia-tv.su,at.ua,autosimgames.ru,clan.su,cliphq.ru,db-energo.ru,devdrivers.ru,do.am,elegos.ru,elektrosat.ru,fireiser.org,fon-ki.com,for-gsm.ru,free-dream.ru,ftechedu.ru,fukushima-news.ru,giginfo.ru,gloria-cedric.ru,goldformat.ru,hack-port.ru,hero-empire.com,igrul-ka.ru,kp-pmr.ru,krasnickij.ru,megaclips.net,men-stalker.com,mod-rus.ru,moy.su,mp3songs.ru,mp4android.ru,mult-online.net,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,omsimclub.ru,online-supernatural.ru,onlinestargate.ru,pkrc.ru,radiodom.org,rocketdockfree.ru,sdr-deluxe.com,skidrowcrack.ru,soft-game.net,stalker-zone.info,stalkermods.ru,svadbatomsk.ru,torrent-file.top,ucoz.com,ucoz.net,ucoz.org,ucoz.ru,ucoz.ua,vodopads.ru,vorozheja.ru,warcraftda.ru,x-proshivki.ru,xakevsoft.ru,zona-stalkera.ru,a-point.info,xn--80aeshkkbdj.xn--p1ai#$#abort-on-property-read u_global_data; abort-on-property-read u_global_data.basic_functions; abort-on-property-read u_global_data.basic_params; abort-on-property-read u_global_data.clundused; abort-on-property-read ClicksCloudAsyncCallbacks; abort-on-property-write ucoz_rndid; abort-on-property-read u_vastplayer; abort-on-property-read Object.prototype.clunduse; abort-on-property-read rbConfig; abort-on-property-read tsr_iframe
+ucoz.club,yaminecraft.ru,dva-kolesa.my1.ru,nintendo.moy.su,kino-v-dome.net,psxworld.ru,others.name,pidru4nik.com,sobhd.ru,krolmen.ru,tes-game.ru,usite.pro,gamesdendy.ru,torm-egan.ru,gals.md,kinovego.ru,project-ss.ru,stranded-deep.ru,chernobyl-soul.com,3dn.ru,addfiles.ru,asia-tv.su,at.ua,autosimgames.ru,clan.su,cliphq.ru,crashkino.net,db-energo.ru,devdrivers.ru,do.am,elegos.ru,elektrosat.ru,fireiser.org,fon-ki.com,for-gsm.ru,free-dream.ru,ftechedu.ru,fukushima-news.ru,giginfo.ru,gloria-cedric.ru,goldformat.ru,hack-port.ru,hero-empire.com,igrul-ka.ru,kp-pmr.ru,krasnickij.ru,megaclips.net,men-stalker.com,mod-rus.ru,moy.su,mp3songs.ru,mp4android.ru,mult-online.net,my1.ru,narod.ru,newgames.com.ua,novospasskoe-city.ru,omsimclub.ru,online-supernatural.ru,onlinestargate.ru,pkrc.ru,radiodom.org,rocketdockfree.ru,sdr-deluxe.com,skidrowcrack.ru,soft-game.net,stalker-zone.info,stalkermods.ru,svadbatomsk.ru,torrent-file.top,ucoz.com,ucoz.net,ucoz.org,ucoz.ru,ucoz.ua,vodopads.ru,vorozheja.ru,warcraftda.ru,x-proshivki.ru,xakevsoft.ru,zona-stalkera.ru,a-point.info,xn--80aeshkkbdj.xn--p1ai#$#abort-on-property-read u_global_data; abort-on-property-read u_global_data.basic_functions; abort-on-property-read u_global_data.basic_params; abort-on-property-read u_global_data.clundused; abort-on-property-read ClicksCloudAsyncCallbacks; abort-on-property-write ucoz_rndid; abort-on-property-read u_vastplayer; abort-current-inline-script setTimeout /utarget/; abort-on-property-read Object.prototype.clunduse; abort-on-property-read rbConfig; abort-on-property-read tsr_iframe
 kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
-radikal.ru#$#abort-on-property-read ads_script; abort-on-property-read atob; abort-on-property-read loaded_blocks_directadvert; abort-on-property-read utarget_script
+radikal.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-read ads_script; abort-on-property-read atob; abort-on-property-read loaded_blocks_directadvert; abort-on-property-read utarget_script
 
 ! #CV-742
+vesti.ua#$#abort-current-inline-script document.createElement atob
 
 ! #CV-685
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
@@ -113,6 +137,7 @@ grad.ua,kolizhanka.com.ua,nakanune.ru,ngp-ua.info,mycompplus.ru,chas.cv.ua,proch
 marieclaire.ua#$#abort-current-inline-script redram /загрузка.../
 
 ! #CV-667
+empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-747
 
