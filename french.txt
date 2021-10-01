@@ -68,6 +68,7 @@ flystream.fr,filmtelecharger.net,jetanimes.co,libertyvf.co,libertyvf.tv,libertyv
 
 ! MISC
 french-streams.com#$#abort-on-property-read open
+e-sushi.fr#$#abort-on-property-read aEteAffiche
 
 ! Popup/Popunder
 batporno.com#$#abort-on-property-read decodeURI
