@@ -124,7 +124,7 @@ kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
 radikal.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-read ads_script; abort-on-property-read atob; abort-on-property-read loaded_blocks_directadvert; abort-on-property-read utarget_script
 
 ! #CV-742
-vesti.ua#$#abort-current-inline-script document.createElement atob
+vesti.ua,lrepacks.net#$#abort-current-inline-script document.createElement atob
 
 ! #CV-685
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
