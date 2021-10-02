@@ -87,6 +87,9 @@ www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@id="watch_fee
 www.facebook.com,web.facebook.com##div[data-pagelet="RightRail"] a[aria-labelledby][role="link"][target="_blank"][tabindex="0"]
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label][@href][@role="link"][@tabindex="0"]//div[@class]/span[@class][contains(normalize-space(),"Sponsored")]/ancestor::a[@aria-label][1]'
 
+! Experimental
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][@role="link"][not(descendant::span[text()="0" or text()="1" or text()="2" or text()="3" or text()="4" or text()="5" or text()="6" or text()="7" or text()="8" or text()="9"])]/span[count(descendant::span) > 30]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][@role="link"][not(descendant::b[text()="0" or text()="1" or text()="2" or text()="3" or text()="4" or text()="5" or text()="6" or text()="7" or text()="8" or text()="9"])]/span[count(descendant::b) > 30]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
 
 ! #CV-241
 swatchseries.to#$#abort-on-property-read zfgloadednative
