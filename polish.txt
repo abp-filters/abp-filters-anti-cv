@@ -37,6 +37,8 @@ echirurgia.pl,dobreprogramy.pl,o2.pl,autokult.pl,pudelek.pl,money.pl,wp.pl#$#hid
 kafeteria.pl,medycyna24.pl,komorkomania.pl,gadzetomania.pl,fotoblogia.pl,echirurgia.pl,dobreprogramy.pl,o2.pl,autokult.pl,pudelek.pl,money.pl,wp.pl#$#hide-if-matches-xpath '//div[@*]/div[@class][contains(normalize-space()," ")]/iframe[@*][string-length(@src) < 150] /ancestor::div[3][@*]'
 kafeteria.pl,medycyna24.pl,komorkomania.pl,gadzetomania.pl,fotoblogia.pl,echirurgia.pl,dobreprogramy.pl,o2.pl,autokult.pl,pudelek.pl,money.pl,wp.pl#$#hide-if-matches-xpath '//div[@*]/p[contains(normalize-space(), " ")][@*]/preceding-sibling::label[1][@class]/ancestor::div[2]'
 
+wp.pl#$#hide-if-matches-xpath '//a[@class][string-length(@href) >2200]/div[@class]/div/ancestor::div[@class="rail"]'
+
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
 naekranie.pl#$#abort-on-property-read adQueue
