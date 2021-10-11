@@ -7,7 +7,6 @@ truyen3s.com#$#abort-current-inline-script document.createElement _zepaf
 motphimmoi.net,biphimtv.net,rphangs.net,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.com,mrdhan.com,xemphimgis.net,lxhentai.com#$#abort-on-property-read open
 xemphimgis.net#$#abort-current-inline-script jQuery /.preload-11bet-pc/
-motphimmoi.net#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.com,mrdhan.com#$#abort-on-property-read open
 fancoiphim.net#$#abort-current-inline-script JSON.parse /atob/
 tapmoi.net#$#abort-on-property-read SmartPopunder
