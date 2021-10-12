@@ -314,7 +314,8 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
-ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-matches-xpath '//div[@class="s-item__title-tag"][text()="SPONSORED"]/ancestor::li[1][starts-with(@class,"s-item")]'
+ebay.es,ebay.fr,ebay.ca,ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-matches-xpath '//div[@class="s-item__title-tag"][text()="SPONSORED" or text()="SPONSORISÉ" or text()="PATROCINADOS"]/ancestor::li[1][starts-with(@class,"s-item")]'
+ebay.es,ebay.fr,ebay.ca,ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-matches-xpath './/div[contains(@class,"s-item__")]/following-sibling::span[@class]/span[@role="text"][count(child::span[@class]) >= 28][(contains(text(),""))]/ancestor::li[1][starts-with(@class,"s-item")]'
 
 ! #CV-698
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
