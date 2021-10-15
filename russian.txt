@@ -15,7 +15,7 @@ zen.yandex.ru##div[class*="is-parent-size_undefined"]
 
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
-liveinternet.ru#$#abort-on-property-read Object.prototype.parseResponseData
+/^https?://www\.liveinternet\.ru/[^\s]{100,}/$header=content-type=application/json
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 ||sdamgia.ru/$header=content-type=text/javascript
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
