@@ -3,4 +3,4 @@
 ! #CV-691
 ebay.de#$#hide-if-contains-visible-text /Anzeige|ANZEIGE/ 'li.s-item' 'li.s-item span[role="text"]'
 ebay.de#$#hide-if-matches-xpath './/div[contains(@class,"s-item__")]/following-sibling::span[@class]/span[@role="text"][count(child::span[@class]) >= 28][(contains(text(),""))]/ancestor::li[1][starts-with(@class,"s-item")]'
-ebay.de#$#hide-if-matches-xpath '//div[@class="s-item__title-tag"][text()="Gesponsert"]/ancestor::li[1][starts-with(@class,"s-item")]'
+ebay.de##li[class^="s-item s-item__sep-on-bottom"]
