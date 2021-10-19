@@ -26,6 +26,7 @@ razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-pr
 /^https:\/\/st2\.razlozhi\.ru\/\w{9}\/.{100,300}$/$script,domain=razlozhi.ru
 gorodrabot.ru#$#abort-on-property-read Object.prototype.storeBlockSettings
 ||echo.msk.ru/$header=content-type=text/javascript
+||echo.msk.ru/$header=content-type=application/json
 
 ! #CV-659
 ringside24.com,gagadget.com#$#abort-on-property-read localStorage
