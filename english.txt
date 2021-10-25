@@ -77,8 +77,8 @@ y2mate.com#$#abort-on-property-read dispatchEvent
 ||connect.facebook.net^*/fbds.js$third-party
 
 ! #CV-761
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/a[@aria-label="label"][@role="link"]/span[not (@*)]/span/span[count(child::span) >= 28][count(child::span) <= 40]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/a[@aria-label="label"][@role="link"]/span[not (@*)]/span/b[count(child::b) >= 28][count(child::b) <= 40]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/a[@aria-label="label"][@role="link"]/span[not (@*)]/span/span[count(child::span) >= 28][count(child::span) <= 40]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/a[@aria-label="label"][@role="link"]/span[not (@*)]/span/b[count(child::b) >= 28][count(child::b) <= 40]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_") or (@data-visualcompletion="ignore-late-mutation")]'
 
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@class]/a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Patrocinado" or .="Publicidad" or .="Sponsa" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ"]]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
 @@||www.facebook.com^$generichide
