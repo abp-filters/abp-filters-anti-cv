@@ -102,7 +102,7 @@ musify.club#$#abort-on-property-read get_ya_browser
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
 cq.ru#$#hide-if-matches-xpath './/a[@class][@target="_blank"]/following::img[@class][string-length(@src) > 70]/ancestor::div[@data-faeaf or @dta-addab]'
 cq.ru#$#abort-on-property-read loadBanners
-shanson320.ru#$#abort-current-inline-script document.createElement atob
+shanson320.ru,lrepacks.net#$#abort-current-inline-script document.createElement atob
 
 ! Popup/popunder/clickunder
 serialfilm.ru,freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,zloekino.su,zloekino.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,zloekino.com#$#abort-on-property-read open
@@ -130,7 +130,7 @@ kinogo.eu,gidonline.eu#$#abort-on-property-read target_script
 radikal.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-read ads_script; abort-on-property-read atob; abort-on-property-read loaded_blocks_directadvert; abort-on-property-read utarget_script
 
 ! #CV-742
-vesti.ua,lrepacks.net#$#abort-current-inline-script document.createElement atob
+vesti.ua#$#abort-current-inline-script document.createElement atob
 
 ! #CV-685
 vsetut.su,animedia.tv#$#abort-on-property-read zfgformats
