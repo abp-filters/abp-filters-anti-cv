@@ -78,4 +78,4 @@ dl-protect.best,dl-protect.top,dl-protect.xyz,dl-protect1.com,ed-protect.org,ext
 dl-protect.best,dl-protect.top,dl-protect.xyz,dl-protect1.com,ed-protect.org,extreme-down.in,extreme-down.link,extreme-down.live,extreme-down.ninja,extreme-down.one,extreme-down.pro,extreme-down.top,extreme-down.tv,extreme-down.video,extreme-down.work,extreme-down.xyz,extreme-download.im,extreme-download.ninja,extreme-download.xyz,french-stream.lol,french-stream.re,hdss.la,hdss.to,japscan.cc,japscan.com,japscan.se,japscan.to,japscan.ws,lelscan-vf.co,one-piece-streaming-vostfr.com,streaming-vostfr.net,streamingfrance.com,summarynetworks.com,toonanime.tv,vostfree.com,wawacity.bz,wawacity.co,wawacity.ec,wawacity.ninja,wawacity.vip#$#abort-current-inline-script Math /atob|btoa|break/
 *$popup,domain=strtapeadblock.me
 strtapeadblock.me#$#abort-on-property-write _pao
-about:blank$popup,domain=ianimes.org|dood.ws|vizplay.icu|streamzz.to
+about:blank$popup,domain=ianimes.org|vizplay.icu|streamzz.to
