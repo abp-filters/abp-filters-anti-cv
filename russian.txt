@@ -101,8 +101,8 @@ rsload.net#$#abort-current-inline-script window.addEventListener load
 web-shpargalka.ru#$#abort-on-property-read Date.prototype.toUTCString
 musify.club#$#abort-on-property-read get_ya_browser
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
-cq.ru#$#hide-if-matches-xpath './/a[@class][@target="_blank"]/following::img[@class][string-length(@src) > 70]/ancestor::div[@data-faeaf or @dta-addab]'
-cq.ru#$#abort-on-property-read loadBanners
+cq.ru#$#hide-if-matches-xpath './/a[@class][@target="_blank"]/following::img[@class][string-length(@src) > 70]/ancestor::div[@class][2]'
+cq.ru#$#abort-on-property-read insertBanner
 shanson320.ru,lrepacks.net#$#abort-current-inline-script document.createElement atob
 
 ! Popup/popunder/clickunder
