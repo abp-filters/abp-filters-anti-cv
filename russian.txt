@@ -117,6 +117,7 @@ drlink.online#$#abort-current-inline-script Math.random toString
 freehat.cc#$#abort-on-property-read advFirstClickOpenNewTab
 anitokyo.tv,hcdn.online,kinofilm.co,anipoisk.org#$#abort-on-property-read ClickUndercookie
 cosplay-porn.one#$#abort-on-property-read biads
+mag.relax.by#$#abort-on-property-read Object.prototype.branding_url
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
