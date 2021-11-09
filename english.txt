@@ -77,8 +77,7 @@ y2mate.com#$#abort-on-property-read dispatchEvent
 ||connect.facebook.net^*/fbds.js$third-party
 
 ! #CV-761
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][@role="link"]/span[not (@*)]//b[contains(@class, "bw7X6Mr") or contains(@class, "sdKQ") or contains(@class, "srhKlDwW") or contains(@class,"tdKR") or contains(@class,"trhKlDwx") or contains(@class,"aw7X6Mq") or contains(@class,"udKS") or contains (@class,"zw7X6Mp") or contains(@class,"qrhKlDwU") or contains(@class,"rdKP") or contains(@class,"cw7X6Ms")]'
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][@role="link"]/span[not (@*)]//span[contains(@class, "bw7X6Mr") or contains(@class, "sdKQ") or contains(@class, "srhKlDwW") or contains(@class,"tdKR") or contains(@class,"trhKlDwx") or contains(@class,"aw7X6Mq") or contains(@class,"udKS") or contains (@class,"zw7X6Mp") or contains(@class,"qrhKlDwU") or contains(@class,"rdKP") or contains(@class,"cw7X6Ms")]'
+www.facebook.com#$#json-override data.node.comet_sections.context_layout.story.comet_sections.metadata.0.story.ghl_label.children emptyArray '' /SPONSORED/; json-override data.node.comet_sections.context_layout.story.comet_sections.metadata.0.story.ghl_label.text 123456789 '' /SPONSORED/; hide-if-matches-xpath '//*[contains(text(),"123456789")]/ancestor::div[starts-with(@data-pagelet,"FeedUnit_")]'
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][@role="link"]/span[not (@*)]//span[string-length(@class)>85]'
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /^Sponsorlu|Sponsored|Gesponsert|Patrocinado|Sponsorisé|Publicidad|Commandité|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato|'May Sponsor'|'Được tài trợ'|贊助|赞助内容|ได้รับการสนับสนุน|प्रायोजित|'دارای پشتیبانی مالی'|'تمويل شوي'|সৌজন্যে|مُموَّل|سپانسرڈ|ממומן$/ div[data-pagelet^="FeedUnit_"] span
 
