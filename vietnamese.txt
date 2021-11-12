@@ -5,13 +5,11 @@ truyen3s.com#$#abort-current-inline-script document.createElement _zepaf
 
 ! Popup/Popunder/Clickunder
 motphimmoi.net,biphimtv.net,rphangs.net,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
-fembed.com,femax20.com,zo3x.com,mrdhan.com,xemphimgis.net,lxhentai.com#$#abort-on-property-read open
+fembed.com,femax20.com,zo3x.ml,mrdhan.com,xemphimgis.net,lxhentai.com#$#abort-on-property-read open
 xemphimgis.net#$#abort-current-inline-script jQuery /.preload-11bet-pc/
-fembed.com,femax20.com,zo3x.com,mrdhan.com#$#abort-on-property-read open
-fancoiphim.net#$#abort-current-inline-script JSON.parse /atob/
+fancoiphim.net,khophimhd.net#$#abort-current-inline-script JSON.parse /atob/
 tapmoi.net#$#abort-on-property-read SmartPopunder
 lxhentai.com#$#abort-current-inline-script document.cookie
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
-beeng.org#$#abort-current-inline-script $ .wrapper
 phimlau.online#$#abort-current-inline-script atob /Y1/
 sexphimhd.net#$#abort-current-inline-script Math
