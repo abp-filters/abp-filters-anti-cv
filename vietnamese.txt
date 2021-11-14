@@ -13,3 +13,4 @@ lxhentai.com#$#abort-current-inline-script document.cookie
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
 phimlau.online#$#abort-current-inline-script atob /Y1/
 sexphimhd.net#$#abort-current-inline-script Math
+360thethao.net#$#abort-current-inline-script onload /puURL/
