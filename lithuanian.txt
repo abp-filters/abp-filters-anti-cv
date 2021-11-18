@@ -2,3 +2,6 @@
 delfi.lt#@#.banner
 delfi.lt#$#abort-on-property-read __dabd
 ||adform.net/banners/scripts/adx.js$domain=delfi.lt,rewrite=abp-resource:blank-js
+
+! MISC
+15min.lt#$#hide-if-matches-xpath '//div[@class][@style]/img[string-length(@src) >=180]/ancestor::div[@class][1]'
