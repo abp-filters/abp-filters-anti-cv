@@ -581,7 +581,7 @@ zoznam.sk#$#hide-if-matches-xpath './/div[@class]/iframe[@id][@title][string-len
 info.cz,lupa.cz,karaoketexty.cz,hnonline.sk#$#abort-current-inline-script Math.random adb
 onlajny.com#$#abort-current-inline-script $ PartnerRedirectAction
 titulky.com#$#abort-current-inline-script adblfetected
-csfd.cz#$#abort-current-inline-script $ completeAdsObj
+csfd.cz#$#abort-current-inline-script $ completeAdsObject
 
 ! Popup/Popunder
 dlouha-videa.cz#$#abort-on-property-read _0x4c29
