@@ -399,6 +399,7 @@ kupi.cz##[data-sssp]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
 seznamzpravy.cz#?#body[class*="baner"]
 seznamzpravy.cz#?#iframe[src*="sklik/imp"]
+seznamzpravy.cz#?#p:-abp-contains(Reklama)+div[class] div[class][style][id]>div[class][style]>div[class][style]>iframe[scrolling][width][id]
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
