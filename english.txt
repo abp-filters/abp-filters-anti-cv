@@ -322,7 +322,7 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 /favicon.ico$popup,domain=vidshare.tv|vudeo.net
 ||35.194.16.41^$popup
 ||gadsims.com^$popup
-||awrfds3.pornpapa.com/*^$script,domain=videojav.com
+videojav.com,pornpapa.com#$#abort-on-property-read document.querySelectorAll
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
