@@ -14,3 +14,5 @@ thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
 phimlau.online#$#abort-current-inline-script atob /Y1/
 sexphimhd.net#$#abort-current-inline-script Math
 360thethao.net#$#abort-current-inline-script onload /puURL/
+xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
+xnxx-sex-videos.com#$#override-property-read user_out false
