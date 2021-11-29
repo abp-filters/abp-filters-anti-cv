@@ -7,10 +7,12 @@ truyen3s.com#$#abort-current-inline-script document.createElement _zepaf
 motphimmoi.net,biphimtv.net,rphangs.net,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn#$#abort-on-property-read open
 phimgii.net#$#abort-current-inline-script jQuery /preload-11bet/
-fancoiphim.net,khophimhd.net#$#abort-current-inline-script JSON.parse /atob/
+fancoiphim.net,khophimhd.net,downloadsachmienphi.com#$#abort-current-inline-script JSON.parse atob
 tapmoi.net#$#abort-on-property-read SmartPopunder
 lxhentai.com#$#abort-current-inline-script document.cookie
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
 phimlau.online#$#abort-current-inline-script atob /Y1/
 sexphimhd.net#$#abort-current-inline-script Math
 360thethao.net#$#abort-current-inline-script onload /puURL/
+xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
+xnxx-sex-videos.com#$#override-property-read user_out false
