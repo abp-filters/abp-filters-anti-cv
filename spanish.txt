@@ -27,3 +27,4 @@ animefenix.com#$#abort-current-inline-script document.createElement _yzvesi
 pelisplus.so#$#abort-on-property-write _zoxxpiee
 iguarras.com,iputitas.net#$#abort-on-property-read afScript
 comicsporno.xxx,pornoreino.com,mespornogratis.com,felizporno.com,orgasmatrix.com,pornocolombiano.net#$#abort-current-inline-script document.querySelectorAll popMagic
+series-de.online#$#abort-on-property-read doSecondPop; abort-on-property-read doSecondPopU
