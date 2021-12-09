@@ -513,7 +513,7 @@ karaoketexty.cz#$#hide-if-matches-xpath './/a[string-length(@href) >120][@target
 ||www.karaoketexty.cz/*/*.jpg$domain=karaoketexty.cz,rewrite=abp-resource:2x2-transparent-png
 
 novinky.cz#$#hide-if-matches-xpath '//a[@href][@title]/div[@class][@style]/parent::a/ancestor-or-self::div[2]'
-horoskopy.cz,novinky.cz,seznamzpravy.cz#$#hide-if-matches-xpath '//iframe[@src][@id]/parent::div[@class]/ancestor-or-self::div[@class][3]'
+horoskopy.cz,seznamzpravy.cz#$#hide-if-matches-xpath '//iframe[@src][@id]/parent::div[@class]/ancestor-or-self::div[@class][1][not(starts-with(@class,"twitter"))]'
 
 ! #CV-780
 .cz/*,,*,|$xmlhttprequest,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
