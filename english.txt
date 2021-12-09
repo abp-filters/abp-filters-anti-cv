@@ -326,6 +326,7 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 ||35.194.16.41^$popup
 ||gadsims.com^$popup
 videojav.com,pornpapa.com#$#abort-on-property-read document.querySelectorAll
+4kporn.xxx#$#override-property-read flashvars.popunder_url null
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
