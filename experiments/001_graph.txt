@@ -1,4 +1,2 @@
-! #AAB-366
-
-facebook.com#$#hide-if-graph-matches [role=feed]>[data-pagelet^=FeedUnit_] DIV
-
+! #CV-761
+www.facebook.com,web.facebook.com#$#hide-if-graph-matches [role=feed]>[data-pagelet^=FeedUnit_] DIV
