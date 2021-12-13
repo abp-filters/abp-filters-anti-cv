@@ -74,29 +74,12 @@ toonova.net,toonget.net,mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-pr
 filmxy.one##.promo-contents
 y2mate.com#$#abort-on-property-read dispatchEvent
 
+! #CV-761
 ! Experimental filters
 ||facebook.com/xti.php?
 ||facebook.net^*/fbevents.js$third-party
 ||facebook.com/tr$third-party
 ||connect.facebook.net^*/fbds.js$third-party
-
-! #CV-761
-www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /^Sponsorlu|Sponsored|Gesponsert|Patrocinado|Sponsorisé|Publicidad|Commandité|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato|'May Sponsor'|'Được tài trợ'|贊助|赞助内容|ได้รับการสนับสนุน|प्रायोजित|'دارای پشتیبانی مالی'|'تمويل شوي'|সৌজন্যে|مُموَّل|سپانسرڈ|ממומן$/ div[aria-posinset] span
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label="label"][string-length(@class) <= 225]//span[(count(descendant::span) > 40)]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]/ancestor-or-self::div[@data-pagelet="FeedUnit_1" or @aria-posinset="2"]'
-
-www.facebook.com,web.facebook.com#$#json-override 'data.node.comet_sections.context_layout.story.comet_sections.metadata.0.story.ghl_label.text data.viewer.news_feed.edges.0.node.comet_sections.context_layout.story.comet_sections.metadata.0.story.ghl_label.text' 14213549526573598 '' /SPONSORED/; hide-if-matches-xpath '//*[contains(text(),"14213549526573598")]/ancestor::div[@class]/div[@aria-posinset or @aria-describedby or @aria-labelledby]'
-www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /^Sponsorlu|Sponsored|Gesponsert|Patrocinado|Sponsorisé|Publicidad|Commandité|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato|'May Sponsor'|'Được tài trợ'|贊助|赞助内容|ได้รับการสนับสนุน|प्रायोजित|'دارای پشتیبانی مالی'|'تمويل شوي'|সৌজন্যে|مُموَّل|سپانسرڈ|ממומן$/ div[role^="article"] span
-
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@class]/a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Patrocinado" or .="Publicidad" or .="Sponsa" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ"]]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
-@@||www.facebook.com^$generichide
-@@||web.facebook.com^$generichide
-
-! Rules that don't need to change
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/object[@type="nested/pressable"]/a[@role="link"]/span[contains("|Patrocinado|Sponsa|Bersponsor|Commandité|Ditaja|Gesponsert|Gesponsord|Patrocinado|Publicidad|Sponsa|Sponset|Sponsored|Sponsorisé|Sponsorizat|Sponsorizzato|Sponsorlu|Sponsorowane|Реклама|ממומן|تمويل شوي|دارای پشتیبانی مالی|سپانسرڈ|مُموَّل|प्रायोजित|সৌজন্যে|ได้รับการสนับสนุน|内容|贊助|Sponsoroitu|May Sponsor|Được tài trợ|", concat("|", text(), "|"))]/ancestor::span[2]'
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@id="watch_feed"]//div[@data-pagelet="MainFeed"]//a[@aria-label="label"]//ancestor::div[8][not(@id)][starts-with(@class,"_")]'
-www.facebook.com,web.facebook.com##div[data-pagelet="RightRail"] a[aria-labelledby][role="link"][target="_blank"][tabindex="0"]
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label][@href][@role="link"][@tabindex="0"]//div[@class]/span[@class][contains(normalize-space(),"Sponsored")]/ancestor::a[@aria-label][1]'
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@aria-posinset or @aria-describedby or @aria-labelledby]//div[@role="button"][contains(text(),"Sponsored ·") or contains(text(),"Publicidad ·") or contains(text(),"Patrocinado ·") or contains(text(),"Sponsorisé ·") or contains(text(),"Commandité ·") or contains(text(),"Sponsorizzato ·") or contains(text(),"Gesponsert ·") or contains(text(),"Реклама ·")]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby]'
 
 ! #CV-241
 swatchseries.to#$#abort-on-property-read zfgloadednative
