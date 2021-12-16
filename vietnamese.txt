@@ -19,3 +19,4 @@ sexphimhd.net#$#abort-current-inline-script Math
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xuongphim18z.com#$#abort-on-property-read document.cookie
+ephimmoi.net#$#abort-current-inline-script $ open
