@@ -251,7 +251,6 @@ manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read Math.floor
 bangtubevideos.com#$#override-property-read setTimeout noopFunc; abort-on-property-write location.replace
 spankbang.com#$#abort-on-property-write window.open
-trakt.tv#$#hide-if-contains-visible-text /^Advertisement$/ div[id] div
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
