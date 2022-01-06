@@ -15,7 +15,7 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 ||readarsenal.com^$csp=script-src 'self' * 'unsafe-inline'
 ||readliverpoolfc.com^$csp=script-src 'self' * 'unsafe-inline'
 ||toptenz.net^$csp=script-src 'self' * 'unsafe-inline'
-eurweb.com,fullmatchesandshows.com,convert-me.com,emathhelp.net,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com#$#abort-on-property-read TextDecoder
+eurweb.com,fullmatchesandshows.com,convert-me.com,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com#$#abort-on-property-read TextDecoder
 humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob TextDecoder
 
 ! #CV-706
