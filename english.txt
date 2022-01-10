@@ -1,3 +1,6 @@
+! #CV-1101
+etsy.com#$#hide-if-matches-xpath './/a[@class]//div/p[@class][count(child::span[string-length(normalize-space(text()))=1][@class]) > 60 or (contains(text(),"Anzeige")) or (contains(text(),"Anuncio")) or (contains(text(),"Publicité")) or (contains(text(),"Annuncio")) or (contains(text(),"広告")) or (contains(text(),"Advertentie")) or (contains(text(),"Reklama")) or (contains(text(),"Anúncio")) or (contains(text(),"Реклама")) ]/ancestor::li[@class]'
+
 ! #CV-717
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
