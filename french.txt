@@ -7,10 +7,6 @@ concomber.com#$#freeze-element .main-box abort
 meilleurpronostic.fr#$#freeze-element #secondary abort aside
 aupetitparieur.com#$#freeze-element .widget-area abort
 
-! #CV-741
-||blog-rct.com^$csp=script-src 'self' * 'unsafe-inline'
-pblv-plusbellelavie.fr#$#abort-on-property-read TextDecoder
-
 ! #CV-170
 lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
 ||polaccafaison.com^$third-party

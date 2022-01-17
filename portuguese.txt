@@ -1,8 +1,3 @@
-! #CV-761
-
-! #CV-741
-diariodocentrodomundo.com.br#$#abort-on-property-read TextDecoder
-
 ! #CV-692
 anitube.be,anitube.cx,anitube.cz#$#abort-on-property-write _pop
 

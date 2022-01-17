@@ -7,19 +7,6 @@ www.linkedin.com#$#simulate-event-poc click 'xpath(//*[text()="Promoted" or text
 ! #CV-717
 yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 
-! #CV-741
-||readlightnovel.org^$csp=script-src 'self' *
-||vidmax.com^$csp=script-src 'self' * 'unsafe-inline'
-||debka.com^$csp=script-src 'self' * 'unsafe-inline'
-||downsub.com^$csp=script-src 'self' *
-||hiphopearly.com^$csp=script-src 'self' * 'unsafe-inline'
-||machinenoveltranslation.com^$csp=script-src 'self' * 'unsafe-inline'
-||readarsenal.com^$csp=script-src 'self' * 'unsafe-inline'
-||readliverpoolfc.com^$csp=script-src 'self' * 'unsafe-inline'
-||toptenz.net^$csp=script-src 'self' * 'unsafe-inline'
-eurweb.com,fullmatchesandshows.com,convert-me.com,kshowonline.com,meta-chart.com,virtualjerusalem.com,youtubeonrepeat.com,jspuzzles.com,nysun.com,readarsenal.com#$#abort-on-property-read TextDecoder
-humansarefree.com,ludokado.com,toptenz.net#$#abort-current-inline-script atob TextDecoder
-
 ! #CV-706
 tube8.com##.gridBanner_
 tube8.com##.footerBanner

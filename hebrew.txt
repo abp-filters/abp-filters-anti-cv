@@ -1,7 +1,3 @@
-! #CV-741
-yad2.co.il#$#abort-current-inline-script TextDecoder
-walla.co.il#$#abort-on-property-read jorLoad20a
-
 ! #CV-890
 walla.co.il,sheee.co.il##iframe[id]:not([src])[frameborder="0"][scrolling="no"]:not(#rufous-sandbox)
 walla.co.il,sheee.co.il##div[data-slot-name]
