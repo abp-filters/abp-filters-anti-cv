@@ -324,7 +324,7 @@ www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#json-prun
 ! Fallback
 www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#simulate-event-poc click button.ytp-ad-skip-button
 www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#simulate-event-poc click span.ytp-ad-skip-button-container
-/&ctier=L.*&dur=[1-20].*/$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 
 @@||googlevideo.com/videoplayback?*&pfa=*$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 @@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
