@@ -299,7 +299,7 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 ||35.194.16.41^$popup
 ||gadsims.com^$popup
 videojav.com,pornpapa.com,fapguru.com#$#abort-on-property-read document.querySelectorAll
-4kporn.xxx,mangovideo.club#$#override-property-read flashvars.popunder_url null
+4kporn.xxx,cambro.tv,mangovideo.club#$#override-property-read flashvars.popunder_url null
 livesexporn.net#$#abort-current-inline-script window.onload atob
 
 ! #CV-691
