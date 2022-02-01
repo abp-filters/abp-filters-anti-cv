@@ -36,8 +36,8 @@ hclips.com#$#abort-on-property-read btoa
 
 ! #CV-688
 @@||st.bebi.com/bebi_v3.js$script,domain=lolhentai.net
-/*gek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|mangareader.net|animewow.org|animeland.us
-/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanime.in|gogoanimes.co|kiss-anime.ws|readcomiconline.to|gogoanime.to|mangareader.net|animewow.org|animeland.us
+/*gek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
+/*Rek|$image,domain=animenova.org|animeplus.tv|gogoanimes.co|kiss-anime.ws|readcomiconline.to|mangareader.net|animewow.org|animeland.us
 /wp-includes/css/admin-bar.min.css^$script,domain=kiss-anime.ws|animeland.us|thewatchcartoononline.tv
 /jsvendor/app.^$script,image,domain=kickassanime.io
 /Scripts/jquery.min.js^$script,domain=readcomiconline.to
