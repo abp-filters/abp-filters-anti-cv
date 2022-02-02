@@ -334,3 +334,6 @@ crunchyroll.com#$#json-prune 'value.media.ad_breaks'
 ! #CV-776
 bing.com##[id$="adsMvCarousel"]
 bing.com#?#li[class="b_algo"]:-abp-has(> h2 + div[class="b_caption"] > p[class])
+bing.com#?#li[class="b_algo"]:-abp-has(>h2 + div[class="b_caption"] > [class^="b_attribution "]) 
+bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
+bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
