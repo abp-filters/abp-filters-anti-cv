@@ -1,8 +1,4 @@
 ! #CV-655
-idnes.cz,expres.cz#$#hide-if-matches-xpath './/*[string-length(@class) < 50]/following-sibling::div[@class]/div[string-length(@id) > 30]/ancestor::div[string-length(@class) > 43]|.//*[string-length(@class) < 50][@style="margin: auto;"]/div[2]/ancestor::*[1]'
-idnes.cz#$#hide-if-matches-xpath '//div/a[string-length(@href) > 500]//img[string-length(@src) > 80]/ancestor::div[@class][2]'
-idnes.cz#$#hide-if-matches-xpath '//div[@id="main"]/*[string-length(@id) > 30][string-length(@class) > 90]'
-idnes.cz,expres.cz#$#hide-if-matches-xpath './/div[string-length(@class) >30]/span[not(@id)][not(*) and not(normalize-space())][not(preceding-sibling::*)]/ancestor::*[string-length(@id) > 10][string-length(@class) >30]'
 
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[ramefamorderx], iframe[mfookasinyx]
 
