@@ -208,7 +208,7 @@ zippyshare.com,uploadproper.com,uploadproper.net#$#abort-on-property-read _pop
 jawcloud.co,kimcartoon.to,europixhd.net,europixhd.com,gledajonline.net,hdeuropix.io,loadsubs.net,topeuropix.net#$#abort-current-inline-script document.createElement String.fromCharCode
 bs.to,burningseries.co#$#abort-current-inline-script Object
 vivo.sx#$#abort-current-inline-script Math
-hclips.com,hotmovs.com,thegay.com,thegay.tube,txxx.com,upornia.com#$#abort-current-inline-script mz
+hclips.com,hotmovs.com,thegay.com,thegay.tube,txxx.com,upornia.com,vjav.com#$#abort-current-inline-script mz
 gdespaces.com,spac.me,spac1.com,spac1.me,spac1.net,spaces-blogs.com,spaces.im,strip2.in,strip2.xxx#$#abort-on-property-read Object.prototype.initOnPlay; abort-current-inline-script __require /clickunder/
 mrpornx.com,myyouporn.com#$#abort-current-inline-script eval String.fromCharCode
 gounlimited.to#$#abort-on-property-read atob
