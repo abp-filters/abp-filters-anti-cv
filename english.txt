@@ -44,7 +44,8 @@ hclips.com#$#abort-on-property-read btoa
 /assets*$script,image,domain=kickassanime.io
 /cache2/*$script,image,domain=watchcartoonsonline.eu
 /wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
-/uheme.js?$script,domain=igg-games.com
+igg-games.com#$#abort-current-inline-script $ CreateBanner
+igg-games.com##div[class*="adstg"]
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
 /sid*$domain=kickassanime.io
