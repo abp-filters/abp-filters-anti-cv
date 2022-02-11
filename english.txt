@@ -237,6 +237,7 @@ spankbang.com#$#abort-on-property-write window.open
 sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.createElement script
 mathwarehouse.com#$#override-property-read MwAserver noopFunc
 bato.to#$#abort-current-inline-script document.createElement _vwmso
+gogoplay1.com#$#abort-current-inline-script JSON.parse
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
