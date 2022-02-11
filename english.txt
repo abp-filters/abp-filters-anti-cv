@@ -234,7 +234,7 @@ manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read Math.floor
 bangtubevideos.com#$#override-property-read setTimeout noopFunc; abort-on-property-write location.replace
 spankbang.com#$#abort-on-property-write window.open
-sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.createElement script
+bato.to,sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.createElement script
 mathwarehouse.com#$#override-property-read MwAserver noopFunc
 
 ! #CV-667
