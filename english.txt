@@ -296,6 +296,7 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 videojav.com,pornpapa.com,fapguru.com#$#abort-on-property-read document.querySelectorAll
 4kporn.xxx,cambro.tv,mangovideo.club#$#override-property-read flashvars.popunder_url null
 livesexporn.net#$#abort-current-inline-script window.onload atob
+youporn.com,tube8.com,redtube.com,pornhub.com#$#abort-current-inline-script Object.defineProperty trafficjunky
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
