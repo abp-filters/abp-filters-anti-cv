@@ -1,7 +1,6 @@
 ! #CV-655
-
+novinky.cz,super.cz,ahaonline.cz,expres.cz,kinobox.cz,horoskopy.cz#$#json-override ads ''
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##iframe[ramefamorderx], iframe[mfookasinyx]
-
 /vCAv.IAAAAAoAA$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|fights.cz|horoskopy.cz|idnes.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|spisovatele.cz|sport.cz|super.cz|televizeseznam.cz|tiscali.cz|zeny.cz|zive.cz
 /r:*$script,domain=ahaonline.cz|auto.cz|autorevue.cz|blesk.cz|dama.cz|e15.cz|expres.cz|fights.cz|horoskopy.cz|idnes.cz|iprima.cz|karaoketexty.cz|kinobox.cz|kupi.cz|maminka.cz|mobilmania.cz|mojezdravi.cz|nasepenize.cz|novinky.cz|onetv.cz|osobnosti.cz|reflex.cz|spisovatele.cz|sport.cz|super.cz|televizeseznam.cz|tiscali.cz|zeny.cz|zive.cz
 pilo=|$script,domain=auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mobilmania.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
