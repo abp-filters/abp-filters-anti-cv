@@ -314,6 +314,7 @@ novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 kupi.cz##[data-sssp]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
+seznamzpravy.cz#$#json-prune ads
 seznamzpravy.cz#?#body[class*="baner"]
 seznamzpravy.cz#?#iframe[src*="sklik/imp"]
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
