@@ -263,6 +263,7 @@ karaoketexty.cz#$#hide-if-matches-xpath './/a[string-length(@href) >120][@target
 ||www.karaoketexty.cz/*/*.jpg$domain=karaoketexty.cz,rewrite=abp-resource:2x2-transparent-png
 @@||karaoketexty.cz/img/*.png$image,domain=karaoketexty.cz
 @@||karaoketexty.cz/img/*.jpg$image,domain=karaoketexty.cz
+?client=ca-pub-$script,domain=karaoketexty.cz
 
 novinky.cz#$#hide-if-matches-xpath '//a[@href][@title]/div[@class][@style]/parent::a/ancestor-or-self::div[2]'
 horoskopy.cz,seznamzpravy.cz#$#hide-if-matches-xpath '//iframe[@src][@id]/parent::div[@class]/ancestor-or-self::div[@class][1][not(starts-with(@class,"twitter"))]'
