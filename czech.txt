@@ -8,11 +8,9 @@ iprima.cz##.px-type-banner
 iprima.cz##[class$="_value"], [id^="px-id-"]
 iprima.cz##[class$="_fcid"], [data-mashiatus]
 iprima.cz##div[data-d-area]
-iprima.cz##[data-masparabus], [class$="_bubuzela"]
 iprima.cz##[class*="sas"]
 iprima.cz##a[href*="/area=branding"]
 iprima.cz##[id*="-ad-"], .ifr-claassflak, a[href*="/posid=sas_"]
-iprima.cz##.meht_burbuzela
 iprima.cz##.dekes_reblika
 /area=*/posid=*$subdocument,xmlhttprequest,script,domain=iprima.cz
 /keyword*/area=$xmlhttprequest,domain=iprima.cz
@@ -74,14 +72,7 @@ idnes.cz###foto-reklama
 
 client=ca-pub-$subdocument,domain=iprima.cz|www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
-_cz?format=js&async=1|$domain=www.idnes.cz
-/kyblik^$image,domain=www.idnes.cz|expres.cz
-?fl=res,$image,domain=www.idnes.cz|expres.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
-www.idnes.cz,expres.cz##a[href="bla"]
 ||mfr.cdn.dopc.cz^$script,domain=www.idnes.cz|expres.cz
-_recombee|$script,domain=www.idnes.cz|expres.cz
-www.idnes.cz,expres.cz##a[href="bla"], [class$="kukekemehe"]
-www.idnes.cz,expres.cz###\39 -ble31, a[href*="perf-bann"]
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
@@ -95,7 +86,6 @@ autorevue.cz##.bx-sky, .bx-rectangle-article
 maminka.cz##div[class*="bx-sky "]
 dama.cz##div[class^="sky-wrap"]
 maminka.cz,blesk.cz,reflex.cz,e15.cz##a[class*="-combined"]
-autorevue.cz,blesk.cz##div[style="margin-top: 12px; position: relative;"]
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
@@ -119,18 +109,14 @@ tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.pe-
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.wrap-advert
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##.quaquaquakva
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[href*=";cdata="]
-tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##a[href$="Kp"]
 tiscali.cz##.bs-hp
-fights.cz###desktop-square-top
+fights.cz,tiscali.cz###desktop-square-top, #desktop-leader-top, .desktop-square-top, .desktop-leader-top
 fights.cz##.banner-add
-fights.cz###desktop-leader-top
 nasepenize.cz###side-offer-wrap
 tiscali.cz##[class*="-ld-top"]
 nasepenize.cz#?#:-abp-has(>[class$="selfpromo"])
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz,fights.cz##[id*="tmAdVideo"], [class=" pe-banner"]
 fights.cz,spisovatele.cz##body>a[target="_blank"]
-tiscali.cz###desktop-leader-top
-tiscali.cz###desktop-square-top
 
 /dynamic^$image,domain=kupi.cz
 ||super.cz/*&*=$subdocument,domain=super.cz
