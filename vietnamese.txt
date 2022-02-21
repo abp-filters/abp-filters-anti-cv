@@ -6,6 +6,7 @@ truyen3s.com#$#abort-current-inline-script document.createElement _zepaf
 blog.abit.vn#$#abort-on-property-read document.cookie
 phimhay3s.com#$#json-prune ads
 90phuttttttt.xyz#$#abort-current-inline-script $ overlay
+aoe.vn#$#abort-on-property-read parseInt
 
 ! Popup/Popunder/Clickunder
 motphimmoi.net,biphimtv.net,rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
