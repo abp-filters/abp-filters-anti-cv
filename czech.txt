@@ -125,7 +125,7 @@ fights.cz,spisovatele.cz##body>a[target="_blank"]
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
 seznamzpravy.cz/*seznamzpravy.cz$subdocument
 
-novinky.cz,super.cz,sport.cz,seznamzpravy.cz,kupi.cz##[data-cy], [data-e2e-advert], a[href*="adurl="]
+novinky.cz,super.cz,sport.cz,seznamzpravy.cz,kupi.cz,horoskopy.cz##[data-cy], [data-e2e-advert], a[href*="adurl="]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
 novinky.cz,super.cz,sport.cz,horoskopy.cz##div[data-impressionurl]
 novinky.cz,super.cz,sport.cz,seznamzpravy.cz,horoskopy.cz##.sssp-posCont, .sssp-resizeCont
