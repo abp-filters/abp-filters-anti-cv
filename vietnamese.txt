@@ -9,7 +9,7 @@ aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
 
 ! Popup/Popunder/Clickunder
-motphimmoi.net,biphimtv.net,rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
+rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn#$#abort-on-property-read open
 phimgii.tv,phimhdvns.net#$#abort-current-inline-script jQuery popurl
 baliphim.com,khophimhd.net,downloadsachmienphi.com#$#abort-current-inline-script JSON.parse atob
