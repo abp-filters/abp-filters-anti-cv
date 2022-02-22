@@ -9,6 +9,10 @@ multicanais.tv#$#abort-current-inline-script document.createElement _whvbtwzo
 cinevision.online#$#abort-on-property-write atob
 topflix.fm#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 onifile.com#$#abort-on-property-read _pop
+||pobre.tv/images/bettilt-*.png^$domain=pobre.tv
+pobre.tv##.max
+pobre.tv##.inner
+pobre.tv##div[class="actualItem"] > span[class="type"]
 
 ! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
