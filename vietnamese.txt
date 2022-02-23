@@ -8,6 +8,7 @@ phimhay3s.com#$#json-prune ads
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
 mitom1.tv#$#abort-current-inline-script jQuery overlay
+mitom1.tv#$#'abort-on-property-read adsRedirectPopups
 playmt.fastlycdn.xyz#$#override-property-read adsPlayer undefined;override-property-read adsTvc undefined;override-property-read adsButton undefined
 
 ! Popup/Popunder/Clickunder
