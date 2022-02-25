@@ -71,6 +71,7 @@ idnes.cz###foto-reklama
 &ifr=0|$script,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz
 =js&lst=$script,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
 /tigatage:$script,domain=www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz|iprima.cz|tiscali.cz|kinobox.cz|osobnosti.cz|karaoketexty.cz|nasepenize.cz|fights.cz|novinky.cz|super.cz|sport.cz|kupi.cz|horoskopy.cz
+||w-cached.cncenter.cz/js/cnc-ads-controller.$script,domain=blesk.cz|extra.cz|reflex.cz|zive.cz|auto.cz|e15.cz|autorevue.cz|dama.cz|maminka.cz|mojezdravi.cz|zeny.cz|onetv.cz|info.cz|ahaonline.cz
 
 client=ca-pub-$subdocument,domain=iprima.cz|www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
