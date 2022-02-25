@@ -7,7 +7,6 @@ autokult.pl,fotoblogia.pl,kafeteria.pl,komorkomania.pl,medycyna24.pl,smaczneblog
 abczdrowie.pl,parenting.pl,nerwica.com,twojeip.wp.pl,echirurgia.pl#$#abort-current-inline-script document.querySelector registerSlot
 money.pl#$#abort-current-inline-script document.querySelector querySelector
 wp.pl,pudelek.pl#$#abort-on-property-read wpjscb
-money.pl,sportowefakty.wp.pl#$#abort-on-property-read prebidConfig.config.bidTargets
 money.pl#?#div:-abp-has(> img[src$="/bg.png"])
 finanse.wp.pl#$#abort-on-property-read prebidConfig.hbA
 gwiazdy.wp.pl,film.wp.pl,teleshow.wp.pl,wawalove.wp.pl,opinie.wp.pl,moto.wp.pl,finanse.wp.pl#$#abort-on-property-read prebidConfig.hb
