@@ -13,7 +13,7 @@ playmt.fastlycdn.xyz#$#override-property-read adsPlayer undefined;override-prope
 
 ! Popup/Popunder/Clickunder
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
-fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn#$#abort-on-property-read open
+fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,ezphimmoi.net#$#abort-on-property-read open
 phimgii.tv,phimhdvns.net#$#abort-current-inline-script jQuery popurl
 baliphim.com,khophimhd.net,downloadsachmienphi.com,lucaphim.com#$#abort-current-inline-script JSON.parse atob
 tapmoi.net#$#abort-on-property-read SmartPopunder
@@ -25,5 +25,4 @@ sexphimhd.net,gvnvh18.com#$#abort-current-inline-script Math
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xuongphim18z.com#$#abort-on-property-read document.cookie
-ephimmoi.net#$#abort-current-inline-script $ open
 phimtop.net#$#abort-on-property-read document.cookie
