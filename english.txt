@@ -291,17 +291,21 @@ protonvideo.to#$#abort-on-property-read PlayerjsEvents
 srsone.top#$#override-property-read googlecx noopFunc
 animepahe.ru,animepahe.org,animepahe.com#$#abort-on-property-read document.querySelector
 mediafire.com#$#abort-current-inline-script isWithinRect Pop
-*$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
-about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com|strtapeadblock.me|slreamplay.cc
-/favicon.ico$popup,domain=vidshare.tv|vudeo.net
-||35.194.16.41^$popup
-||gadsims.com^$popup
 videojav.com,pornpapa.com,fapguru.com#$#abort-on-property-read document.querySelectorAll
 4kporn.xxx,cambro.tv,mangovideo.club#$#override-property-read flashvars.popunder_url null
 livesexporn.net#$#abort-current-inline-script window.onload atob
 youporn.com,tube8.com,redtube.com,pornhub.com#$#abort-current-inline-script Object.defineProperty trafficjunky
 cine.to#$#abort-on-property-read document.head.appendChild
 nhentai.net#$#override-property-read _n_app.popunder null;
+masahub.net#$#abort-on-property-write zfgloadedpopup;
+
+*$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
+about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com|strtapeadblock.me|slreamplay.cc
+/favicon.ico$popup,domain=vidshare.tv|vudeo.net
+||35.194.16.41^$popup
+||gadsims.com^$popup
+&adb=y|$popup,domain=masahub.net
+||ta3nfsordd.com/gtm.js?id=$popup,domain=masahub.net
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
