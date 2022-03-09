@@ -16,3 +16,6 @@ pobre.tv##div[class="actualItem"] > span[class="type"]
 
 ! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
+
+! Popup/Popunder/Clickunder
+csrevo.com#$#abort-current-inline-script document.querySelectorAll popMagic
