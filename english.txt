@@ -300,6 +300,7 @@ cine.to#$#abort-on-property-read document.head.appendChild
 nhentai.net#$#override-property-read _n_app.popunder null;
 masahub.net#$#abort-on-property-write zfgloadedpopup;
 hitomi.la#$#override-property-read popsource null; override-property-read adsdir null; override-property-read ad_cookieconsent false; override-property-read D4zz undefined; abort-on-property-read _pop; abort-on-property-read hitomi; abort-on-property-read open
+sbplay2.com,viewsb.com#$#abort-on-property-read __Y
 
 *$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
 about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com|strtapeadblock.me|slreamplay.cc
