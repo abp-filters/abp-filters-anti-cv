@@ -52,7 +52,6 @@ krolik.biz#$#abort-current-inline-script document.createElement
 www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCharCode
 sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
-facenews.ua,molitvy.guru,nizhny.ru,svadba.expert#$#abort-on-property-read XMLHttpRequest
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 naruto-base.su#$#abort-on-property-read njranu
 nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#prevent-listener load appendChild
@@ -92,7 +91,7 @@ cq.ru#$#hide-if-matches-xpath './/a[@class][@target="_blank"]/following::img[@cl
 cq.ru#$#abort-on-property-read CQ.routes.getAds
 shanson320.ru,lrepacks.net#$#abort-current-inline-script document.createElement atob
 spletnik.ru#$#abort-on-property-read noAdSample
-pro100hobbi.ru,samelectric.ru#$#abort-on-property-read XMLHttpRequest
+pro100hobbi.ru,samelectric.ru,facenews.ua,molitvy.guru,nizhny.ru,svadba.expert#$#abort-on-property-read XMLHttpRequest
 
 ! Popup/popunder/clickunder
 freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,wseries.ru#$#abort-on-property-read open
