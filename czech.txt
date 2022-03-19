@@ -126,6 +126,8 @@ fights.cz,spisovatele.cz##body>a[target="_blank"]
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
 seznamzpravy.cz/*seznamzpravy.cz$subdocument
+seznamzpravy.cz/*ssp.js
+seznamzpravy.cz/*cmp*$script
 
 novinky.cz,super.cz,sport.cz,seznamzpravy.cz,kupi.cz,horoskopy.cz##[data-cy], [data-e2e-advert], a[href*="adurl="]
 novinky.cz,super.cz,sport.cz,kupi.cz##.burRman
@@ -144,9 +146,8 @@ novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 kupi.cz##[data-sssp]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
-seznamzpravy.cz#$#json-prune ads
-seznamzpravy.cz#?#body[class*="baner"]
-seznamzpravy.cz#?#iframe[src*="sklik/imp"]
+seznamzpravy.cz##iframe[width^="30"][style],iframe[width^="30"][class],iframe[width^="30"][id],iframe[height^="60"][id],[class*="adform"i],div[style*="width: 2560"i],a[href*="branding"i],a[href*="clickth"],a[href*="destination"],a[title*="Rеklama"],[data-e2e*="branding-advert"]
+
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
