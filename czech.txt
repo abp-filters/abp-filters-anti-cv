@@ -147,6 +147,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 kupi.cz##[data-sssp]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
 seznamzpravy.cz##iframe[width^="30"][style],iframe[width^="30"][class],iframe[width^="30"][id],iframe[height^="60"][id],[class*="adform"i],div[style*="width: 2560"i],a[href*="branding"i],a[href*="clickth"],a[href*="destination"],a[title*="Rеklama"],[data-e2e*="branding-advert"]
+seznamzpravy.cz#$#hide-if-contains-visible-text /Rеklama/ 'div[class*="g_bf"]'
 
 novinky.cz,kupi.cz,sport.cz,super.cz##.Aldremas, .plachta-middle
 novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
