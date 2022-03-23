@@ -305,6 +305,7 @@ hitomi.la#$#override-property-read popsource null; override-property-read adsdir
 sbplay2.com,viewsb.com#$#abort-on-property-read __Y
 csrevo.com#$#abort-current-inline-script document.querySelectorAll popMagic
 1337x.buzz#$#abort-current-inline-script document.createElement script
+sxyprn.com#$#abort-current-inline-script vast_urls; override-property-read D4zz undefined
 
 *$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
 about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com|strtapeadblock.me|slreamplay.cc
