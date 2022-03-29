@@ -242,6 +242,7 @@ bato.to#$#abort-current-inline-script document.createElement _vwmso
 gogoplay1.com,prmovies.bz,speedostream.com#$#abort-current-inline-script JSON.parse
 vizcloud.xyz#$#abort-on-property-read AaDetector
 supjav.com##.asg-overlay
+/js.mangapro.top/*.js^$script,domain=comick.top
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
