@@ -235,7 +235,7 @@ nosteam.ro#$#abort-on-property-write jsPop21
 manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read Math.floor
 bangtubevideos.com#$#override-property-read setTimeout noopFunc; abort-on-property-write location.replace
-animeheaven.pro,spankbang.com#$#abort-on-property-write window.open
+animeheaven.pro,sexlivesex.net,spankbang.com#$#abort-on-property-write window.open
 sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.createElement script
 mathwarehouse.com#$#override-property-read MwAserver noopFunc
 bato.to#$#abort-current-inline-script document.createElement _vwmso
