@@ -13,6 +13,7 @@ watchsb.com#$#abort-on-property-read __Y
 tinsoikeo.io#$#abort-on-property-read sessionStorage;abort-current-inline-script $ window.open
 
 ! Popup/Popunder/Clickunder
+viet69.org#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,ezphimmoi.net,viettoons.tv#$#abort-on-property-read open
 xemphimgii.net,phimhdvns.net,fimnhez.net#$#abort-current-inline-script jQuery popurl
@@ -28,4 +29,4 @@ xnxx-sex-videos.com#$#override-property-read user_out false
 xuongphim18z.com#$#abort-on-property-read document.cookie
 phimtop.net#$#abort-on-property-read document.cookie
 metruyenchu.com#$#abort-on-property-write window.onclick
-/mage98rquewz.com/*.js?^$script,domain=viet69.org
+||mage98rquewz.com^
