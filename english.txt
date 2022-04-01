@@ -247,6 +247,10 @@ supjav.com##.asg-overlay
 /barbar7.*.js^$script,domain=hclips.com
 /nofa7.*.js^$script,domain=txxx.com
 txxx.com,upornia.com##.video-slider
+pornwhite.com###pre-spots
+pornwhite.com##.content-aside
+pornwhite.com##.video-options.long
+pornwhite.com##.bottom-banners
 
 
 ! #CV-667
@@ -327,6 +331,8 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 ||see.xxx/poppy/*.js^$domain=see.xxx
 ||hdtube.porn/hdt/hdt.js^$domain=hdtube.porn
 /js/initsite.js^$domain=anysex.com|xcafe.com
+/js/customscript.js^$domain=pornwhite.com
+/local_p.js^$domain=megatube.xxx
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
