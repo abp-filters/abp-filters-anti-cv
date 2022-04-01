@@ -243,6 +243,11 @@ gogoplay1.com,komikcast.com,prmovies.bz,speedostream.com#$#abort-current-inline-
 vizcloud.xyz#$#abort-on-property-read AaDetector
 supjav.com##.asg-overlay
 /js.mangapro.top/*.js^$script,domain=comick.top
+/rass7.*.js^$script,domain=upornia.com
+/barbar7.*.js^$script,domain=hclips.com
+/nofa7.*.js^$script,domain=txxx.com
+txxx.com,upornia.com##.video-slider
+
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
