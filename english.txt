@@ -332,7 +332,9 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 ||hdtube.porn/hdt/hdt.js^$domain=hdtube.porn
 /js/initsite.js^$domain=anysex.com|xcafe.com
 /js/customscript.js^$domain=pornwhite.com
-/local_p.js^$domain=megatube.xxx
+/local_p.js^$domain=bigtitslust.com|freeporn8.com|maturetubehere.com|megatube.xxx
+/s/js/ssu.v2.js?v=*^$domain=bigtitslust.com|freeporn8.com|maturetubehere.com
+
 
 ! #CV-691
 ebay.co.uk,ebay.com,ebay.com.au#$#hide-if-contains-visible-text SPONSORED 'li.s-item' 'li.s-item span[role="text"]'
