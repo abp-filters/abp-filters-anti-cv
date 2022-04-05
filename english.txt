@@ -246,6 +246,7 @@ supjav.com##.asg-overlay
 /rass7.*.js^$script,domain=upornia.com|vjav.com
 /barbar7.*.js^$script,domain=hclips.com
 /nofa7.*.js^$script,domain=txxx.com
+/apsti7.*.js^$script,domain=txxx.com
 txxx.com,upornia.com##.video-slider
 pornwhite.com###pre-spots
 pornwhite.com##.content-aside
