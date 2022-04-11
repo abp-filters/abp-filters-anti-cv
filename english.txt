@@ -255,6 +255,8 @@ pornwhite.com###pre-spots
 pornwhite.com##.content-aside
 pornwhite.com##.video-options.long
 pornwhite.com##.bottom-banners
+/^https?:\/\/www\.freeuseporn\.com\/[0-9a-f]{12}\.js/$script,domain=freeuseporn.com
+freeuseporn.com#$#override-property-read p18 undefined
 
 
 ! #CV-667
