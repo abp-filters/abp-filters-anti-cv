@@ -47,6 +47,9 @@ hclips.com#$#abort-on-property-read btoa
 /wp-includes/js/jwplayer.js?$script,image,domain=watchcartoonsonline.eu
 igg-games.com#$#abort-current-inline-script $ php
 igg-games.com##.adstg
+igg-games.com##.uk-panel.widget-text
+||asemskull.com^$domain=igg-games.com
+||igg-games.com/sw.js^$script
 /homepage*$script,image,domain=kickassanime.io
 kickassanime.io##.ka-ax-wrapper
 /sid*$domain=kickassanime.io
