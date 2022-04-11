@@ -7,3 +7,4 @@ ebay.de##li[class^="s-item s-item__sep-on-bottom"]
 
 ! Popup/Popunder/Clickunder
 frauporno.com#$#abort-current-inline-script document.querySelectorAll popMagic
+aniworld.to#$#abort-current-inline-script JSON.parse /atob|break/
