@@ -257,7 +257,7 @@ pornwhite.com##.video-options.long
 pornwhite.com##.bottom-banners
 /^https?:\/\/www\.freeuseporn\.com\/[0-9a-f]{12}\.js/$script,domain=freeuseporn.com
 freeuseporn.com#$#override-property-read p18 undefined
-cambro.tv###kt_player > a[href][target="_blank"]
+4kporn.xxx,cambro.tv,mangovideo.club###kt_player > a[href][target="_blank"]
 
 
 ! #CV-667
