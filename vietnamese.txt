@@ -29,4 +29,5 @@ xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
 xuongphim18z.com,phimdinhcao.com,phimtop.net#$#abort-on-property-read document.cookie
 metruyenchu.com#$#abort-on-property-write window.onclick
-||mage98rquewz.com^
+##[href^="//mage98rquewz.com/"]
+*$third-party,script,domain=sexdiaryz.xyz
