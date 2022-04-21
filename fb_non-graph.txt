@@ -16,4 +16,4 @@ www.facebook.com,web.facebook.com##span a[aria-labelledby][role="link"][target="
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath '//a[@aria-label][@href][@role="link"][@tabindex="0"]//div[@class]/span[@class][contains(normalize-space(),"Sponsored")]/ancestor::a[@aria-label][1]'
 
 ! Experimental
-www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /(.*[Sponsored].*){9,}(?<=([\s\d]))/ div[aria-describedby] a[aria-label="label"] span[class]
+www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /(.*[Sponsored].*){9,}(?<=([\s\d]))|(.*[Publicidad].*){10,}(?!([\s\d]))|(.*[Sponsorizzato].*){13,}(?!([\s\d]))/ div[aria-describedby] a[aria-label="label"] span[class]
