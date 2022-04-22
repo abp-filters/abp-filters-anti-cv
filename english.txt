@@ -220,7 +220,6 @@ gounlimited.to#$#abort-on-property-read atob
 ianimes.co,ianimes.top#$#abort-on-property-read _0x522e
 upload.ee,ianimes.co,ianimes.top#$#abort-on-property-read adcashMacros
 gamefront.com#$#abort-current-inline-script $ AdBlock
-||porntop.com/magic/*.js^$script,domain=porntop.com
 ||myfastcdn.com^$domain=kickassanime.io
 ||thikraik.net^$domain=kickassanime.io
 kickassanime.io##.ka-ax-wrp.mb-3
@@ -249,6 +248,7 @@ supjav.com##.asg-overlay
 /barbar7.*.js^$script,domain=hclips.com
 /nofa7.*.js^$script,domain=txxx.com
 /apsti7.*.js^$script,domain=txxx.com
+/magic/*.js^$script,domain=pornhits.com|porntop.com
 txxx.com,upornia.com##.video-slider
 pornwhite.com###pre-spots
 pornwhite.com##.content-aside
@@ -257,7 +257,7 @@ pornwhite.com##.bottom-banners
 /^https?:\/\/www\.freeuseporn\.com\/[0-9a-f]{12}\.js/$script,domain=freeuseporn.com
 freeuseporn.com#$#override-property-read p18 undefined
 4kporn.xxx,cambro.tv,mangovideo.club###kt_player > a[href][target="_blank"]
-
+pornhits.com,porntop.com#$#abort-current-inline-script ACtMan
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
