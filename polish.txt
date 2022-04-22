@@ -44,6 +44,10 @@ wp.pl#$#hide-if-matches-xpath './/div[@class]/a[@target="_blank"][string-length(
 wp.pl#$#hide-if-matches-xpath './/div[@class][@style="height: 133.056px;"]/a[@href]/div[@class]/ancestor::div[@class][2]'
 wp.pl#$#hide-if-matches-xpath './/a[@target]/img[string-length(@src)>130]/ancestor::div[starts-with(@class,"teaser")]'
 
+poczta.o2.pl#$#hide-if-matches-xpath './/a[@class][contains(@href,"wp.pl/")]/parent::div[@style]/ancestor-or-self::div[@class][@slot="NATIVE_FEED"]/parent::div[1]'
+poczta.o2.pl#$#hide-if-matches-xpath './/div[@class]/iframe[@sandbox][contains(@src,"wpcdn.pl/tag/poczta.o2.pl/")]/ancestor::div[string-length(@class) >30]'
+poczta.o2.pl##img[src*="wpimg.pl/"]
+
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
 naekranie.pl#$#abort-on-property-read adQueue
