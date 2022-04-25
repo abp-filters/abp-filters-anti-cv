@@ -1,3 +1,7 @@
+! #CV-691
+ebay.fr#$#hide-if-contains-visible-text /(.*S.*p.*o.*n.*s.*o.*r.*i.*s.*é⁣.*)/ 'li.s-item' 'li.s-item span[role="text"]'
+ebay.ca#$#hide-if-contains-visible-text /[Commandité]+(?![\w,])/ 'li.s-item' 'li.s-item span[role="text"]'
+
 ! #CV-761
 
 ! #CV-663
