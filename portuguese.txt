@@ -11,6 +11,7 @@ topflix.fm#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 onifile.com#$#abort-on-property-read _pop
 pobtre.wtf##a[target="_blank"] > img[width="728"][height="90"]
 yayanimes.net#$#abort-current-inline-script document.createElement _wtxnqkt
+animesonline22.com#$#abort-current-inline-script JSON.parse /atob|btoa|break/
 
 ! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
