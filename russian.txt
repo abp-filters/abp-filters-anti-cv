@@ -93,6 +93,7 @@ spletnik.ru#$#abort-on-property-read noAdSample
 pro100hobbi.ru,samelectric.ru,facenews.ua,molitvy.guru,nizhny.ru,svadba.expert#$#abort-on-property-read XMLHttpRequest
 lrepacks.net#$#abort-current-inline-script document.createElement 'delete window'
 igroutka.ru#$#override-property-read Object.prototype.afg true
+sibnet.ru#$#prevent-listener DOMContentLoaded 'pobeda'
 
 ! Popup/popunder/clickunder
 freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,xittv.net,potokcdn.com,buzday.ru,nsday.ru,orenday.ru,perevolockday.ru,saltday.ru,sorochinskday.ru,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,wseries.ru#$#abort-on-property-read open
