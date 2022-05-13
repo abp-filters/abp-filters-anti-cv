@@ -260,7 +260,7 @@ freeuseporn.com#$#override-property-read p18 undefined
 pornhits.com,porntop.com#$#abort-current-inline-script ACtMan
 letsjerk.tv#?#div[class*="widget_text"]:-abp-has(>div:-abp-contains(Advertisement))
 letsjerk.tv#$#abort-current-inline-script asgPopScript
-manhuascan.me#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
+cineb.net,manhuascan.me#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
