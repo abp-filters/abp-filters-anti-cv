@@ -1,6 +1,6 @@
 ! #CV-766
 delfi.lt#@#.banner
-delfi.lt#$#abort-on-property-read __dabd
+delfi.lt#$#abort-on-property-read _dlf.ab
 ||adform.net/banners/scripts/adx.js$domain=delfi.lt,rewrite=abp-resource:blank-js
 
 ! MISC
