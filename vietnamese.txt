@@ -3,7 +3,7 @@ lb.topphimhd.info#$#override-property-read adsData_ar true
 baliphim.com#$#override-property-read time_load_ads_1 0; override-property-read time_load_ads_2 0
 blog.abit.vn#$#abort-on-property-read document.cookie
 phimhay3s.com#$#json-prune ads
-90phutttttttt.xyz#$#abort-current-inline-script $ overlay
+90phuttttttttt.xyz#$#abort-current-inline-script $ overlay
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
 xoilac2.net#$#abort-current-inline-script jQuery overlay
