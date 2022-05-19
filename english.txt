@@ -33,6 +33,7 @@ mangovideo.pw#$#abort-on-property-write puShown
 zbporn.com#$#abort-on-property-read popns
 nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 hclips.com#$#abort-on-property-read btoa
+hentaiworld.tv#$#abort-on-property-read __formatsGetters
 
 ! #CV-688
 @@||st.bebi.com/bebi_v3.js$script,domain=lolhentai.net
