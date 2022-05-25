@@ -352,6 +352,7 @@ about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.
 ##[href^="//x4pollyxxpush.com/"]
 ||a.streamoupload.*^$script
 freeomovie.co.in#$#abort-on-property-read decodeURIComponent
+fastconverter.net#?#:xpath(//div[contains(@style,"fixed") and contains(@style,"z-index")]/ancestor-or-self::div[@style][1])
 
 ! #CV-691
 ebay.com#$#hide-if-contains-visible-text /Sponsored/ div[aria-label] div[class]
