@@ -13,6 +13,7 @@ pobtre.wtf##a[target="_blank"] > img[width="728"][height="90"]
 yayanimes.net#$#abort-current-inline-script document.createElement _wtxnqkt
 animesonline22.com#$#abort-current-inline-script JSON.parse /atob|btoa|break/
 gekkou.com.br#$#abort-current-inline-script document.querySelectorAll popMagic
+gofilmes.me#$#abort-on-property-read zfgformats
 
 ! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
