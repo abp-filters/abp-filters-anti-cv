@@ -34,6 +34,7 @@ zbporn.com#$#abort-on-property-read popns
 nsfwalbum.com#$#abort-current-inline-script document.getElementsByTagName body
 hclips.com#$#abort-on-property-read btoa
 hentaiworld.tv,masahub.net#$#abort-on-property-read __formatsGetters
+estrenosdoramas.net#$#abort-on-property-read __DOMAIN
 
 ! #CV-688
 @@||st.bebi.com/bebi_v3.js$script,domain=lolhentai.net
