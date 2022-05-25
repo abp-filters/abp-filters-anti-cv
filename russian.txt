@@ -13,7 +13,6 @@ yandex.by,yandex.fr,yandex.kz,~telephony.yandex.ru,yandex.ru,yandex.ua,yandex.uz
 razlozhi.ru,24smi.org,auto.ru,drive2.ru,gorodrabot.ru,kinopoisk.ru#$#abort-on-property-read Element.prototype.attachShadow; abort-on-iframe-property-read Element.prototype.attachShadow
 ||24smi.org/$header=content-type=text/javascript
 ||24smi.org/$header=content-type=application/json
-/^https:\/\/st2\.razlozhi\.ru\/\w{9}\/.{100,300}$/$script,domain=razlozhi.ru
 gorodrabot.ru#$#abort-on-property-read Object.prototype.storeBlockSettings
 
 ! #CV-659
@@ -34,7 +33,6 @@ etextlib.ru##.partners
 etextlib.ru##.head_bann
 kinohome.net##a[data-i]
 indoxx1.show##img[src^="blob:https://indoxx1.show/"]
-||wysasys.com^$popup,domain=indoxx1.show
 /img.akubebas.com^$image,script,domain=indoxx1.show
 
 ! #CV-250

@@ -335,13 +335,6 @@ eztv.tf,eztv.unblockit.llc,eztv.yt,ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abo
 idope.cyou,yts2.cc#$#abort-on-property-read JSON.stringify
 latinblog.tv#$#abort-on-property-write _cpp
 
-*$popup,third-party,domain=streamega.com|123putlocker.club|openloadmovies.bz
-about:blank$popup,domain=streamtape.cc|streamtape.net|streamtape.xyz|streamtape.com|strtapeadblock.me|slreamplay.cc
-/favicon.ico$popup,domain=vidshare.tv|vudeo.net
-||35.194.16.41^$popup
-||gadsims.com^$popup
-&adb=y|$popup,domain=masahub.net
-||ta3nfsordd.com^$popup,domain=masahub.net
 ||*.com/*b8121.js^$script,domain=mult34.com
 ||see.xxx/poppy/*.js^$domain=see.xxx
 ||hdtube.porn/hdt/hdt.js^$domain=hdtube.porn
