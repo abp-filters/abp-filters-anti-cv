@@ -263,6 +263,7 @@ letsjerk.tv#$#abort-current-inline-script asgPopScript
 atomohd.com,atomtt.com,mangadna.com,manhuascan.me,manhwax.com,readcomiconline.li#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 fastconverter.net#$#abort-on-property-read afScript
 
+
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
 getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw,clipwatching.com,protect-mylinks.com#$#abort-current-inline-script document.createElement String.fromCharCode
@@ -334,6 +335,7 @@ pinayvids.com#$#abort-current-inline-script decodeURIComponent; override-propert
 eztv.tf,eztv.unblockit.llc,eztv.yt,ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abort-current-inline-script s2ss52
 idope.cyou,yts2.cc#$#abort-on-property-read JSON.stringify
 latinblog.tv#$#abort-on-property-write _cpp
+camsstream.com#$#abort-on-property-read onload
 
 masahub.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 ||*.com/*b8121.js^$script,domain=mult34.com
