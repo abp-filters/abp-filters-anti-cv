@@ -241,7 +241,7 @@ sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.create
 mathwarehouse.com#$#override-property-read MwAserver noopFunc
 bato.to#$#abort-current-inline-script document.createElement _vwmso
 gogoplay1.com,komikcast.com,prmovies.bz,speedostream.com,watchseri.net#$#abort-current-inline-script JSON.parse
-vizcloud.xyz#$#abort-on-property-read AaDetector
+kissasian.li,vizcloud.xyz#$#abort-on-property-read AaDetector
 supjav.com##.asg-overlay
 /js.mangapro.top/*.js^$script,domain=comick.top
 /rass7.*.js^$script,domain=upornia.com|vjav.com
