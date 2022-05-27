@@ -14,6 +14,7 @@ ahri-hentai.com#$#abort-current-inline-script document.querySelectorAll popMagic
 ! Popups & Popunders
 cocomanga.com#$#abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
 madouqu.com,madouqu.tk#$#abort-current-inline-script document.querySelectorAll popMagic
+editcode.net#$#abort-current-inline-script setTimeout openAd
 
 ! Video ads
 iyingshi9.tv#$#override-property-read YZM.ads.state false
