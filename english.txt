@@ -334,6 +334,7 @@ pinayvids.com#$#abort-current-inline-script decodeURIComponent; override-propert
 eztv.tf,eztv.unblockit.llc,eztv.yt,ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abort-current-inline-script s2ss52
 idope.cyou,yts2.cc#$#abort-on-property-read JSON.stringify
 latinblog.tv#$#abort-on-property-write _cpp
+camsstream.com#$#abort-current-inline-script onload;
 
 masahub.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 ||*.com/*b8121.js^$script,domain=mult34.com
