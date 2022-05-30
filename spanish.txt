@@ -18,6 +18,7 @@ rojadirecta.fr#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
 ! MISC
 peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 animeflv.cc#$#abort-current-inline-script JSON.parse
+pelismart.com#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 estrenosdoramas.net#$#abort-on-property-read __DOMAIN
 
 ! #CV-368
