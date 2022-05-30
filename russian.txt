@@ -107,7 +107,7 @@ cosplay-porn.one#$#abort-on-property-read biads
 mag.relax.by#$#abort-on-property-read Object.prototype.branding_url
 conversion.im#$#abort-current-inline-script $ mainContainer
 freescreens.ru,imgbase.ru,imgcach.ru,imgclick.ru,payforpic.ru,picclick.ru,picclock.ru,picforall.ru#$#abort-current-inline-script JSON.parse
-tapochek.net,dfiles.ru#$#abort-on-property-read ads_script
+tapochek.net#$#abort-on-property-read ads_script
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
