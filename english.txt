@@ -302,7 +302,7 @@ ling.online,pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encode
 vidlo.us,abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io,hxfile.co#$#abort-on-property-read decodeURIComponent
 mult34.com,remaxhd.one#$#abort-current-inline-script decodeURI; abort-on-property-read decodeURIComponent
 hdvid.online#$#abort-on-property-read Fingerprint2; abort-on-property-read atob
-cineb.net,vidbem.com,upload4earn.org,uploadbyte.com#$#abort-on-property-read localStorage
+123-movies.city,cineb.net,moviesjoy.to,solarmovie.pe,vidbem.com,upload4earn.org,uploadbyte.com#$#abort-on-property-read localStorage
 dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
