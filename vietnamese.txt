@@ -15,7 +15,7 @@ vebotv.xyz#$#abort-current-inline-script $ vb-pr-box
 ! Popup/Popunder/Clickunder
 viet69.org#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
-fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv,vzphimmoi.net,phimmoiaz.cc#$#abort-on-property-read open
+fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv,vnphimmoi.net,phimmoiaz.cc#$#abort-on-property-read open
 phimgif.net,ophimhd.net,phimraphot.net#$#abort-current-inline-script jQuery popurl
 baliphim.com,lucaphim.com#$#abort-current-inline-script parseInt break;case $.
 khophimhd.net,downloadsachmienphi.com,truyen2u.net,tvhay.top#$#abort-current-inline-script JSON.parse atob
