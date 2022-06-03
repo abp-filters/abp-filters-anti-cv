@@ -21,6 +21,7 @@ animeflv.cc#$#abort-current-inline-script JSON.parse
 pelismart.com#$#abort-on-property-read localStorage
 estrenosdoramas.net#$#abort-on-property-read __DOMAIN
 monoschinos2.com#$#abort-on-property-read a3klsam; abort-on-property-write JSON.parse
+compucalitv.com#$#abort-on-property-write _pop
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
