@@ -22,6 +22,7 @@ pelismart.com#$#abort-on-property-read localStorage
 estrenosdoramas.net#$#abort-on-property-read __DOMAIN
 monoschinos2.com#$#abort-on-property-read a3klsam; abort-on-property-write JSON.parse
 compucalitv.com,pornstarsyfamosas.es#$#abort-on-property-write _pop
+jkanime.top#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
