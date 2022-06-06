@@ -3,3 +3,4 @@ mp3-gratis.it#$#abort-current-inline-script Math zfgloaded
 
 ! Popup/Popunder
 streamingcommunity.net#$#abort-current-inline-script String.fromCharCode /btoa|break/
+animeunity.tv#$#abort-on-property-read localStorage
