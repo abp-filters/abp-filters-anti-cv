@@ -350,6 +350,9 @@ masahub.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 ||a.streamoupload.*^$script
 freeomovie.co.in#$#abort-on-property-read decodeURIComponent
 fastconverter.net#?#:xpath(//div[contains(@style,"fixed") and contains(@style,"z-index")]/ancestor-or-self::div[@style][1])
+vardembed.xyz,videovard.sx#$#json-prune ads_mode
+vardembed.xyz,videovard.sx###NotReallyYouHaveSmallOne
+vardembed.xyz,videovard.sx###MyDickIsFat
 
 ! #CV-691
 ebay.com#$#hide-if-contains-visible-text /Sponsored/ div[aria-label] div[class]
