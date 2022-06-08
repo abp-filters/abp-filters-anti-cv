@@ -336,7 +336,7 @@ eztv.tf,eztv.unblockit.llc,eztv.yt#$#abort-current-inline-script s2ss52
 idope.cyou,yts2.cc#$#abort-on-property-read JSON.stringify
 latinblog.tv#$#abort-on-property-write _cpp
 camsstream.com#$#abort-current-inline-script onload;
-ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abort-on-property-read atob; abort-on-property-read setInterval;
+ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abort-on-property-read atob
 
 masahub.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 ||*.com/*b8121.js^$script,domain=mult34.com
