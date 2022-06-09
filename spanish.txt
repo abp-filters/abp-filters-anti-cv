@@ -24,6 +24,7 @@ monoschinos2.com#$#abort-on-property-read a3klsam; abort-on-property-write JSON.
 compucalitv.com,pornstarsyfamosas.es#$#abort-on-property-write _pop
 bajarpelisgratis.com,jkanime.top,series-de.online,torrentdownloads.pro#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 pelispop.me,tmomanga.com#$#abort-on-property-write JSON.parse
+futbollatam.com#$#abort-on-property-read attr; abort-on-property-read mm
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
