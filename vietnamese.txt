@@ -5,7 +5,6 @@ phimhay3s.com#$#json-prune ads
 90phuttttttttt.xyz#$#abort-current-inline-script $ overlay
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
-playmt.fastlycdn.xyz#$#override-property-read adsPlayer undefined;override-property-read adsTvc undefined;override-property-read adsButton undefined
 watchsb.com#$#abort-on-property-read __Y
 tinsoikeo.io#$#abort-on-property-read sessionStorage;abort-current-inline-script $ window.open
 plus.gtv.vn#$#abort-current-inline-script $ youtube-modal
