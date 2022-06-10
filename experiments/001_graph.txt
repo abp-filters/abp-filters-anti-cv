@@ -1,2 +1,9 @@
 ! #CV-761
-www.facebook.com,web.facebook.com#$#hide-if-graph-matches [role=feed]>[data-pagelet^=FeedUnit_] DIV
+! Temporary rules to be removed once ML rule is readded
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@aria-labelledby][@role="link"]//object[@type="nested/pressable"]/a[@aria-label][@role="link"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//div[@role="button"]//div[@aria-label][@role="button"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[starts-with(@href,"https://l.facebook")]//object[@type="nested/pressable"]//a[@aria-label][@role="link"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@aria-label="[object Object]"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@role="link"]//object[@type="nested/pressable"]/a[@aria-label=""][@role="link"]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//div[starts-with(@aria-label,"[FB-Employee-Only]")]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
+www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]//div[@aria-describedby][@aria-labelledby][@role="article"]//a[@role="link"]//object[@type="nested/pressable"]//span[@aria-labelledby]/ancestor::div[@aria-describedby][@aria-labelledby][@role="article"]'
