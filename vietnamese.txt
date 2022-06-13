@@ -10,6 +10,7 @@ tinsoikeo.io#$#abort-on-property-read sessionStorage;abort-current-inline-script
 plus.gtv.vn#$#abort-current-inline-script $ youtube-modal
 bongdahomnay.tech#$#abort-on-property-read $
 vebotv.xyz#$#abort-current-inline-script $ vb-pr-box
+vb.plvb.xyz#$#abort-on-property-read adsTvc
 
 ! Popup/Popunder/Clickunder
 viet69.org#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
