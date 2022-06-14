@@ -291,7 +291,7 @@ kimcartoon.to#$#abort-on-property-read NativeAd
 
 ! Popup/Popunder/Clickunder
 123movieshub.tc,123freemovies.net,123movies.ai,123movies.bike,adblockstreamtape.art,adblockstreamtape.site,bigtitsxxxfree.com,configspc.com,dood.la,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.ws,doodstream.co,doodstream.com,fastream.to,govid.me,hclips.com,hd-analporn.com,hotmovs.com,hxfile.co,iframe-secured.com,komikcast.com,mavavid.com,mixdrop.co,mstream.best,mstream.fun,mstream.icu,mstream.press,mstream.space,mstream.tech,mstream.website,mstream.xyz,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.net,porn.com,porndollz.com,pornhat.com,prmovies.bz,realgfporn.com,rlslog.net,rule34hentai.net,strcloud.club,strcloud.link,streamta.pe,streamtape.cc,streamtape.com,streamtape.net,streamtape.to,streamtape.xyz,streamtapeadblock.art,strtape.cloud,strtape.site,strtape.tech,strtapeadblock.me,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
-latinblog.tv,adblockstreamtape.art,adblockstreamtape.site,baytorrent.eu.org,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,strcloud.club,strcloud.link,streamtape.cc,streamtape.com,strtapeadblock.me,streamtape.net,streamtape.to,streamtape.xyz,streamta.pe,strtape.cloud,strtape.site,strtape.tech,adblockstrtape.link,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.co#$#abort-on-property-write _pop
+latinblog.tv,adblockstreamtape.art,adblockstreamtape.site,baytorrent.eu.org,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,voe.sx,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.me,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javmost.com,javjunkies.com,limetorrents.info,loadsubs.net,mypiratebay.best,mypiratebay.club,mypiratebay.co,mypiratebay.life,mypiratebay.live,mypiratebay.me,mypiratebay.surf,mypiratebay.win,mypiratebay.work,mypiratebay.wtf,mypiratebay.xyz,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,strcloud.club,strcloud.link,streamtape.cc,streamtape.com,strtapeadblock.me,streamtape.net,streamtape.to,streamtape.xyz,streamta.pe,strtape.cloud,strtape.site,strtape.tech,adblockstrtape.link,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,youdbox.com,mixdrop.co#$#abort-on-property-write _pop
 adblockstreamtape.art,adblockstreamtape.site,strcloud.club,strcloud.link,streamtape.to,streamtape.cc,streamtape.net,streamtape.xyz,streamtape.com,streamta.pe,strtapeadblock.me,strtape.cloud,strtape.site,strtape.tech,mixdrop.co#$#abort-on-property-write _pao
 1tamilmv.cloud,incestflix.com,pastemytxt.com,ytmp3eu.com,9anime.to,zippyshare.com,uploadproper.com,uploadproper.net,masahub.net#$#abort-on-property-read _pop
 xxxhdporno.net,indianpornvideo.org,hindixxxvideos.net,biter.tv#$#abort-on-property-read decodeURI
@@ -304,7 +304,7 @@ vidlo.us,abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pan
 mult34.com,remaxhd.one#$#abort-current-inline-script decodeURI; abort-on-property-read decodeURIComponent
 hdvid.online#$#abort-on-property-read Fingerprint2; abort-on-property-read atob
 123-movies.city,actvid.com,cineb.net,moviesjoy.to,solarmovie.pe,vidbem.com,upload4earn.org,uploadbyte.com,zoechip.com#$#abort-on-property-read localStorage
-dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
+dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,streamsb.net#$#abort-on-property-read DoodPop; abort-on-property-write adb; abort-on-property-write cRAds; abort-on-property-write xRds; abort-on-property-write xPoPAdS
 youdbox.com,vudeo.net#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 filecrypt.cc,filecrypt.co#$#abort-on-property-read isAdblock
 hclips.com#$#abort-on-property-read adver
@@ -326,7 +326,7 @@ cine.to#$#abort-on-property-read document.head.appendChild
 nhentai.net#$#override-property-read _n_app.popunder null;
 masahub.net#$#abort-on-property-write zfgloadedpopup;
 hitomi.la#$#override-property-read popsource null; override-property-read adsdir null; override-property-read ad_cookieconsent false; override-property-read D4zz undefined; abort-on-property-read _pop; abort-on-property-read hitomi; abort-on-property-read open; override-property-read ad_idzone null; abort-on-property-read ylmkAp.addZone; override-property-read ad_popup_fallback false;
-sbplay2.com,viewsb.com#$#abort-on-property-read __Y
+sbplay2.com,streamsb.net,viewsb.com#$#abort-on-property-read __Y
 csrevo.com#$#abort-current-inline-script document.querySelectorAll popMagic
 1337x.buzz#$#abort-current-inline-script document.createElement script
 sxyprn.com#$#abort-current-inline-script vast_urls; override-property-read D4zz undefined
@@ -340,7 +340,7 @@ camsstream.com#$#abort-current-inline-script onload;
 ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abort-on-property-read atob
 2embed.ru#$#abort-current-inline-script parseInt break;case $.
 
-masahub.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
+masahub.net,streamsb.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 ||*.com/*b8121.js^$script,domain=mult34.com
 ||see.xxx/poppy/*.js^$domain=see.xxx
 ||hdtube.porn/hdt/hdt.js^$domain=hdtube.porn
