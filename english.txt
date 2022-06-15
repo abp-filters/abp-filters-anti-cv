@@ -265,6 +265,7 @@ letsjerk.tv#$#abort-current-inline-script asgPopScript
 fastconverter.net#$#abort-on-property-read afScript
 tpbay.link#$#abort-on-property-read _wm_settings
 manga21plus.com#$#abort-on-property-read a3klsam
+naughtymachinima.com#$#abort-on-property-read window.open; abort-on-property-read loadTool
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
