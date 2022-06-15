@@ -77,7 +77,7 @@ shaiba.kz#$#abort-current-inline-script $ 1xbet
 liveforums.ru#$#abort-on-property-read tnAdditionalParams
 musify.club#$#abort-current-inline-script $ get_ya_browser
 fenglish.site,mp3spy.cc#$#abort-current-inline-script JSON.parse atob
-tagaev.com#$#abort-on-property-read PUM
+tagaev.com#$#abort-on-property-read PUM.getPopup
 l2top.ru#$#abort-current-inline-script $ cleanAndEval
 rsload.net#$#abort-current-inline-script window.addEventListener load
 web-shpargalka.ru#$#abort-on-property-read Date.prototype.toUTCString
