@@ -1,5 +1,4 @@
 ! #CV-691
-ebay.es#$#hide-if-contains-visible-text /[Patrocinado]+(?![\w,])/ 'li.s-item' 'li.s-item span[role="text"]'
 
 ! #CV-761
 

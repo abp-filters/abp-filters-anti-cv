@@ -1,8 +1,7 @@
 ! #CV-761
 
 ! #CV-691
-ebay.de#$#hide-if-contains-visible-text /Anzeige|ANZEIGE/ 'li.s-item' 'li.s-item span[role="text"]'
-ebay.de#$#hide-if-contains-visible-text /[Anzeige]+(?![\w,])/ 'li.s-item' 'li.s-item span[role="text"]'
+ebay.de#$#hide-if-matches-xpath '//a[contains(@data-track,"UnifiedRankingScenario")]/div[@class]//img[@src]/ancestor-or-self::li[starts-with(@class,"s-item")]'
 
 ! Popup/Popunder/Clickunder
 frauporno.com#$#abort-current-inline-script document.querySelectorAll popMagic
