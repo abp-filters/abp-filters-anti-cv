@@ -35,3 +35,4 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 phimhays.com#$#abort-current-inline-script jQuery window.open
 truyentranhtuan.com#$#abort-current-inline-script $ btpop
 vebo.live#$#abort-current-inline-script jQuery popup
+lphim.net#$#abort-on-property-read localStorage
