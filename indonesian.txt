@@ -4,3 +4,4 @@ hotabis.com#$#override-property-read td_ad_background_click_link undefined
 
 ! Popup/Popunder/Clickunder
 komikcast.me#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
+beritabaru.news,solusi.cyou#$#override-property-read setTimeout noopFunc
