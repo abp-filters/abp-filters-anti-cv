@@ -9,7 +9,9 @@ multicanais.tv#$#abort-current-inline-script document.createElement _whvbtwzo
 cinevision.online#$#abort-on-property-write atob
 topflix.fm#$#abort-current-inline-script String.fromCharCode XMLHttpRequest
 onifile.com#$#abort-on-property-read _pop
-pobtre.wtf##a[target="_blank"] > img[width="728"][height="90"]
+pobre.wtf#$#abort-on-property-read window.banners.1
+pobre.wtf##div.generalModal:first-child
+/images/bettilt*.png^$domain=pobre.wtf
 yayanimes.net#$#abort-current-inline-script document.createElement _wtxnqkt
 animesonline22.com#$#abort-current-inline-script JSON.parse /atob|btoa|break/
 gekkou.com.br#$#abort-current-inline-script document.querySelectorAll popMagic
