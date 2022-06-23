@@ -71,7 +71,7 @@ flystream.fr,filmtelecharger.net,libertyvf.co,libertyvf.tv,libertyvf.com,streami
 
 ! Popup/Popunder
 jetanimes.co,jetanimes.com,voirseries.io#$#abort-on-property-read open
-toonanime.cc#$#abort-current-inline-script document.querySelectorAll popMagic
+manga-scantrad.net,toonanime.cc#$#abort-current-inline-script document.querySelectorAll popMagic
 batporno.com#$#abort-on-property-read decodeURI
 vostfree.com#$#abort-on-property-write _pop
 torrent911.com#$#abort-on-property-read atob
