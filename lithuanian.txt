@@ -1,6 +1,7 @@
 ! #CV-766
-delfi.lt#@#.banner
-delfi.lt#$#abort-on-property-read _dlf.ab
+delfi.lt#$#abort-on-property-read _dlf.abb
+delfi.lt#$#hide-if-matches-xpath './/img[contains(@src,"dcdn.lt/images/aaa/")]//ancestor::div[1]'
+delfi.lt#$#hide-if-matches-xpath './/a[contains(@href,"youtube.com")]/img[@alt]/ancestor-or-self::div[@class="row"]'
 ||adform.net/banners/scripts/adx.js$domain=delfi.lt,rewrite=abp-resource:blank-js
 
 ! MISC
