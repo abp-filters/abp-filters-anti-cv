@@ -306,7 +306,6 @@ xhamster.com#$#abort-on-property-read wig-popunder; abort-on-property-write wit-
 xhamster.one#$#abort-on-property-read wih-popunder; abort-on-property-write dataPopUnder
 marketrealist.com#$#abort-on-property-read adHandler.cmd.push
 vev.io,vev.red,vidop.icu,vidup.io#$#abort-current-inline-script window.__INITIAL_STATE__
-ling.online,pornj.com,upornia.com,realgfporn.com#$#abort-on-property-read encodeURI
 vidlo.us,abcvideo.cc,extramovies.casa,hdvid.online,pstream.net,dlapk4all.com,pandamovies.pw,gounlimited.to,rexdlfile.com,file-up.org,gledajonline.net,loadsubs.net,topeuropix.net,zippyshare.com,europixhd.net,europixhd.com,hdeuropix.io,hxfile.co#$#abort-on-property-read decodeURIComponent
 mult34.com,remaxhd.one#$#abort-current-inline-script decodeURI; abort-on-property-read decodeURIComponent
 hdvid.online#$#abort-on-property-read Fingerprint2; abort-on-property-read atob
@@ -365,6 +364,7 @@ vardembed.xyz,videovard.sx###MyDickIsFat
 voeunbl0ck.com,voeunblock.com,voeunblock1.com,voeunblock2.com,voeunblock3.com#$#abort-on-property-read VODMonetisation
 kiss-anime.ws#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse; abort-on-property-read _0x5c48; abort-on-property-read _0x43d1; abort-on-property-read _0x173b; abort-on-property-read _0x28f6
 manga1000.top#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse; abort-on-property-read asgPopScript
+ling-online.com#$#abort-current-inline-script document.documentElement JSON.parse
 
 ! #CV-691
 ebay.com#$#hide-if-contains-visible-text /Sponsored/ div[aria-label] div[class]
@@ -374,7 +374,7 @@ ebay.ca,ebay.co.uk,ebay.com,ebay.com.au,ebay.es,ebay.fr,ebay.it,ebay.nl#$#hide-i
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
 
 ! #CV-667
-3movierulz.tv,7-up.net,7deadlysins.tv,abcvideo.cc,animetrick.com,avimobilemovies.co,aznewhomes4u.com,batimovie.com,canonprinterdownload.com,carol-goldnerova.info,celebritiesempire.com,clipwatching.com,dailyuploads.net,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,downloadgamexbox.com,dragonballsuperdub.com,dramacool.movie,dramacool.video,fanproj.net,filmovi.co,fullasianmovies.com,gamepc18.net,giaoxudaiphu.com,haqqinda.az,hot-chicks.website,hotshotgamers.net,hunstulovers.net,indishare.org,isohunt.lol,isohuntz.net,kshows.to,ling.online,livecricket.is,mobilemovies.info,movies123.xyz,mybet.tips,myrightspot.com,naijal.com,pornlibrary.net,premiumkeyesetnod32.blogspot.com,prostream.to,putlocker68.com,putlockers.fm,putlockertv.ist,sandup.co,thevideobee.to,uqload.com,vidbem.com,vidbm.com,videojinni.com,vidfast.co,vidlox.me,vidshar.tv,vidshare.tv,vidstreaming.io,vostfrserie.biz,watchblackclover.com,watchboruto.com,watchdbzsuper.tv,watchgintama.com,watchmha2dub.com,watchoverlord2.com,watchshokugeki.com,xmovies8.so,xyupload.com,youdbox.com#$#abort-current-inline-script Math zfgloaded
+3movierulz.tv,7-up.net,7deadlysins.tv,abcvideo.cc,animetrick.com,avimobilemovies.co,aznewhomes4u.com,batimovie.com,canonprinterdownload.com,carol-goldnerova.info,celebritiesempire.com,clipwatching.com,dailyuploads.net,dood.pm,dood.so,dood.to,dood.video,dood.watch,dood.la,dood.ws,doodstream.co,doodstream.com,downloadgamexbox.com,dragonballsuperdub.com,dramacool.movie,dramacool.video,fanproj.net,filmovi.co,fullasianmovies.com,gamepc18.net,giaoxudaiphu.com,haqqinda.az,hot-chicks.website,hotshotgamers.net,hunstulovers.net,indishare.org,isohunt.lol,isohuntz.net,kshows.to,livecricket.is,mobilemovies.info,movies123.xyz,mybet.tips,myrightspot.com,naijal.com,pornlibrary.net,premiumkeyesetnod32.blogspot.com,prostream.to,putlocker68.com,putlockers.fm,putlockertv.ist,sandup.co,thevideobee.to,uqload.com,vidbem.com,vidbm.com,videojinni.com,vidfast.co,vidlox.me,vidshar.tv,vidshare.tv,vidstreaming.io,vostfrserie.biz,watchblackclover.com,watchboruto.com,watchdbzsuper.tv,watchgintama.com,watchmha2dub.com,watchoverlord2.com,watchshokugeki.com,xmovies8.so,xyupload.com,youdbox.com#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-754
 2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4
