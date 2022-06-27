@@ -11,6 +11,7 @@ plus.gtv.vn#$#abort-current-inline-script $ youtube-modal
 bongdahomnay.tech#$#abort-on-property-read $
 vebotv.xyz#$#abort-current-inline-script $ vb-pr-box
 vb.plvb.xyz#$#abort-on-property-read adsTvc
+hh3dhay.com,hh3dhay.xyz#$#abort-current-inline-script document.createElement ;break;case
 
 ! Popup/Popunder/Clickunder
 viet69.in#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
