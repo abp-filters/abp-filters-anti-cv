@@ -242,7 +242,7 @@ animeheaven.pro,emturbovid.com,sexlivesex.net,spankbang.com,supjav.com#$#abort-o
 komikav.com,klmag.net,himovies.to,moviesda1.com,soap2day.rs,sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.createElement script
 mathwarehouse.com#$#override-property-read MwAserver noopFunc
 bato.to#$#abort-current-inline-script document.createElement _vwmso
-animepahe.com,gogoplay1.com,komikcast.com,manhuascan.io,prmovies.bz,speedostream.com,watchseri.net,wiflix.pw,yomovies.ws#$#abort-current-inline-script JSON.parse
+animepahe.com,gogoplay1.com,komikcast.com,manhuascan.io,prmovies.bz,speedostream.com,yomovies.cam,watchseri.net,wiflix.pw,yomovies.ws#$#abort-current-inline-script JSON.parse
 kissasian.li,vizcloud.xyz#$#abort-on-property-read AaDetector
 supjav.com##.asg-overlay
 /js.mangapro.top/*.js^$script,domain=comick.top
