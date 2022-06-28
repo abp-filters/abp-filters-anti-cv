@@ -1,5 +1,4 @@
 ! MISC
-baliphim.com#$#override-property-read time_load_ads_1 0; override-property-read time_load_ads_2 0
 blog.abit.vn#$#abort-on-property-read document.cookie
 phimhay3s.com#$#json-prune ads
 90phut2.live#$#abort-current-inline-script $ overlay;abort-current-inline-script setTimeout overlay
@@ -18,7 +17,6 @@ viet69.in#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-curr
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv,vnphimmoi.net,phimmoiaz.cc#$#abort-on-property-read open
 phimgif.net,ophimhd.net,phimraphot.net#$#abort-current-inline-script jQuery popurl
-baliphim.com,lucaphim.com#$#abort-current-inline-script parseInt break;case $.
 khophimhd.net,downloadsachmienphi.com,truyen2u.net,tvhay.top#$#abort-current-inline-script JSON.parse atob
 tapmoi.net#$#abort-on-property-read SmartPopunder
 lxhentai.com#$#abort-current-inline-script document.cookie
