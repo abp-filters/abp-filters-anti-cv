@@ -92,6 +92,7 @@ lrepacks.net#$#abort-current-inline-script document.createElement 'delete window
 igroutka.ru#$#override-property-read Object.prototype.afg true
 sibnet.ru#$#prevent-listener DOMContentLoaded 'pobeda'
 ivanovonews.ru#$#json-prune banner.ytcode
+porngames.su,rintor.info,rintor.net#$#abort-on-property-read TotemToolsObject
 
 ! Popup/popunder/clickunder
 freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,xittv.net,potokcdn.com,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,oveg.ru#$#abort-on-property-read open
