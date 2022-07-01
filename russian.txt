@@ -87,7 +87,7 @@ cq.ru#$#hide-if-matches-xpath './/a[@class][@target="_blank"]/following::img[@cl
 cq.ru#$#prevent-listener DOMContentLoaded 'banners'
 shanson320.ru#$#abort-current-inline-script document.createElement atob
 spletnik.ru#$#abort-on-property-read noAdSample
-pro100hobbi.ru,samelectric.ru,facenews.ua,molitvy.guru,nizhny.ru,svadba.expert#$#abort-on-property-read XMLHttpRequest
+pro100hobbi.ru,samelectric.ru,facenews.ua,molitvy.guru,nizhny.ru,svadba.expert,vibir.ru#$#abort-on-property-read XMLHttpRequest
 lrepacks.net#$#abort-current-inline-script document.createElement 'delete window'
 igroutka.ru#$#override-property-read Object.prototype.afg true
 sibnet.ru#$#prevent-listener DOMContentLoaded 'pobeda'
