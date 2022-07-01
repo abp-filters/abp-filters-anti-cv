@@ -21,7 +21,7 @@ gnula.se,pelismart.com#$#abort-on-property-read localStorage
 estrenosdoramas.net#$#abort-on-property-read __DOMAIN
 monoschinos2.com#$#abort-on-property-read a3klsam; abort-on-property-write JSON.parse
 compucalitv.com,pornstarsyfamosas.es#$#abort-on-property-write _pop
-animeflv.ac,bajarpelisgratis.com,jkanime.top,pelismart.com,pelispoptv.com,series-de.online,torrentdownloads.pro#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
+animeflv.ac,bajarpelisgratis.com,jkanime.top,pelismart.com,pelismartv.com,pelispoptv.com,series-de.online,torrentdownloads.pro#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 gnula.nu,pelispop.me,tmomanga.com#$#abort-on-property-write JSON.parse
 futbollatam.com#$#abort-on-property-read attr; abort-on-property-read mm
 gnula.cc,series24.nu#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse; abort-on-property-read asgPopScript
@@ -39,6 +39,6 @@ hispasexy.org#$#abort-current-inline-script decodeURI; abort-on-property-read de
 animefenix.com#$#abort-current-inline-script document.createElement _yzvesi; abort-on-property-write zfgloadedpopup;
 pelisplus.so#$#abort-on-property-write _zoxxpiee
 iguarras.com,iputitas.net,ytanime.tv#$#abort-on-property-read afScript
-comicsporno.xxx,eshentai.tv,felizporno.com,hentaila.com,hentaila.tv,hentaisenpai.org,latinohentai.com,mespornogratis.com,orgasmatrix.com,pornoreino.com,pornocolombiano.net,xculitos.com#$#abort-current-inline-script document.querySelectorAll popMagic
+comicsporno.xxx,eshentai.tv,felizporno.com,hentaila.com,hentaila.tv,hentaisenpai.org,latinohentai.com,mespornogratis.com,orgasmatrix.com,pornoreino.com,pornocolombiano.net,subtaboo.com,xculitos.com#$#abort-current-inline-script document.querySelectorAll popMagic
 series-de.online#$#abort-on-property-read doSecondPop; abort-on-property-read doSecondPopU
 animefenix.com#$#abort-on-property-read p18
