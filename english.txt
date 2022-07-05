@@ -410,3 +410,6 @@ bing.com#?#li[class="b_algo"]:-abp-has(> h2 + div[class="b_caption"] > p[class])
 bing.com#?#li[class="b_algo"]:-abp-has(>h2 + div[class="b_caption"] > [class^="b_attribution "])
 bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
+
+! Japanese sites
+nikaraw.com#$#abort-on-property-read afStorage
