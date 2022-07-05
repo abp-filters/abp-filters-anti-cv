@@ -55,7 +55,6 @@ naruto-base.su#$#abort-on-property-read njranu
 animekun.ru,doramakun.ru,nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-on-property-read utarget_script
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
-paratechnik.ru#$#abort-current-inline-script decodeURIComponent
 dota2.ru#$#abort-on-property-read helpUsImproveSite
 fastpic.org,~new.fastpic.org#$#abort-current-inline-script document.querySelectorAll, popMagic; abort-current-inline-script Math.random; abort-on-property-read document.getElementsByTagName; abort-on-property-read utarget_script; override-property-read document.querySelector null
 softportal.com#$#abort-on-property-read popupShowInterval; abort-on-property-read Object.prototype.str_replace
