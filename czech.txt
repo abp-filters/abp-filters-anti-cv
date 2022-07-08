@@ -145,9 +145,9 @@ novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 kupi.cz##[data-sssp]
 
-seznamzpravy.cz#?#[class^="drtg"]
-seznamzpravy.cz#?#[class^="dynamic_banner"]
-seznamzpravy.cz#?##page[data-viewableimpressionurl]
+seznamzpravy.cz##[class^="drtg"]
+seznamzpravy.cz##[class^="dynamic_banner"]
+seznamzpravy.cz###page[data-viewableimpressionurl]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
 seznamzpravy.cz#$#abort-on-property-write sznIVA
 seznamzpravy.cz#$#override-property-read Object.prototype.antiAdblock.postMessageSentinel null
