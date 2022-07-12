@@ -36,3 +36,4 @@ phimhays.com#$#abort-current-inline-script jQuery window.open
 truyentranhtuan.com#$#abort-current-inline-script $ btpop
 vebo.live#$#abort-current-inline-script jQuery popup
 lphim.net,subnhanh.net#$#abort-on-property-read localStorage
+nguontv.org#$#abort-current-inline-script encodeURIComponent popunder
