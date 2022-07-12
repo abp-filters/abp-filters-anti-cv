@@ -2,7 +2,6 @@
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}/ 'div[role=feed] div[role=article]' 'a[href="#"][role="link"]'
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}/ 'div#watch_feed div[class^="_"]' 'a[href="#"][role="link"]'
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /^Sponsorlu|Sponsored|Gesponsert|Patrocinado|Sponsorisé|Publicidad|Commandité|Gesponsord|Sponsorowane|Реклама|Sponsa|Sponset|Sponsorizat|Bersponsor|Ditaja|Sponsorizzato|Sponsoreret|Sponsrad$/ div[aria-labelledby] div[role^="button"]
-www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@class]/a[@aria-label[.="Patrocinado" or .="Sponsa" or .="Bersponsor" or .="Commandité" or .="Ditaja" or .="Gesponsert" or .="Gesponsord" or .="Sponsrad" or .="Publicidad" or .="Sponsoreret" or .="Sponset" or .="Sponsored" or .="Sponsorisé" or .="Sponsorizat" or .="Sponsorizzato" or .="Sponsorlu" or .="Sponsorowane" or .="Реклама" or .="ממומן" or .="تمويل شوي" or .="دارای پشتیبانی مالی" or .="سپانسرڈ" or .="مُموَّل" or .="प्रायोजित" or .="সৌজন্যে" or .="ได้รับการสนับสนุน" or .="内容" or .="贊助" or .="Sponsoroitu" or .="May Sponsor" or .="Được tài trợ"]]/ancestor::div[@aria-posinset or @aria-describedby or @aria-labelledby or starts-with(@data-pagelet,"FeedUnit_")]'
 @@||www.facebook.com^$generichide
 @@||web.facebook.com^$generichide
 
