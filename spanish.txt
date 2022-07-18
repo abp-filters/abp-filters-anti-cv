@@ -26,7 +26,7 @@ gnula.nu,pelispop.me,tmomanga.com#$#abort-on-property-write JSON.parse
 futbollatam.com#$#abort-on-property-read attr; abort-on-property-read mm
 gnula.cc,series24.nu#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse; abort-on-property-read asgPopScript
 calidadcine.net#$#abort-on-property-read afStorage
-peladas69.com#$#abort-on-property-read __formatsGetters
+latinblog.tv,peladas69.com#$#abort-on-property-read __formatsGetters
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
