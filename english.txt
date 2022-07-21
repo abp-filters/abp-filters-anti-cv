@@ -1,6 +1,4 @@
 ! #CV-1149
-etsy.com##li[data-page-type="listing_page_ads_row"]
-etsy.com##ul[data-results-grid-container] > li[class] > div:not([class="wt-height-full"]):not([data-is-autosuggest])
 etsy.com#$#hide-if-contains-visible-text /Ad.by/i a[data-listing-id]
 
 ! #CV-1056
