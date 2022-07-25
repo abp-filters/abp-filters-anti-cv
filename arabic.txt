@@ -9,13 +9,13 @@ arabseed.co,arabseed.com,arabseed.me,arabseed.net,arabseed.tv#$#abort-on-propert
 hawak.net,hawak.tv,rotana.video#$#abort-on-property-read atob
 
 ! #CV-667
-beinconnect.us,coroot.blogspot.com,ktarab.com,shofnow.com,actionz.tv,brstej.com,jaewinter.co,movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,cima4u.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
+beinconnect.us,coroot.blogspot.com,ktarab.com,shofnow.com,actionz.tv,brstej.com,jaewinter.co,movs4u.live,mvs4u.tv,kora-online.tv,filmey.tv,animetak.net,arabseed.tv,arabseed.co,arabseed.com,arabseed.me,arabseed.net,shahid4u.com,shahid4u.net#$#abort-current-inline-script Math zfgloaded
 
 ! Popup/Popunder/Clickunder
 egyanime.com,egydead.com,egydead.live#$#abort-on-property-write _pop
 actionz.tv,cimaclub.com,cimaclub.in,elmstba.com,hawak.net,hawak.tv,lodynet.co,lodynet.dev,lodynet.ink,lodynet.tv,rotana.video#$#abort-on-property-read decodeURIComponent
-cima-club.cc,cima-club.in,cima-club.io,egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.com,egybest.cool,egybest.fail,egybest.life,egybest.ltd,egybest.ist,egybest.name,egybest.net,egybest.network,egybest.ninja,egybest.nl,egybest.online,egybest.org,egybest.pw,egybest.rocks,egybest.site,egybest.xyz,egybest.zone,egybest2.com,iegy.best#$#abort-on-property-read open
-akhbara24.news,anime4up.art,anime4up.com,arabseed.me,baramjak.com,cima-club.cc,cima-club.in,cima-club.io,cima-club.vip,cima4u.cloud,cima4u.film,cima4u.ws,egy-live.online,egynow.cam,egynow.live,hawak.net,lodynet.co,lodynet.dev,lodynet.ink,lodynet.tv,manga.ae,moshahda.net,movizland.com,movizland.cyou,movizland.online,egyanime.com,egydead.com,egydead.live,shahed4u.casa,shahed4u.cloud,shahed4u.red,shahed4u.tips,shahed4u.ws,tuktukcinema.co,witanime.com,yalla-shoot.today#$#abort-current-inline-script Math /atob|break/; abort-current-inline-script String.fromCharCode /atob|break/; abort-current-inline-script document.documentElement /atob|break|JSON.parse/; abort-on-property-write JSON.parse
+egy.best,egybest.asia,egybest.bid,egybest.biz,egybest.cheap,egybest.co,egybest.com,egybest.cool,egybest.fail,egybest.life,egybest.ltd,egybest.ist,egybest.name,egybest.net,egybest.network,egybest.ninja,egybest.nl,egybest.online,egybest.org,egybest.pw,egybest.rocks,egybest.site,egybest.xyz,egybest.zone,egybest2.com,iegy.best#$#abort-on-property-read open
+akhbara24.news,anime4up.art,anime4up.com,arabseed.me,asia2tv.cn,asia2tv.com,baramjak.com,cima-club.cc,cima-club.in,cima-club.io,cima-club.lol,cima-club.vip,cima4u.cloud,cima4u.film,cima4u.ink,cima4u.tv,cima4u.ws,cimalina.me,cimalina.net,egy-live.online,egynow.cam,egynow.live,hawak.net,iegybest.co,lodynet.co,lodynet.dev,lodynet.ink,lodynet.tv,manga.ae,moshahda.net,movizland.com,movizland.cyou,movizland.online,egyanime.com,egydead.com,egydead.live,shahed4u.cafe,shahed4u.casa,shahed4u.cloud,shahed4u.mba,shahed4u.red,shahed4u.tips,shahed4u.ws,tuktukcinema.co,tuktukcinema.net,witanime.com,yalla-shoot.today#$#abort-current-inline-script Math /atob|break/; abort-current-inline-script String.fromCharCode /atob|break/; abort-current-inline-script document.documentElement /atob|break|JSON.parse/; abort-on-property-write JSON.parse
 arabxd.com#$#abort-current-inline-script document.querySelectorAll popMagic
 
 ! #CV-754
