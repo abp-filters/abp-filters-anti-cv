@@ -1,3 +1,3 @@
 ! #CV-761
 www.facebook.com,web.facebook.com#$#hide-if-graph-matches [role=feed]>DIV:not([class]) DIV
-www.facebook.com,web.facebook.com#$#hide-if-graph-matches [role=feed]>SPAN:not([class]) DIV
+www.facebook.com,web.facebook.com#$#hide-if-graph-matches [role=feed]>SPAN:not([class])>DIV DIV
