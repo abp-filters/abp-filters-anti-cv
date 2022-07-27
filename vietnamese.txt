@@ -17,7 +17,7 @@ luotphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobil
 viet69.in#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv,vnphimmoi.net,phimmoiaz.cc#$#abort-on-property-read open
-phimgif.net,ophimhd.net,phimraphot.net#$#abort-current-inline-script jQuery popurl
+xemphimgif.net,ophimhd.net,phimraphot.net#$#abort-current-inline-script jQuery popurl
 khophimhd.net,downloadsachmienphi.com,truyen2u.net,tvhay.top#$#abort-current-inline-script JSON.parse atob
 tapmoi.net#$#abort-on-property-read SmartPopunder
 lxhentai.com#$#abort-current-inline-script document.cookie
@@ -35,5 +35,5 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 phimhays.com#$#abort-current-inline-script jQuery window.open
 truyentranhtuan.com#$#abort-current-inline-script $ btpop
 vebo.live#$#abort-current-inline-script jQuery popup
-lphim.net,subnhanh.net#$#abort-on-property-read localStorage
+lphim.net,subnhanhz.net#$#abort-on-property-read localStorage
 nguontv.org#$#abort-current-inline-script encodeURIComponent popunder
