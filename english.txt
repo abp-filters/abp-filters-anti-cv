@@ -273,11 +273,6 @@ animepahe.com#$#abort-on-property-read _0x43d1; abort-on-property-read _0x53b5
 receive-smss.com#$#abort-on-property-read adBlockEnabled
 smallseotools.com#$#abort-on-property-read FITS.Config
 
-instacart.com#$#hide-if-matches-xpath './/div[@role]//span[text()="Sponsored"]/ancestor-or-self::div[starts-with(@role,"none")]'
-instacart.com#$#hide-if-matches-xpath './/div[@id]/a[contains(@href, "/campaign/")]//p[.="Sponsored"]/ancestor::div[@id][1]'
-instacart.com#$#hide-if-matches-xpath './/div[@id]//div[text()="Sponsored"]/ancestor::div[3]'
-instacart.com#$#hide-if-matches-xpath './/div[@role]//img[@alt="Sponsored"]/ancestor::li//parent::div[1]'
-
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
 getsurl.com,gslink.co,gsurl.in,gsurl.me,g5u.pw,clipwatching.com,protect-mylinks.com#$#abort-current-inline-script document.createElement String.fromCharCode
