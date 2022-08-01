@@ -1,5 +1,5 @@
 ! #CV-761
-www.facebook.com,web.facebook.com#$#race start; hide-if-graph-matches [role=feed]>DIV:not([class]) DIV; hide-if-graph-matches [role=feed]>SPAN:not([class])>DIV DIV; race stop;
+www.facebook.com,web.facebook.com#$#race start; hide-if-graph-matches [role=feed]>DIV:not([class])>DIV DIV; hide-if-graph-matches [role=feed]>SPAN:not([class])>DIV DIV; hide-if-graph-matches [role=feed]>DIV:not([class]) DIV; race stop;
 
 ! Rules that don't need to change
 @@||www.facebook.com^$generichide
