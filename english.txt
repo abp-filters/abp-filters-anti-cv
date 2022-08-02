@@ -414,7 +414,7 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
-instacart.com#$#hide-if-matches-xpath './/div[@aria-label="item"]//section[@data-ssp-badge="Sponsored"]/ancestor::li[1]'
+instacart.com#$#hide-if-matches-xpath './/div[@aria-label="item"]//*[@data-ssp-badge="Sponsored"]/ancestor::li[1]'
 
 ! Japanese sites
 nikaraw.com#$#abort-on-property-read afStorage
