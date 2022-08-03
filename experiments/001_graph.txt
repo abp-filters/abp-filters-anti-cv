@@ -1,3 +1,2 @@
 ! #CV-761
 www.facebook.com,web.facebook.com#$#hide-if-contains-visible-text /[Sponsred]{9}|[Gesponrtd]{10}|[Sponrisé]{10}|[Comandité]{9}|[Publicda]{10}/ 'div[role=feed] div[role=article]' 'a[href^="?__cft__"]'
-www.facebook.com,web.facebook.com#$#race start; hide-if-graph-matches [role=feed]>DIV:not([class])>DIV DIV; hide-if-graph-matches [role=feed]>SPAN:not([class])>DIV DIV; hide-if-graph-matches [role=feed]>DIV:not([class]) DIV; race stop;
