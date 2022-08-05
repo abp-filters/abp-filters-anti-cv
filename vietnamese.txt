@@ -37,3 +37,6 @@ truyentranhtuan.com#$#abort-current-inline-script $ btpop
 vebo1.com#$#abort-current-inline-script jQuery popup
 lphim.net,subnhanhz.net,iphimchillzz.net#$#abort-on-property-read localStorage
 nguontv.org#$#abort-current-inline-script encodeURIComponent popunder
+||pssy.xyz^$domain=animevi.net
+player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
+player-cdn.com###playback-fake
