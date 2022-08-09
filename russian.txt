@@ -92,6 +92,7 @@ sibnet.ru#$#prevent-listener DOMContentLoaded 'pobeda'
 ivanovonews.ru#$#json-prune banner.ytcode
 porngames.su,rintor.info,rintor.net#$#abort-on-property-read TotemToolsObject
 anidub.club,anidub.link,anidub.life,online.anidub.com#$#abort-on-property-read brblob
+hardwareluxx.ru#$#abort-current-inline-script jQuery backgroundImage
 
 ! Popup/popunder/clickunder
 freehat.cc,tt-cup.com,zerno-ua.com,oxax.tv,prostoporno.help,vmusi.ru,xittv.net,potokcdn.com,lostpix.com,uploadimagex.com,volynpost.com,wowskill.ru,hlamer.ru,oveg.ru#$#abort-on-property-read open
