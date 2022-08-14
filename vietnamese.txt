@@ -12,11 +12,12 @@ vebotv.today#$#abort-current-inline-script $ vb-pr-box
 vb.plvb.xyz#$#abort-on-property-read adsTvc
 hh3dhay.com,hh3dhay.xyz#$#abort-current-inline-script document.createElement ;break;case
 luotphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
+2phimmoi.net#$#abort-current-inline-script $ urlAdsMbIntro
 
 ! Popup/Popunder/Clickunder
 viet69.in#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
-fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv,vnphimmoi.net,phimmoiaz.cc#$#abort-on-property-read open
+fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv#$#abort-on-property-read open
 xemphimgif.net,ophimhd.net,phimraphot.net#$#abort-current-inline-script jQuery popurl
 khophimhd.net,downloadsachmienphi.com,truyen2u.net,tvhay.top#$#abort-current-inline-script JSON.parse atob
 tapmoi.net#$#abort-on-property-read SmartPopunder
@@ -27,7 +28,7 @@ sexphimhd.net,gvnvh18.com,g18vn.com#$#abort-current-inline-script Math
 360thethao.net#$#abort-current-inline-script onload /puURL/
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
-xuongphim18z.com,phimdinhcao.com,phimtopz.com,truyensieuhay.com,tvchill.org#$#abort-on-property-read document.cookie
+xuongphim18z.com,phimdinhcao.com,phimtopz.com,truyensieuhay.com,tvchill.org,2phimmoi.net#$#abort-on-property-read document.cookie
 phimmoiiii123.com#$#abort-on-property-read matchMedia
 metruyenchu.com#$#abort-on-property-write window.onclick
 ##[href^="//mage98rquewz.com/"]
