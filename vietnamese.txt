@@ -12,6 +12,7 @@ vebotv.today#$#abort-current-inline-script $ vb-pr-box
 vb.plvb.xyz#$#abort-on-property-read adsTvc
 hh3dhay.com,hh3dhay.xyz#$#abort-current-inline-script document.createElement ;break;case
 luotphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
+phimnhanh1.com,xemphim1080.com,phimmoi1.com,mephimnhat1.com#$#json-prune 'midroll midroll2 meta.ads'
 
 ! Popup/Popunder/Clickunder
 viet69.in#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
