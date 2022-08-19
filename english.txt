@@ -413,8 +413,7 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
-instacart.com#$#hide-if-matches-xpath './/div[@aria-label="item"]//*[.="sponsored"]/ancestor::li[1]'
-instacart.com#$#hide-if-matches-xpath './/div[@aria-label="item"]//*[@*="sponsored"]/ancestor::li[1]'
+instacart.com#$#hide-if-matches-xpath './/div[@aria-label="item"]//*[@*="sponsored" or @*="Sponsored" or .="sponsored" or .="Sponsored"]/ancestor::li[1]'
 
 ! Japanese sites
 nikaraw.com#$#abort-on-property-read afStorage
