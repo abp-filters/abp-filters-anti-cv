@@ -18,18 +18,17 @@ phimnhanh1.com,xemphim1080.com,phimmoi1.com,mephimnhat1.com#$#json-prune 'midrol
 ! Popup/Popunder/Clickunder
 viet69.in#$#abort-current-inline-script JSON.parse /atob|btoa|break/; abort-current-inline-script String.fromCharCode /atob|btoa|break/; abort-current-inline-script Math /atob|btoa|break/
 rphangs.com,mrcong.com#$#abort-on-property-read open; abort-on-property-write window.location.href
-fembed.com,femax20.com,zo3x.ml,mrdhan.com,lxhentai.com,m.blogtruyen.vn,viettoons.tv#$#abort-on-property-read open
+fembed.com,femax20.com,zo3x.ml,mrdhan.com,m.blogtruyen.vn,viettoons.tv#$#abort-on-property-read open
 xemphimgif.net,ophimhd.net,phimraphot.net#$#abort-current-inline-script jQuery popurl
 khophimhd.net,downloadsachmienphi.com,truyen2u.net,tvhay.top#$#abort-current-inline-script JSON.parse atob
 tapmoi.net#$#abort-on-property-read SmartPopunder
-lxhentai.com#$#abort-current-inline-script document.cookie
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
 phimlau.online#$#abort-current-inline-script atob /Y1/
 sexphimhd.net,gvnvh18.com,g18vn.com#$#abort-current-inline-script Math
 360thethao.net#$#abort-current-inline-script onload /puURL/
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
-xuongphim18z.com,phimdinhcao.com,phimtopz.com,truyensieuhay.com,tvchill.org,2phimmoi.net#$#abort-on-property-read document.cookie
+xuongphim18z.com,phimdinhcao.com,phimtopz.com,truyensieuhay.com,tvchill.org,2phimmoi.net,lxhentai.com#$#abort-on-property-read document.cookie
 phimmoiiii123.com#$#abort-on-property-read matchMedia
 metruyenchu.com#$#abort-on-property-write window.onclick
 ##[href^="//mage98rquewz.com/"]
