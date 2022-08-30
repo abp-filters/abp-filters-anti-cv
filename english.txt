@@ -368,6 +368,7 @@ kiss-anime.ws#$#abort-on-property-read localStorage; abort-on-property-write JSO
 manga1000.top#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse; abort-on-property-read asgPopScript
 ling-online.com#$#abort-current-inline-script document.documentElement JSON.parse
 *$popup,third-party,domain=strtapeadblocker.art|strtapeadblock.me
+||clips-media-*.warnermediacdn.com/prod01/*.mp4$rewrite=abp-resource:blank-js,domain=cnn.com
 
 ! #CV-691
 ebay.com#$#hide-if-contains-visible-text /Sponsored/ div[aria-label] div[class]
