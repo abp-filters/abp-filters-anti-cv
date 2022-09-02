@@ -67,9 +67,6 @@ y2mate.com#$#abort-on-property-read dispatchEvent
 ||facebook.com/tr$third-party
 ||connect.facebook.net^*/fbds.js$third-party
 
-! #CV-241
-swatchseries.to#$#abort-on-property-read zfgloadednative
-
 ! #CV-661
 marketrealist.com,kansas.com,thenewstribune.com#$#abort-on-property-read $aproxy
 9to5mac.com,9to5google.com,9to5toys.com##iframe[data-google-container-id]
