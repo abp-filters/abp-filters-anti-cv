@@ -233,6 +233,7 @@ youdbox.com#$#abort-on-property-read encodeURIComponent
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
 bigclatterhomesguideservice.com,japscan.me,reputationsheriffkennethsand.com,nosteam.ro,readcomiconline.li,soap2day.rs,toongod.com#$#abort-on-property-read window.open
 fmovies.hn#$#abort-on-property-read window.zfgstorage
+omegascans.org#$#abort-on-property-read window.__adFormats
 manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read Math.floor
 bangtubevideos.com#$#override-property-read setTimeout noopFunc; abort-on-property-write location.replace
