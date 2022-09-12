@@ -236,7 +236,7 @@ omegascans.org#$#abort-on-property-read window.__adFormats
 manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read Math.floor
 bangtubevideos.com#$#override-property-read setTimeout noopFunc; abort-on-property-write location.replace
-animeheaven.pro,emturbovid.com,sexlivesex.net,spankbang.com,supjav.com#$#abort-on-property-write window.open
+animeheaven.pro,dramacool.sr,emturbovid.com,sexlivesex.net,spankbang.com,supjav.com#$#abort-on-property-write window.open
 komikav.com,klmag.net,limetorrents.lol,himovies.to,manhuascan.com,moviesda1.com,moviesjoy.sc,soap2day.rs,sxyprn.com,sxyprn.net,strikeout.cc#$#abort-current-inline-script document.createElement script
 mathwarehouse.com#$#override-property-read MwAserver noopFunc
 bato.to#$#abort-current-inline-script document.createElement _vwmso
