@@ -230,7 +230,7 @@ clicknupload.co,clicknupload.link,clicknupload.org,clicknupload.to#$#abort-curre
 revivelink.com#$#abort-on-property-read btoa; abort-current-inline-script Object.defineProperty XMLHttpRequest
 youdbox.com#$#abort-on-property-read encodeURIComponent
 vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort-current-inline-script Object.defineProperty XMLHttpRequest
-bigclatterhomesguideservice.com,japscan.me,reputationsheriffkennethsand.com,nosteam.ro,readcomiconline.li,soap2day.rs,toongod.com#$#abort-on-property-read window.open
+bigclatterhomesguideservice.com,dramacool.sr,japscan.me,movies-watch.com.pk,reputationsheriffkennethsand.com,nosteam.ro,readcomiconline.li,soap2day.rs,toongod.com,yomovies.cloud#$#abort-on-property-read window.open
 fmovies.hn#$#abort-on-property-read window.zfgstorage
 omegascans.org#$#abort-on-property-read window.__adFormats
 manganelo.tv#$#abort-on-property-read document.createElement
