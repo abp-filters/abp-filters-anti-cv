@@ -233,6 +233,7 @@ vidshare.tv,vidshar.tv,series.movie,gowatchseries.movie,gowatchseries.tv#$#abort
 bigclatterhomesguideservice.com,dramacool.sr,japscan.me,movies-watch.com.pk,reputationsheriffkennethsand.com,nosteam.ro,readcomiconline.li,soap2day.rs,toongod.com,yomovies.cloud#$#abort-on-property-read window.open
 fmovies.hn#$#abort-on-property-read window.zfgstorage
 omegascans.org#$#abort-on-property-read window.__adFormats
+liveru.sx#$#abort-on-property-read window.b5bb198737
 manganelo.tv#$#abort-on-property-read document.createElement
 manga18fx.com#$#abort-on-property-read Math.floor
 bangtubevideos.com#$#override-property-read setTimeout noopFunc; abort-on-property-write location.replace
