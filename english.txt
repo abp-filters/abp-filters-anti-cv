@@ -417,5 +417,8 @@ bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 ! #CV-1190
 instacart.com#$#race start; hide-if-matches-xpath './/section[translate(@data-*-badge, "sponsored", "SPONSORED")]/ancestor::li[1]'; hide-if-matches-xpath './/*[translate(@data-*-badge, "sponsored", "SPONSORED")][@data-sp-eligible]/ancestor::li[1]'; race stop;
 
+! #CV-1213
+samsclub.com#$#hide-if-matches-xpath '//span[@class="sc-specials-label"]/parent::div[@class="sc-specials"]/ancestor::li'
+
 ! Japanese sites
 nikaraw.com#$#abort-on-property-read afStorage
