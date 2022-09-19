@@ -1,7 +1,7 @@
 ! MISC
 blog.abit.vn#$#abort-on-property-read document.cookie
 phimhay3s.com#$#json-prune ads
-90phut2.live#$#abort-current-inline-script $ overlay;abort-current-inline-script setTimeout overlay
+90phut6.live#$#abort-current-inline-script $ overlay;abort-current-inline-script setTimeout overlay
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
 watchsb.com#$#abort-on-property-read __Y
