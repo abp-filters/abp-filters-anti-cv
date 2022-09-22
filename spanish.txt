@@ -28,6 +28,7 @@ gnula.cc,series24.nu#$#abort-on-property-read localStorage; abort-on-property-wr
 calidadcine.net,seriesmetro.net#$#abort-on-property-read afStorage
 latinblog.tv,peladas69.com#$#abort-on-property-read __formatsGetters
 animefenix.org,animeonline.ninja,audaciousdefaulthouse.com#$#abort-on-property-read window.open
+monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
