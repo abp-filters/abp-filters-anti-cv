@@ -418,7 +418,7 @@ instacart.com#$#hide-if-matches-xpath './/*[translate(@*,"SPONSORED","sponsored"
 instacart.com#$#hide-if-matches-xpath './/img[contains(@src,"promoted_aisle")]/ancestor::div[starts-with(@class,"css-")][2]'
 instacart.com##div[data-testid="ads-promoted-aisle"]
 instacart.com##div[data-testid="storefront-category-hero-banner"]
-
+instacart.com##a[href*="category_hero_id_"]
 
 ! #CV-1213
 samsclub.com#$#hide-if-matches-xpath '//span[@class="sc-specials-label"]/parent::div[@class="sc-specials"]/ancestor::li'
