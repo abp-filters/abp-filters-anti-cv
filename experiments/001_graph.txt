@@ -5,4 +5,4 @@ www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/div[@role="feed"]/
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@id="ssrb_feed_start"]/following-sibling::div//div[@aria-labelledby and @aria-describedby]//div[contains(text(),"Sponsored")]/ancestor::div[@aria-labelledby and @aria-describedby]'
 
 ! Experimental
-www.facebook.com,web.facebook.com#$#hide-if-has-and-matches-style * 'span[id="ssrb_feed_start"] ~ div > div' 'span[id="ssrb_feed_start"] ~ div > div a[href="#"]>span>span>svg' '/./' '/(margin-right: -[3-5].*width: 10)|(margin-right: -[4-6].*width: 11)|(margin-right: -[5-7].*width: 12)|(margin-right: -[6-8].*width: 13)/'
+www.facebook.com,web.facebook.com#$#hide-if-has-and-matches-style * 'span[id="ssrb_feed_start"] ~ * h3 ~ div' 'span[id="ssrb_feed_start"] ~ * h3 ~ div a[href="#"]>span>span>svg' '/./' '/(margin-right: -[3-5].*width: 10)|(margin-right: -[4-6].*width: 11)|(margin-right: -[5-7].*width: 12)|(margin-right: -[6-8].*width: 13)/'
