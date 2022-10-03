@@ -171,9 +171,7 @@ novinky.cz,kupi.cz,sport.cz,super.cz##[class$="Flax"]
 novinky.cz,kupi.cz,sport.cz,super.cz##[id$="-ad-container"]
 novinky.cz,kupi.cz,sport.cz,super.cz###sf0
 novinky.cz,kupi.cz,sport.cz,super.cz##a[title="Rekᥣama"]
-novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="/clickthru?"]
 novinky.cz,kupi.cz,sport.cz,super.cz##a[href*="__CLICKTHRU__"]
-novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="?spotId="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##[class$="ad-wrapper"]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adfibeg="]
 novinky.cz,kupi.cz,sport.cz,super.cz,horoskopy.cz##a[href*="adcurl="]
@@ -249,6 +247,7 @@ karaoketexty.cz#$#hide-if-matches-xpath './/a[string-length(@href) >120][@target
 @@||karaoketexty.cz/img/*.jpg$image,domain=karaoketexty.cz
 ?client=ca-pub-$script,domain=karaoketexty.cz
 
+novinky.cz#$#hide-if-matches-xpath '//div[@id][contains(@style, "max-width: 100%;")]//iframe[@style]/ancestor::div[@style]'
 novinky.cz#$#hide-if-matches-xpath '//a[@href][@title]/div[@class][@style]/parent::a/ancestor-or-self::div[2]'
 horoskopy.cz,seznamzpravy.cz#$#hide-if-matches-xpath '//iframe[@src][@id]/parent::div[@class]/ancestor-or-self::div[@class][1][not(starts-with(@class,"twitter"))]'
 
