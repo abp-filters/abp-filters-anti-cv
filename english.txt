@@ -2,7 +2,7 @@
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com;
 
 ! #CV-1149
-etsy.com#$#race start; hide-if-contains-visible-text /ad.from/i '[data-above-recs-and-footer] a[data-listing-id]' span.wt-screen-reader-only:not([aria-hidden="true"]); hide-if-contains-visible-text /Ad.by/i a[data-listing-id]; race stop;
+etsy.com#$#hide-if-matches-xpath './/span[contains(@class,"wt-screen-reader-only") and text()="Ad " and not(@aria-hidden="true")]/ancestor::a[contains(@class,"logged")]'
 etsy.com##a[href*="listing_page_ad_row"]
 
 ! #CV-1056
