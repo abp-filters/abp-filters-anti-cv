@@ -2,12 +2,8 @@
 
 ! #CV-761
 
-! #CV-663
-letocard.fr#$#freeze-element .nav-menu abort [id^="menu-item-"]
-mamieastuce.com#$#freeze-element #sidebar abort .widget_text
-concomber.com#$#freeze-element .main-box abort
-meilleurpronostic.fr#$#freeze-element #secondary abort aside
-aupetitparieur.com#$#freeze-element .widget-area abort
+! #CV-1228
+aupetitparieur.com,meilleurpronostic.fr#$#abort-on-property-read document.getElementsByClassName; abort-on-property-read following-ad-container
 
 ! #CV-170
 lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
