@@ -42,4 +42,5 @@ player-cdn.com#$#abort-on-property-read Math.random; override-property-read dete
 player-cdn.com###playback-fake
 vebo5.net,xoilac5.net##.modal.fade.show
 vebo5.net,xoilac5.net#$#abort-current-inline-script jQuery popupBanners
-vebo5.net,xoilac5.net$#abort-on-property-read adsRedirectPopups
+vebo5.net,xoilac5.net#$#abort-on-property-read adsRedirectPopups
+sex6688.link#$#override-property-read D4zz noopFunc
