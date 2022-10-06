@@ -2,7 +2,7 @@
 
 ! #CV-761
 
-! #CV-1228
+! #CV-663
 aupetitparieur.com,meilleurpronostic.fr#$#abort-on-property-read document.getElementsByClassName; abort-on-property-read following-ad-container
 
 ! #CV-170
