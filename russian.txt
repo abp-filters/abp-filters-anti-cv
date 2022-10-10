@@ -38,8 +38,7 @@ indoxx1.show##img[src^="blob:https://indoxx1.show/"]
 megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
 
 ! MISC
-||sm.news/$header=content-type=application/json
-sm.news#$#abort-on-property-read AdFox_getCodeScript
+sm.news#$#abort-current-inline-script String.fromCharCode decodeURIComponent
 7ogorod.ru,shtrafsud.ru,autonevod.ru#$#abort-on-property-read flat_pm_arr
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 www.goha.ru,3dnews.ru#$#abort-on-property-read Ya
