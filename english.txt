@@ -56,6 +56,7 @@ kickassanime.io##.ka-ax-wrapper
 /sid*$domain=kickassanime.io
 /mya/lfa.js$domain=thewatchcartoononline.tv|wcostream.com
 mangareader.net,kiss-anime.ws,animeland.us#$#abort-on-property-read bbHideDiv
+narutohentaidb.com#$#abort-on-property-write BackDropNar; hide-if-matches-xpath './/canvas[contains(@style,"padding")]/ancestor::div[contains(@style,"z-index")][1]';
 
 ! #CV-659
 filmxy.one##.promo-contents
