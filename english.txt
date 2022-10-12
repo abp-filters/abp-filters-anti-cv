@@ -433,3 +433,6 @@ canadafreepress.com,conservativefiringline.com,ipatriot.com,naturalblaze.com,pat
 
 ! Japanese sites
 nikaraw.com#$#abort-on-property-read afStorage
+nicovideo.jp##a[href^="https://click.speee-ad.jp"]
+nicovideo.jp#$#hide-if-matches-xpath './/li[@class="count ads"]/parent::ul/ancestor::li[contains(@class,"adVideoItem")]'; hide-if-matches-xpath './/h1[text()="Niconico Ads"]/following::img[contains(@class,"UadVideoItem-image")]/parent::div[contains(@class,"UadVideoItem")]/ancestor::div[contains(@class,"UadVideosContainer")]'; hide-if-matches-xpath './/img[contains(@class,"NicoadVideoItem")]/parent::a[contains(@class,"NicoadVideoItem")]/ancestor::div[starts-with(@class,"NicoadVideosContainer")]';
+||nimg.jp/nicoad/instream/video/*.mp4$media,domain=nicovideo.jp
