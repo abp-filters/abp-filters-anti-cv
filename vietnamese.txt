@@ -44,4 +44,4 @@ player-cdn.com###playback-fake
 vebo5.net,xoilac5.net##.modal.fade.show
 vebo5.net,xoilac5.net#$#abort-current-inline-script jQuery popupBanners
 vebo5.net,xoilac5.net#$#abort-on-property-read adsRedirectPopups
-sex6688.link,viet69.gg#$#override-property-read D4zz noopFunc
+sex6688.link,viet69.gg#$#abort-on-property-read parseInt
