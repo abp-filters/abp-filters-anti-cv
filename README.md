@@ -18,6 +18,7 @@ The ABP anti-circumvention filter list is a supplementary list; it's not related
 
 * [**wizmak**](https://github.com/wizmak)
 * [**manuel-martinez-dev**](https://github.com/manuel-martinez-dev)
+* [**edivaniadc](https://github.com/edivaniadc)
 
 See also the full list of [contributors](https://github.com/abp-filters/abp-filters-anti-cv/graphs/contributors).
 
