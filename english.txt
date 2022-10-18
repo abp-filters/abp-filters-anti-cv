@@ -430,6 +430,7 @@ samsclub.com#$#hide-if-matches-xpath '//span[@class="sc-specials-label"]/parent:
 
 ! #CV-663
 canadafreepress.com,conservativefiringline.com,ipatriot.com,naturalblaze.com,patriotnationpress.com,populistpress.com#$#abort-on-property-read document.getElementsByClassName; abort-on-property-read following-ad-container
+rightwingnews.com#$#abort-on-property-read document.getElementsByTagName
 
 ! Japanese sites
 nikaraw.com#$#abort-on-property-read afStorage
