@@ -1,6 +1,6 @@
 ! MISC
 blog.abit.vn#$#abort-on-property-read document.cookie
-phimhay3s.com#$#json-prune ads
+phimhay3s.com,phimmoik.com#$#json-prune ads
 90phut6.live#$#abort-current-inline-script $ overlay;abort-current-inline-script setTimeout overlay
 xoilac5.live#$#abort-current-inline-script jQuery overlay
 aoe.vn#$#abort-on-property-read parseInt
