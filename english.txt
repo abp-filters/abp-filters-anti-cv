@@ -421,7 +421,7 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
-instacart.com#$#race start; hide-if-matches-xpath './/div[@role="group"]//div[concat(.//div[1]/text()[1],.//div[2]/text()[1])="Spon sored"]/ancestor::div[@data-testid]'; hide-if-matches-xpath './/div[@role="group"]//div[concat(.//div[1]/text()[1],.//div[2]/text()[1])="Spon sored"]/li[@data-testid]'; race stop;
+instacart.com#$#hide-if-matches-xpath './/li[@data-testid]//div[concat(normalize-space(.//div[1][@style="display: inline-block;"]/text()),normalize-space(.//div[2][@style="display: inline-block;"]/text()))="Sponsored"]/ancestor::li[@data-testid]'
 instacart.com#$#hide-if-matches-xpath './/img[contains(@src,"promoted_aisle")]/ancestor::div[starts-with(@class,"css-")][2]'
 instacart.com#$#hide-if-matches-xpath './/img[starts-with(@alt,"Sponsored")]/ancestor::a[1]'
 instacart.com##div[data-testid="ads-promoted-aisle"]
