@@ -1,6 +1,6 @@
 ! #CV-766
-delfi.lt#$#abort-on-property-read _dlf.abb
-delfi.lt#$#hide-if-matches-xpath './/img[contains(@src,"dcdn.lt/images/aaa/")]//ancestor::div[1]'
+delfi.lt#$#abort-on-property-read _dlf.adxtag
+delfi.lt#$#hide-if-matches-xpath './/h3[@class]/a[@href]/ancestor::div[contains(@class,"headline pt-content ")]/parent::div[1]'; hide-if-matches-xpath './/img[contains(@src,"dcdn.lt/images/b")]//ancestor::div[1]'
 delfi.lt#$#hide-if-matches-xpath './/a[contains(@href,"youtube.com")]/img[@alt]/ancestor-or-self::div[@class="row"]'
 ||adform.net/banners/scripts/adx.js$domain=delfi.lt,rewrite=abp-resource:blank-js
 
