@@ -2,7 +2,7 @@
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com;
 
 ! #CV-1149
-etsy.com#$#hide-if-matches-xpath './/span[contains(@class,"wt-screen-reader-only") and text()="Ad " and not(@aria-hidden="true")]/ancestor::a[contains(@class,"logged")]'
+etsy.com#$#hide-if-matches-xpath './/div[@data-logger-id]//span[contains(@class,"wt-screen-reader-only") and not(@aria-hidden="true")][text()="Ad"]/ancestor::div[@data-logger-id][1]'
 etsy.com##a[href*="listing_page_ad_row"]
 
 ! #CV-1056
