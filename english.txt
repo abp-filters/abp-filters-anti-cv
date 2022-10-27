@@ -192,7 +192,10 @@ katiescucina.com,heysigmund.com,pinoyrecipe.net#$#abort-current-inline-script do
 ||isepcvsb.com^$script,xmlhttprequest
 ||fcbdo.com^$script,xmlhttprequest
 ||sftcdn.net/acmp^$image,domain=softonic.com
-softonic.com##.ad-content-wrapper
+softonic.com,softonic.jp,softonic.nl,softonic.pl,softonic.com.br#?#li[class^="list-top-articles__item"]:-abp-contains(/Sponsorisé|Sponsorizzato|Gesponsert|スポンサー|Promotie|Sponsorowany|Patrocinado/)
+softonic.com,softonic.jp,softonic.nl,softonic.pl,softonic.com.br#?#li[class*="list-articles__item"]:-abp-contains(/Sponsorisé|Sponsorizzato|Gesponsert|スポンサー|Promotie|Sponsorowany|Patrocinado/)
+softonic.com,softonic.jp,softonic.nl,softonic.pl,softonic.com.br#?#div[class^="highlight-list__item"]:-abp-contains(/Sponsorisé|Sponsorizzato|Gesponsert|スポンサー|Promotie|Sponsorowany|Patrocinado/)
+softonic.com,softonic.jp,softonic.nl,softonic.pl,softonic.com.br,softonic.ru#$#prevent-listener click 'native code'
 thegatewaypundit.com##a[href="#"]
 thegatewaypundit.com##a[href*="cloudfront.net"]
 ||cloudfront.net^$domain=thegatewaypundit.com
