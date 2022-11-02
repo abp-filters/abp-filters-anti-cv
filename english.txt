@@ -284,6 +284,7 @@ receive-smss.com#$#abort-on-property-read adBlockEnabled
 smallseotools.com#$#abort-on-property-read FITS.Config; override-property-read adpushup undefined; abort-on-property-read run_grammarly_frist; hide-if-matches-xpath './/img[contains(@src,".gif")]/ancestor-or-self::a[contains(@onclick,"Grammarly")]'
 root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"Infinix ")]/parent::div[@class="backstretch"]/ancestor-or-self::div[1]'
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
+||root-nation.com/wp-content/uploads/*background*$image,domain=root-nation.com
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
