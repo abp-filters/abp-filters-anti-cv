@@ -284,13 +284,13 @@ receive-smss.com#$#abort-on-property-read adBlockEnabled
 smallseotools.com#$#abort-on-property-read FITS.Config; override-property-read adpushup; abort-on-property-write run_grammarly; abort-on-property-write ads_function
 ||smallseotools.com/webimages/s12/*.png^$image,domain=smallseotools.com
 duplichecker.com#$#debug; abort-on-property-read adpushup; hide-if-matches-xpath './/*[@id]/a[contains(@href,"/sdfsd")]/img/ancestor::div[1]'
+duplichecker.com#$#abort-on-property-read adpushup; hide-if-matches-xpath './/*[@id]/a[contains(@href,"/sdfsd")]/img/ancestor::div[1]'
 root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"")]/parent::div[@class="backstretch"]//ancestor-or-self::img[1]'
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
 ||root-nation.com/wp-content/uploads/*background*$image,domain=root-nation.com
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
 ||content.sinpartycdn.com/videos-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
-duplichecker.com#$#abort-on-property-read adpushup; hide-if-matches-xpath './/*[@id]/a[contains(@href,"/sdfsd")]/img/ancestor::div[1]'
 
 ! #CV-667
 gomovies.film,gomovies.sc,gomovies.es,gomovie.ms,gomovieshub.io,openloadmovies.net,openloadmovies.review,vidsrc.me,movies123.xyz,bonstreams.net,yts.am,keeplinks.co,flashx.pw,flashx.tv,cloudvideo.tv,gogoanime.cloud,revivelink.com#$#abort-on-property-read atob
