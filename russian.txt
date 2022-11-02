@@ -35,7 +35,7 @@ indoxx1.show##img[src^="blob:https://indoxx1.show/"]
 /img.akubebas.com^$image,script,domain=indoxx1.show
 
 ! #CV-250
-megatfile.cc,gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
+gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
 
 ! MISC
 sm.news#$#abort-current-inline-script String.fromCharCode decodeURIComponent
