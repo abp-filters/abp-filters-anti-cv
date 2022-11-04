@@ -432,10 +432,9 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
-instacart.com#$#hide-if-matches-xpath './/li[@data-testid]//div[concat(normalize-space(.//div[1][@style="display: inline-block;"]/text()),normalize-space(.//div[2][@style="display: inline-block;"]/text()))="Sponsored"]/ancestor::li[@data-testid]'
-instacart.com#$#hide-if-matches-xpath './/img[contains(@src,"promoted_aisle")]/ancestor::div[starts-with(@class,"css-")][2]'
-instacart.com#$#hide-if-matches-xpath './/img[starts-with(translate(@alt,"SPONSORED","sponsored"),"sponsored")]/ancestor::a[1]'
-instacart.com#$#hide-if-matches-xpath './/div[@data-testid="search-grid-shoppable-display"]//span[text()="Sponsored"]/ancestor::div[@data-testid="search-grid-shoppable-display"]'
+instacart.com#$#hide-if-matches-xpath './/div[contains(@class,"SearchResultsEngagementTracker") or contains(@class,"ItemCardHoverProvider")]/div[concat(normalize-space(.//div[1][starts-with(@style,"display: inline-block;")]/text()),normalize-space(.//div[2][starts-with(@style,"display: inline-block;")]/text()))="Sponsored"]/ancestor::div[contains(@class,"SearchResultsEngagementTracker") or contains(@class,"ItemCardHoverProvider")]'
+instacart.com#$#hide-if-matches-xpath './/div[contains(@class,"ShoppableList")]//span[text()="Sponsored"]/ancestor::div[contains(@class,"ShoppableList")]'
+instacart.com#$#hide-if-matches-xpath './/div[2][starts-with(@class,"css")]//span[text()="Sponsored"]/ancestor::div[2][starts-with(@class,"css")]'
 instacart.com##div[data-testid="ads-promoted-aisle"]
 instacart.com##div[data-testid="storefront-category-hero-banner"]
 instacart.com##a[href*="category_hero_id_"]
