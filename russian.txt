@@ -145,4 +145,3 @@ karpatnews.in.ua,kg-portal.ru#$#abort-current-inline-script document.createEleme
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
 ! #CV-694
-www.ukr.net#$#override-property-read Math.random trueFunc; hide-if-shadow-contains /./
