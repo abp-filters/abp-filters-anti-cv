@@ -286,7 +286,7 @@ animepahe.com#$#abort-on-property-read _0x43d1; abort-on-property-read _0x53b5
 receive-smss.com#$#abort-on-property-read adBlockEnabled
 smallseotools.com#$#abort-on-property-read FITS.Config; override-property-read adpushup; abort-on-property-write run_grammarly; abort-on-property-write ads_function
 ||smallseotools.com/webimages/s12/*.png^$image,domain=smallseotools.com
-duplichecker.com#$#abort-on-property-read adpushup; hide-if-matches-xpath './/*[@id]/a[contains(@href,"/sdfsd")]/img/ancestor::div[1]'
+duplichecker.com#$#abort-on-property-read adpushup; hide-if-matches-xpath './/*[@id]/a[@href][@target]/img/ancestor::div[1]'; hide-if-matches-xpath '//div[@class="clearfix"]/following::div[@class]/style/following-sibling::div[@class]//div[@class="_ap_apex_ad"]/ancestor-or-self::div[@class][2]'
 root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"")]/parent::div[@class="backstretch"]//ancestor-or-self::img[1]'
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
 ||root-nation.com/wp-content/uploads/*background*$image,domain=root-nation.com
