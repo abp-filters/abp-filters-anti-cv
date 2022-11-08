@@ -200,6 +200,7 @@ softonic.com,softonic.jp,softonic.nl,softonic.pl,softonic.com.br,softonic.ru#$#p
 thegatewaypundit.com##a[href="#"]
 thegatewaypundit.com##a[href*="cloudfront.net"]
 ||cloudfront.net^$domain=thegatewaypundit.com
+stevivor.com#$#hide-if-matches-xpath '//div[@id][@style]/div[contains(@id,"ad")]/ancestor::div[contains(@class,"mmt")]'
 
 ! #CV-666
 eztv.re,pstream.net,biter.tv#$#abort-on-property-write adcashMacros
