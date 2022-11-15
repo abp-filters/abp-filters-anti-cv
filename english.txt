@@ -357,7 +357,7 @@ cine.to#$#abort-on-property-read document.head.appendChild
 nhentai.net#$#override-property-read _n_app.popunder null;
 masahub.net#$#abort-on-property-write zfgloadedpopup;
 hitomi.la#$#override-property-read popsource null; override-property-read adsdir null; override-property-read ad_cookieconsent false; override-property-read D4zz undefined; abort-on-property-read _pop; abort-on-property-read hitomi; abort-on-property-read open; override-property-read ad_idzone null; abort-on-property-read ylmkAp.addZone; override-property-read ad_popup_fallback false;
-sbplay2.com,streamsb.net,viewsb.com#$#abort-on-property-read __Y
+sbanh.com,sbembed.com,sblongvu.com,sbplay2.com,streamsb.com,streamsb.net,viewsb.com#$#abort-on-property-read __Y
 csrevo.com#$#abort-current-inline-script document.querySelectorAll popMagic
 1337x.buzz,realgfporn.com#$#abort-current-inline-script document.createElement script
 sxyprn.com#$#abort-current-inline-script vast_urls; override-property-read D4zz undefined
@@ -371,7 +371,7 @@ camsstream.com#$#abort-current-inline-script onload;
 ytstv.me,yts.do,yts.mx,yts.movie,yts.rs#$#abort-on-property-read atob
 2embed.ru#$#abort-current-inline-script parseInt break;case $.
 
-masahub.net,streamsb.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
+masahub.net,sbanh.com,sbembed.com,sblongvu.com,streamsb.com,streamsb.net#$#abort-on-property-read decodeURI; abort-on-property-read mm
 ||*.com/*b8121.js^$script,domain=mult34.com
 ||see.xxx/poppy/*.js^$domain=see.xxx
 ||hdtube.porn/hdt/hdt.js^$domain=hdtube.porn
