@@ -92,7 +92,7 @@ changeua.com,ictv.ua,inter.ua,k1.ua,novy.tv,ntn.ua,starlight.digital,stb.ua,tele
 anime.anidub.com,anidub.club,anidub.link,anime.anidub.life,online.anidub.club,online.anidub.com,online.anidub.life#$#prevent-listener click window.open; abort-on-property-read brblob
 4pda.to#$#hide-if-matches-xpath './/*[not(self::div)]//script[contains(text(),"Math.ceil")]/ancestor::*[not(self::div)][1]'; hide-if-matches-xpath './/*[not(self::div)]//script[contains(text(),"toLowerCase")]/ancestor::div[2]'; hide-if-matches-xpath './/a[@target="_blank"]/img[@alt="" and @title=""]/ancestor::td[1]'
 kanobu.ru#$#json-prune results.fixed
-amedia.online#$#abort-on-property-read Ya; prevent-listener DOMContentLoaded '0x';
+amedia.online#$#abort-on-property-read Ya; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
