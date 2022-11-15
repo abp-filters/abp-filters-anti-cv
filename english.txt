@@ -393,6 +393,7 @@ ling-online.com#$#abort-current-inline-script document.documentElement JSON.pars
 hortonanderfarom.blogspot.com#$#override-property-read setTimeout noopFunc
 *$popup,third-party,domain=strtapeadblocker.art|strtapeadblock.me
 userload.co#$#abort-current-inline-script $ Math.random
+tubeload.co#$#abort-on-property-write BetterJsPop
 
 ! #CV-691
 ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be#$#hide-if-matches-xpath '//li[starts-with(@class,"s-item")]//span[@role="group" or @role="text"][starts-with(@class,//span[text()="Sponsored" or text()="Anzeige" or text()="Sponsorowane" or text()="Sponsorizzato" or text()="Gesponsord" or text()="Sponsorisé" or text()="Patrocinado"]/@id)]/ancestor::li[starts-with(@class,"s-item")]'
