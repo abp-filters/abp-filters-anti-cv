@@ -21,4 +21,4 @@ arabxd.com#$#abort-current-inline-script document.querySelectorAll popMagic
 cima-club.cam#$#abort-on-property-read window.zfgstorage
 
 ! #CV-754
-akwam.cc,akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,gateanime.com,gocoo.co#$#abort-on-property-read String.fromCharCode
+akwam.cc,akoam.com,akoam.net,akwam.co,akwam.cx,akwam.net,akwam.org,akwam.us,gateanime.com,gocoo.co#$#abort-on-property-read String.fromCharCode
