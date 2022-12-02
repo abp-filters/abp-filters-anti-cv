@@ -47,6 +47,9 @@ poczta.o2.pl##img[src*="wpimg.pl/"]
 sportowefakty.wp.pl#$#hide-if-matches-xpath '//div[@class ][1]/div[not(*) and not(normalize-space())][@class][not(contains(@class,"gallerybox"))]/ancestor::div[@class][1][not(contains(@class,"npp-container")) and not(string-length(@class)=41) and not(string-length(@class)=7)]'
 sportowefakty.wp.pl#$#hide-if-matches-xpath './/img[string-length(@src)>155]/following::span/a[string-length(@href)>1000]/ancestor::li[@class]'
 
+www.wp.pl#$#hide-if-matches-xpath '//div[@class]/a[contains(@href,"wp.pl/")]/img[contains(@src,"v.wpimg.pl/")]/following::div[1]/parent::div[@class][not(@data-st-area)]'
+www.wp.pl#$#hide-if-matches-xpath '//div[@class]/a[contains(@href,"wp.pl/")]/div[1]/following::div[3]/preceding::img[contains(@src,"v.wpimg.pl/")]/parent::div[@style="height: 60px;"]'
+
 ! MISC
 www.elektroda.pl#$#abort-on-property-read popupStatus; abort-on-property-write welcomeAdContainer
 naekranie.pl#$#abort-on-property-read adQueue
