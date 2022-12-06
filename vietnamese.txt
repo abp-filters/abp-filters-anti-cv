@@ -2,7 +2,6 @@
 blog.abit.vn#$#abort-on-property-read document.cookie
 phimmoik.com#$#json-prune ads
 90phut6.live#$#abort-current-inline-script $ overlay;abort-current-inline-script setTimeout overlay
-xoilac5.live#$#abort-current-inline-script jQuery overlay
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
 watchsb.com#$#abort-on-property-read __Y
@@ -40,9 +39,10 @@ nguontv.org#$#abort-current-inline-script encodeURIComponent popunder
 ||pssy.xyz^$domain=animevi.net
 player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 player-cdn.com###playback-fake
-vebo5.net,xoilac5.net##.modal.fade.show
-vebo5.net,xoilac5.net#$#abort-current-inline-script jQuery popupBanners
-vebo5.net,xoilac5.net#$#abort-on-property-read adsRedirectPopups
+xoilac19.tv##.modal.fade.show
+xoilac19.tv#$#abort-current-inline-script jQuery popupBanners
+xoilac19.tv#$#abort-on-property-read adsRedirectPopups
+xoilac19.tv#$#abort-current-inline-script jQuery overlay
 sex369.net,viet69.tv,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;override-property-read DisplayHTMLAdsBlock noopFunc;abort-current-inline-script $ open
 javnong.cc#$#abort-on-property-read Math.round
