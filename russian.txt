@@ -94,7 +94,7 @@ anime.anidub.com,anidub.club,anidub.link,anime.anidub.life,online.anidub.club,on
 kanobu.ru#$#json-prune results.fixed
 amedia.online#$#abort-on-property-read Ya; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
-nsportal.ru#$#abort-on-property-read addDownloadPrefixToLinks
+nsportal.ru#$#abort-on-property-read adDownloadPrefixToLinks
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
