@@ -401,7 +401,7 @@ userload.co#$#abort-current-inline-script $ Math.random
 tubeload.co#$#abort-on-property-write BetterJsPop
 
 ! #CV-691
-ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be#$#hide-if-matches-xpath '//li[starts-with(@class,"s-item")]//span[@role="group" or @role="text"][starts-with(@class,//span[text()="Sponsored" or text()="Anzeige" or text()="Sponsorowane" or text()="Sponsorizzato" or text()="Gesponsord" or text()="Sponsorisé" or text()="Patrocinado"]/@id)]/ancestor::li[starts-with(@class,"s-item")]'
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be#?#:xpath(.//div[@id="srp-river-results"]/ul[starts-with(@class,"srp-results")]/li[starts-with(@class,"s-item")]//span[@aria-labelledby=//div[@class="hide"]/@data-key]/ancestor::li[starts-with(@class,"s-item")])
 
 ! #CV-698
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
