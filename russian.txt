@@ -43,7 +43,6 @@ hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-wr
 www.goha.ru,3dnews.ru#$#abort-on-property-read Ya
 myjane.ru,omskpress.ru,artfile.me,artfile.ru,astrakhan.ru,tambovnet.org#$#abort-on-property-read kav_cn
 krolik.biz#$#abort-current-inline-script document.createElement
-www.vesti.ru#$#abort-current-inline-script document.createElement String.fromCharCode
 sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
