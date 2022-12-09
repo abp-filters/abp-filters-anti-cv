@@ -146,4 +146,5 @@ karpatnews.in.ua,kg-portal.ru#$#abort-current-inline-script document.createEleme
 ! #CV-667
 empireg.ru#$#abort-current-inline-script Math zfgloaded
 
-! #CV-694
+! #CV-697
+agroreview.com#$#abort-current-inline-script encodeURIComponent rcBuf; abort-current-inline-script Object.defineProperty rcBuf; abort-on-property-read advanced_ads_ready;
