@@ -39,10 +39,10 @@ nguontv.org#$#abort-current-inline-script encodeURIComponent popunder
 ||pssy.xyz^$domain=animevi.net
 player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 player-cdn.com###playback-fake
-xoilac19.tv##.modal.fade.show
-xoilac19.tv#$#abort-current-inline-script jQuery popupBanners
-xoilac19.tv#$#abort-on-property-read adsRedirectPopups
-xoilac19.tv#$#abort-current-inline-script jQuery overlay
+xoilac19.tv,xoilac19.net##.modal.fade.show
+xoilac19.tv,xoilac19.net#$#abort-current-inline-script jQuery popupBanners
+xoilac19.tv,xoilac19.net#$#abort-on-property-read adsRedirectPopups
+xoilac19.tv,xoilac19.net#$#abort-current-inline-script jQuery overlay
 sex369.net,viet69.tv,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;override-property-read DisplayHTMLAdsBlock noopFunc;abort-current-inline-script $ open
 phimhanz.me#$#abort-current-inline-script jQuery showPopupSearchKey
