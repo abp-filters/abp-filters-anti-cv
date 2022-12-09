@@ -93,7 +93,7 @@ anime.anidub.com,anidub.club,anidub.link,anime.anidub.life,online.anidub.club,on
 kanobu.ru#$#json-prune results.fixed
 amedia.online#$#abort-on-property-read Ya; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
-nsportal.ru#$#abort-on-property-read adDownloadPrefixToLinks
+nsportal.ru#$#simulate-event-poc click a#downloadURL[href^="https://nsportal.ru/sites/"]
 okminigames.mail.ru#$#override-property-read appDriver.hasVideoAd false
 
 ! Prevent auto reload
