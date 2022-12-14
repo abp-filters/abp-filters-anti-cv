@@ -45,6 +45,6 @@ xoilac21.tv#$#abort-current-inline-script jQuery popupBanners
 xoilac21.tv#$#abort-on-property-read adsRedirectPopups
 xoilac21.tv#$#abort-current-inline-script jQuery overlay
 sex369.net,viet69.tv,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read parseInt
-linkneverdie.net#$#abort-current-inline-script document.createElement script;override-property-read DisplayHTMLAdBlock noopFunc
+linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-on-property-read open;abort-on-property-read Math.floor
 phimhanz.me#$#abort-current-inline-script jQuery showPopupSearchKey
 javnong.cc#$#abort-on-property-read Math.round
