@@ -95,6 +95,7 @@ amedia.online#$#abort-on-property-read Ya; prevent-listener beforeunload '0x'; p
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
 nsportal.ru#$#simulate-event-poc click a#downloadURL[href^="https://nsportal.ru/sites/"]
 okminigames.mail.ru#$#override-property-read appDriver.hasVideoAd false
+bombardir.ru#$#abort-on-property-read alert
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
