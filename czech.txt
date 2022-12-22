@@ -303,7 +303,7 @@ clanky.seznam.cz,search.seznam.cz##.Result.Result--organic > .Result-ico:not([cl
 clanky.seznam.cz,search.seznam.cz#?#:-abp-has(> .Result--organic .Result-title-link:not([class="Result-title-link"]))
 clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="Result-contentContainer _"])
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url):not(.Result-dw-wrapper):not(.Result-image) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
-www.seznam.cz#$#hide-if-matches-xpath './/div[starts-with(@class,"atm-ad-label")]/a[text()="Reklama"]/following::div[@id][contains(@class,"advert-content")]//div[@data-cy="ad-content"][@style]/iframe[@style]/ancestor::div[@class][@id]/parent::div[1]'
+www.seznam.cz#$#hide-if-matches-xpath './/div/a[text()="Reklama"]/following::div[@id][contains(@class,"advert-content")]//div[@data-cy="ad-content"][@style]/iframe[@style]/ancestor::div[@class][@id]/parent::div[1]'
 www.seznam.cz##div[id*="nativeSspAdvert"]
 www.seznam.cz#$#hide-if-matches-xpath './/div[starts-with(@class,"atm-ad-label")]/a[text()="Reklama"]/parent::div[contains(@class,"ad-label")]'
 www.seznam.cz#$#hide-if-matches-xpath './/li[@class="product-list__item"]/span[@class="product"]//a[contains(@class,"product")]/picture[@class]/ancestor::div[@id][@class="gadget-container"]'
