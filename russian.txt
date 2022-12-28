@@ -117,6 +117,7 @@ conversion.im#$#abort-current-inline-script $ mainContainer
 freescreens.ru,imgbase.ru,imgcach.ru,imgclick.ru,payforpic.ru,picclick.ru,picclock.ru,picforall.ru#$#abort-current-inline-script JSON.parse
 tapochek.net#$#abort-on-property-read ads_script
 rutor.org#$#abort-on-property-read Light.Popup
+bez-smenki.ru#$#abort-current-inline-script $ showPopupextra
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
