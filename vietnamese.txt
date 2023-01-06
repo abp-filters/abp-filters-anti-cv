@@ -49,3 +49,4 @@ sex369.net,viet69.tv,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-property-read Math.floor null
 phimhanz.me#$#abort-current-inline-script jQuery showPopupSearchKey
 javnong.cc#$#abort-on-property-read Math.round
+viet69.lol#$#abort-current-inline-script WebAssembly instantiate
