@@ -161,6 +161,9 @@ novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
 sport.cz##.combi_text__ad
 sport.cz##div#page > .combi
+sport.cz##div[class^="d_c9"]
+sport.cz##div[class*="ogm-advert-static"]
+sport.cz##li[class$="ogm-timeline-advert"]
 sport.cz###adSklikUnderArticle
 novinky.cz,kupi.cz,sport.cz,super.cz##[id^="tetrahedron"], .tetrahedron
 novinky.cz,kupi.cz,sport.cz,super.cz##[data-e4e-advert], .basafoxy
@@ -219,7 +222,7 @@ novinky.cz##div[class*="banner-ad"]
 novinky.cz##article[class$="advert-item--default"]
 novinky.cz##div[class^="g_cW"] > div
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
-novinky.cz,seznamzpravy.cz##div[data-adtrackingtemporaryurl]
+novinky.cz,seznamzpravy.cz,sport.cz##div[data-adtrackingtemporaryurl]
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##[href*="&token="][target="_blank"]
