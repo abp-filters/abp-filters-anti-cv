@@ -147,8 +147,8 @@ kupi.cz##[data-sssp]
 
 seznamzpravy.cz##[class^="drtg"]
 seznamzpravy.cz##[class^="dynamic_banner"]
-seznamzpravy.cz##div[class^="g_bg"] > div[class]
-seznamzpravy.cz###page[data-viewableimpressionurl]
+seznamzpravy.cz##div[class^="d_bh"] > div
+seznamzpravy.cz##div[class^="mol-timeline-advert"]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
 seznamzpravy.cz#$#abort-on-property-write sznIVA
 seznamzpravy.cz#$#override-property-read Object.prototype.antiAdblock.postMessageSentinel null
@@ -216,10 +216,10 @@ novinky.cz##article[data-dot^="advert-item"]
 novinky.cz##section[role^="complementary"]
 novinky.cz##div[class*="advert-static"]
 novinky.cz##div[class*="banner-ad"]
-novinky.cz##div[class^="e_aG"] > div[class]
-
+novinky.cz##article[class$="advert-item--default"]
+novinky.cz##div[class^="g_cW"] > div
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
-novinky.cz,seznamzpravy.cz###page[data-adtrackingtemporaryurl]
+novinky.cz,seznamzpravy.cz##div[data-adtrackingtemporaryurl]
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##[href*="&token="][target="_blank"]
