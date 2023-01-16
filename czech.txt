@@ -151,10 +151,8 @@ novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
 super.cz##.sklikReklama
 kupi.cz##[data-sssp]
 
-seznamzpravy.cz##[class^="drtg"]
+seznamzpravy.cz##article[data-dot="mol-timeline-item-advert"]
 seznamzpravy.cz##[class^="dynamic_banner"]
-seznamzpravy.cz##div[class^="d_bh"] > div
-seznamzpravy.cz##div[class^="mol-timeline-advert"]
 seznamzpravy.cz#$#abort-on-property-write Object.prototype.writeAd
 seznamzpravy.cz#$#abort-on-property-write sznIVA
 seznamzpravy.cz#$#override-property-read Object.prototype.antiAdblock.postMessageSentinel null
@@ -167,7 +165,6 @@ novinky.cz,kupi.cz,sport.cz,super.cz##iframe[data-cx-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.plachta-overall-img
 sport.cz##.combi_text__ad
 sport.cz##div#page > .combi
-sport.cz##div[class^="d_c9"]
 sport.cz##div[class*="ogm-advert-static"]
 sport.cz##li[class$="ogm-timeline-advert"]
 sport.cz###adSklikUnderArticle
@@ -226,9 +223,9 @@ novinky.cz##section[role^="complementary"]
 novinky.cz##div[class*="advert-static"]
 novinky.cz##div[class*="banner-ad"]
 novinky.cz##article[class$="advert-item--default"]
-novinky.cz##div[class^="g_cW"] > div
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 novinky.cz,seznamzpravy.cz,sport.cz##div[data-adtrackingtemporaryurl]
+novinky.cz,seznamzpravy.cz,sport.cz##div[style="background-color: rgb(255, 255, 255);"] > a[href][target="_blank"]
 
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##a[href*="verdsi="][href*="&ip="]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,expres.cz##[href*="&token="][target="_blank"]
