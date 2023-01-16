@@ -78,14 +78,19 @@ client=ca-pub-$subdocument,domain=iprima.cz|www.idnes.cz|expres.cz|auto.cz|autor
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
+blesk.cz##article[data-track-element-id*="prPremium"]
+blesk.cz###px-wallwrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
 dama.cz##[class*="ads-"]
 zeny.cz,auto.cz##[data-track-ad]
+super.cz##img[id^="rs-bg-img"]
 reflex.cz##img[title$=".cz"][src^="https://www.reflex.cz/"]
 auto.cz##.halfpageAd, [class*="wrapperH-prapper"], [class*="billboard-bottom"], img[width='970'][height="310"], [data-io-article-url] a[target='_top'], video[id^="video-"][preload="auto"][webkit-playsinline="webkit-playsinline"], [class*="ads-leader"], #KoqisAoAce
 www.blesk.cz##[class*="-wrapperf-prapper"], [class*="pikyTentBot_"], #stickyBottomRightAbsolute, [class="lol__out"], img[width='970'][height="310"], a[style*="blewid: 970px; height: 310px"], div[id*="-hor"]
 autorevue.cz##.bx-sky, .bx-rectangle-article
 maminka.cz##div[class*="bx-sky "]
+super.cz##div[class*="color-0"]
+super.cz##div[id*="superPrclanek-"][class$="timeline-content"]
 dama.cz##div[class^="sky-wrap"]
 maminka.cz,blesk.cz,reflex.cz,e15.cz##a[class*="-combined"]
 
@@ -143,6 +148,7 @@ novinky.cz,super.cz,sport.cz,kupi.cz##.dynamic_Rggheysn
 novinky.cz,kupi.cz,sport.cz,super.cz##._ad_branding_container
 novinky.cz,super.cz,sport.cz,kupi.cz##iframe[data-cy-loaded]
 novinky.cz,kupi.cz,sport.cz,super.cz##.superPrclanek
+super.cz##.sklikReklama
 kupi.cz##[data-sssp]
 
 seznamzpravy.cz##[class^="drtg"]
