@@ -50,4 +50,4 @@ linkneverdie.net#$#abort-current-inline-script document.createElement script;abo
 phimhanz.me#$#abort-current-inline-script jQuery showPopupSearchKey
 javnong.cc#$#abort-on-property-read Math.round
 viet69.lol#$#abort-current-inline-script WebAssembly instantiate
-vcomic.net#$#abort-current-inline-script Object $._Eu
+vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
