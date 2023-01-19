@@ -36,7 +36,7 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 *$third-party,script,domain=sexdiaryz.xyz
 phimhays.com#$#abort-current-inline-script jQuery window.open
 truyentranhtuan.com#$#abort-current-inline-script $ btpop
-lphim.net,subnhanhz.net,iphimchillzz.net,phimmoikf.com#$#abort-on-property-read localStorage
+lphim.net,subnhanhz.tv,subnhanh.cc,iphimchillzz.net,phimmoikf.com#$#abort-on-property-read localStorage
 nguontv.org#$#abort-current-inline-script encodeURIComponent popunder
 ||pssy.xyz^$domain=animevi.net
 player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
