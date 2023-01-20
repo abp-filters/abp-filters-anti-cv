@@ -223,6 +223,7 @@ novinky.cz##section[role^="complementary"]
 novinky.cz##div[class*="advert-static"]
 novinky.cz##div[class*="banner-ad"]
 novinky.cz##article[class$="advert-item--default"]
+novinky.cz##img[src*="1T4PK70hS2C"]
 novinky.cz,super.cz,sport.cz,expres.cz##.barMan
 novinky.cz,seznamzpravy.cz,sport.cz##div[data-adtrackingtemporaryurl]
 novinky.cz,seznamzpravy.cz,sport.cz##div[style="background-color: rgb(255, 255, 255);"] > a[href][target="_blank"]
@@ -265,8 +266,7 @@ novinky.cz#$#hide-if-matches-xpath '//div[@id][contains(@style, "max-width: 100%
 novinky.cz#$#hide-if-matches-xpath '//a[@href][@title]/div[@class][@style]/parent::a/ancestor-or-self::div[2]'
 horoskopy.cz,seznamzpravy.cz#$#hide-if-matches-xpath '//iframe[@src][@id]/parent::div[@class]/ancestor-or-self::div[@class][1][not(starts-with(@class,"twitter"))]'
 novinky.cz#$#hide-if-matches-xpath './/div[@style]/div[contains(@style,"position:relative")][@style]/div[@style]/iframe[contains(@style,"display")]/parent::div[@class][@style]/ancestor::div[@class and @style]'
-novinky.cz#$#hide-if-matches-xpath './/div[@class="tpl-king-bottom-content"]//h3[@class]/a[@target="_top"]/ancestor::article[contains(@class,"advert")]/parent::div[1]'
-novinky.cz#$#hide-if-matches-xpath '//div[@id][@style]//div[@*="ad-content"]//iframe[@style]/ancestor::div[@*="mol-advert" and @*="RENDERED"][@style]'
+novinky.cz#$#hide-if-matches-xpath './/div[@class="tpl-king-bottom-content"]//h3[@class]/a[@target="_top"]/ancestor::article[contains(@class,"advert")]/parent::div[1]'; hide-if-matches-xpath '//div[@id][@style]//div[@*="ad-content"]//iframe[@style]/ancestor::div[@*="mol-advert" and @*="RENDERED"][@style]'; hide-if-matches-xpath './/div[@class]/span[text()][@*="atm-label"]/following::a[@target]/ancestor::article[@*="advert-item"]'; hide-if-matches-xpath './/div[@class][@style]/div[@style]//iframe[@width][@style]/ancestor::div[@*="RENDERED" or @*="mol-advert"]'
 seznamzpravy.cz,sport.cz#$#hide-if-matches-xpath '//div[@class]/div[@*="mol-advert"]'
 
 ! #CV-780
