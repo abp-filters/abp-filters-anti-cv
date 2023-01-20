@@ -9,8 +9,7 @@ envivotv.net,lucenpop.com.es,pokefanleoretrogames.com,topflix.tv#$#abort-current
 mamaslatinas.com##.top-bar-content
 
 ! #CV-663
-@@||rddywd.com/adcode.png^$image,domain=telexplorer.com.ar
-@@||rddywd.com/advertising.js^$script,domain=telexplorer.com.ar
+telexplorer.com.ar##div[class] > div[id] > main[class][id]
 
 ! #CV-751
 rojadirecta.fr#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
