@@ -3,8 +3,7 @@
 ! #CV-761
 
 ! #CV-663
-@@||rddywd.com/adcode.png^$image,domain=aupetitparieur.com|mamieastuce.com|meilleurpronostic.fr|vitamiiin.com
-@@||rddywd.com/advertising.js^$script,domain=aupetitparieur.com|mamieastuce.com|meilleurpronostic.fr|vitamiiin.com
+aupetitparieur.com,meilleurpronostic.fr,mamieastuce.com,vitamiiin.com##div[class] > div[id] > main[class][id]
 
 ! #CV-170
 lephoceen.fr,supertoinette.com#$#abort-on-property-read setInterval
