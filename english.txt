@@ -417,6 +417,7 @@ hortonanderfarom.blogspot.com#$#override-property-read setTimeout noopFunc
 userload.co#$#abort-current-inline-script $ Math.random
 tubeload.co#$#abort-on-property-write BetterJsPop
 hotleak.vip#$#abort-on-property-read advertising
+socialmediagirls.com#$#abort-on-property-read ExoVideoSlider.init
 
 ! #CV-691
 
