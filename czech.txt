@@ -319,9 +319,13 @@ clanky.seznam.cz,search.seznam.cz#?#:-abp-has(> .Result--organic .Result-title-l
 clanky.seznam.cz,search.seznam.cz#?#.Result:-abp-has(.Result--organic [class^="Result-contentContainer _"])
 clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-title + .Result-contentContainer > :not(.Result-url):not(.Result-dw-wrapper):not(.Result-image) > :not([class="Result-url-link Result-url-link--cr-result"]):not(span):not(.AnchorList-list))
 www.seznam.cz#$#hide-if-matches-xpath './/h2[contains(@class,"advert")]//a[@href][text()]/ancestor::div[contains(@class,"gadget")]/parent::div[starts-with(@class,"animated")]/ancestor::div[@class][@id]'; hide-if-matches-xpath './/div[starts-with(@class,"d-flex") and contains(@class,"advert")]//a[@rel][@aria-hidden]/picture[contains(@class,"advert")]/img/ancestor::div[@id]//parent::li/div[@data-dot]'; hide-if-matches-xpath './/li[starts-with(@class,"d-block")]//div[contains(@class,"promo-carousel")]/h2//div[@class]//following::div[contains(@class,"promo-carousel")]/a[@target][@rel]//img[starts-with(@class,"d-block")]/ancestor::div[contains(@class,"goods-promo")]'; hide-if-matches-xpath './/div[starts-with(@class,"gadget")]//ul[@class="product-list"]/li[contains(@class,"item")]//a[@aria-hidden]/picture[@class]/img[contains(@class,"block")]/ancestor::div[@id][@class][1]'; hide-if-matches-xpath './/div[@id][@class][@style]/div[@class][@style]/div/iframe[@class][@style]/ancestor::div[@class][@style][1]'; hide-if-matches-xpath './/div[@*="ad-content"]//iframe[@class and @style]/ancestor::div[@id and @style]/parent::div[1]/ancestor::div[5]'; hide-if-matches-xpath './/div[@*="ad-content"]//iframe[@class and @style]/ancestor::div[@id and @style]/parent::div[1]/ancestor::div[5]'; hide-if-matches-xpath './/div[contains(@class,"advert")]/a[@target]/picture[contains(@class,"advert")]/ancestor::div[contains(@class,"position-relative")]/ancestor::li[translate(@*, "nativeSspAdvert", "NATIVESSPADVERT")]'; hide-if-matches-xpath './/div[@class]/div[@class and @style]//iframe[@class]/ancestor::div[@id and @style]/parent::div/ancestor::div[@*="gadgetCommercial" or (contains(@style,"max"))]'
+www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"advert")]/div[text()]//following::div[@style]/ancestor::div[contains(@class,"position-relative") and @style]'
+www.seznam.cz##div[class^="atm-advert-label"]
 www.seznam.cz##div[id*="nativeSspAdvert"]
+www.seznam.cz##li[data-analytics-spent-time-item^="nativeSspAdvert:"]
 www.seznam.cz#$#cookie-remover pubmatic
 www.seznam.cz#$#cookie-remover adform
+www.seznam.cz#$#override-property-read sssp noopFunc
 
 ! MISC
 zoznam.sk#$#hide-if-matches-xpath './/div[contains(text(),"Reklama")]/preceding-sibling::div[@class][2]/ancestor::*[3]'
