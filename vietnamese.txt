@@ -49,5 +49,5 @@ sex369.net,viet69.tv,sexvietnam.site,phimhoathinh3d.com#$#abort-on-property-read
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open
 phimhanz.me#$#abort-current-inline-script jQuery showPopupSearchKey
 javnong.cc#$#abort-on-property-read Math.round
-viet69.lol#$#abort-current-inline-script WebAssembly instantiate
+viet69.lol,ungtycomicsvip.com#$#abort-current-inline-script WebAssembly instantiate
 vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
