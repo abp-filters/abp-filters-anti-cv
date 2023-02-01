@@ -81,7 +81,7 @@ shanson320.ru#$#abort-current-inline-script document.createElement atob
 coderlessons.com,facenews.ua,fixx.one,its-kids.ru,molitvy.guru,nizhny.ru,pro100hobbi.ru,publy.ru,samelectric.ru,svadba.expert,vibir.ru#$#abort-on-property-read XMLHttpRequest
 lrepacks.net#$#abort-current-inline-script document.createElement 'delete window'
 igroutka.ru#$#override-property-read Object.prototype.afg true
-sibnet.ru#$#prevent-listener DOMContentLoaded 'pobeda'
+sibnet.ru#$#prevent-listener DOMContentLoaded 'smartweek'
 ivanovonews.ru#$#json-prune banner.ytcode
 porngames.su,rintor.info,rintor.net#$#abort-on-property-read TotemToolsObject
 hardwareluxx.ru#$#abort-current-inline-script jQuery backgroundImage
