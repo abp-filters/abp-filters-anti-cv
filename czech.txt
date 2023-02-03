@@ -83,7 +83,7 @@ reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz##article[data-track-element-id*="prPremium"]
 blesk.cz##div[data-track-element-id^="prStandardZpravy"]
-blesk.cz###px-wall--wrap
+blesk.cz###p2-wall-wrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
 www.idnes.cz###px-wallwrap
 dama.cz##[class*="ads-"]
