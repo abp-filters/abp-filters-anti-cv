@@ -134,6 +134,7 @@ fights.cz,spisovatele.cz##body>a[target="_blank"]
 ||super.cz/*&*=$subdocument,domain=super.cz
 ||sport.cz/*&*=$subdocument,domain=sport.cz
 ||www.kupi.cz/*&*=$subdocument,domain=www.kupi.cz
+||seznamzpravy.cz/*/static/js/*^$domain=seznamzpravy.cz
 seznamzpravy.cz/*seznamzpravy.cz$subdocument
 seznamzpravy.cz/*ssp.js
 seznamzpravy.cz/*cmp*$script
