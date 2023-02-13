@@ -55,7 +55,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,i
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz##a[href*="branding"]
 auto.cz,autorevue.cz,maminka.cz,reflex.cz,ahaonline.cz,blesk.cz,dama.cz,e15.cz,info.cz,mojezdravi.cz,onetv.cz,zeny.cz,zive.cz,www.idnes.cz,expres.cz#?#div:-abp-has(>a[href$="/personalizovana-reklama/"])
 blesk.cz##.gam-wrapper
-expres.cz,idnes.cz##.rma592n
 expres.cz,idnes.cz##div[data-redistribute="ad"]
 idnes.cz###foto-reklama
 
@@ -77,15 +76,18 @@ idnes.cz###foto-reklama
 
 client=ca-pub-$subdocument,domain=iprima.cz|www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
-||www.expres.cz/*bg.jpg$image,domain=www.expres.cz
+||www.expres.cz/*?.jpg$image,domain=www.expres.cz
+||www.idnes.cz/*?.jpg$image,domain=www.idnes.cz
 
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
+blesk.cz##.banner-ifortuna
 blesk.cz##article[data-track-element-id*="prPremium"]
 blesk.cz##div[data-track-element-id^="prStandardZpravy"]
-blesk.cz###p2-wall-wrap
+blesk.cz###px2-wall-wrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
-idnes.cz###alM-wwp
+expres.cz,idnes.cz###alM-wwp
+expres.cz,idnes.cz##[class^="rma"]
 dama.cz##[class*="ads-"]
 zeny.cz,auto.cz##[data-track-ad]
 super.cz##img[id^="rs-bg-img"]
