@@ -89,7 +89,7 @@ changeua.com,ictv.ua,inter.ua,k1.ua,novy.tv,ntn.ua,starlight.digital,stb.ua,tele
 anidub.vip,anidubonline.com#$#prevent-listener click window.open; abort-on-property-read brblob
 4pda.to#$#hide-if-matches-xpath './/*[not(self::div)]//script[contains(text(),"Math.ceil")]/ancestor::*[not(self::div)][1]'; hide-if-matches-xpath './/*[not(self::div)]//script[contains(text(),"toLowerCase")]/ancestor::div[2]'; hide-if-matches-xpath './/a[@target="_blank"]/img[@alt="" and @title=""]/ancestor::td[1]'
 kanobu.ru#$#json-prune results.fixed
-amedia.online#$#abort-on-property-read Ya; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
+amedia.online#$#override-property-read Object.prototype.renderTo undefined; prevent-listener beforeunload '0x'; prevent-listener pagehide '0x';
 motorpage.ru#$#json-prune '0.BannerId 1.BannerId 2.BannerId 3.BannerId 4.BannerId 5.BannerId 6.BannerId'
 nsportal.ru#$#simulate-event-poc click a#downloadLink[href^="https://nsportal.ru/sites/"]; simulate-event-poc click a#downloadURL[href^="https://nsportal.ru/sites/"]
 okminigames.mail.ru#$#override-property-read appDriver.hasVideoAd false
