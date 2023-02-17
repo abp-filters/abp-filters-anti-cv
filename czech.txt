@@ -5,6 +5,7 @@ sauto.cz#$#override-property-read sssp undefined
 super.cz#$#override-property-read sspPositions null
 expres.cz,idnes.cz#$#override-property-read pxReady null
 expres.cz,idnes.cz#$#abort-on-property-read Object.prototype.kununu_mul
+expres.cz,idnes.cz#$#cookie-remover /^adb$|adb\.key|^[a-z]{5,11}$/
 
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 iprima.cz#?#div:-abp-has(>.mone_header)
@@ -86,7 +87,7 @@ blesk.cz##div[data-track-element-id^="prStandardZpravy"]
 blesk.cz###px2-wall-wrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
 expres.cz,idnes.cz##[class^="r-main"]
-expres.cz#$#hide-if-contains-visible-text /[a-zA-Z]/ '*[class][id]' span[id][data-resize]
+expres.cz#$#hide-if-contains-visible-text /[a-zA-Z]/ '*[class][id]' span[id][data-rsize]
 dama.cz##[class*="ads-"]
 zeny.cz,auto.cz##[data-track-ad]
 super.cz##img[id^="rs-bg-img"]
