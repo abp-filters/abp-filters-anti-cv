@@ -3,6 +3,8 @@ iprima.cz,www.seznam.cz,novinky.cz,super.cz,ahaonline.cz,expres.cz,kinobox.cz,ho
 kinobox.cz,novinky.cz,expres.cz,fights.cz,tiscali.cz,hudebniskupiny.cz,osobnosti.cz,ahaonline.cz,super.cz#$#prevent-listener beforeunload (); cookie-remover /^_?adb/;
 sauto.cz#$#override-property-read sssp undefined
 super.cz#$#override-property-read sspPositions null
+expres.cz,idnes.cz#$#override-property-read pxReady null
+expres.cz,idnes.cz#$#abort-on-property-read Object.prototype.kununu_mul
 
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 iprima.cz#?#div:-abp-has(>.mone_header)
@@ -76,9 +78,6 @@ idnes.cz###foto-reklama
 
 client=ca-pub-$subdocument,domain=iprima.cz|www.idnes.cz|expres.cz|auto.cz|autorevue.cz|maminka.cz|reflex.cz|ahaonline.cz|blesk.cz|dama.cz|e15.cz|info.cz|mojezdravi.cz|onetv.cz|zeny.cz|zive.cz
 
-||www.expres.cz/*?.jpg$image,domain=www.expres.cz
-||www.idnes.cz/*?.jpg$image,domain=www.idnes.cz
-
 reflex.cz###gl-nat
 e15.cz##.mys-wrapper
 blesk.cz##.banner-ifortuna
@@ -86,8 +85,7 @@ blesk.cz##article[data-track-element-id*="prPremium"]
 blesk.cz##div[data-track-element-id^="prStandardZpravy"]
 blesk.cz###px2-wall-wrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
-expres.cz,idnes.cz,blesk.cz###alN-wwp
-expres.cz,idnes.cz##[class^="rma"]
+expres.cz,idnes.cz##[class^="r-main"]
 expres.cz#$#hide-if-contains-visible-text /[a-zA-Z]/ '*[class][id]' span[id][data-resize]
 dama.cz##[class*="ads-"]
 zeny.cz,auto.cz##[data-track-ad]
