@@ -4,8 +4,8 @@ kinobox.cz,novinky.cz,expres.cz,fights.cz,tiscali.cz,hudebniskupiny.cz,osobnosti
 sauto.cz#$#override-property-read sssp undefined
 super.cz#$#override-property-read sspPositions null
 expres.cz,idnes.cz#$#override-property-read pxReady null
-expres.cz,idnes.cz#$#abort-on-property-read Object.prototype.kununu_mul
-expres.cz,idnes.cz#$#cookie-remover /^adb$|adb\.key|^[a-z]{5,11}$/
+blesk.cz,expres.cz,idnes.cz#$#abort-on-property-read Object.prototype.kununu_mul
+blesk.cz,expres.cz,idnes.cz#$#cookie-remover /^adb$|adb\.key|^[a-z]{5,11}$/
 
 iprima.cz##.sas_center, .px-ad, .sas_mone, .mone_box, .ifr-passback, [data-sas_status], div[id^="sas_"], div[class^="mas_mone_"], [data-alter_area="leaderboardpremium-1"], [data-alter_area="boardbottom-1"], .ifr-masshack, .px-zone, .sas_megaboard, .ifr-classflak, [data-sas-creative], #cnn_reklama, div[class^="mas_"], ._sasia_fcid, [class^="mas"][class$="_clue"]
 iprima.cz#?#div:-abp-has(>.mone_header)
@@ -86,6 +86,7 @@ blesk.cz##article[data-track-element-id*="prPremium"]
 blesk.cz##div[data-track-element-id^="prStandardZpravy"]
 blesk.cz###px2-wall-wrap
 blesk.cz###stickyfloatLeftEmptySpaceCheckLeft
+blesk.cz##div[class^="sticky-wrapper"]
 expres.cz,idnes.cz##[class^="r-main"]
 expres.cz#$#hide-if-contains-visible-text /[a-zA-Z]/ '*[class][id]' span[id][data-rsize]
 dama.cz##[class*="ads-"]
@@ -100,6 +101,7 @@ super.cz##div[class*="color-0"]
 super.cz##div[id*="superPrclanek-"][class$="timeline-content"]
 dama.cz##div[class^="sky-wrap"]
 maminka.cz,blesk.cz,reflex.cz,e15.cz##a[class*="-combined"]
+blesk.cz#$#abort-current-inline-script document.createElement adbDetect; prevent-listener beforeunload (); override-property-read adBlockerFound undefined;
 
 tiscali.cz,kinobox.cz,osobnosti.cz,karaoketexty.cz,nasepenize.cz###stickyBanner
 tiscali.cz##a[target="_blank"][href*="tiscali.cz"]>img[src*="tiscali.cz"]
