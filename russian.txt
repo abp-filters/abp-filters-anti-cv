@@ -98,7 +98,13 @@ www.e1.ru#$#abort-on-property-read Object.prototype.brandingBlock
 biqle.org,biqle.ru#$#prevent-listener /click|mousedown/ 'popunder'
 rg.ru#$#abort-on-property-read AdFox_getCodeScript
 ontivi.net#$#abort-current-inline-script document.createElement Math.random
-bstudy.net,studbooks.net,studme.org,studref.com,studwood.net,vuzlit.com,xstud.org#$#abort-on-property-read abl
+bstudy.net#$#abort-on-property-read _0xddc4
+studbooks.net#$#abort-on-property-read _0x8336
+studme.org#$#abort-on-property-read _0x5443
+studref.com#$#abort-on-property-read _0x308a
+studwood.net#$#abort-on-property-read _0x8cc0
+vuzlit.com#$#abort-on-property-read _0xc091
+xstud.org#$#abort-on-property-read _0xd07e
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
