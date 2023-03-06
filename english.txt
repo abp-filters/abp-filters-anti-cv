@@ -297,6 +297,7 @@ root-nation.com#$#hide-if-matches-xpath './/img[contains(@alt,"")]/parent::div[@
 root-nation.com#$#hide-if-matches-xpath '//source/following::img[@src]/ancestor::a[@class]/ancestor-or-self::div[@id="tdi_29"]'
 ||root-nation.com/wp-content/uploads/*background*$image,domain=root-nation.com
 animixplay.to#$#abort-on-property-read String.fromCharCode
+aqicn.org#$#abort-on-property-read alert
 vuukle.com##a[href*="news.vuukle.com/u/"]
 filmibeat.com,goodreturns.in,mykhel.com,oneindia.com#$#hide-if-matches-xpath './/fw-embed-feed[@channel][@mode][@playlist]/parent::div[@id][@style][1]'
 oneindia.com##a[href^="https://bit.ly/"]
