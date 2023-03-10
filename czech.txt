@@ -331,9 +331,10 @@ clanky.seznam.cz,search.seznam.cz#?#.Result.Result--organic:-abp-has(.Result-tit
 www.seznam.cz#?#:xpath(//li[@*="nativeSspAdvert"])
 www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"gadget-container")]/div[@id and @class]/div[@*="animated-height"]//span[text()]/following-sibling::a[contains(text(),"reklamu")]//following::div[@*="gadget__content"]//div[@class and @style]/ancestor::div[7][@class]/ancestor::div[contains(@class,"gadget-container")]'; hide-if-matches-xpath './/div[starts-with(@class,"d-flex")]/div[contains(@class,"flex-column")]/div[@class and @style]//div[2]/div[@class and @style]/parent::div/ancestor-or-self::div[contains(@style,"flex-basis:")]'; hide-if-matches-xpath './/div[@*="mainFeed"]//div[@class="overflow-hidden"]/div[contains(@class,"atm-text-placeholder")]/parent::div[@class][1]/ancestor::div[3]/parent::div[@class and @*]/ancestor::li[@data-analytics-first-item]';
 search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot,"zbozi-product-advert")]/ancestor::div[contains(@data-dot-data,"zbozi")]'
-search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot,"zbozi-shop-offer")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
+search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot-data,"zbozi-shop-offer")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"adtext-variant")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"/click?adurl")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
+search.seznam.cz#$#hide-if-matches-xpath './/a[@data-e-a="sitelinks"][@href]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 ||seznam.cz/*/static/*/*?nocache=1^$domain=www.seznam.cz
 ||seznam.cz/*/*/js/*?nocache=1^$domain=www.seznam.cz
 www.seznam.cz##div[class^="gadget-container--full-width-item"]
