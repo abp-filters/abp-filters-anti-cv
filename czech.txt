@@ -332,11 +332,10 @@ www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"sticky-content")]
 www.seznam.cz#$#hide-if-matches-xpath './/div[@class="banner-wrapper"]/a[contains(@href,"click?") or contains(@href,"adur_")]/div[@class="banner_image--container"]/img[contains(@src,"img_")]/ancestor::div[@id="page"]'
 www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"mol-advert-text-content")]/preceding::div[contains(@class,"mol-advert-header__source")]/parent::div[@class]/ancestor::div[@id][1]'
 www.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"gadget-container")]/div[@id and @class]/div[@*="animated-height"]//span[text()]/following-sibling::a[contains(text(),"reklamu")]//following::div[@*="gadget__content"]//div[@class and @style]/ancestor::div[7][@class]/ancestor::div[contains(@class,"gadget-container")]'; hide-if-matches-xpath './/div[starts-with(@class,"d-flex")]/div[contains(@class,"flex-column")]/div[@class and @style]//div[2]/div[@class and @style]/parent::div/ancestor-or-self::div[contains(@style,"flex-basis:")]'; hide-if-matches-xpath './/div[@*="mainFeed"]//div[@class="overflow-hidden"]/div[contains(@class,"atm-text-placeholder")]/parent::div[@class][1]/ancestor::div[3]/parent::div[@class and @*]/ancestor::li[@data-analytics-first-item]';
-search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot,"zbozi-product-advert")]/ancestor::div[contains(@data-dot-data,"zbozi")]'
-search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot-data,"zbozi-shop-offer")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
-search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"adtext-variant")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
+search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@class,"boxWithShadow")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
+search.seznam.cz#$#hide-if-matches-xpath './/div[contains(@data-dot-data,"reporter_pos")][1]/div[@class="molecularization-leftColumnMargin"]'
+search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"utm_campaign")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 search.seznam.cz#$#hide-if-matches-xpath './/a[contains(@href,"/click?adurl")]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
-search.seznam.cz#$#hide-if-matches-xpath './/a[@data-e-a="sitelinks"][@href]/ancestor::div[contains(@data-dot-data,"reporter_pos")]'
 ||seznam.cz/*/static/*/*?nocache=1^$domain=www.seznam.cz
 ||seznam.cz/*/*/js/*?nocache=1^$domain=www.seznam.cz
 www.seznam.cz#$#cookie-remover pubmatic
