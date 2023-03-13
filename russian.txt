@@ -128,6 +128,7 @@ freescreens.ru,imgbase.ru,imgcach.ru,imgclick.ru,payforpic.ru,picclick.ru,picclo
 tapochek.net#$#abort-on-property-read ads_script
 rutor.org#$#abort-on-property-read Light.Popup
 bez-smenki.ru#$#abort-current-inline-script $ showPopupextra
+partnerkin.com#$#override-property-read Object.prototype.autoPopups undefined
 
 ! Video ads
 yastatic.net#$#abort-on-property-read Object.prototype.vast
