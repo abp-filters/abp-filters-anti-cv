@@ -311,6 +311,7 @@ mreader.co#$#abort-current-inline-script document.createElement _stlivuf
 alibaba.com#$#hide-if-matches-xpath './/*[text()="Ad"]/parent::div[@class]/ancestor::div[@campaignid or @data-params]'
 alibaba.com#$#hide-if-matches-xpath './/div[@style]/span[text()="Ad"]/ancestor::div[@class="tpl-wrapper"]'
 alibaba.com#$#hide-if-matches-xpath './/div[not(contains(@style,"display: none"))]/div[@style]/img[contains(@src,"/H4c09574")][contains(@style,"object-fit: contain")]/ancestor::div[@view-name]/parent::div[@class="tpl-wrapper"]'
+musichq.cc###hgiks-top
 
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
@@ -420,6 +421,7 @@ userload.co#$#abort-current-inline-script $ Math.random
 tubeload.co#$#abort-on-property-write BetterJsPop
 hotleak.vip#$#abort-on-property-read advertising
 socialmediagirls.com#$#abort-on-property-read ExoVideoSlider.init
+musichq.cc#$#debug; abort-on-property-write rotationUrl; override-property-read changeServer undefined; abort-current-inline-script document.createElement /script/
 
 ! #CV-691
 
