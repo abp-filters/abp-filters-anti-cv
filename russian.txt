@@ -107,6 +107,7 @@ vuzlit.com#$#abort-on-property-read _0xc091
 xstud.org#$#abort-on-property-read _0xd07e
 romakatya.ru#$#prevent-listener load AdBlock
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
+ashdi.vip,tortuga.wtf#$#json-prune vast
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
