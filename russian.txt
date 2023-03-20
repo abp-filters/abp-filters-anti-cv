@@ -75,7 +75,6 @@ l2top.ru#$#abort-current-inline-script $ cleanAndEval
 rsload.net#$#abort-current-inline-script window.addEventListener load
 musify.club#$#abort-on-property-read get_ya_browser
 kakoysegodnyaprazdnik.ru,xn--80aaiebcrjcibi8adgdtsm9z.xn--p1ai#$#abort-on-property-read google_jobrunner
-cq.ru#$#hide-if-matches-xpath './/a[@class][@target="_blank"]/following::img[@class][string-length(@src) > 70]/ancestor::div[@class][1]'
 cq.ru#$#prevent-listener DOMContentLoaded 'banners'
 shanson320.ru#$#abort-current-inline-script document.createElement atob
 coderlessons.com,facenews.ua,fixx.one,its-kids.ru,molitvy.guru,nizhny.ru,pro100hobbi.ru,publy.ru,samelectric.ru,svadba.expert,vibir.ru#$#abort-on-property-read XMLHttpRequest
