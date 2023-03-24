@@ -312,6 +312,7 @@ tiscali.it#$#hide-if-matches-xpath './/a[@class="slides-next"]/preceding::div[co
 tiscali.it#$#hide-if-matches-xpath './/a[contains(@href,"campid") or contains(@href,"_trkparms")]/ancestor::div[@data-old]'
 tiscali.it#$#hide-if-matches-xpath './/a[contains(@href,"www.ebay.it")]/ancestor::div[@data-mrc="ebay"]/parent::div[starts-with(@class,"vsb-pos")]'
 tiscali.it#$#hide-if-matches-xpath './/a[@href="#"][contains(@*,"ebay")]/img[@id]/ancestor::div[@id][@style]'
+tiscali.it#$#hide-if-matches-xpath './/a[@href="#"][contains(@*,"ebay")]/img[@src]/ancestor::div[@id][@style]'
 tiscali.it#$#hide-if-matches-xpath './/a[@target="_blank"][@href="#"][contains(@*,"https://www.ebay.it")][not(contains(@href,"utm_campaign=lucegas"))]/preceding::div[contains(@style,"height: ")][contains(@id,"SkinAuto")][2]'
 tiscali.it#$#hide-if-matches-xpath './/figcaption/preceding::img/preceding::a[@target="_blank"][contains(@title,"ebay")]/parent::figure'
 tiscali.it#$#hide-if-matches-xpath './/img/ancestor::a[@target="_blank"][@href="#"][contains(@*,"www.ebay.it")]/parent::div[starts-with(@class,"vsb-pos")]'
