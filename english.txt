@@ -1,3 +1,8 @@
+! #CV-691
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be#?#:xpath(.//div[@id="srp-river-results"]/ul[starts-with(@class,"srp-results")]/li[@data-viewport]//span[starts-with(@class,//span/@aria-labelledby)]/ancestor::li[@data-viewport])
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be#?#:xpath(.//ul[starts-with(@class,"b-list__items_")]/li[@class="s-item s-item--large"]//span[@class="s-item__sponsor"]/ancestor::li[@class="s-item s-item--large"])
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be##div[data-view]>a[class="srp-1p__link"]
+
 ! #CV-737
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com;
 
@@ -232,8 +237,6 @@ adpop.me,amyscans.com,apurogol.net,aquipelis.net,arenavision.in,arenavision.us,a
 
 ! #CV-368
 kimcartoon.to#$#abort-on-property-read NativeAd
-
-! #CV-691
 
 ! #CV-698
 thegatewaypundit.com#$#abort-on-property-read adtoniq; abort-on-property-write adtoniq; abort-on-property-write bomab; abort-on-property-write zacak; abort-on-property-write kozuq
