@@ -392,6 +392,7 @@ hotleak.vip#$#abort-on-property-read advertising
 socialmediagirls.com#$#abort-on-property-read ExoVideoSlider.init
 embed.scdn.to,musichq.cc#$#abort-on-property-write rotationUrl; override-property-read changeServer undefined; abort-current-inline-script document.createElement /script/; prevent-listener beforeunload ();
 xxxtik.com#$#abort-on-property-read decodeURI; abort-on-property-read fromCharCode;
+opvid.co,opvid.net,opvid.org#$#abort-on-property-read setInterval; abort-on-property-read setTimeout; abort-on-property-read Math.random
 
 ! MISC
 airsoftmilsimnews.com#$#abort-on-property-read td_ad_background_click_target
