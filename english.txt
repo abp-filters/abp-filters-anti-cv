@@ -1,7 +1,7 @@
 ! #CV-691
-ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr#?#:xpath(.//div[@id="srp-river-results"]/ul[starts-with(@class,"srp-results")]/li[@data-viewport]//span[starts-with(@class,//span/@aria-labelledby)]/ancestor::li[@data-viewport])
-ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr#?#:xpath(.//ul[starts-with(@class,"b-list__items_")]/li[@class="s-item s-item--large"]//span[@class="s-item__sponsor"]/ancestor::li[@class="s-item s-item--large"])
-ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr##div[data-view]>a[class="srp-1p__link"]
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph#?#:xpath(.//div[@id="srp-river-results"]/ul[starts-with(@class,"srp-results")]/li[@data-viewport]//span[starts-with(@class,//span/@aria-labelledby)]/ancestor::li[@data-viewport])
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph#?#:xpath(.//ul[starts-with(@class,"b-list__items_")]/li[@class="s-item s-item--large"]//span[@class="s-item__sponsor"]/ancestor::li[@class="s-item s-item--large"])
+ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph##div[data-view]>a[class="srp-1p__link"]
 
 ! #CV-737
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com;
