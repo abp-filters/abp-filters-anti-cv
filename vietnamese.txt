@@ -15,8 +15,7 @@ luotphim1.net,luotphim.to,luotphimtv1.com,webphim1.com#$#json-prune '0.time_mobi
 hiphimmoi.net#$#abort-current-inline-script $ urlAdsMbIntro
 cafef.vn,gamek.vn,genk.vn,kenh14.vn#$#abort-on-property-write ADMStorageFileCDN
 vaoroi13.online#$#override-property-read adsTvcs ''
-baomoi.com,zingnews.vn#$#abort-current-inline-script document.createElement script
-zingnews.vn#$#abort-on-property-read atob
+baomoi.com,zingnews.vn#$#abort-on-property-read _ssdz
 bongda365a.net#$#override-property-read isSkipAds true
 
 ! Popup/Popunder/Clickunder
