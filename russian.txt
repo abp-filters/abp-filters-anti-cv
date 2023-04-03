@@ -46,7 +46,7 @@ sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
 agroportal.ua#$#abort-on-property-read abn
 kaztorka.org#$#abort-current-inline-script document.createElement Math.random
 naruto-base.su#$#abort-on-property-read njranu
-animekun.ru,doramakun.ru,nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement Math.random
+animekun.ru,doramakun.ru,nnm-club.lib,nnm-club.me,nnmclub.ro,nnmclub.to#$#abort-current-inline-script document.createElement Math.random; abort-current-inline-script setInterval Math.random
 vestivrn.ru#$#abort-on-property-read video.preroll
 rutor.in#$#abort-current-inline-script document.createElement ExternalChromePop
 dota2.ru#$#abort-on-property-read helpUsImproveSite
