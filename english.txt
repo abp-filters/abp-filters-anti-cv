@@ -485,7 +485,7 @@ alibaba.com#$#hide-if-matches-xpath './/*[text()="Ad"]/parent::div[@class]/ances
 alibaba.com#$#hide-if-matches-xpath './/div[@style]/span[text()="Ad"]/ancestor::div[@class="tpl-wrapper"]'
 alibaba.com#$#hide-if-matches-xpath './/div[not(contains(@style,"display: none"))]/div[@style]/img[contains(@src,"/H4c09574")][contains(@style,"object-fit: contain")]/ancestor::div[@view-name]/parent::div[@class="tpl-wrapper"]'
 musichq.cc###hgiks-top
-xxxtik.com###app-popup
+xxxtik.com##app-popup
 xxxtik.com###app-container
 
 ! Video ads
