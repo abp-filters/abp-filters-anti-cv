@@ -343,7 +343,7 @@ sxyprn.com#$#abort-current-inline-script vast_urls; override-property-read D4zz 
 123moviesgo.club#$#abort-on-property-write atAsyncContainers
 123moviesgo.club#$#abort-current-inline-script Math /break|case/
 pinayvids.com#$#abort-current-inline-script decodeURIComponent; override-property-read D4zz undefined
-eztv.tf,eztv.unblockit.llc,eztv.yt#$#abort-current-inline-script s2ss52
+eztv.tf,eztv.yt,unblockit.boo#$#abort-current-inline-script s2ss45
 cocostream.org,idope.cyou,youtube4kdownloader.com,yts2.cc#$#abort-on-property-read JSON.stringify
 latinblog.tv#$#abort-on-property-write _cpp
 camsstream.com#$#abort-current-inline-script onload;
