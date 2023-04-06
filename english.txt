@@ -276,8 +276,8 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
-instacart.com#$#hide-if-matches-xpath './/div[contains(@style,"color") and contains(@style,"font-size:") and contains(@style,"line-height:")]/span[2]/ancestor::div[contains(@class,"ItemCardHoverProvider")]'
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::a[contains(@href,"interaction_id")]/parent::div/ancestor::div[contains(@id,"a/") or contains(@id,"r/")]'
+instacart.com#$#hide-if-matches-xpath './/div[contains(@style,"font-size") and contains(@style,"line-height:")]/span[2]/ancestor::div[contains(@class,"ItemCardHoverProvider")]'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::div[@id][not(@class)]'
 instacart.com#$#hide-if-matches-xpath './/span[contains(@class,"AddItemButtonExpandingAdd")]/preceding::*[contains(@class,"ListHeaderDisclaimer")]/ancestor::*[contains(@class,"SearchLazyLoader")][1]'
 instacart.com##div[data-testid="ads-promoted-aisle"]
 instacart.com##div[data-testid="storefront-category-hero-banner"]
