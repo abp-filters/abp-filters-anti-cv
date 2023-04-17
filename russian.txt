@@ -36,7 +36,7 @@ indoxx1.show##img[src^="blob:https://indoxx1.show/"]
 gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
 
 ! MISC
-sm.news#$#abort-current-inline-script String.fromCharCode decodeURIComponent
+sm.news#$#abort-current-inline-script decodeURIComponent blocked
 7ogorod.ru,autonevod.ru,shtrafsud.ru,zazloo.ru#$#abort-on-property-read flat_pm_arr
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
 www.goha.ru,3dnews.ru,avtovzglyad.ru,baby.ru,dni.ru,relax-fm.ru,ura.news#$#abort-on-property-read Ya
