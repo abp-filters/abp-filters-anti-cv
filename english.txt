@@ -487,6 +487,9 @@ alibaba.com#$#hide-if-matches-xpath './/div[not(contains(@style,"display: none")
 musichq.cc###hgiks-top
 xxxtik.com##app-popup
 xxxtik.com###app-container
+vidmoly.to###adsblock
+vidmoly.to###dos_vlock
+vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
