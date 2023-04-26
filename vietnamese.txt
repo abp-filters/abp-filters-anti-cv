@@ -49,3 +49,4 @@ linkneverdie.net#$#abort-current-inline-script document.createElement script;abo
 javnong.cc#$#abort-on-property-read Math.round
 viet69.love,ungtycomicsvip.com,vlxx.info#$#abort-current-inline-script WebAssembly instantiate
 vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
+truyengihotne.com#$#abort-current-inline-script document.createElement checkIntersection
