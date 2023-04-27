@@ -21,6 +21,7 @@ editcode.net#$#abort-current-inline-script setTimeout openAd
 ! Video ads
 iyingshi9.tv#$#override-property-read YZM.ads.state false
 tvbanywherena.com#$#strip-fetch-query-parameter ad_config_id
+nivod5.tv,nivod4.tv#$#override-property-read detailParams.is_ad_play false
 
 ! #CV-667
 hdzone.org#$#abort-current-inline-script Math zfgloaded
