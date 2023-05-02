@@ -44,6 +44,7 @@ series-de.online#$#abort-on-property-read doSecondPop; abort-on-property-read do
 animefenix.com#$#abort-on-property-read p18
 peliculasyseries.gratis,ver-peliculas.gratis,verpeliculasio.online#$#abort-on-property-write window.open
 monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
+seriesyonkis.cx#$#abort-on-property-read window.atob; abort-on-property-read open; abort-on-property-read _0x4c81
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
