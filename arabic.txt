@@ -1,8 +1,6 @@
 ! MISC
 3sk.io,3sk.co,33sk.tv,esheeq.co#$#abort-on-property-read atob; abort-on-property-write Fingerprint2; abort-on-property-read decodeURIComponent; abort-on-property-read RegExp
 
-3oloum.com,7olm.org,ahladalil.com,syriaforums.net,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,gid3an.com,jordanforum.net,yoo7.com,forumalgerie.net,own0.com##a[onclick^="this.href=atob"]
-3oloum.com,7olm.org,ahladalil.com,syriaforums.net,ahlamontada.com,alamontada.com,arabepro.com,banouta.net,gid3an.com,jordanforum.net,yoo7.com,forumalgerie.net,own0.com#$#abort-on-property-read atob
 stardima.co,stardima.com#$#abort-current-inline-script document.createElement /break|case/
 iegybest.co,iegybest.film,iegybest.in,iegybest.tv#$#abort-on-property-read attr
 
