@@ -298,7 +298,6 @@ rightwingnews.com##.z-ad-inline
 procoinnews.com##div[id^="adcovery-"]
 procoinnews.com,dailylol.com#$#override-property-read setTimeout noopFunc; abort-on-property-read document.body.innerHTML; override-property-read Object.defineProperty undefined ; hide-if-matches-xpath '//main[@class][@role][@id]/parent::div[1]/ancestor-or-self::div[@class][1]';
 beforeitsnews.com#$#override-property-read setTimeout noopFunc; abort-on-property-read document.body.innerHTML;
-thegatewaypundit.com#$#hide-if-matches-xpath '//div[@class]/div[@class]//following-sibling::div[position() > 1]//main//div/text()[normalize-space()]/ancestor-or-self::div[@class and @id][1]'; abort-current-inline-script Math.random
 
 ! #CV-1416
 www.booking.com#$#hide-if-contains-visible-text /Ad/ 'div div[data-testid^="property-card"]' 'span[aria-expanded] span'
