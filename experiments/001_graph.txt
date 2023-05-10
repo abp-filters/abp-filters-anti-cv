@@ -3,6 +3,8 @@ www.facebook.com,web.facebook.com#$#race start; hide-if-contains-visible-text /[
 
 www.facebook.com,web.facebook.com#$#hide-if-matches-xpath './/span[@id="ssrb_feed_start"]/following-sibling::div//div[@aria-labelledby and @aria-describedby]//div[contains(text(),"Sponsored")]/ancestor::div[@aria-labelledby and @aria-describedby]'
 
+www.facebook.com,web.facebook.com##span a[aria-label][aria-labelledby][role="link"][target="_blank"][tabindex="0"]
+
 www.facebook.com,web.facebook.com#$#hide-if-graph-matches span[id='ssrb_feed_start']~*>h3+div>div.x1lliihq
 
 ! Experimental
