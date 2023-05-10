@@ -44,7 +44,7 @@ xoilac4.com#$#abort-current-inline-script jQuery popupBanners
 xoilac4.com#$#abort-on-property-read adsRedirectPopups
 xoilac4.com#$#abort-current-inline-script jQuery overlay
 sexdiaryz.us#$#abort-on-property-read parseInt
-linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;abort-on-property-read setTimeout
+linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-on-property-read setTimeout noopFunc
 javnong.cc#$#abort-on-property-read Math.round
 viet69.love,ungtycomicsvip.com,vlxx.info#$#abort-current-inline-script WebAssembly instantiate
 vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
