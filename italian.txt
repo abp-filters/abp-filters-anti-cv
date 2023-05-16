@@ -8,8 +8,8 @@ animeunity.tv#$#abort-on-property-read localStorage
 ! #CV-1366
 tiscali.it#$#hide-if-matches-xpath './/a[@href][contains(@class,"ofrtsrc")][@target="_blank"]/ancestor::div[@data-nosnippet]/ancestor::div[contains(@class,"ofrtsrc")]'
 tiscali.it#$#hide-if-matches-xpath './/a[@class="boxamazon"][@target="_blank"]/ancestor::div[contains(@class,"active")]/ancestor::div[2]'
-tiscali.it#$#hide-if-matches-xpath './/figure/a[@title][contains(@href,"linkCode") or contains(@href,"amazon.it")][@target="_blank"][contains(@name,"-offerta-")]/ancestor::div[@class][@style][2]'
-tiscali.it#$#hide-if-matches-xpath './/a[@class][@title][@href="#"]/ancestor::div[contains(@class,"active")]/ancestor::div[2]'
+tiscali.it#$#hide-if-matches-xpath './/figure/a[@title][@href="#"]/ancestor::div[contains(@class,"main")][@style]/parent::div[1][contains(@style,"margin-bottom") and contains(@style,"min-height")]'
+tiscali.it#$#hide-if-matches-xpath './/a[@class][@title][@href="#"][contains(@*,"")]/img[contains(@src,"media-amazon.com")]/ancestor::div[contains(@class,"sld")]/parent::div[1][@style]'
 tiscali.it#$#hide-if-matches-xpath './/a[contains(@*,"ebay")]/img[@id]/ancestor::div[@id][@style]'
 tiscali.it#$#hide-if-matches-xpath './/a[contains(@*,"ebay")]/img[@src]/ancestor::div[@id][@style]'
 tiscali.it#$#hide-if-matches-xpath './/a[@target="_blank"][not(@href)][contains(@*,"https://www.ebay.it")]/preceding::div[contains(@style,"height: ")][@id][1]'
