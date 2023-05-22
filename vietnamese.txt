@@ -16,7 +16,8 @@ hiphimmoi.net#$#abort-current-inline-script $ urlAdsMbIntro
 cafef.vn,gamek.vn,genk.vn,kenh14.vn#$#override-on-property-read ADMStorageFileCDN noopFunc
 vaoroi13.online#$#override-property-read adsTvcs ''
 bongda365a.net#$#override-property-read isSkipAds true
-zingnews.vn,baomoi.com#$#abort-on-property-write AdtimaRender
+zingnews.vn#$#abort-on-property-write AdtimaRender
+baomoi.com#$#abort-on-property-write AdtimaBaomoi
 
 ! Popup/Popunder/Clickunder
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,m.blogtruyen.vn,viettoons.tv#$#abort-on-property-read open
