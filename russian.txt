@@ -108,7 +108,7 @@ testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
 ashdi.vip,tortuga.wtf#$#json-prune vast
 pikabu.ru#$#abort-on-property-read yaContextCb; override-property-read Object.prototype.addAnlTracker noopFunc;
 vprognoze.ru#$#abort-on-property-read bannersBillboard
-vk.com,vk.ru#$#abort-on-property-read AdsLight.getAdsShowed
+vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
