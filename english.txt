@@ -477,7 +477,8 @@ naughtymachinima.com#$#abort-on-property-read window.open; abort-on-property-rea
 fullporner.com#$#abort-on-property-read ad; abort-on-property-read ad_list
 animepahe.com#$#abort-on-property-read _0x43d1; abort-on-property-read _0x53b5
 receive-smss.com#$#abort-on-property-read adBlockEnabled
-smallseotools.com#$#hide-if-matches-xpath '//a[contains(@data-link,"grammarly")]/ancestor::div[@class][1]'
+igg-games.com#$#hide-if-matches-xpath './/img[@src]/parent::a[@rel]/ancestor::div[contains(@style,"margin-top")]'
+smallseotools.com#$#hide-if-matches-xpath './/a[contains(@data-link,"grammarly")]/ancestor-or-self::a[@onclick and @rel]'
 smallseotools.com#$#abort-on-property-write $img_html; override-property-read ads_function undefined; override-property-read adpushup noopFunc; abort-on-property-read FITS.Config; strip-fetch-query-parameter /firebase-messaging.js/; #$#abort-current-inline-script $ window.open;
 ||smallseotools.com/webimages/s12/*.png^$image,domain=smallseotools.com
 ||smallseotools.com/webimages/a12/*.png^$image,domain=smallseotools.com
