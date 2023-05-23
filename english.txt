@@ -223,7 +223,7 @@ watchcartoonsonline.la#$#abort-current-inline-script document.createElement
 
 ! #CV-685
 vidshare.tv,govid.me,hdvid.tv,ovid.pro,gomovies.film,gomovies.sc,gomovies.es,gomovieshub.io,gostream.nu,openloadmovies.net,openloadmovies.review,flashx.pw,flashx.tv,cloudvideo.tv#$#abort-on-property-write Fingerprint2
-kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURIComponent
+game3rb.com,kissjav.com#$#abort-on-property-read open; abort-on-property-read decodeURIComponent
 123putlocker.club#$#abort-current-inline-script _0xbc13
 
 ! #CV-692
