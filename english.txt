@@ -509,6 +509,7 @@ vidmoly.to###adsblock
 vidmoly.to###dos_vlock
 vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 @@||nosteam.ro/notcaptcha/adheader.js$domain=nosteamgames.ro
+xvideos.com##div[id^="video-ad"]+div[class]
 
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
