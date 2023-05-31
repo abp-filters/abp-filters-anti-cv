@@ -106,7 +106,7 @@ ozlib.com#$#abort-on-property-read _0xb7d3
 romakatya.ru#$#prevent-listener load AdBlock
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
 ashdi.vip,tortuga.wtf#$#json-prune vast
-pikabu.ru#$#abort-on-property-read yaContextCb; override-property-read Object.prototype.addAnlTracker noopFunc;
+||pikabu.ru/ajax/?key=$header=content-type=text/javascript
 vprognoze.ru#$#abort-on-property-read bannersBillboard
 vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
 
