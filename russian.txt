@@ -38,7 +38,7 @@ gidonline.eu,dc-marvel.org,torrent-soft.net#$#abort-on-property-read atob
 sm.news#$#abort-current-inline-script decodeURIComponent blocked
 7ogorod.ru,autonevod.ru,shtrafsud.ru,zazloo.ru#$#abort-on-property-read flat_pm_arr
 hitfm.ua,kissfm.ua,radiorelax.ua,radioroks.ua,rusradio.ua#$#abort-on-property-write prerole_length
-www.goha.ru,3dnews.ru,avtovzglyad.ru,baby.ru,dni.ru,relax-fm.ru,ura.news#$#abort-on-property-read Ya
+www.goha.ru,3dnews.ru,avtovzglyad.ru,baby.ru,dni.ru,ura.news#$#abort-on-property-read Ya
 myjane.ru,omskpress.ru,artfile.me,artfile.ru,astrakhan.ru,tambovnet.org#$#abort-on-property-read kav_cn
 krolik.biz#$#abort-current-inline-script document.createElement
 sinoptik.ua#$#abort-on-property-read SIN.globals.ADBLOCK_DETECTED
@@ -92,7 +92,7 @@ okminigames.mail.ru#$#override-property-read appDriver.hasVideoAd false
 bombardir.ru#$#abort-on-property-read alert
 www.e1.ru#$#abort-on-property-read Object.prototype.brandingBlock; abort-on-property-read Ya; cookie-remover jtnews_adblock;
 biqle.org,biqle.ru#$#prevent-listener /click|mousedown/ 'popunder'
-rg.ru#$#abort-on-property-read AdFox_getCodeScript
+relax-fm.ru,rg.ru#$#abort-on-property-read AdFox_getCodeScript
 ontivi.net#$#abort-current-inline-script document.createElement Math.random
 bstudy.net#$#abort-on-property-read _0xddc4
 studbooks.net#$#abort-on-property-read _0x8336
