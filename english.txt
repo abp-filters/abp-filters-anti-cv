@@ -3,7 +3,7 @@ ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay
 ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay.ch,ebay.pl,ebay.it,ebay.nl,ebay.be,ebay.fr,ebay.es,ebay.com.hk,ebay.com.sg,ebay.ph##div[data-view]>a[class="srp-1p__link"]
 
 ! #CV-737
-cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com;
+cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com
 
 ! #CV-1149
 etsy.com#$#hide-if-matches-xpath './/div[@data-async-content]//div[@data-logger-id]//span[contains(@class,"wt-screen-reader-only") and not(@aria-hidden="true")][normalize-space(text())="Ad"]/ancestor::div[@data-logger-id][1]'
