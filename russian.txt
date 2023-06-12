@@ -108,6 +108,7 @@ romakatya.ru#$#prevent-listener load AdBlock
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
 ashdi.vip,tortuga.wtf#$#json-prune vast
 ||pikabu.ru/ajax/?key=$xmlhttprequest,header=x-yandex-req-id
+||pikabu.ru/ajax/?key=$xmlhttprequest,header=report-to
 vprognoze.ru#$#abort-on-property-read bannersBillboard
 vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
 
