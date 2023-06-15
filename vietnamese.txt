@@ -49,7 +49,7 @@ sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-on-property-read setTimeout noopFunc
 javnong.cc#$#abort-on-property-read Math.round
 viet69.love,ungtycomicsvip.com,vlxx.info#$#abort-current-inline-script WebAssembly instantiate
-vcomic.net,truyen86.com#$#abort-current-inline-script Object $._Eu
+vcomic.net,truyen86.com,animevietsub.moe#$#abort-current-inline-script Object $._Eu
 truyengihotne.com#$#abort-current-inline-script document.createElement checkIntersection
 zo3x.ml,zo3x.cc,zo3x.com,zo3x.vip#$#abort-current-inline-script document.querySelectorAll popMagic
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
