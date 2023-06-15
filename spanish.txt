@@ -9,7 +9,7 @@ envivotv.net,lucenpop.com.es,pokefanleoretrogames.com,topflix.tv#$#abort-current
 mamaslatinas.com##.top-bar-content
 
 ! #CV-663
-telexplorer.com.ar#$#abort-current-inline-script MutationObserver compareDocumentPosition
+telexplorer.com.ar##div[class] > div[id] > main[class][id]
 
 ! #CV-751
 rojadirecta.fr#$#abort-on-property-read smrtSB; abort-on-property-read smrtSP
@@ -19,7 +19,6 @@ peliculaseroticasonline.tv#$#abort-on-property-write _0x1dc1
 animeflv.cc#$#abort-current-inline-script JSON.parse
 gnula.se,pelismart.com#$#abort-on-property-read localStorage
 animeflv.net,estrenosdoramas.net#$#abort-on-property-read __DOMAIN
-monoschinos2.com#$#abort-on-property-read a3klsam; abort-on-property-write JSON.parse
 compucalitv.com,pornstarsyfamosas.es#$#abort-on-property-write _pop
 animeflv.ac,bajarpelisgratis.com,jkanime.top,pelismart.com,pelismartv.com,pelispoptv.com,series-de.online,torrentdownloads.pro#$#abort-on-property-read localStorage; abort-on-property-write JSON.parse
 gnula.nu,pelisnow.to,pelispop.me,tmomanga.com#$#abort-on-property-write JSON.parse
@@ -28,10 +27,7 @@ gnula.cc,series24.nu#$#abort-on-property-read localStorage; abort-on-property-wr
 calidadcine.net,seriesmetro.net#$#abort-on-property-read afStorage
 latinblog.tv,peladas69.com#$#abort-on-property-read __formatsGetters
 animefenix.org,animeonline.ninja,audaciousdefaulthouse.com#$#abort-on-property-read window.open
-monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3
-
-! #CV-368
-rainanime.net#$#abort-on-property-read NativeAd
+monoschinos2.com#$#abort-on-property-read _0x24d7; abort-on-property-read _0x41ed; abort-on-property-read _0xf59bf3; abort-on-property-read a3klsam
 
 ! Popup/Popunder
 gamestorrents.com,gamestorrents.nu,perfectgirls.es#$#abort-on-property-read open
@@ -46,3 +42,9 @@ iguarras.com,iputitas.net,ytanime.tv#$#abort-on-property-read afScript
 comicsporno.xxx,eshentai.tv,felizporno.com,hentaila.com,hentaila.tv,hentaisenpai.org,latinohentai.com,mespornogratis.com,orgasmatrix.com,pornoreino.com,pornocolombiano.net,subtaboo.com,xculitos.com#$#abort-current-inline-script document.querySelectorAll popMagic
 series-de.online#$#abort-on-property-read doSecondPop; abort-on-property-read doSecondPopU
 animefenix.com#$#abort-on-property-read p18
+peliculasyseries.gratis,ver-peliculas.gratis,verpeliculasio.online#$#abort-on-property-write window.open
+monoschinos2.com#$#abort-current-inline-script EventTarget.prototype.addEventListener encodeURIComponent
+seriesyonkis.cx#$#abort-on-property-read window.atob; abort-on-property-read open; abort-on-property-read _0x4c81
+
+! #CV-368
+rainanime.net#$#abort-on-property-read NativeAd

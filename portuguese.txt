@@ -17,6 +17,7 @@ animesonline22.com#$#abort-current-inline-script JSON.parse /atob|btoa|break/
 gekkou.com.br#$#abort-current-inline-script document.querySelectorAll popMagic
 gofilmes.me#$#abort-on-property-read zfgformats
 betteranime.net#$#abort-current-inline-script document.createElement _mdttdpu
+torrentdosfilmes.eu#$#abort-current-inline-script document.createElement /break|case/
 
 ! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
