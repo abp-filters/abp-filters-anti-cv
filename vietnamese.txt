@@ -39,7 +39,7 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 truyentuan.com#$#abort-current-inline-script $ btpop
 nguontvhd.com#$#abort-current-inline-script encodeURIComponent popunder
 ||pssy.xyz^$domain=animevisub.net
-player-cdn.com#$#abort-on-property-read Math.random; override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
+player-cdn.com#$#override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 player-cdn.com###playback-fake
 xoilac4.com##.modal.fade.show
 xoilac4.com#$#abort-current-inline-script jQuery popupBanners
