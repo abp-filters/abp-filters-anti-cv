@@ -276,12 +276,12 @@ bing.com#?#li[class="b_algo"]:-abp-has(>[class="ad_ml1ESLItem"])
 bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
-instacart.com#$#hide-if-matches-xpath '//li[descendant::div[count(.//div[@data-sppp-eligiible]) = 1 and count(.//div/span) = 2]]'
-instacart.com#$#hide-if-matches-xpath './/div[@data-sppp-eligiible]/ancestor::div[@aria-label="Product"]/ancestor::div[2]'
-instacart.com#$#race start; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section'; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::aside'; hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::article'; race stop;
+instacart.com#$#hide-if-matches-xpath '//li[descendant::div[count(.//div[@data-sp-eligiible]) = 1 and count(.//div/span) = 2]]'
+instacart.com#$#hide-if-matches-xpath './/div[@data-sp-eligiible]/ancestor::div[@aria-label="Product"]/ancestor::div[2]'
+instacart.com#$#race start; hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::header'; hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::article'; race stop;
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::div[@id][contains(@class,"css-")][not(@id="store-wrapper") and not(@id="js-app")]'
-instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[@src][contains(@alt,"")][not(@type)]/preceding::source[@srcset][@media]/ancestor::picture[@class]/parent::*[@class][1]'
-instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"ponsored")]/ancestor::div[@class][1]/parent::div'
+instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"cloudfront.net/uploads/image_display_")][@alt]/ancestor::section[@class]'
+instacart.com#$#hide-if-matches-xpath './/span[@class][contains(text(),"ponsore")]/ancestor::div[@class][1]/parent::div'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[contains(@style,"display:")][2]/ancestor::section[@class="css-wbvail"]'
 instacart.com#$#hide-if-matches-xpath './/span[@class]/div[.//span[normalize-space(.) = "Spons"] and span[normalize-space(.) = "ored"]]//ancestor::div[@aria-label="Product"]'
 instacart.com#$#hide-if-matches-xpath './/li[   descendant::*[(div[span[normalize-space(.) = "Spons"] and span[normalize-space(.) = "ored"]]) or (div[count(.//div[@*[contains(local-name(), "eligible")]]) = 1 and count(.//div/span[text()]) = 2])]]'
