@@ -71,6 +71,8 @@ down-paradise.com,mega-p2p.net#$#abort-on-property-read open
 french-streams.com#$#abort-on-property-read open
 e-sushi.fr#$#abort-on-property-read aEteAffiche
 
+frandroid.com#$#hide-if-matches-xpath './/div[contains(@class,"-ad-center")]/ancestor::div[@class][1][not(contains(@class,"with-sidebar"))]'
+
 ! Popup/Popunder
 jetanimes.co,jetanimes.com,voirseries.biz,voirseries.io#$#abort-on-property-read open
 manga-scantrad.net,toonanime.cc#$#abort-current-inline-script document.querySelectorAll popMagic
