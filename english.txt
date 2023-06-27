@@ -6,7 +6,8 @@ ebay.com,ebay.com.au,ebay.co.uk,ebay.com.my,ebay.ie,ebay.ca,ebay.at,ebay.de,ebay
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com
 
 ! #CV-1149
-etsy.com#$#hide-if-matches-xpath './/div[@data-async-content]//div[@data-logger-id]//span[contains(@class,"wt-screen-reader-only") and not(@aria-hidden="true")][normalize-space(text())="Ad"]/ancestor::div[@data-logger-id][1]'
+etsy.com#$#hide-if-contains-visible-text '/ by Etsy seller/' '.responsive-listing-grid' 'div  li[class] .wt-text-caption>span'
+etsy.com#$#hide-if-contains-visible-text 'Ad vertisement by' 'div[data-listing-id].appears-ready' 'div[data-listing-id].appears-ready div.wt-text-caption>span:not(.wt-icon):not([aria-label])'
 etsy.com##a[href*="listing_page_ad_row"]
 
 ! #CV-1056
