@@ -104,7 +104,7 @@ ozlib.com#$#abort-on-property-read _0xb7d3
 romakatya.ru#$#prevent-listener load AdBlock
 testserver.pro#$#abort-current-inline-script window.$ adsbygoogle
 ashdi.vip,tortuga.wtf#$#json-prune vast
-||pikabu.ru/ajax/?key=$xmlhttprequest,header=x-content-type-options
+||pikabu.ru/ajax/?key=$xmlhttprequest,header=x-robots-tag
 vprognoze.ru#$#abort-on-property-read bannersBillboard
 vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
 
