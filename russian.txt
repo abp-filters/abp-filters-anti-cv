@@ -4,7 +4,7 @@ zen.yandex.ru##div[class*="is-parent-size_undefined"]
 ||razlozhi.ru^$script,header=report-to
 avtovzglyad.ru,dni.ru,baby.ru#$#abort-on-property-read Ya
 kakprosto.ru#$#abort-current-inline-script document.createElement String.fromCharCode; abort-on-property-write window.yaProxy; abort-on-property-write Object.defineProperty
-/^https?://www\.liveinternet\.ru/[^\s]{100,}/$xmlhttprequest,header=content-type=application/javascript
+/^https?://www\.liveinternet\.ru/[^\s]{100,}/$xmlhttprequest,header=X-Yandex-Req-Id
 otzovik.com#$#abort-on-property-read Object.prototype.RtbBlockCreateWrapper
 gismeteo.by,gismeteo.kz,gismeteo.md,gismeteo.ru#$#abort-on-property-read Object.prototype.showRTB
 yandex.by,yandex.fr,yandex.kz,~telephony.yandex.ru,yandex.ru,yandex.ua,yandex.uz##[class*="mg-grid__"]>div[class*=_status_success]
