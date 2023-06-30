@@ -53,3 +53,4 @@ vcomic.net,truyen86.com,protruyen.com,animevietsub.moe#$#abort-current-inline-sc
 truyengihotne.com#$#abort-current-inline-script document.createElement checkIntersection
 zo3x.ml,zo3x.cc,zo3x.com,zo3x.vip#$#abort-current-inline-script document.querySelectorAll popMagic
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
+phimgihd.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
