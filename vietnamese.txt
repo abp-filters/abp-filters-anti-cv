@@ -1,6 +1,6 @@
 ! MISC
 blog.abit.vn#$#abort-on-property-read document.cookie
-phimmoi4s.com#$#json-prune ads
+phimmoi4s.com#$#json-prune ads;abort-current-inline-script setTimeout click_time
 90phut6.live#$#abort-current-inline-script $ overlay;abort-current-inline-script setTimeout overlay
 aoe.vn#$#abort-on-property-read parseInt
 gametv.vn#$#abort-current-inline-script $ homeModal
