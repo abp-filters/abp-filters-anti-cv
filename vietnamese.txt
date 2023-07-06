@@ -46,3 +46,4 @@ viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net#$#abort-current-inline
 protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
 phimgihd.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
+khoaiphim.com#$#abort-current-inline-script jQuery click_time
