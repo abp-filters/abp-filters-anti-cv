@@ -522,6 +522,8 @@ vidmoly.to#$#abort-current-inline-script addEventListener DOMContentLoaded
 @@||nosteam.ro/notcaptcha/adheader.js$domain=nosteamgames.ro
 xvideos.com##div[id^="video-ad"]+div[class]
 filelions.com,filelions.to#$#hide-if-matches-xpath './/div[contains(@style,"position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01")]/self::div[1]'
+adblockeronstreamtape.xyz,adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.link,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamtape.cc,streamtape.com,streamtape.net,streamtape.to,streamtape.xyz,streamtapeadblock.art,strtape.cloud,strtape.site,strtape.tech,tapewithadblock.org#$#abort-current-inline-script JSON.parse Promise; abort-current-inline-script document.createElement adblock;
+
 
 ! Video ads
 ||content.sinpartycdn.com/*pre-roll-ads/*$media,rewrite=abp-resource:blank-mp4,domain=sinparty.com
