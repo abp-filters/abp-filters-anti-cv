@@ -42,7 +42,7 @@ xoilac78.tv#$#abort-current-inline-script jQuery overlay
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-on-property-read setTimeout noopFunc
 javnong.cc#$#abort-on-property-read Math.round
-viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net#$#abort-current-inline-script WebAssembly instantiate
+viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenz.com#$#abort-current-inline-script WebAssembly instantiate
 protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
 phimgihd.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
