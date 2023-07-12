@@ -529,7 +529,7 @@ xvideos.com##div[id^="video-ad"]+div[class]
 filelions.com,filelions.to#$#hide-if-matches-xpath './/div[contains(@style,"position:fixed;inset:0px;z-index:2147483647;background:black;opacity:0.01")]/self::div[1]'
 adblockeronstreamtape.xyz,adblockplustape.com,adblockstreamtape.art,adblockstreamtape.site,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.link,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamtape.cc,streamtape.com,streamtape.net,streamtape.to,streamtape.xyz,streamtapeadblock.art,strtape.cloud,strtape.site,strtape.tech,tapewithadblock.org#$#abort-current-inline-script JSON.parse Promise; abort-current-inline-script document.createElement adblock;
 */larkf?id=*$domain=animeunity.cc
-animeunity.cc#$#abort-on-property-read zfgstorage; abort-current-inline-script document.documentElement break;case; abort-on-property-read decodeURI; abort-on-property-read decodeURIComponent;
+animeunity.cc#$#abort-on-property-read zfgstorage; abort-current-inline-script document.documentElement break;case; abort-on-property-read decodeURI;
 aniwatch.to#$#abort-current-inline-script XMLHttpRequest
 
 ! Video ads
