@@ -50,7 +50,7 @@ flystream.fr,filmtelecharger.net,libertyvf.co,libertyvf.tv,libertyvf.com,streami
 
 ! #CV-1396
 cdiscount.com#$#hide-if-matches-xpath './/div[contains(text(),"Sponsorisé")]/parent::div[@class and @id]'
-cdiscount.com#$#hide-if-matches-xpath './/div[@class][normalize-space(text())="Sponsorisé"]/parent::div[@class]/ancestor::div[@id and @class][not(@id="main")]|.//div[@class][normalize-space(text())="Sponsorisé"]/parent::div[@class]/ancestor::li[@class]'
+cdiscount.com#$#hide-if-matches-xpath './/div[normalize-space(text())="Sponsorisé"]/parent::div[@class]/ancestor::div[@id and @class][not(@id="main")]|.//div[normalize-space(text())="Sponsorisé"]/parent::div[@class]/ancestor::li[@class]'
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
