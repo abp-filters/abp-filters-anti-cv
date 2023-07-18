@@ -47,3 +47,4 @@ protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentEl
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com#$#abort-on-property-read localStorage
 phimgivn.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
 khoaiphim.com#$#abort-current-inline-script jQuery click_time
+dualeotruyenz.com#$#abort-current-inline-script document.addEventListener popunder
