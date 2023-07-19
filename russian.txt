@@ -56,7 +56,7 @@ city.ogo.ua#$#abort-on-property-read myatu_bgm
 erofishki.cc,fishki.net#$#abort-on-property-read fishki.adv
 botanichka.ru,itech.co.ua,agronom.com.ua,mediasat.info,fainaidea.com,1informer.com,dyvys.info#$#abort-on-property-read td_ad_background_click_target
 gdz-putina.fun,gdz.ninja,gdz.ru,gdzotputina.club,gdzputina.net,gdzputina.ru,megaresheba.com,megaresheba.ru,resheba.me,spishi.fun,zoobrilka.net#$#abort-on-property-write app.book.external
-||sports.ru^$script,header=report-to
+||sports.ru^$script,header=x-robots-tag
 ||www.e1.ru^$script,header=x-yandex-req-id
 volynpost.com#$#abort-on-property-read trek_shownow
 ati.su#$#abort-on-property-read Object.prototype._bannerOrderAttr
