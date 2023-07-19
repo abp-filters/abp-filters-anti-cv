@@ -12,7 +12,7 @@ vebotv.today#$#abort-current-inline-script $ vb-pr-box
 plvb.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; abort-on-property-read ads; abort-on-property-read keyPlayer; abort-on-property-read adsPopupPlayer;
 hh3dhay.com,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
 luotphim1.net,luotphim2.net,luotphim.to,luotphimtv1.com,webphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
-cafef.vn,gamek.vn,genk.vn,kenh14.vn#$#override-on-property-read ADMStorageFileCDN noopFunc
+cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn#$#override-property-read ADMStorageFileCDN noopFunc
 bongda365a.club#$#override-property-read isSkipAds true
 zingnews.vn#$#abort-on-property-read adtimaConfig
 baomoi.com#$#abort-on-property-write AdtimaBaomoi
