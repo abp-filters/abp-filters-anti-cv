@@ -58,7 +58,7 @@ The ABP anti-circumvention filter list is a supplementary list; it's not related
 
 ## License
 
-This project is free, open source, and licensed under GPLv3. See [LICENSE](https://gitlab.com/eyeo/sandbox/abp-filters-anti-cv/-/blob/master/LICENSE)for details.
+This project is free, open source, and licensed under GPLv3. See [LICENSE](https://gitlab.com/eyeo/sandbox/abp-filters-anti-cv/-/blob/master/LICENSE) for details.
 
 ## Contributing
 
