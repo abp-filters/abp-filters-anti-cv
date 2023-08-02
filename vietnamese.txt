@@ -8,10 +8,9 @@ watchsb.com#$#abort-on-property-read __Y
 tinsoikeo.vip#$#abort-on-property-read sessionStorage;abort-current-inline-script $ window.open
 plus.gtv.vn#$#abort-current-inline-script $ youtube-modal
 bongdahomnay.tech#$#abort-on-property-read $
-vebotv.today#$#abort-current-inline-script $ vb-pr-box
 plvb.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; abort-on-property-read ads; abort-on-property-read keyPlayer; abort-on-property-read adsPopupPlayer;
 hh3dhay.com,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
-luotphim1.net,luotphim2.net,luotphim.to,luotphimtv1.com,webphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
+luotphim1.net,luotphim2.net,luotphimtv1.com,webphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
 cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn,tuoitre.vn#$#override-property-read ADMStorageFileCDN noopFunc
 bongda365a.club#$#override-property-read isSkipAds true
 zingnews.vn#$#abort-on-property-read adtimaConfig
@@ -24,10 +23,9 @@ truyen2u.net#$#abort-current-inline-script eval
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
 phimlau.online#$#abort-current-inline-script atob /Y1/
 sexphimhd.net,gvnvh18.com#$#abort-current-inline-script Math
-360thethao.net#$#abort-current-inline-script onload /puURL/
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
-xuongphim18z.com,phimtopz.com,truyensieuhay.com,tvchill.org,quangcaoyenbai.com,fullcrackpc.com,khoaiphim.com#$#abort-on-property-read document.cookie
+xuongphim18z.com,phimtopz.com,truyensieuhay.com,tvchill.org,quangcaoyenbai.com,khoaiphim.com#$#abort-on-property-read document.cookie
 phimmoiiii123.com#$#abort-on-property-read matchMedia
 metruyenchu.com#$#abort-on-property-write window.onclick
 ##[href^="//mage98rquewz.com/"]
