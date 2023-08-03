@@ -15,6 +15,7 @@ cafef.vn,gamek.vn,genk.vn,kenh14.vn,soha.vn,tuoitre.vn#$#override-property-read 
 bongda365a.club#$#override-property-read isSkipAds true
 zingnews.vn#$#abort-on-property-read adtimaConfig
 baomoi.com#$#abort-on-property-write AdtimaBaomoi
+xoivo7.info#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 
 ! Popup/Popunder/Clickunder
 fembed.com,femax20.com,zo3x.ml,mrdhan.com,m.blogtruyen.vn,viettoons.tv#$#abort-on-property-read open
