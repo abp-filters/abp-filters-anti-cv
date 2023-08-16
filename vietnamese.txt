@@ -50,3 +50,4 @@ phimgivn.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-sc
 khoaiphim.com#$#abort-current-inline-script jQuery click_time
 dualeotruyenz.com#$#abort-current-inline-script document.addEventListener popunder
 lxmanga.net#$#abort-current-inline-script $ PopUnder
+truyen35.vn#$#abort-current-inline-script jQuery click_ads
