@@ -18,6 +18,7 @@ gekkou.com.br#$#abort-current-inline-script document.querySelectorAll popMagic
 gofilmes.me#$#abort-on-property-read zfgformats
 betteranime.net#$#abort-current-inline-script document.createElement _mdttdpu
 torrentdosfilmes.eu#$#abort-current-inline-script document.createElement /break|case/
+mangalivre.net#$#hide-if-matches-xpath './/div[contains(@style,"pointer-events")]/ancestor-or-self::div[@style][1]'
 
 ! #CV-667
 filmesonlinegratis.com#$#abort-current-inline-script Math zfgloaded
