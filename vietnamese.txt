@@ -20,7 +20,7 @@ kenh14.vn#$#override-property-read Constants.allowAds false
 vndoc.com#$#override-property-read seconds 0
 
 ! Popup/Popunder/Clickunder
-fembed.com,femax20.com,zo3x.ml,mrdhan.com,m.blogtruyen.vn,viettoons.tv,vinaurl.net#$#abort-on-property-read open
+fembed.com,femax20.com,zo3x.lol,mrdhan.com,m.blogtruyen.vn,viettoons.tv,vinaurl.net#$#abort-on-property-read open
 khophimhd.net,downloadsachmienphi.com,tvhay.top#$#abort-current-inline-script JSON.parse atob
 truyen2u.net#$#abort-current-inline-script eval
 thienhatruyen.com#$#abort-current-inline-script $ pc-popup-2
@@ -36,18 +36,18 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 truyentuan.com#$#abort-current-inline-script $ btpop
 player-cdn.com#$#override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 player-cdn.com###playback-fake
-xoilac78.tv##.modal.fade.show
-xoilac78.tv#$#abort-current-inline-script jQuery popupBanners
-xoilac78.tv#$#abort-on-property-read adsRedirectPopups
-xoilac78.tv#$#abort-current-inline-script jQuery overlay
+xoilac79.tv##.modal.fade.show
+xoilac79.tv#$#abort-current-inline-script jQuery popupBanners
+xoilac79.tv#$#abort-on-property-read adsRedirectPopups
+xoilac79.tv#$#abort-current-inline-script jQuery overlay
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-on-property-read setTimeout noopFunc
 javnong.cc#$#abort-on-property-read Math.round
-viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenz.com#$#abort-current-inline-script WebAssembly instantiate
+viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenk.com#$#abort-current-inline-script WebAssembly instantiate
 protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,ophim.vip#$#abort-on-property-read localStorage
-phimgivn.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
+phimgi1.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
 khoaiphim.com#$#abort-current-inline-script jQuery click_time
-dualeotruyenz.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyenk.com#$#abort-current-inline-script document.addEventListener popunder
 lxmanga.net#$#abort-current-inline-script $ PopUnder
 truyen35.vn#$#abort-current-inline-script jQuery click_ads
