@@ -41,7 +41,7 @@ xoilac79.tv#$#abort-current-inline-script jQuery popupBanners
 xoilac79.tv#$#abort-on-property-read adsRedirectPopups
 xoilac79.tv#$#abort-current-inline-script jQuery overlay
 sexdiaryz.us#$#abort-on-property-read parseInt
-linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open;override-on-property-read setTimeout noopFunc
+linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open
 javnong.cc#$#abort-on-property-read Math.round
 viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenk.com,yurineko.net#$#abort-current-inline-script WebAssembly instantiate
 protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
