@@ -109,6 +109,7 @@ ashdi.vip,tortuga.wtf#$#json-prune vast
 vprognoze.ru#$#abort-on-property-read bannersBillboard
 vk.com,vk.ru#$#abort-on-property-read vk__adsLight.adsShowed
 transkarpatia.net#$#abort-current-inline-script document.createElement redtram
+terrikon.com#$#abort-on-property-read bdy
 
 ! Prevent auto reload
 24boxing.com.ua,bilshe.com,businessua.com,f1analytic.com,football-ukraine.com,footballgazeta.com,footballtransfer.com.ua,glianec.com,nashamama.com,sportanalytic.com,stravy.net,zdorovia.com.ua#$#abort-current-inline-script setInterval reload
