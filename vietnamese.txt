@@ -46,7 +46,7 @@ javnong.cc#$#abort-on-property-read Math.round
 viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenk.com,yurineko.net#$#abort-current-inline-script WebAssembly instantiate
 protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,ophim.vip#$#abort-on-property-read localStorage
-phimgi1.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
+phimgigi.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
 khoaiphim.com#$#abort-current-inline-script jQuery click_time
 dualeotruyenk.com#$#abort-current-inline-script document.addEventListener popunder
 lxmanga.net#$#abort-current-inline-script $ PopUnder
