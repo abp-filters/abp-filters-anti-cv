@@ -297,9 +297,10 @@ instacart.com#$#hide-if-matches-xpath './/a[@href]//img[@data-testid]/following:
 instacart.com#$#hide-if-matches-xpath './/source[@media]/following-sibling::img[contains(@alt,"Sponsored")]/parent::picture/ancestor::div[@class][1]'
 
 ! #CV-1213
-samsclub.com#$#hide-if-matches-xpath '//span[@class="sc-specials-label"]/parent::div[@class="sc-specials"]/ancestor::li'
-samsclub.com#$#hide-if-matches-xpath './/span[@class="sc-specials-label"]/following::button[contains(@aria-label,"Sponsored")]/ancestor::div[@class="sc-sba-modules-logo"]'
+samsclub.com#$#hide-if-matches-xpath '//img[contains(@class,"sc-pc-image-small-controller")]/preceding::div[contains(@class,"sc-sponsored-simple")][contains(text(),"Sponsored")]/ancestor::div[contains(@class,"sc-product-carousel-canary-card-has-sponsored-product")]'
+samsclub.com#$#hide-if-matches-xpath './/span[@class="sc-specials-label"]/following::a[@role="button"]/ancestor::div[@class="sc-sba-modules-logo"]/parent::div[@class="sc-sba-modules"]'
 samsclub.com#$#hide-if-labelled-by /Sponsored/ button div[class*="carousel-slide"]
+samsclub.com##div[class="analytics"][data-strategy="Sponsored products"]
 
 ! #CV-663
 beforeitsnews.com,canadafreepress.com,conservativefiringline.com,designbump.com,ipatriot.com,naturalblaze.com,patriotnationpress.com,rightwingnews.com,toptenz.net##div[class] > div[id] > main[class][id]
