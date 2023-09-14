@@ -287,7 +287,7 @@ bing.com#?#li[class="b_algo"]:-abp-has(a[href="#"]:not([class]))
 
 ! #CV-1190
 instacart.com#$#hide-if-contains-visible-text '/S(\\s)*p(\\s)*o(\\s)*n(\\s)*s(\\s)*o(\\s)*r(\\s)*e(\\s)*d/' li 'li div[aria-label="Product"]'
-instacart.com#$#hide-if-matches-xpath '//img[@alt="Sponsored"][contains(@src,"sponsored_badge_text")]/ancestor::div[@aria-label="Product"]/parent::div[1]'
+instacart.com#$#hide-if-matches-xpath '//img[@alt="Sponsored"][contains(@src,"sponsored_")]/ancestor::div[@aria-label="Product"]/parent::div[1]'
 instacart.com#$#hide-if-matches-xpath './/div[@class]//div/@*[contains(name(),"data-fp")]/ancestor::div[@aria-label="Product"]/parent::div[1]'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span[2]/preceding::img[contains(@src,"metadata=copyright")]/ancestor::a[contains(@href,"interaction_id")]/ancestor::header'
 instacart.com#$#hide-if-matches-xpath './/*[@class]/span/preceding::img[contains(@src,"metadata=copyright")][contains(@alt,"")][@data-testid]/ancestor::a[contains(@href,"interaction_id")]/ancestor::section[@id][@class][not(@id="store-wrapper") and not(@id="js-app")]'
