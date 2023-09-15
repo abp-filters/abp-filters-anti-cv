@@ -13,6 +13,8 @@ ebay.com,ebay.co.uk,ebay.com.au,ebay.ca,ebay.fr,ebay.at,ebay.de,ebay.it,ebay.es#
 
 ! #CV-737
 cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query-parameter afid warnermediacdn.com
+||warnermedia.com/api/v1/events?*=ad-break*^xmlhttprequest,domain=cnn.com
+||warnermediacdn.com/prod01/*mp4^$xmlhttprequest,domain=cnn.com
 
 ! #CV-1149
 etsy.com#$#hide-if-contains-and-matches-style '/[aA]d(.)*by/' 'li' 'li[class] p.wt-text-caption>span:not(.wt-screen-reader-only)' /./ 'display: inline-block' interactive
@@ -32,8 +34,10 @@ yandex.com#$#hide-if-contains ad li.serp-item 'li.serp-item div.label'
 tube8.com##.gridBanner_
 tube8.com##.footerBanner
 youporn.com##[data-track="ad-iframe-top"]
-xhamster.com##.wit-sponsor-banner
-xhamster.com##.xplayer-banner-bottom
+xhamster.com##div[class$="no-ts-initiailize"]
+xhamster.com##div[data-role^="yld-pdbanner-underplayer"]
+xhamster.com##div[class*="live-red"]
+xhamster.com#$#hide-if-matches-xpath './/button[contains(@class,"-close")]/i[@class]/ancestor::span[1]'
 spankwire.com#$#abort-on-property-write ppAb
 tube8.com#$#abort-on-property-write AdDelivery
 youporn.com,redtube.com#$#abort-on-property-write rAb
@@ -42,7 +46,8 @@ j-pussy.com,redtube.com#$#abort-on-property-read smpop
 youporn.com#$#abort-on-property-read zone_underplayer; abort-on-property-read zone_2545
 pornhub.com#$#abort-on-property-read HTMLElement.prototype.attachShadow; override-property-read page_params.holiday_promo true;
 theyarehuge.com#$#abort-on-property-read Element.prototype.attachShadow
-||ggg.xhamster.com/api/models/vast?*subid_3=preroll_preloada^$xmlhttprequest,domain=xhamster.com
+||xhamster.com/api/models/vast?*^$xmlhttprequest,domain=xhamster.com
+
 
 ! #CV-673
 hotmovs.com##div[class^="vda-closeplay"]
