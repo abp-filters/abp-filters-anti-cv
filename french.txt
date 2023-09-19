@@ -51,7 +51,7 @@ flystream.fr,filmtelecharger.net,libertyvf.co,libertyvf.tv,libertyvf.com,streami
 ! #CV-1788
 cdiscount.com#$#hide-if-matches-xpath './/a[@href]/img[@title]/ancestor::div[contains(@class,"resultbox--pub")][1]'; hide-if-matches-xpath './/a[@target][@aria-label="bannerlink"]/parent::div[@class][1]'; hide-if-matches-xpath './/ul[@id]//a[contains(@rel, "sponsored")]/ancestor::li[1]';
 cdiscount.com#$#hide-if-matches-xpath './/div[@class and @id]/div[@class="h2"][contains(text(),"offre")]//following::div//p/following-sibling::a[@style]/img[contains(translate(@title, "OFFERT", "offert"), "offert")]//ancestor::div[@class="o-block"]'; hide-if-matches-xpath './/div[@style]//span[contains(@data-template,"Sponsored")]/following::div[contains(@id,"Sponsored")]/parent::div[@style]/ancestor::div[contains(@data-action,"AdsDisplay")][1]'; hide-if-matches-xpath './/div[style]//*[name()="svg"][contains(@style,"width:60px")]/parent::div[contains(@style, "margin-top")]/ancestor::div[@id][@data-autoplay]/parent::div[@class="o-block__content"]';
-cdiscount.com#$#hide-if-contains-visible-text  /partenaires/ 'div[class]>div[id]>div[class="h2"]'
+cdiscount.com#$#hide-if-contains-visible-text  /partenaires|apprécier|produits/ 'div[class]>div[id]>div[class="h2"]'
 
 ! MISC
 hindipix.in,netu.tv,hqq.tv,hqq.watch#$#abort-on-property-read ownerid
