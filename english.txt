@@ -572,3 +572,4 @@ nicovideo.jp#$#hide-if-matches-xpath './/li[@class="count ads"]/parent::ul/ances
 ||hotpepper.jp/doc/*/townwork.jpg^$image
 hotpepper.jp##div[style*="text-align: center;"] > div > a
 hotpepper.jp##.personalizedCampaign
+yahoo.co.jp#$#hide-if-matches-xpath './/div[@style]/div[@style]/ancestor::div[@style][1]/parent::div[contains(@style,"width: 990px")]'; hide-if-matches-xpath './/div[contains(@style,"yads")]/parent::div[@style][1]';
