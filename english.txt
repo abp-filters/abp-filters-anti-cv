@@ -17,7 +17,7 @@ cnn.com#$#strip-fetch-query-parameter caid warnermediacdn.com; strip-fetch-query
 ||warnermediacdn.com/prod01/*mp4^$xmlhttprequest,domain=cnn.com
 
 ! #CV-1149
-etsy.com#$#hide-if-contains-and-matches-style '/[aA]d(.)*by/' 'li' 'li div.wt-text-caption>span:not(.wt-screen-reader-only)' /./ 'display: inline-block' interactive
+etsy.com#$#hide-if-contains-and-matches-style '/[aA]d(.)*by/' 'li' 'li .wt-text-caption>span:not(.wt-screen-reader-only)' /./ 'display: inline-block' interactive
 etsy.com#$#hide-if-matches-xpath '//span[@data-is-ad][@data-ad-label][contains(text(),"Ad by")]/ancestor-or-self::li[contains(@class,"wt-grid__item-xs-6")]'
 etsy.com##a[href*="listing_page_ad_row"]
 
