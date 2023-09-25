@@ -48,3 +48,6 @@ seriesyonkis.cx#$#abort-on-property-read window.atob; abort-on-property-read ope
 
 ! #CV-368
 rainanime.net#$#abort-on-property-read NativeAd
+
+! #CV-1809
+mercadolibre.com.ar,mercadolibre.com.bo,mercadolivre.com.br,mercadolibre.cl,mercadolibre.com.co,mercadolibre.co.cr,mercadolibre.com.do,mercadolibre.com.ec,mercadolibre.com.gt,mercadolibre.com.hn,mercadolibre.com.mx,mercadolibre.com.ni,mercadolibre.com.pa,mercadolibre.com.py,mercadolibre.com.pe,mercadolibre.com.sv,mercadolibre.com.uy,mercadolibre.com.ve#$#hide-if-matches-xpath './/div[@class="ui-search-item__pub-container"]/preceding::a[@rel="nofollow,sponsored"]/ancestor::div[contains(@class,"ui-search-result__wrapper")]'
