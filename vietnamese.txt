@@ -12,7 +12,7 @@ plvb.xyz#$#abort-on-property-read adsTvc; abort-on-property-read adsPlayer; abor
 hh3dhay.com,hh3dhay.xyz#$#abort-current-inline-script document.createElement /break|case/
 luotphim1.net,luotphim2.net,luotphimtv1.com,webphim1.com#$#json-prune '0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile'
 cafef.vn,gamek.vn,genk.vn,soha.vn,tuoitre.vn#$#override-property-read ADMStorageFileCDN noopFunc
-bongda365a.club#$#override-property-read isSkipAds true
+bongda365b.net#$#override-property-read isSkipAds true
 zingnews.vn#$#abort-on-property-read adtimaConfig
 baomoi.com#$#abort-on-property-write AdtimaBaomoi
 xoivo7.info,vaoroi13.online#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
@@ -36,18 +36,18 @@ metruyenchu.com#$#abort-on-property-write window.onclick
 truyentuan.com#$#abort-current-inline-script $ btpop
 player-cdn.com#$#override-property-read detectAdBlockAll noopFunc; override-property-read detectAdBlock noopFunc
 player-cdn.com###playback-fake
-xoilac79.tv##.modal.fade.show
-xoilac79.tv#$#abort-current-inline-script jQuery popupBanners
-xoilac79.tv#$#abort-on-property-read adsRedirectPopups
-xoilac79.tv#$#abort-current-inline-script jQuery overlay
+xoilac84.tv##.modal.fade.show
+xoilac84.tv#$#abort-current-inline-script jQuery popupBanners
+xoilac84.tv#$#abort-on-property-read adsRedirectPopups
+xoilac84.tv#$#abort-current-inline-script jQuery overlay
 sexdiaryz.us#$#abort-on-property-read parseInt
 linkneverdie.net#$#abort-current-inline-script document.createElement script;abort-current-inline-script $ open
 javnong.cc#$#abort-on-property-read Math.round
-viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenk.com,yurineko.net#$#abort-current-inline-script WebAssembly instantiate
+viet69.vc,ungtycomicsvip.com,vlxx.info,truyengihotday.net,dualeotruyenus.com,yurineko.net#$#abort-current-inline-script WebAssembly instantiate
 protruyen.com,animevietsub.moe#$#abort-current-inline-script document.documentElement break;case
 phimdinhcao.net,phimlongtieng.net,phimdinhcao.com,ophim.vip#$#abort-on-property-read localStorage
 phimgigi.net#$#abort-current-inline-script jQuery popurl;abort-current-inline-script document.createElement script
 khoaiphim.com#$#abort-current-inline-script jQuery click_time
-dualeotruyenk.com#$#abort-current-inline-script document.addEventListener popunder
+dualeotruyenus.com#$#abort-current-inline-script document.addEventListener popunder
 lxmanga.net#$#abort-current-inline-script $ PopUnder
 truyen35.vn#$#abort-current-inline-script jQuery click_ads
