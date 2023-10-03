@@ -18,6 +18,7 @@ baomoi.com#$#abort-on-property-write AdtimaBaomoi
 xoivo7.info,vaoroi13.online#$#override-property-read adsPlayer '';override-property-read adsTvcs ''
 kenh14.vn#$#override-property-read Constants.allowAds false
 vndoc.com#$#override-property-read seconds 0
+phimvuihd.org#$#override-property-read urlAds ''
 
 ! Popup/Popunder/Clickunder
 fembed.com,femax20.com,zo3x.lol,mrdhan.com,m.blogtruyen.vn,viettoons.tv,vinaurl.net#$#abort-on-property-read open
